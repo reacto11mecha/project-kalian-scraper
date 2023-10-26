@@ -16,7 +16,7 @@ if (!fs.existsSync(imgDir)) fs.mkdirSync(imgDir);
 
 (async () => {
   try {
-    logger.info("Start fetching brances data...");
+    logger.info("Start fetching branches data...");
 
     // Branches data fetch
     const branchRequest = await axios.get(
@@ -108,8 +108,6 @@ if (!fs.existsSync(imgDir)) fs.mkdirSync(imgDir);
         // Using JSDOM for more robust reading
         const dom = new JSDOM(`<!DOCTYPE html>${actualContent}`);
 
-        logger.info(`Done working with ${season.branch} branch.`);
-
         return {
           date: dateInfo.date,
           projects: [...dom.window.document.querySelector("ol").children].map(
@@ -132,6 +130,8 @@ if (!fs.existsSync(imgDir)) fs.mkdirSync(imgDir);
           ),
         };
       });
+
+      logger.info(`Done working with ${season.branch} branch.`);
 
       return {
         season: season.branch.toUpperCase().replace("MAIN", "SEASON-1"),
