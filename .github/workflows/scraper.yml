@@ -1,0 +1,20 @@
+name: Scraper Unit
+on: [workflow_dispatch]
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    name: Mengambil data dan screenshot
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup NodeJS 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: PNPM install
+        uses: ./.github/actions/pnpm-install
+
+      - name: Run scraping unit
+        run: pnpm scrape
