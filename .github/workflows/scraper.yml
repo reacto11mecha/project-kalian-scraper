@@ -18,3 +18,11 @@ jobs:
 
       - name: Run scraping unit
         run: pnpm scrape
+
+      - name: push changes to remote
+        run: |
+          git config --global user.name "user mane"
+          git config --global user.email "user email"
+
+          git add result; git commit -m "[result fetch]"
+          git push
