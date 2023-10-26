@@ -6,6 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Mengambil data dan screenshot
 
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v3
       - name: Setup NodeJS 18
@@ -24,5 +27,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add result; git commit -m "[result fetch]"
+          TIMESTAMP=$(date +"%Y-%m-%dT%H:%M:%S%z")
+
+          git add result; git commit -m "[IMAGE FETCH] $TIMESTAMP"
           git push
