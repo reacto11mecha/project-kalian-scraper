@@ -22,12 +22,12 @@ jobs:
       - name: Run scraping unit
         run: pnpm scrape
 
-      - name: push changes to remote
+      - name: Push new result to result folder
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           TIMESTAMP=$(date +"%Y-%m-%dT%H:%M:%S%z")
 
-          git add result; git commit -m "[IMAGE FETCH] $TIMESTAMP"
+          git add result; git commit -m "[IMAGE and/or DATA FETCHED] $TIMESTAMP"
           git push
