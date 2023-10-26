@@ -7,6 +7,7 @@ const marked = require("marked");
 
 const logger = require("./logger");
 const schema = require("./schema");
+const screenshooter = require("./screenshooter");
 
 const resultDir = path.join(__dirname, "..", "result");
 const imgDir = path.join(__dirname, "..", "result", "img");
@@ -148,6 +149,10 @@ if (!fs.existsSync(imgDir)) fs.mkdirSync(imgDir);
       path.join(resultDir, "result.json"),
       JSON.stringify(afterValidate, null, 2)
     );
+
+    logger.info("Done saving files. Screenshooting new links...");
+
+    await screenshooter(afterValidate);
 
     logger.info("Finished.");
   } catch (e) {

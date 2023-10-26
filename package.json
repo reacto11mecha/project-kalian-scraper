@@ -4,7 +4,8 @@
   "description": "Scraper readme yang mengambil data dari https://github.com/sandhikagalih/project-kalian dan disajikan menggunakan fastify.",
   "main": "src/index.js",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "scrape": "node ./scraper"
   },
   "author": "Ezra Khairan Permana",
   "license": "MIT",
@@ -12,8 +13,10 @@
     "axios": "^1.5.1",
     "jsdom": "^22.1.0",
     "marked": "^9.1.2",
-    "pino": "^8.15.3",
-    "pino-pretty": "^10.0.0",
-    "zod": "^3.21.4"
+    "pino": "^8.16.1",
+    "pino-pretty": "^10.2.3",
+    "puppeteer": "^21.4.1",
+    "puppeteer-cluster": "^0.23.0",
+    "zod": "^3.22.4"
   }
 }
