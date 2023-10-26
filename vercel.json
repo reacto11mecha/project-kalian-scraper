@@ -1,4 +1,5 @@
 {
+  "installCommand": "PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true pnpm install",
   "rewrites": [
     {
       "source": "/(.*)",
