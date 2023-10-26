@@ -21,8 +21,8 @@ jobs:
 
       - name: push changes to remote
         run: |
-          git config --global user.name "user mane"
-          git config --global user.email "user email"
+          git config --global user.name "github-actions"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add result; git commit -m "[result fetch]"
           git push
