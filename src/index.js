@@ -14,33 +14,61 @@ async function routes(fastify, options) {
   const unvalidated = JSON.parse(fs.readFileSync(resultFilePath, "utf8"));
   const data = await schema.parseAsync(unvalidated);
 
-  const perProjects = data
-    .flatMap((seasonItem) =>
-      seasonItem.dates.flatMap((dateItem) =>
-        dateItem.projects.map((projectItem, projectIdx) => ({
-          season: seasonItem.season,
-          showcaseDate: dateItem.date,
-          projectLink: projectItem.link,
-          projectIdx,
-          username: projectItem.username,
-          message: projectItem.message,
-          imagePath: `${seasonItem.season}-${dateItem.date}-${projectIdx}.png`,
-        }))
-      )
-    )
-    .reverse();
+  // await fastify.register(import("@fastify/compress"), {
+  //   onUnsupportedEncoding: (encoding, request, reply) => {
+  //     reply.code(406);
 
-  fastify.get("/", () => ({ data }));
+  //     return `We do not support the ${encoding} encoding.`;
+  //   },
+  // });
+  await fastify.register(require("@fastify/cors"), { origin: "*" });
+  await fastify.register(require("@fastify/rate-limit"), {
+    max: 550,
+    timeWindow: "1 minute",
+  });
 
-  fastify.get("/per-projects", () => ({
-    data: perProjects,
-  }));
+  await fastify.register(require("@fastify/swagger"), {
+    swagger: {
+      info: {
+        title: "Swagger project kalian",
+        description: "Testing the Fastify swagger API",
+        version: "0.0.1",
+      },
+      externalDocs: {
+        url: "https://github.com/sandhikagalih/project-kalian",
+        description: "Find more info here",
+      },
+      consumes: ["application/json"],
+      produces: ["application/json"],
+    },
+  });
 
-  fastify.get("/img/:img", (request, reply) =>
-    reply
-      .header("Content-Type", "image/png")
-      .send(fs.readFileSync(path.join(imgDir, request.params.img)))
-  );
+  await fastify.register(require("@fastify/swagger-ui"), {
+    routePrefix: "/",
+    uiConfig: {
+      docExpansion: "full",
+      deepLinking: false,
+    },
+    uiHooks: {
+      onRequest: function (request, reply, next) {
+        next();
+      },
+      preHandler: function (request, reply, next) {
+        next();
+      },
+    },
+    staticCSP: true,
+    transformStaticCSP: (header) => header,
+    transformSpecification: (swaggerObject, request, reply) => swaggerObject,
+    transformSpecificationClone: true,
+  });
+
+  await fastify.register(require("./api")(data), { prefix: "/api" });
+
+  await fastify.register(require("@fastify/static"), {
+    root: imgDir,
+    prefix: "/img",
+  });
 }
 
 module.exports = routes;
