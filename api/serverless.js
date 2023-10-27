@@ -13,11 +13,7 @@ const app = Fastify({
 });
 
 // Register your application as a normal plugin.
-app.register(async function routes(fastify, options) {
-  fastify.get("/", async (request, reply) => {
-    return { data: "test" };
-  });
-});
+app.register(require("../src"));
 
 export default async (req, res) => {
   await app.ready();

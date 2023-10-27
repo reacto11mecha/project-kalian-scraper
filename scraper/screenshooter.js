@@ -4,15 +4,11 @@ const path = require("path");
 const { Cluster } = require("puppeteer-cluster");
 
 const logger = require("./logger");
-const schema = require("./schema");
 
-const resultDir = path.join(__dirname, "..", "result");
-const imgDir = path.join(resultDir, "img");
+const schema = require("../lib/schema");
+const { imgDir } = require("../lib/constant");
 
 const errorImage = fs.readFileSync(path.join(__dirname, "error.png"));
-
-if (!fs.existsSync(resultDir)) fs.mkdirSync(resultDir);
-if (!fs.existsSync(imgDir)) fs.mkdirSync(imgDir);
 
 const screenshooter = async (data) => {
   const validData = await schema.parseAsync(data);

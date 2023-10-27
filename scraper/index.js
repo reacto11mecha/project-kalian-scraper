@@ -6,14 +6,10 @@ const { JSDOM } = require("jsdom");
 const marked = require("marked");
 
 const logger = require("./logger");
-const schema = require("./schema");
 const screenshooter = require("./screenshooter");
 
-const resultDir = path.join(__dirname, "..", "result");
-const imgDir = path.join(__dirname, "..", "result", "img");
-
-if (!fs.existsSync(resultDir)) fs.mkdirSync(resultDir);
-if (!fs.existsSync(imgDir)) fs.mkdirSync(imgDir);
+const schema = require("../lib/schema");
+const { resultFilePath } = require("../lib/constant");
 
 (async () => {
   try {
@@ -145,10 +141,7 @@ if (!fs.existsSync(imgDir)) fs.mkdirSync(imgDir);
     // Validate data
     const afterValidate = await schema.parseAsync(result);
 
-    fs.writeFileSync(
-      path.join(resultDir, "result.json"),
-      JSON.stringify(afterValidate, null, 2)
-    );
+    fs.writeFileSync(resultFilePath, JSON.stringify(afterValidate, null, 2));
 
     logger.info("Done saving files. Screenshooting new links...");
 
