@@ -15,7 +15,7 @@ const screenshooter = async (data) => {
 
   const alreadyFetchedImages = fs.readdirSync(imgDir);
 
-  const flattenedData = validData.flatMap((seasonItem) => {
+  const flattenedData = validData.data.flatMap((seasonItem) => {
     return seasonItem.dates.flatMap((dateItem) => {
       return dateItem.projects.map((projectItem, projectIdx) => {
         return {

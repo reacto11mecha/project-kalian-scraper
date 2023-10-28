@@ -44,7 +44,7 @@ const { resultFilePath } = require("../lib/constant");
       "Done fetching all of required data, now working with readme..."
     );
 
-    const result = readmeContents.map((season) => {
+    const perSeasonData = readmeContents.map((season) => {
       logger.info(`Working with ${season.branch} branch...`);
 
       // Sanitize text from unwanted content
@@ -135,6 +135,11 @@ const { resultFilePath } = require("../lib/constant");
         dates,
       };
     });
+
+    const result = {
+      fetched_at: new Date(),
+      data: perSeasonData,
+    };
 
     logger.info(`Done working with all branches, validating...`);
 
