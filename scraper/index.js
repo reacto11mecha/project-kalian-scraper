@@ -112,7 +112,7 @@ const {
         return {
           date: dateInfo.date,
           projects: [...dom.window.document.querySelector("ol").children].map(
-            (li) => {
+            (li, projectIdx) => {
               const link = li.querySelector("a").href;
 
               // remove anchor tag to get the actual discord name
@@ -126,6 +126,11 @@ const {
                 link,
                 username,
                 message: li.innerHTML.trim(),
+                image: `${season.branch
+                  .toUpperCase()
+                  .replace("MAIN", "SEASON-1")}-${
+                  dateInfo.date
+                }-${projectIdx}.png`,
               };
             }
           ),
@@ -163,7 +168,7 @@ const {
           projectIdx,
           username: projectItem.username,
           message: projectItem.message,
-          imagePath: `${seasonItem.season}-${dateItem.date}-${projectIdx}.png`,
+          image: `${seasonItem.season}-${dateItem.date}-${projectIdx}.png`,
         }))
       )
     );

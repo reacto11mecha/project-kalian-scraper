@@ -13,12 +13,12 @@
     {
       "path": "/projects-by-latest.json",
       "links": "https://api.project-kalian.rmecha.my.id/projects-by-latest.json",
-      "description": "List project yang dijadikan satu sebagai list project yang paling baru di showcase sampai lama"
+      "description": "List project yang dijadikan satu sebagai list showcase project yang terbaru sampai terlama"
     },
     {
       "path": "/projects-by-oldest.json",
       "links": "https://api.project-kalian.rmecha.my.id/projects-by-oldest.json",
-      "description": "List project yang dijadikan satu sebagai list project yang paling lama di showcase sampai baru"
+      "description": "List project yang dijadikan satu sebagai list showcase project yang terlama sampai terbaru"
     },
     {
       "path": "/img/*.png",
