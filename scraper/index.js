@@ -9,7 +9,11 @@ const logger = require("./logger");
 const screenshooter = require("./screenshooter");
 
 const schema = require("../lib/schema");
-const { resultFilePath } = require("../lib/constant");
+const {
+  resultFilePath,
+  byProjectLatestFile,
+  byProjectOldestFile,
+} = require("../lib/constant");
 
 (async () => {
   try {
@@ -136,8 +140,10 @@ const { resultFilePath } = require("../lib/constant");
       };
     });
 
+    const fetched_at = new Date();
+
     const result = {
-      fetched_at: new Date(),
+      fetched_at,
       data: perSeasonData,
     };
 
@@ -147,6 +153,29 @@ const { resultFilePath } = require("../lib/constant");
     const afterValidate = await schema.parseAsync(result);
 
     fs.writeFileSync(resultFilePath, JSON.stringify(afterValidate, null, 2));
+
+    const byProjectsOldest = afterValidate.data.flatMap((seasonItem) =>
+      seasonItem.dates.flatMap((dateItem) =>
+        dateItem.projects.map((projectItem, projectIdx) => ({
+          season: seasonItem.season,
+          showcaseDate: dateItem.date,
+          projectLink: projectItem.link,
+          projectIdx,
+          username: projectItem.username,
+          message: projectItem.message,
+          imagePath: `${seasonItem.season}-${dateItem.date}-${projectIdx}.png`,
+        }))
+      )
+    );
+
+    fs.writeFileSync(
+      byProjectOldestFile,
+      JSON.stringify({ fetched_at, data: byProjectsOldest }, null, 2)
+    );
+    fs.writeFileSync(
+      byProjectLatestFile,
+      JSON.stringify({ fetched_at, data: byProjectsOldest.reverse() }, null, 2)
+    );
 
     logger.info("Done saving files. Screenshooting new links...");
 
