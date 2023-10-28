@@ -1,3 +1,9 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/result/(.*)" }]
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/result/index.json"
+    },
+    { "source": "/(.*)", "destination": "/result/(.*)" }
+  ]
 }

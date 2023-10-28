@@ -1,0 +1,29 @@
+{
+  "title": "Project Kalian API",
+  "desription": "Selamat datang di Project Kalian API, sebuah Public API yang mengambil data project-project yang sudah di showcase saat livestreaming youtube WEB Programming UNPAS. Semua yang masuk list showcase sudah di screenshot menggunakan automasi puppeteer. Silahkan cek kolom endpoints untuk melihat endpoint mana saja yang bisa digunakan.",
+  "author": "rmecha | https://rmecha.my.id",
+  "repository": "https://github.com/reacto11mecha/project-kalian-scraper",
+  "source": "https://github.com/sandhikagalih/project-Kalian",
+  "endpoints": [
+    {
+      "path": "/all.json",
+      "links": "https://api.project-kalian.rmecha.my.id/all.json",
+      "description": "Data project showcase yang di kategorikan berdasarkan season"
+    },
+    {
+      "path": "/projects-by-latest.json",
+      "links": "https://api.project-kalian.rmecha.my.id/projects-by-latest.json",
+      "description": "List project yang dijadikan satu sebagai list project yang paling baru di showcase sampai lama"
+    },
+    {
+      "path": "/projects-by-oldest.json",
+      "links": "https://api.project-kalian.rmecha.my.id/projects-by-oldest.json",
+      "description": "List project yang dijadikan satu sebagai list project yang paling lama di showcase sampai baru"
+    },
+    {
+      "path": "/img/*.png",
+      "links": "https://api.project-kalian.rmecha.my.id/img",
+      "description": "Folder yang berisikan gambar-gambar hasil screenshot dari link yang disertakan pada setiap projectnya"
+    }
+  ]
+}
