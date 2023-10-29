@@ -82,3 +82,9 @@ const byProjects = z.object({
   ),
 });
 ```
+
+## Local Development
+
+1. Clone repositori ini.
+2. Install dependensi yang diperlulkan menggunakan `pnpm install`.
+3. Menjalankan scraper menggunakan `pnpm scrape`.

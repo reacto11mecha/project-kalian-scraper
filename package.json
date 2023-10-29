@@ -2,12 +2,9 @@
   "name": "project-kalian-scraper",
   "version": "1.0.0",
   "description": "Scraper readme yang mengambil data dari https://github.com/sandhikagalih/project-kalian dan disajikan menggunakan fastify.",
-  "main": "standalone.js",
+  "main": "scraper/index.js",
   "scripts": {
-    "start": "node .",
-    "dev": "nodemon ./standalone.js",
-    "dev:vercel": "vercel dev",
-    "scrape": "node ./scraper"
+    "start": "node ."
   },
   "author": "Ezra Khairan Permana",
   "license": "MIT",

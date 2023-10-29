@@ -1,8 +1,8 @@
 name: Scraper Unit
-on: 
+on:
   workflow_dispatch:
   schedule:
-    - cron: "30 11 * * 6"  
+    - cron: "30 11 * * 6"
 
 jobs:
   scrape:
@@ -23,7 +23,7 @@ jobs:
         uses: ./.github/actions/pnpm-install
 
       - name: Run scraping unit
-        run: pnpm scrape
+        run: pnpm start
 
       - name: Push new result to result folder
         run: |
