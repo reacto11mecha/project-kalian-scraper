@@ -87,4 +87,4 @@ const byProjects = z.object({
 
 1. Clone repositori ini.
 2. Install dependensi yang diperlulkan menggunakan `pnpm install`.
-3. Menjalankan scraper menggunakan `pnpm scrape`.
+3. Menjalankan scraper menggunakan `pnpm start`.
