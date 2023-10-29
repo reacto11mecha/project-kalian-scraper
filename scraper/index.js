@@ -8,7 +8,7 @@ const marked = require("marked");
 const logger = require("./logger");
 const screenshooter = require("./screenshooter");
 
-const schema = require("../lib/schema");
+const { allJson, byProjects } = require("../lib/schema");
 const {
   resultFilePath,
   byProjectLatestFile,
@@ -155,7 +155,7 @@ const {
     logger.info(`Done working with all branches, validating...`);
 
     // Validate data
-    const afterValidate = await schema.parseAsync(result);
+    const afterValidate = await allJson.parseAsync(result);
 
     fs.writeFileSync(resultFilePath, JSON.stringify(afterValidate, null, 2));
 
@@ -173,13 +173,27 @@ const {
       )
     );
 
+    const byProjectOldestUnvalidatedData = {
+      fetched_at,
+      data: byProjectsOldest,
+    };
+    const byProjectLatestUnvalidatedData = {
+      fetched_at,
+      data: byProjectsOldest.reverse(),
+    };
+
+    const [byProjectOldestData, byProjectLatestData] = await Promise.all([
+      byProjects.parseAsync(byProjectOldestUnvalidatedData),
+      byProjects.parseAsync(byProjectLatestUnvalidatedData),
+    ]);
+
     fs.writeFileSync(
       byProjectOldestFile,
-      JSON.stringify({ fetched_at, data: byProjectsOldest }, null, 2)
+      JSON.stringify(byProjectOldestData, null, 2)
     );
     fs.writeFileSync(
       byProjectLatestFile,
-      JSON.stringify({ fetched_at, data: byProjectsOldest.reverse() }, null, 2)
+      JSON.stringify(byProjectLatestData, null, 2)
     );
 
     logger.info("Done saving files. Screenshooting new links...");
