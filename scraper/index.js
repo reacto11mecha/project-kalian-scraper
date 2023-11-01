@@ -173,27 +173,24 @@ const {
       )
     );
 
-    const byProjectOldestUnvalidatedData = {
+    const baseProjectsData = {
       fetched_at,
       data: byProjectsOldest,
     };
-    const byProjectLatestUnvalidatedData = {
-      fetched_at,
-      data: byProjectsOldest.reverse(),
-    };
 
-    const [byProjectOldestData, byProjectLatestData] = await Promise.all([
-      byProjects.parseAsync(byProjectOldestUnvalidatedData),
-      byProjects.parseAsync(byProjectLatestUnvalidatedData),
-    ]);
+    const byProjectData = await byProjects.parseAsync(baseProjectsData);
 
     fs.writeFileSync(
       byProjectOldestFile,
-      JSON.stringify(byProjectOldestData, null, 2)
+      JSON.stringify(byProjectData, null, 2)
     );
     fs.writeFileSync(
       byProjectLatestFile,
-      JSON.stringify(byProjectLatestData, null, 2)
+      JSON.stringify(
+        { ...byProjectData, data: byProjectData.data.reverse() },
+        null,
+        2
+      )
     );
 
     logger.info("Done saving files. Screenshooting new links...");
