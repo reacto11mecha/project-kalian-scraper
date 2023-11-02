@@ -37,7 +37,7 @@ const screenshooter = async (data) => {
 
   if (imagesToFetch.length > 0) {
     logger.info(
-      `Unfetched screenshot image(s): ${imagesToFetch.length} project(s)`
+      `Unfetched screenshot image(s): ${imagesToFetch.length} project(s)`,
     );
 
     const cluster = await Cluster.launch({
@@ -79,7 +79,9 @@ const screenshooter = async (data) => {
   }
 
   logger.info(
-    imagesToFetch.length > 0 ? "[FETCH] done" : "[FETCH] all images are fetched"
+    imagesToFetch.length > 0
+      ? "[FETCH] done"
+      : "[FETCH] all images are fetched",
   );
 };
 

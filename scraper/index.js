@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const { default: axios } = require("axios");
+const prettier = require("prettier");
 const { JSDOM } = require("jsdom");
 const marked = require("marked");
 
@@ -21,12 +22,12 @@ const {
 
     // Branches data fetch
     const branchRequest = await axios.get(
-      "https://api.github.com/repos/sandhikagalih/project-kalian/branches"
+      "https://api.github.com/repos/sandhikagalih/project-kalian/branches",
     );
     const branchesData = await branchRequest.data;
 
     logger.info(
-      "Successfully fetched branches data, fethching all readme contents by branches"
+      "Successfully fetched branches data, fethching all readme contents by branches",
     );
 
     const branches = branchesData.map(({ name }) => name);
@@ -34,18 +35,24 @@ const {
     const readmeContents = await Promise.all(
       branches.map(async (branch) => {
         const request = await axios.get(
-          `https://raw.githubusercontent.com/sandhikagalih/project-kalian/${branch}/README.md`
+          `https://raw.githubusercontent.com/sandhikagalih/project-kalian/${branch}/README.md`,
         );
 
-        const data = await request.data;
+        const rawData = await request.data;
+
+        const formattedData = await prettier.format(rawData, {
+          parser: "markdown",
+        });
+
+        const data = formattedData.trim();
 
         return { branch, data };
-      })
+      }),
     );
     // End of branches data fetch
 
     logger.info(
-      "Done fetching all of required data, now working with readme..."
+      "Done fetching all of required data, now working with readme...",
     );
 
     const perSeasonData = readmeContents.map((season) => {
@@ -54,6 +61,8 @@ const {
       // Sanitize text from unwanted content
       const text = season.data
         .replaceAll("<br>", "")
+        .replaceAll("<br/>", "")
+        .replaceAll("<br />", "")
         .replaceAll("<hr>", "")
         .replaceAll("####SPONSOR", "")
         .replaceAll("###SPONSOR", "");
@@ -104,6 +113,7 @@ const {
             // Replace [<link>] for consistent href
             .replaceAll("[", "")
             .replaceAll("]", "")
+            .trim(),
         );
 
         // Using JSDOM for more robust reading
@@ -113,26 +123,46 @@ const {
           date: dateInfo.date,
           projects: [...dom.window.document.querySelector("ol").children].map(
             (li, projectIdx) => {
-              const link = li.querySelector("a").href;
+              // Get anchor (project link) and strong element
+              const linkElement = li.querySelector("a");
+              const usernameElement = li.querySelector("strong");
 
-              // remove anchor tag to get the actual discord name
-              li.querySelector("a").remove();
+              // Image path
+              const image = `${season.branch
+                .toUpperCase()
+                .replace("MAIN", "SEASON-1")}-${
+                dateInfo.date
+              }-${projectIdx}.png`;
 
-              const username = li.querySelector("p").textContent.trim();
+              // Actual project link
+              const link = linkElement.href;
 
-              li.querySelector("p").remove();
+              if (!usernameElement) {
+                linkElement.remove();
+
+                return {
+                  link,
+                  message: li.innerHTML.trim(),
+                  username: "",
+                };
+              }
+
+              linkElement.remove();
+              usernameElement.remove();
+
+              // Removing junk paragraph after link and username get deleted
+              const junkParagraph = li.querySelector("p");
+
+              const junks = [...junkParagraph.children];
+
+              if (junks.length === 1) junkParagraph.remove();
 
               return {
                 link,
-                username,
+                username: usernameElement.textContent,
                 message: li.innerHTML.trim(),
-                image: `${season.branch
-                  .toUpperCase()
-                  .replace("MAIN", "SEASON-1")}-${
-                  dateInfo.date
-                }-${projectIdx}.png`,
               };
-            }
+            },
           ),
         };
       });
@@ -169,8 +199,8 @@ const {
           username: projectItem.username,
           message: projectItem.message,
           image: `${seasonItem.season}-${dateItem.date}-${projectIdx}.png`,
-        }))
-      )
+        })),
+      ),
     );
 
     const baseProjectsData = {
@@ -182,15 +212,15 @@ const {
 
     fs.writeFileSync(
       byProjectOldestFile,
-      JSON.stringify(byProjectData, null, 2)
+      JSON.stringify(byProjectData, null, 2),
     );
     fs.writeFileSync(
       byProjectLatestFile,
       JSON.stringify(
         { ...byProjectData, data: byProjectData.data.reverse() },
         null,
-        2
-      )
+        2,
+      ),
     );
 
     logger.info("Done saving files. Screenshooting new links...");
