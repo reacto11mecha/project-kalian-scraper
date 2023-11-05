@@ -2,7 +2,7 @@ name: Scraper Unit
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 11 * * 6"
+    - cron: "30 12 * * 6"
 
 jobs:
   scrape:
