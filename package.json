@@ -9,13 +9,13 @@
   "author": "Ezra Khairan Permana",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.6.2",
     "jsdom": "^22.1.0",
-    "marked": "^9.1.4",
-    "pino": "^8.16.1",
+    "marked": "^10.0.0",
+    "pino": "^8.16.2",
     "pino-pretty": "^10.2.3",
-    "prettier" : "^3.0.3",
-    "puppeteer": "^21.4.1",
+    "prettier": "^3.1.0",
+    "puppeteer": "^21.5.2",
     "puppeteer-cluster": "^0.23.0",
     "zod": "^3.22.4"
   }
