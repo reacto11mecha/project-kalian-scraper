@@ -18,6 +18,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
+          
+      - name: Enable corepack
+        run: corepack enable
 
       - name: PNPM install
         run: pnpm install --frozen-lockfile
