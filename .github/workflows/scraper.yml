@@ -20,7 +20,7 @@ jobs:
           node-version: 18
 
       - name: PNPM install
-        uses: ./.github/actions/pnpm-install
+        run: pnpm install --frozen-lockfile
 
       - name: Run scraping unit
         run: pnpm start
