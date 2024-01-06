@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-01-05T14:03:02.895Z",
+  "fetched_at": "2024-01-06T12:48:02.772Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -13212,6 +13212,96 @@
       "username": "hanzuldan",
       "message": "<p>Assalamualaikum pa dika dan teman teman👋</p>\n<p>Perkenalkan saya Ilhan—bukan Ilham dengan &#39;N&#39; bukan &#39;M&#39;—, Mahasiswa semester 3 dari STMIK Jabar. Saya ingin showcase project saya yang kedua. Project ini bernama Oxford Happiness Questionnaire yang merupakan kuisioner yang dibuat oleh Oxford University pada tahun 2002 untuk mengukur tingkat kebahagiaan seseorang. Ketika mengisi disarankan untuk membaca setiap pertanyaan dengan baik. Sistem pengukuran kebahagiaan nya juga saya dasarkan pada penelitian nya.</p>\n<p>Tech :</p>\n<ul>\n<li>HTML</li>\n<li>CSS</li>\n<li>JS</li>\n</ul>\n<p>Github : <a href=\"https://github.com/Ilhanhj/OHQ\">https://github.com/Ilhanhj/OHQ</a></p>",
       "image": "SEASON-3-30 Desember 2023-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Januari 2024",
+      "projectLink": "https://wee-ai.web.app/",
+      "projectIdx": 0,
+      "username": "navetacandra",
+      "message": "<p>Selamat pagi/siang/sore/malam Pak Dhika dan teman-teman</p>\n<p>Perkenalkan saya Naveta Candra. Saya ingin &lt;#758600947692732436&gt; saya yang ketiga (kalo ga salah inget). Jadi, project ini saya kasih nama Wee AI. Secara singkat, Wee AI adalah website yang menyediakan layanan AI secara gratis dan tanpa login. Wee AI sendiri dibuat menggunakan API dari Huggingface dan Deepinfra.\nWee AI juga memiliki fitur yg mirip dengan ChatGPT dan Dall • E, ya bisa dibilang saya terinspirasi dari web OpenAI&lt;:iwak_hehe:1083991043155951646&gt;</p>\n<p>Nah, untuk tools yang saya gunakan antara lain:</p>\n<ul>\n<li>VSCode *untuk coding</li>\n<li>NodeJS *untuk run React</li>\n<li>Photoshop *untuk membuat logo dan thumbanil website</li>\n<li>Browser *ini wajib sih buat web dev</li>\n</ul>\n<p>Saya menggunakan Vite dengan template React Typescript, dengan library-library yang bisa Pak Dhika dan teman-teman lihat di <code>package.json</code> di github.</p>\n<p>Github: <a href=\"https://github.com/navetacandra/wee-ai/\">https://github.com/navetacandra/wee-ai/</a>\nWebsite: <a href=\"https://wee-ai.web.app/\">https://wee-ai.web.app/</a></p>\n<p>Terimakasih Pak Dhika dan teman-teman sudah showcase project saya🙏</p>",
+      "image": "SEASON-4-6 Januari 2024-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Januari 2024",
+      "projectLink": "https://hariapa.vercel.app/",
+      "projectIdx": 1,
+      "username": "aulia",
+      "message": "<p>Bismillah...</p>\n<p>Halo Pak Dhika dan teman-teman. izin showcase project pertama saya ya, yang bernama <code>hariapa</code>. web simpel ini menampilkan kalender beserta info tgl merah nya. teman-teman juga bisa menambahkan informasi event atau tgl merah pada hari tertentu dan juga mendownload kalendernya untuk di cetak.</p>\n<p>website ini dibuat dengan <code>nextjs </code>dan <code>tailwindcss </code>. dan masih menggunakan <code>localStorage </code>sebagai penyimpanannya.</p>\n<p>sebenarnya website ini belum sempurna. namun saya rasa fungsi utama dari web ini sudah tercapai yaitu untuk memberikan informasi tentang penanggalan. dan kedepannya saya sudah merencanakan beberapa tambahan fitur pada web ini.</p>\n<p>semoga website <code>hariapa </code>ini dapat bermanfaat bagi kita semua, mohon kritik dan saran nya supaya website ini menjadi lebih baik.</p>\n<p>Terimakasih🙏</p>\n<p>url: <a href=\"https://hariapa.vercel.app/\">https://hariapa.vercel.app/</a></p>",
+      "image": "SEASON-4-6 Januari 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Januari 2024",
+      "projectLink": "https://knockoutkings.vercel.app",
+      "projectIdx": 2,
+      "username": "Iqbal",
+      "message": "<p>Bismillahirrohmanirrahim...</p>\n<p>Assalamualaikum Wr. wb. Selamat Pagi/Siang/Sore/Malam. Perkenalkan nama saya Iqbal, ini adalah first time saya showcase project. saya adalah junior web developer yang ingin meningkatkan skill saya dalam pengembangan website. Saya membuat website ini karena kegemaran saya di beladiri, jadi saya sebagai seorang pemula dalam programming inisiatif untuk membuat website yang bernama Knockout Kings. Website ini tentang gym beladiri dimana anda dapat menyusun jadwal latihan beladiri anda dari hari Senin s/d Jum&#39;at. Website ini juga menyediakan online shop yang sederhana dimana anda juga dapat membeli perlengkapan beladiri</p>\n<p>Tech Stack :</p>\n<ol>\n<li>Next.js</li>\n<li>Firebase</li>\n<li>HTML</li>\n<li>TailwindCSS</li>\n<li>Midtrans Payment Gateway</li>\n<li>Vercel</li>\n<li>Github</li>\n</ol>\n<p>Algoritma :</p>\n<ol>\n<li>Create account atau buat akun baru untuk Log in ke halaman utama (Akun yang anda daftarkan akan di simpan di Firebase, Firebase adalah Backend resmi Dari Google)</li>\n<li>Jika anda sudah Log In, di halaman Training anda bisa menyusun jadwal latihan beladiri anda dari hari senin s/d Jum&#39;at, dan anda juga bisa membeli produk yang telah kami sediakan di halaman Shop</li>\n</ol>\n<p>Keterangan :</p>\n<ol>\n<li><p>Website ini terdiri dari 19 Halaman yaitu: Landing page (Pertama kali anda mengunjungi website), Home page, About page, News page (9 Halaman Article), Training page (4 Halaman latihan), Athlete page, dan Shop page</p>\n</li>\n<li><p>Anda bisa menyusun jadwal latihan anda di halaman Training dengan program Add and Delete</p>\n</li>\n<li><p>Anda bisa membeli produk di halaman Shop, pembelian produk ini hanya test atau simulasi, tidak menggunakan uang asli, jika anda telah menambahkan produk anda bisa checkout produk maka payment gateway akan muncul. Anda bisa memilih jenis pembayaran. Contoh: Pilih BRI nanti virtual account akan muncul salin virtual account tersebut lalu kunjungi situs ini : <a href=\"https://simulator.sandbox.midtrans.com/\">https://simulator.sandbox.midtrans.com/</a></p>\n</li>\n</ol>\n<p>Website : <a href=\"https://knockoutkings.vercel.app\">https://knockoutkings.vercel.app</a>\nGithub Repo : <a href=\"https://github.com/MuhammadIqbalAlghifari/knockoutkings\">https://github.com/MuhammadIqbalAlghifari/knockoutkings</a></p>\n<p>Terimakasih 🙂</p>",
+      "image": "SEASON-4-6 Januari 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Januari 2024",
+      "projectLink": "https://adopt-me-gsap.vercel.app/",
+      "projectIdx": 3,
+      "username": "IyoAkbarzz",
+      "message": "<p>Assalamualaikum Pak Dika dan temen temen semua. Saya Hio Fadlika Akbar biasa dipanggil Iyo, ijin ikutan showcase yg kedua dari projek sederhana saya, Yaitu AdoptMe sebuah web untuk mencari peliharaan lucu dan menggemaskan, tujuan saya ngebuat ini adalah untuk ngelatih pemahaman saya dalam belajar GSAP seperti Scrolltrigger, Timeline dll.</p>\n<p>Teknologi:</p>\n<ul>\n<li>Vue 3 (Vite)</li>\n<li>Tailwind css</li>\n<li>GSAP</li>\n<li>Sweet alert (Petlist click only)</li>\n<li>v-auto-animate (filtered petlist &amp; accordion)</li>\n</ul>\n<p>link: <a href=\"https://adopt-me-gsap.vercel.app/\">https://adopt-me-gsap.vercel.app/</a>\nrepo: <a href=\"https://github.com/hiofadlikaakbar/AdoptMe\">https://github.com/hiofadlikaakbar/AdoptMe</a></p>\n<p>note: setelah ngeklik Adopt Now di petlist mungkin gambarnya butuh beberapa detik lebih lama muncul saya juga bingung kenapa ini bisa terjadi padahal ukuran gambarnya tidak terlalu besar 😂 .</p>\n<p>Sekian dari saya mohon kritik dan sarannya dari pak Dika dan temen temen semua terima kasih 🙏 .</p>",
+      "image": "SEASON-4-6 Januari 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Januari 2024",
+      "projectLink": "https://www.waifuseum.art/",
+      "projectIdx": 4,
+      "username": "BayuDC",
+      "message": "<p>Assalamualaikum teman-teman, aku mau showcase project yg ketiga disini (setelah menunggu lama krn harus farming level dulu hehe).\nSedikit cerita ini ya, website ini mulai dibuat dari tahun 2022 namun baru selesai sekitar pertengahan 2023. Dulu nekad banget sih bikin frontendnya pake Nuxt yg masih versi rc(banyak bugnya njir). Jadi nih website isinya apaan sih? isinya cewe animek, yoi sesuai namanya Waifuseum diambil dari kata waifu dan museum isinya ya waifu kalian itu. Yang rada unik dari web ini tuh semua aset gambarnya disimpen di discord server lewat perantara discord bot, kalo ga ada itu ya nih web simpel banget sih cuma kayak galery gitu. Oke itu aja sih, yang merasa waifunya belum ada disitu, boleh banget kok klo mau kontribusi.</p>\n<p>Teknologi:</p>\n<ul>\n<li>Nuxt 3</li>\n<li>Tailwind</li>\n<li>Express</li>\n<li>Discord.js</li>\n<li>Mongo</li>\n</ul>\n<p>Demo: <a href=\"https://www.waifuseum.art/\">https://www.waifuseum.art/</a>\nRepo(fe): <a href=\"https://github.com/BayuDC/waifuseum\">https://github.com/BayuDC/waifuseum</a>\nRepo(be): <a href=\"https://github.com/BayuDC/waifuseum-api\">https://github.com/BayuDC/waifuseum-api</a></p>\n<p>Makasih ya</p>",
+      "image": "SEASON-4-6 Januari 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Januari 2024",
+      "projectLink": "https://kounter.vercel.app/",
+      "projectIdx": 5,
+      "username": "zaadevofc",
+      "message": "<p>Assalamualaikum text=&quot;pa dika dan teman teman semua 👋&quot;</p>\n<p>Anyway nama panggilan saya <strong>kejaa</strong>, kali ini hanya projek counter api saja, yang saya namai &quot;Kounter APi&quot; . di balik saya membuat projek ini yaitu karna downnya web <strong>countapi.xyz</strong> yg biasa saya gunakan untuk mencatat jumlah visitor dan kebutuhan lainnya. bahkan sampai saat ini web <strong>countapi.xyz</strong> status nya masih down. maka dari itu saya membuat versi saya sendiri yaitu &quot;Kounter APi&quot; ini juga bisa menjadi **alternatif ** teman2 yg ingin mencatat jumlah data seperti visitor dan lainnya.</p>\n<ul>\n<li>Tech :</li>\n<li>NextJS + Typescript</li>\n<li>NextAuth</li>\n<li>Prisma ORM</li>\n<li>Postgresql DB</li>\n<li>Tanstack React Query</li>\n<li>Tailwindcss</li>\n<li>Next UI</li>\n</ul>\n<p>Dan saat ini batas kounter yang dapat di buat oleh user <code>maks. 30</code> guna memperkecil ukuran database :&gt;</p>\n<ul>\n<li>Repo : <a href=\"https://github.com/zaadevofc/kounter.vercel.app\">https://github.com/zaadevofc/kounter.vercel.app</a></li>\n<li>Website : <a href=\"https://kounter.vercel.app/\">https://kounter.vercel.app/</a></li>\n</ul>\n<p>Buat temen2 yg menemui bug atau saran lainnya bisa langsung comment supaya bisa segera di perbaiki. saya sangat menunggu saran dari pa dika dan teman teman semua 🤝</p>\n<p>Terimakasih pa dika dan teman teman.</p>\n<p>Wassalamualaikum</p>",
+      "image": "SEASON-4-6 Januari 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Januari 2024",
+      "projectLink": "https://infinesting.com/",
+      "projectIdx": 6,
+      "username": "Ferdi",
+      "message": "<p>Assalamualaikum wr. wb. Pak Dika dan teman-teman subscriber WPU semuanya, semoga sehat selalu. Saya Ferdi mahasiswa semester 7 izin ikut show case. Sekarang saya sedang mengerjakan Skripsi bab 4, minta doa dari teman-teman agar lancar dan bisa lulus tepat waktu sampai memperoleh gelar SE nanti 🙏🏻 Kurang lebih ini adalah hal mengisi kegabutan saya kalo lagi buntu dan jadi &quot;backup plan&quot; saya setelah lulus nanti. Kebetulan karena saya sudah aktif trading saham dari SMA maka saya coba untuk buat platform analisa sendiri guna mempersingkat waktu analisa harian saya</p>\n<p>Teknologi:\nNext JS + Typescript\nExpress (Auth Middleware with JWT)\nTailwindCSS\nMongoDB\nWebsocket\nMidtrans (Sudah di mode production)</p>\n<p>Pipeline Pengembangan:</p>\n<ul>\n<li>Fitur Baru (Termasuk Analisa menggunakan Machine Learning dll)</li>\n<li>Multi Bahasa (i18n)</li>\n<li>Integrasi dengan Discord Bot</li>\n<li>Optimasi SEO</li>\n</ul>\n<p>Website: <a href=\"https://infinesting.com/\">https://infinesting.com/</a>\nLinkedIn: <a href=\"https://www.linkedin.com/in/ferdi-rahmad-rizaldi\">https://www.linkedin.com/in/ferdi-rahmad-rizaldi</a> (Saya lagi cari koneksi sebanyak mungkin pak hehe)</p>\n<p>Maaf kalo masih sangat sederhana pak, apabila bapak dan teman-teman ada masukan atau saran sangat diperbolehkan. Terimakasih banyak🙏🏻\nWaalaikumsalam wr.wb.</p>",
+      "image": "SEASON-4-6 Januari 2024-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Januari 2024",
+      "projectLink": "https://smkmu.smkn1paguyaman.a3berkah.com/",
+      "projectIdx": 7,
+      "username": "Singgi Mokodompit",
+      "message": "<p>Assalamualaikum wr. wb Pak Dhika &amp; teman-teman WPU. Saya Singgi Mokodompit, mahasiswa Universitas Negeri Gorontalo (UNG), izin showcase project ke-3 saya. Ceritanya, pulang dari kampus &amp; gabut gk tau mau ngapain, jadi saya mencoba membuat project sederhana bernama SMKMU, sebuah media pembelajaran berbasis WEB &amp; Android. Androidnya menggunakan WebView dari Kodular.</p>\n<p>Project sederhana ini dibuat dalam waktu 4 hari. Saya sangat mengharapkan saran dan kritikan dari Pak Dhika dan teman-teman WPU agar dapat bermanfaat untuk pengembangan kedepannya. Mohon maaf jika masih banyak kekurangan terutama dalam hal keamanan. Untuk teman-teman WPU yang BUG HUNTER, mohon pengertiannya ya hehe .. agar pada saat showcase bisa diakses.</p>\n<p>Semoga Pak Dhika dan teman-teman WPU diberikan kesehatan &amp; rejeki yang berkah. Terima kasih banyak.🙏</p>\n<p>Catatan: Masih ada beberapa fitur dalam perbaikan, tapi jika Pak Dhika sudah siap live, fiturnya akan berfungsi kok</p>\n<p>Akses Login:</p>\n<p>ADMIN</p>\n<ul>\n<li>(<a href=\"https://smkmu.smkn1paguyaman.a3berkah.com/admin\">https://smkmu.smkn1paguyaman.a3berkah.com/admin</a>)</li>\n<li>Username: sandhikagalih</li>\n<li>Password: admin123</li>\n</ul>\n<p>SISWA\n-(<a href=\"https://smkmu.smkn1paguyaman.a3berkah.com/auth/login\">https://smkmu.smkn1paguyaman.a3berkah.com/auth/login</a>)</p>\n<ul>\n<li><p>NISN: 4545409890</p>\n</li>\n<li><p>Password: siswa123</p>\n</li>\n<li><p>NISN: 1444565678</p>\n</li>\n<li><p>Password: siswa12345</p>\n</li>\n</ul>\n<p>Fitur:</p>\n<p>ADMIN:</p>\n<ul>\n<li>CMS (menggunakan Admin-LTEv3 dengan sedikit modifikasi UI)</li>\n<li>Materi</li>\n<li>Video</li>\n<li>Artikel</li>\n<li>Latihan Soal Objektif</li>\n<li>Melihat hasil jawaban siswa</li>\n<li>Akun User/Siswa</li>\n<li>dll</li>\n</ul>\n<p>USER/SISWA:</p>\n<ul>\n<li>Materi</li>\n<li>Video Pembelajaran</li>\n<li>Latihan Soal Objektif (waktu pengerjaan ditentukan oleh admin/guru) (Harus Login)</li>\n<li>Artikel (dilengkapi dengan text to speech)</li>\n<li>Profil Sekolah (ke website yg dibuat pihak sekolah)</li>\n<li>Favorit (artikel kesukaan siswa)</li>\n<li>Obrolan (Harus Login)</li>\n<li>Game Tebak Gambar Sederhana 😄</li>\n<li>ChatBOT</li>\n<li>ChatGPT</li>\n</ul>\n<p>TECH STACK:</p>\n<p>Front-end:</p>\n<ul>\n<li>HTML</li>\n<li>CSS</li>\n<li>JAVASCRIPT</li>\n</ul>\n<p>Back-end:</p>\n<ul>\n<li>PHP (Native)</li>\n<li>MySQL</li>\n<li>Apache</li>\n</ul>\n<p>Frameworks:</p>\n<ul>\n<li>Bootstrap</li>\n</ul>\n<p>Libraries:</p>\n<ul>\n<li>QRCode</li>\n<li>CKEditor</li>\n</ul>\n<p>Web Service:</p>\n<ul>\n<li>API OpenAI</li>\n</ul>\n<p>Website: (<a href=\"https://smkmu.smkn1paguyaman.a3berkah.com/\">https://smkmu.smkn1paguyaman.a3berkah.com/</a>)</p>",
+      "image": "SEASON-4-6 Januari 2024-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Januari 2024",
+      "projectLink": "https://portfolio.lynninc.cloud/",
+      "projectIdx": 8,
+      "username": "Kibieptr",
+      "message": "<p>Assalamu&#39;alaikum semua, Perkenalkan Nama Saya Rahman dari Malang Seorang Pelajar SMK Jurusan RPL Di SMK PGRI 3 Malang. Showcase ini adalah Ketiga Saya, Project kali ini menampilkan sebuah project web portfolio</p>\n<p>Project ini dikerjakan selama 3 Bulan\nSaya sangat amat membutuhkan feedback &amp; kritikan</p>\n<p><strong>Tech stack:</strong> - Next JS - Typescript &amp; Javascript - Tailwind CSS</p>\n<p>Link Web Project : <a href=\"https://portfolio.lynninc.cloud/\">https://portfolio.lynninc.cloud/</a>\nRepo : <a href=\"https://github.com/Lynnxha/WebPage-Portfolio\">https://github.com/Lynnxha/WebPage-Portfolio</a>\nInstagram : <a href=\"https://www.instagram.com/kibieptr_/\">https://www.instagram.com/kibieptr_/</a></p>",
+      "image": "SEASON-4-6 Januari 2024-8.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Januari 2024",
+      "projectLink": "https://github.com/caesarmario/data-slices/tree/main/20231108",
+      "projectIdx": 9,
+      "username": "jUM",
+      "message": "<p>Jadi saya ingin menshowcase salah satu project yang saya buat sepanjang 2023 kemarin, dimana saya mencatat mood harian saya setiap harinya, dan kemudian saya buat visualisasi nya + report yang mensummarize mood saya sepanjang tahun tersebut.. kenapa saya bikin ini? Karena saya pengen lebih mindful di 2023 dan pengen lebih memahami mood saya sehari&quot;nya.. jdnya sy memutuskan buat bikin semacam mini jurnaling pakai data&quot; yg sy input setiap harinya..\nProses mencatatnya sendiri saya lakukan secara manual di google sheet.. Kemudian saya download datanya sebagai csv, dan saya import menggunakan pandas as dataframe ke Jupyter notebook.. Datanya kemudian saya proses dan saya buat visualisasi menggunakan library&quot; seperti matplotlib dan seaborn..\nDetail stack yang saya gunakan:</p>\n<ul>\n<li>Python</li>\n<li>Seaborn</li>\n<li>Matplotlib</li>\n<li>Highlight text</li>\n<li>Pandas</li>\n<li>Jupyter Notebook</li>\n<li>Photoshop (untuk logo)\nWarnanya diambil dari coolors.co &amp; fontnya diambil dari fonts.google.com\nLink ke reponya: <a href=\"https://github.com/caesarmario/data-slices/tree/main/20231108\">https://github.com/caesarmario/data-slices/tree/main/20231108</a></li>\n</ul>",
+      "image": "SEASON-4-6 Januari 2024-9.png"
     }
   ]
 }
