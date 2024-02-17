@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-02-10T12:44:32.140Z",
+  "fetched_at": "2024-02-17T12:43:28.942Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -9743,6 +9743,139 @@
               "username": "Hugo de Rune",
               "message": "<p>selamat <code>6d616c616d</code> pak dhika &lt;:hehehe:972470914488885288&gt;</p>\n<p>kembali lagi bellshade update project dari <code>OpenSeries</code> yang sebelumnya sudah diterima masukkannya dari pak dhika tentang beberapa hal, di kali ini <code>OpenSeries</code> membuat sedikit perubahan dan serta sudah bisa di install via pip, kembali lagi <code>OpenSeries</code> menggunakan library:</p>\n<ul>\n<li>numpy</li>\n</ul>\n<p>untuk webnya menggunakan teknologi</p>\n<ul>\n<li>next.js</li>\n<li>bun</li>\n<li>tailwind</li>\n</ul>\n<p>untuk informasi lebih lanjut bisa dilihat di website openseries disini\n<a href=\"https://openseries.pages.dev/\">https://openseries.pages.dev/</a>\nuntuk github bisa dilihat disini\n<a href=\"https://github.com/bellshade/OpenSeries\">https://github.com/bellshade/OpenSeries</a>\nuntuk perubahan daripada update ini bisa dilihat disini</p>",
               "image": "SEASON-4-3 Februari 2024-8.png"
+            }
+          ]
+        },
+        {
+          "date": "11 Februari 2024",
+          "projects": [
+            {
+              "link": "https://pengiriman.kagchi.my.id/home",
+              "username": "Lost Gophers",
+              "message": "<p>Halo 👋,</p>\n<p>Baru aja share project hehe 😅. seperti yang kubilang di livestream. UAS smt 1 aku disuruh buat web fullstack pake PHP.</p>\n<p>uas nya kelompok tapi aku full ngerjain web nya. temen ku ui/ux jadi aku fullstack nya. jadi kasus nya itu pengiriman barang</p>\n<p>Teknologi yang digunakan:</p>\n<ul>\n<li>PHP</li>\n<li>MariaDB</li>\n</ul>\n<p>Website:</p>\n<blockquote>\n<p><a href=\"https://pengiriman.kagchi.my.id/home\">https://pengiriman.kagchi.my.id/home</a>\nGithub:\n<a href=\"https://github.com/KagChi/pengiriman-barang\">https://github.com/KagChi/pengiriman-barang</a></p>\n</blockquote>\n<p>Credentials Admin:\nEmail: <code>admin@example.com</code>\nPassword: <code>admin</code></p>\n<p>(Admin role di disable karena ada iseng ganti email, role nya udah ku buat <code>kurir</code>. permissions nya sama bedanya gabisa update user)</p>\n<p>Terima Kasih 🙏😁</p>",
+              "image": "SEASON-4-11 Februari 2024-0.png"
+            },
+            {
+              "link": "https://fluxxing.netlify.app/",
+              "username": "Iqro Negoro",
+              "message": "<p>Assalamualaikum</p>\n<p>Izin showcase project ke-2 sebagai project based learning Nuxt yaitu flux (ter inspirasi dari lagu fluxxingwave), setelah sebulan yang lalu saya membuat aplikasi sosmed simple, dalam sebulan ini. dalam rangka belajar Nuxt Server API dan Prisma ORM, saya mencoba membuat monolith ecommerce menggunakan Nuxt from scratch, karena sebelumnya saya juga pernah membuat nya dengan vue express. as always thx to bang jamil selalu bantu saat bingung hehe.</p>\n<p>Tech Stack :</p>\n<ol>\n<li>Nuxt 3</li>\n<li>MongoDB</li>\n<li>discord.js</li>\n<li>Tailwind</li>\n<li>Prisma ORM</li>\n<li>Midtrans (sandbox) CoreApi</li>\n</ol>\n<p>Feat :\nCustomer :</p>\n<ol>\n<li>as always bisa beli barang</li>\n<li>Cart sistem &amp; checkout</li>\n<li>Rating product saat order sukses</li>\n<li>Cek status order</li>\n</ol>\n<p>Admin :</p>\n<ol>\n<li>CRUD Products</li>\n<li>CRUD Categories</li>\n<li>Cek orders</li>\n</ol>\n<p>Masih ada beberapa fitur yang belum di implementasikan tapi saya rasa dasarnya sudah cukup bisa untuk di gunakan</p>\n<p>link :\nCustomer :\n<a href=\"https://fluxxing.netlify.app/\">https://fluxxing.netlify.app/</a></p>\n<p>Admin :\n<a href=\"https://fluxxed.netlify.app/\">https://fluxxed.netlify.app/</a></p>\n<p>Akun Admin :\n<a href=\"mailto:admin@gmail.com\">admin@gmail.com</a>\nadmin</p>\n<p>Repo Customer :\n<a href=\"https://github.com/IqroNegoro/flux\">https://github.com/IqroNegoro/flux</a></p>\n<p>Repo Admin :\n<a href=\"https://github.com/IqroNegoro/admin-flux\">https://github.com/IqroNegoro/admin-flux</a></p>\n<p>Terima kasih!</p>",
+              "image": "SEASON-4-11 Februari 2024-1.png"
+            },
+            {
+              "link": "https://islampro.site",
+              "username": "Indo Galaxy",
+              "message": "<p>Assalamualaikum Pak Dhika &amp; teman-teman wpu semuanya, aku mau showcase project yg ketiga disini\nSedikit cerita ya, website ini dikerjakan selama 1 bulan Jadi nih website isinya apaan sih? Yups ini adalah proyek pengembangan website Al-Quran yang bertujuan untuk menyediakan akses mudah dan interaktif untuk membaca, menghafal, dan mempelajari Al-Quran secara online, dan tidak hanya ada fitur al-quran saja di website islampro masih banyak fitur lain nya yang sangat menarik. Dan website ini masih tahap pengembangan jadi belum begitu bagus dari segi design dan juga fitur. Oke itu aja sih, boleh banget kok klo mau kontribusi dengan project ini. Dan minta saran nya pak apa yang kurang dari project ini terimakasih</p>\n<p>Tech :</p>\n<ul>\n<li>Vanilla Js</li>\n<li>Html</li>\n<li>API</li>\n<li>Javascript</li>\n</ul>\n<p>**Demo : **\n<a href=\"https://islampro.site\">https://islampro.site</a></p>\n<p>Jangan Lupa Follow :\nGithub : <a href=\"https://github.com/IndoGalaxy\">https://github.com/IndoGalaxy</a>\nInstagram : <a href=\"https://www.instagram.com/class_programmerr?igsh=cmthdGlydXRvanNr\">https://www.instagram.com/class_programmerr?igsh=cmthdGlydXRvanNr</a>\nTiktok : <a href=\"https://www.tiktok.com/@mr.programmer2?_t=8jaTK2izdQ2&_r=1\">https://www.tiktok.com/@mr.programmer2?_t=8jaTK2izdQ2&amp;_r=1</a></p>\n<p><strong>Project ini sangat amat membutuhkan feedback dan kritikan dari kalian!</strong></p>",
+              "image": "SEASON-4-11 Februari 2024-2.png"
+            },
+            {
+              "link": "https://capresfacts.site/",
+              "username": "klaw",
+              "message": "<p>Halo pa Dhika dan teman-teman semuanya, berhubung sebentar lagi kita akan menghadapi yang namanya pemilihan umum terkhususnya untuk Capres dan Cawapres, jadi saya mau bagikan hasil kerja saya bernama Capres Facts.</p>\n<p>Isi dari website ini kurang lebih tentang biodata masing-masing Capres dan Cawapres, karir, visi misi, janji-janji, dan lain-lain.</p>\n<p>Website yang saya buat ini terinspirasi penuh oleh website bijakmemilih.id, bedanya dengan Capres Facts saya adalah lebih &quot;Simple&quot; dari konten yang ditampilkan di bijakmemilih.id</p>\n<p>Semua data yang diperoleh berasal dari video YouTube debat Capres dan Cawapres, kpu.go.id, dan semua portal berita yang kredibel yang ada Indonesia.</p>\n<p>Website ini hanya menggunakan:</p>\n<ul>\n<li>HTML</li>\n<li>CSS</li>\n<li>Javascript</li>\n<li>Tailwind</li>\n</ul>\n<p>Berikut link Website, Github, dan API-nya:</p>\n<ul>\n<li>Website:</li>\n</ul>\n<blockquote>\n<p><a href=\"https://capresfacts.site/\">https://capresfacts.site/</a></p>\n</blockquote>\n<ul>\n<li>Github:</li>\n</ul>\n<blockquote>\n<p><a href=\"https://github.com/klawcodes/capres-facts-web\">https://github.com/klawcodes/capres-facts-web</a></p>\n</blockquote>\n<ul>\n<li>API:<blockquote>\n<p><a href=\"https://capresfactsapi.cyclic.app/\">https://capresfactsapi.cyclic.app/</a></p>\n</blockquote>\n</li>\n</ul>\n<p>Kritik dan saran dari pak Dhika dan teman-teman sangat diterima 🙂</p>\n<p>Terima kasih.</p>",
+              "image": "SEASON-4-11 Februari 2024-3.png"
+            },
+            {
+              "link": "http://143.198.206.231/",
+              "username": "Arif Budiman Arrosyid",
+              "message": "<p>Halo pak dhika dan teman teman semuanya, perkenalkan saya Arif Budiman, pada kali ini saya akan showcase project <strong>Lali Pro</strong>.\nIni merupakan private project. Project ini sudah sekitar 90% (kurang third party component aja).</p>\n<p>Khusus untuk pak dhika jika ingin mencoba di local, saya sudah mengirimkan email github invitation.\nDan untuk teman teman semua jika ingin mendapatkan early access bisa melalui github sponsor.</p>\n<p>TALL Stack:</p>\n<ul>\n<li>Tailwind</li>\n<li>Alpine JS</li>\n<li>Laravel</li>\n<li>Livewire</li>\n</ul>\n<p>Apa yang didapat dr Lali Pro?</p>\n<ul>\n<li>Semua yg ada di Lali</li>\n<li>Redesign UI</li>\n<li>Better Sidebar Admin Panel</li>\n<li>Socialite (OAuth) - Github dan Google - di demo baru github yg disetup.</li>\n<li>Spatie Permission</li>\n<li>Browser Session</li>\n<li>Bulk Action, Sort, Filter</li>\n<li>Third Party Component</li>\n<li>Trix Editor - In Progress - kurang upload attachment.</li>\n<li>EasyMDE - Todo</li>\n<li>Choices - Todo</li>\n<li>Pickaday - Todo</li>\n<li>dll</li>\n</ul>\n<p>Untuk melihat contoh componentnya bisa dilihat pada <strong>/example</strong> dan <strong>/another-example</strong></p>\n<p>Penggunaan komponen sesimpel</p>\n<pre><code>&lt;x-input.trix-editor wire:model=&quot;model_name&quot;/&gt;\n</code></pre>\n<p>Intinya tinggal fokus bikin aplikasi tanpa pusing mikirin pembuatan komponen.</p>\n<p>Demo:</p>\n<ul>\n<li><a href=\"http://143.198.206.231/\">Lali Pro</a></li>\n</ul>\n<p>User : <a href=\"mailto:user.example@mail.com\">user.example@mail.com</a> - password\nAdmin : <a href=\"mailto:admin.example@mail.com\">admin.example@mail.com</a> - password</p>\n<p>Saya sarankan untuk melakukan register atau login melalui <strong>Github</strong> dan <strong>gunakan akun admin</strong> pd browser lain <strong>untuk menambahkan role atau permission ke akun anda</strong> agar bisa melihat bagaimana implementasi <strong>Spatie Permission</strong>.</p>\n<p>Ini yang versi gratisnya</p>\n<ul>\n<li><a href=\"http://68.183.184.25/\">Lali</a></li>\n<li><a href=\"https://github.com/arifbudimanar/lali\">Github Lali</a></li>\n</ul>\n<p>Sekian, Terimakasih 🙏</p>",
+              "image": "SEASON-4-11 Februari 2024-4.png"
+            },
+            {
+              "link": "https://satsune.vercel.app/",
+              "username": "aditpee",
+              "message": "<p>Assalamualaikum pak dhika dan teman teman. Saya Adit, kali ini saya akan showcase project saya. Project nya adalah website static tentang &quot;satsune&quot;, satsune adalah brand kaos anime milik teman saya.</p>\n<p>Jadi saya iseng ingin membuatkan website nya itung² buat tambah² portofolio saya. Website ini juga sebagai proses pembelajaran saya mengenai framework react serta iseng iseng coba library swiper js</p>\n<p>Website ini menggunakan teknologi</p>\n<ul>\n<li>React</li>\n<li>Sass</li>\n<li>Swiper js</li>\n</ul>\n<p>Tentunya project ini masih banyak kekurangan, jadi mohon saran dan masukannya nya dari pak Dhika dan teman teman</p>\n<p>Demo</p>\n<ul>\n<li><a href=\"https://satsune.vercel.app/\">https://satsune.vercel.app/</a>\nRepo</li>\n<li><a href=\"https://github.com/aditpee/satsune-web\">https://github.com/aditpee/satsune-web</a></li>\n</ul>\n<p>Ini cuma website static biasa, bukan web e-commerce. Jadi mohon maaf tidak ada fitur payment gateway</p>\n<p>Jadi jika ada teman teman disini yg tertarik dengan kaos nya, bisa order melalui via WhatsApp atau shopee yg sudah tertera, kalo saran saya via WA saja.</p>",
+              "image": "SEASON-4-11 Februari 2024-5.png"
+            },
+            {
+              "link": "https://wedding-invitation-app-black.vercel.app/",
+              "username": "Kholid Irfangi",
+              "message": "<p>Assalamu&#39;alaikum semuanya izin showcase project. Kali ini saya mencoba membuat website undangan pernikahan. Dengan segala keterbatasan pengetahuan, saya mencoba membuat project ini dengan menggunakan tekhnologi Vite, React, Vanilla CSS, dan AOS. Masih banyak kekurangan salah satunya di bagian url parameternya belum berjalan sesuai dengan yang saya inginkan dan belum ada yang menghandle backend. Saya harap banyak masukan yang bisa di dapat dari sini. link demo : <a href=\"https://wedding-invitation-app-black.vercel.app/\">https://wedding-invitation-app-black.vercel.app/</a> link github : <a href=\"https://github.com/kholidirfangi/Wedding-Invitation-App\">https://github.com/kholidirfangi/Wedding-Invitation-App</a></p>",
+              "image": "SEASON-4-11 Februari 2024-6.png"
+            },
+            {
+              "link": "https://openseries.pages.dev/",
+              "username": "Hugo de Rune",
+              "message": "<p>selamat malam pak dhika :mantab:, we are comeback again dengan project OpenSeries dengan tim antara lain @Dietary de Rune, @pace de rune, @Chentaury , @Ayumu.so @pow (?) , @zorev , di versi 1.7.0 ini sudah di improvisasi lebih baru lagi yang dimana kode dari library OpenSeries bisa dijalankan langsung di web dokumentasinya serta tambahan lainnya (page kontribusi, komunitas, playseries, darkmode), sudah update juga banyak rumus matematika dan juga angka unikdll, seperti biasa project ini menggunakan library dari</p>\n<p>OpenSeries library\nnumpy\nOpenSeries Website:\nbun\nnextjs + ts\ntailwindcss\nmonaco editor\npostgree sql dari supabase untuk menyimpan hasil dari hasil sharing code\ncodemirror untuk code editor (sama seperti yang digunakan codepen)\nrun python code di browser menggunakan library pyodide dengan bantuan library react-py</p>\n<p>untuk librarynya bisa dilihat disni\n<a href=\"https://github.com/bellshade/OpenSeries\">https://github.com/bellshade/OpenSeries</a></p>\n<p>untuk webnya pak dhika bisa lihat disini\n<a href=\"https://openseries.pages.dev/\">https://openseries.pages.dev/</a></p>\n<p>untuk informasi perubahan bisa lihat disini pak\n<a href=\"https://github.com/bellshade/OpenSeries/releases/tag/v1.7.0\">https://github.com/bellshade/OpenSeries/releases/tag/v1.7.0</a>\nselebihnya tolong di roasting sebanyak2nya beserta kritik dan saran, soalnya untuk sementara butuh bahan roasting pak dhika untuk biar bisa ada next updatenya :hehehe: .\nbtw yang mau ikutan bagian dari tim openseries gass bisa join di channel bellshade discussion gassken :wpugege:</p>\n<p>terima kasih pak dhika, 4x4 = 16</p>",
+              "image": "SEASON-4-11 Februari 2024-7.png"
+            },
+            {
+              "link": "https://alfarabygit.github.io/calculator-app/",
+              "username": "Indra",
+              "message": "<p>Assalamu&#39;alaikum pak dhika dan kawan-kawan semoga sehat selalu Nama saya Alfaraby Indra alumni STMIK AMIK Riau angkatan 16 lulusan 2020. Sudah tak terasa waktu berlalu begitu cepat, showcase projects sederhana saya yang ke delapan kali ini menggunakan framework yaitu calculator app react.\nTech stack:\nA.Reactjs\nB.Vanilla CSS</p>\n<p>Adapun alasan saya membuat nya adalah utk menguji seberapa paham mengenai konsep framework react dasar seperti components, props dan state. Project ini juga merupakan referensi dari ||course front end freecodecamp.org||.&lt;:hehehe:972470914488885288&gt;</p>\n<p>Seperti biasa jgn lupa like dan feedback showcase projects saya yang ke delapan dari bapak dan kawan-kawan.</p>\n<p>Sekian, Wassalamu&#39;alaikum wr, wb</p>\n<p>Jgn lupa titik koma guys(ditunggu projects selanjutnya) &lt;:hehehe:972470914488885288&gt;</p>\n<p>Demo: <a href=\"https://alfarabygit.github.io/calculator-app/\">https://alfarabygit.github.io/calculator-app/</a></p>\n<p>Repository: <a href=\"https://github.com/alfarabygit/calculator-app\">https://github.com/alfarabygit/calculator-app</a></p>",
+              "image": "SEASON-4-11 Februari 2024-8.png"
+            },
+            {
+              "link": "https://snap-size-studio.netlify.app",
+              "username": "dnm17_",
+              "message": "<p>Assalamualaikum pak dhika dan teman-teman semua, perkenalkan nama saya dani. Kali ini saya mau showcase project website simple dan sederhana yang saya buat disaat waktu luang.</p>\n<p>Nama websitenya adalah <em>SnapSizeStudio</em> yaitu free online image editor. walaupun diluar sana sudah banyak website seperti ini yang bahkan fitur nya lebih lengkap, tapi belom puas kalo belom coba bikin sendiri 😅.</p>\n<p>Fitur yang sudah tersedia baru <em>Image Croper</em> dengan beberapa options yang bisa pak dhika dan teman2 lihat di websitenya, rencana kedepannya akan di tambah banyak fitur lagi.</p>\n<p>Dibuat menggunakan:</p>\n<ul>\n<li>Reactjs + Typescript</li>\n<li>Tailwindcss + Shadcn/ui</li>\n<li>react-image-crop</li>\n</ul>\n<p>Demo: <a href=\"https://snap-size-studio.netlify.app\">https://snap-size-studio.netlify.app</a>\nRepo: <a href=\"https://github.com/dfsdanimaulana/snap-size-studio\">https://github.com/dfsdanimaulana/snap-size-studio</a></p>",
+              "image": "SEASON-4-11 Februari 2024-9.png"
+            }
+          ]
+        },
+        {
+          "date": "17 Februari 2024",
+          "projects": [
+            {
+              "link": "https://www.alvalens.my.id/",
+              "username": "bloody",
+              "message": "<p>Assalamualaikum dan selamat pagi/siang/malam pak dhika dan semuanya, perkenalkan saya Alvalen. Udah lama nih ga nongol di discord soalnya sibuk banget sama urusan kuliah 😅. mungkin ini showcase ke 3 saya setelah sekian lama.</p>\n<p>Behold my portofolio website, sebenernya udah lama sih ini cuman belom sempet urus urusin lagi, jadi mungkin pak dhika dan kawan kawan bisa kasih saran ke web saya biar nanti bisa di improve lagi.</p>\n<p>ini website portofolio ke 2 saya (masih pemula bang). Kurang lebih ada 4 halaman utama yaitu home, about, project, dan archive. Warna websitenya monochrome karena gabisa milih warna 😃. Oiya ada juga chatbot di pojok kanan bawah. Oiya <strong>kadang beberapa tombol harus di klik 2x lebih</strong> (entahlah kenapa next js kadang gini)</p>\n<p>**Tech stack: **</p>\n<ul>\n<li>NextJs</li>\n<li>Javascript</li>\n<li>Tailwind CSS</li>\n<li>Framer Motion (animasi)</li>\n</ul>\n<p><strong>Demo</strong>: <a href=\"https://www.alvalens.my.id/\">https://www.alvalens.my.id/</a> (bisa juga search google alvalens) ngetes index google ceritanya hehe\n<strong>Repo</strong>: <a href=\"https://github.com/Alvalens/Alvalens-porto-2-nextJs\">https://github.com/Alvalens/Alvalens-porto-2-nextJs</a>\n<strong>Linkedin</strong>: <a href=\"https://www.linkedin.com/in/alvalens/\">https://www.linkedin.com/in/alvalens/</a> (siapa tau ada yang mau konek konek 😅)</p>\n<p>Thanks semua, jangan lupa follow githubku juga ges pasti ku folbek 😁 , dan ditunggu kritik dan sarannya para sepuh 🙏</p>",
+              "image": "SEASON-4-17 Februari 2024-0.png"
+            },
+            {
+              "link": "https://qovier.xyz",
+              "username": "cholis04",
+              "message": "",
+              "image": "SEASON-4-17 Februari 2024-1.png"
+            }
+          ]
+        },
+        {
+          "date": "Tentang",
+          "projects": []
+        },
+        {
+          "date": "Pembaruan",
+          "projects": []
+        },
+        {
+          "date": "Teknologi yang digunakan",
+          "projects": []
+        },
+        {
+          "date": "Tautan",
+          "projects": []
+        },
+        {
+          "date": "Penutup",
+          "projects": [
+            {
+              "link": "https://github.com/crosbydoo/lokarasa-app/releases/tag/release-app",
+              "username": "Comrade Crosby",
+              "message": "<p>Assalamualaikum pak dhika dan rekan-rekan semuanya, sebelumnya mohon izin untuk ikut showcase project untuk pertama kali, disini saya membuat simple project yang bertemakan Restaurant menggunakan Flutter. Project ini saya buat karena kemarin sempet ikut dicoding dan ada APInya yang lumayan lah buat belajar juga daripada tidak sama sekali dan kebetulan sedang kosong / gabut gak tau mau ngapain lagi hehe, jadi saya buat aplikasi ini. Masih ada beberapa kekurangan jadi mohon dimaklumi.</p>\n<p>Tech Stack:</p>\n<ul>\n<li>Flutter</li>\n<li>Hive Local Storage</li>\n<li>Bloc State Management</li>\n<li>Bloc Clean-Architecture</li>\n<li>Flutter Flavors</li>\n<li>Go - Router</li>\n<li>Getx</li>\n</ul>\n<p>Features:</p>\n<ul>\n<li>Search Restaurant</li>\n<li>Bookmark Restaurant</li>\n<li>Light Dark Mode</li>\n</ul>\n<p>Download Apk - <a href=\"https://github.com/crosbydoo/lokarasa-app/releases/tag/release-app\">https://github.com/crosbydoo/lokarasa-app/releases/tag/release-app</a>\nRepo - <a href=\"https://github.com/crosbydoo/lokarasa-app\">https://github.com/crosbydoo/lokarasa-app</a>\nAPI - <a href=\"https://restaurant-api.dicoding.dev/#/\">https://restaurant-api.dicoding.dev/#/</a></p>\n<p>saya sangat mengapresiasi feedback baik dalam kritik ataupun saran agar development untuk kedepannya lebih baik. Terima kasih salam titik koma</p>",
+              "image": "SEASON-4-Penutup-0.png"
+            },
+            {
+              "link": "https://leemrtnzz.github.io/Portfolio",
+              "username": "SAN",
+              "message": "<p>Assalamu&#39;alaikum</p>\n<p>Hallo pak dhika, dan teman2 lainnya. Semoga sehat2 dan lancar terus rezekinya, aamin.</p>\n<p>Saya maba di unpam serang, salam buat mahasiswa/sesepuh lainnya, saya masih tahap belajar. Saya sendiri sebetulnya lebih suka ke backend di banding frontend. Tapi tidak menutup kemungkinan saya suka keduanya, karena menarik buat dipelajari😂</p>\n<p>Ini pertama kali saya showcase, yaitu membuat project portfolio, kritik dan saran saya terima, font masih belum nemu yang pas, mungkin pak dhika bisa kasih saran😁 mohon maaf kalau ui nya masih berantakan, ketika klik tautan, tampilannya ketutup sama header.</p>\n<p>Tech stack:</p>\n<ul>\n<li>tailwinds</li>\n</ul>\n<p>Url: <a href=\"https://leemrtnzz.github.io/Portfolio\">https://leemrtnzz.github.io/Portfolio</a>\nRepo: <a href=\"https://github.com/leemrtnzz/Portfolio\">https://github.com/leemrtnzz/Portfolio</a></p>\n<p>Terima kasih</p>\n<ul>\n<li>Allah SWT (yang memberikan kesehatan dan rezeki)</li>\n<li>Orang tua dan keluarga yang support</li>\n<li>Pak dhika (bapak dosen online saya🥳)</li>\n<li>Semua member WPU</li>\n</ul>\n<p>Wa&#39;salamu alaikum</p>",
+              "image": "SEASON-4-Penutup-1.png"
+            },
+            {
+              "link": "https://barokah.bayudc.fun/",
+              "username": "BayuDC",
+              "message": "<p>Assalamualaikum teman-teman, aku mau showcase project yg keempat disini\nJadi ceritanya lagi fomo karena tiap liat personal web atau portfolio orang-orang kok pada punya web toko online, yauda aku ikut bikin deh tapi yang sederhana aja. Web yg kubuat ini temanya toko yang jual bahan buat masak kayak daging, sayur-sayuran, dan juga bumbu dapur. Awalnya mau bikin frontend doang terus backend cuma api buat ngambil produknya, tapi kok rasanya nanggung gitu yaudah backendnya dijadiin dashboard aja sekalian biar pemilik toko makin mudah ngelolanya. Jadi web ini udah paket lengkap cuma kurang di fitur pembayarannya.</p>\n<p>Demo :</p>\n<ul>\n<li><a href=\"https://barokah.bayudc.fun/\">https://barokah.bayudc.fun/</a></li>\n<li><a href=\"https://barokah.bayudc.fun/admin\">https://barokah.bayudc.fun/admin</a>\n(email dan password ada di readme)</li>\n</ul>\n<p>Repo:</p>\n<ul>\n<li><a href=\"https://github.com/BayuDC/barokah-shop\">https://github.com/BayuDC/barokah-shop</a></li>\n<li><a href=\"https://github.com/BayuDC/barokah-admin\">https://github.com/BayuDC/barokah-admin</a></li>\n</ul>\n<p>Teknologi:</p>\n<ul>\n<li>Laravel</li>\n<li>Livewire</li>\n<li>Nuxt 3</li>\n<li>Tailwind</li>\n<li>NotusJS</li>\n<li>Iconify</li>\n<li>MySQL</li>\n</ul>",
+              "image": "SEASON-4-Penutup-2.png"
+            },
+            {
+              "link": "https://nextjs14-nowted.vercel.app/",
+              "username": "wei",
+              "message": "<p>Assalamualaikum Pak Sandhika.</p>\n<p>Saya Wei, ingin showcase projek saya yang bernama Nowted Apps.\nProjek ini adaptasi dari design atau ide <a href=\"https://codedesign.dev/challenge/nowted-app\">https://codedesign.dev/challenge/nowted-app</a> yang dibuat oleh mas Nauval.</p>\n<p>Teknologi :</p>\n<ul>\n<li>Reactjs</li>\n<li>Nextjs 14</li>\n<li>Typescript</li>\n<li>Tailwind CSS</li>\n<li>MySQL (provide by railway)</li>\n<li>Prisma ORM</li>\n<li>Authentication - NextAuthv4</li>\n</ul>\n<p>Projek yang saya buat, sepenuhnya di design untuk desktop, jadi jika dibuka pada mobile atau tablet, mungkin tampilan nya akan berantakan atau pecah.</p>\n<p>Official Website: <a href=\"https://nextjs14-nowted.vercel.app/\">https://nextjs14-nowted.vercel.app/</a>\nOfficial Repositori: <a href=\"https://github.com/weiwei2694/nextjs14-nowted\">https://github.com/weiwei2694/nextjs14-nowted</a>\nAdapted from: Nauval - <a href=\"https://codedesign.dev/challenge/nowted-app\">https://codedesign.dev/challenge/nowted-app</a></p>\n<p>Terimah kasih.</p>",
+              "image": "SEASON-4-Penutup-3.png"
+            },
+            {
+              "link": "https://nathad17.github.io/nath_portfolio/",
+              "username": "NATH",
+              "message": "<p>Selamat malam Pak Dhika dan teman-teman semua,</p>\n<p>Perkenalkan, saya Nathan dari Kupang, NTT.\nIni adalah Showcase Project pertama saya. Proyek yang saya bagikan disini adalah web portofolio saya.</p>\n<p><strong>Tech Stack:</strong></p>\n<ul>\n<li>Tailwind CSS</li>\n<li>Vanilla JS</li>\n<li>Swiper JS</li>\n<li>AOS (Animate On Scroll)</li>\n</ul>\n<p><strong>Tautan:</strong></p>\n<ul>\n<li>Website : <a href=\"https://nathad17.github.io/nath_portfolio/\">https://nathad17.github.io/nath_portfolio/</a></li>\n<li>Repositori : <a href=\"https://github.com/nathAd17/nath_portfolio\">https://github.com/nathAd17/nath_portfolio</a></li>\n</ul>",
+              "image": "SEASON-4-Penutup-4.png"
             }
           ]
         }
