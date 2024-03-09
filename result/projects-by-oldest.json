@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-03-02T12:45:25.833Z",
+  "fetched_at": "2024-03-09T12:42:54.236Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -13626,6 +13626,96 @@
       "username": "NATH",
       "message": "<p>Selamat malam Pak Dhika dan teman-teman semua,</p>\n<p>Perkenalkan, saya Nathan dari Kupang, NTT.\nIni adalah Showcase Project pertama saya. Proyek yang saya bagikan disini adalah web portofolio saya.</p>\n<p><strong>Tech Stack:</strong></p>\n<ul>\n<li>Tailwind CSS</li>\n<li>Vanilla JS</li>\n<li>Swiper JS</li>\n<li>AOS (Animate On Scroll)</li>\n</ul>\n<p><strong>Tautan:</strong></p>\n<ul>\n<li>Website : <a href=\"https://nathad17.github.io/nath_portfolio/\">https://nathad17.github.io/nath_portfolio/</a></li>\n<li>Repositori : <a href=\"https://github.com/nathAd17/nath_portfolio\">https://github.com/nathAd17/nath_portfolio</a></li>\n</ul>",
       "image": "SEASON-4-Penutup-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Maret 2024",
+      "projectLink": "https://mabox-cli.vercel.app",
+      "projectIdx": 0,
+      "username": "UndeadBrain",
+      "message": "<p>Mabox-CLI, ngubah web jadi ala cli, cocok buat yang mabox CLI (anti GUI).\nGak jamin work semua website dan cuma navigasi dengan GET request\nWeb : <a href=\"https://mabox-cli.vercel.app\">https://mabox-cli.vercel.app</a>\nGitHub : <a href=\"https://github.com/bagusindrayana/mabox-cli\">https://github.com/bagusindrayana/mabox-cli</a></p>\n<p>Perintah : convert link_websitemu</p>\n<p>Atau buka <a href=\"https://mabox-cli.vercel.app/?sc=link_websitemu\">https://mabox-cli.vercel.app/?sc=link_websitemu</a></p>\n<p>ketik help untuk list command lainnya</p>",
+      "image": "SEASON-4-6 Maret 2024-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Maret 2024",
+      "projectLink": "https://vebriannn.github.io/portofolio/",
+      "projectIdx": 1,
+      "username": "Yn Suka Turuu",
+      "message": "<p>Selamat siang Pak Dhika dan teman-teman semua.\nPerkenalkan saya vebrian, saya ingin mengikuti Showcase Project. Project yang saya buat yaitu portofolio.</p>\n<p>Teknologi yang saya pakai:</p>\n<ul>\n<li><p>Bootstrap CSS</p>\n</li>\n<li><p>Typed JS</p>\n</li>\n<li><p>Link Website Portofolio:\n<a href=\"https://vebriannn.github.io/portofolio/\">https://vebriannn.github.io/portofolio/</a></p>\n</li>\n<li><p>Link Repositori:\n<a href=\"https://github.com/vebriannn/portofolio\">https://github.com/vebriannn/portofolio</a></p>\n</li>\n</ul>\n<p>Sekian terimakasih.</p>",
+      "image": "SEASON-4-6 Maret 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Maret 2024",
+      "projectLink": "https://makanbang.sampurasun.my.id/",
+      "projectIdx": 2,
+      "username": "Eris Sulistina",
+      "message": "<p>Selamat malam pak Dhika dan mahasiswa WPU semuanya. Saya Eris Sulistina masih setia dengan AlpineJS.</p>\n<p>Kali ini saya membawa projek yg awalnya kukira sederhana dan akan cepat selesai ternyata memakan waktu sekitar 2 mingguan. Nama projek ini bernama Makanbang. Nama ini terinspirasi dari meme yg menampilkan foto orang sedang makan. Latar belakang pembuatan projek ini berawal dari saya membaca berita bahwa 86% gen Z mengalami sindrom &#39;Menu Anxiety&#39;, yaitu kesulitan dalam memilih makanan. Dari sini lah saya kepikiran untuk membuat app yg merekomendasikan menu makan. Karena saya tidak tahu API yg menyediakan menu makanan, dan juga tidak mahu rekomendasi makanannya sangat acak, makanya saya memutuskan menggunakan localStorage agar user memasukkan menunya sendiri menyesuaikan kategori Breakfast, Lunch, Dinner, Snack, atau Drink.</p>\n<p>Pada proses pengerjaannya, saya mencoba hal baru di AlpineJS agar memisahkan x-data menjadi Global Alpine.data() lalu mengkombinasikannya dengan Alpine.store(). Dari projek ini saya belajar mutable&amp;imutable, setter &amp; getter, dan hal-hal sederhana lainnya. Mohon maklum jika pemilihan warnanya kurang nyaman dimata, soalnya saya kurang ahli di desain.</p>\n<p>Teknologi yang saya gunakan:</p>\n<ul>\n<li>AlpineJS: framework JS</li>\n<li>TailwindCSS: framework CSS</li>\n<li>Persist: plugin AlpineJS untuk bekerja dengan localStorage</li>\n<li>Icons8: icons untuk logo dan ilustrasi pada onBoard</li>\n<li>Heroicons: icons untuk fungsionalitas website</li>\n<li>dicebear.com: Avatar untuk profile</li>\n<li>pexels.com: asset foto</li>\n<li>fonts.google.com: asset font, saya pakai Plus Jakarta Sans</li>\n</ul>\n<p>Fitur:</p>\n<ul>\n<li>Edit profile</li>\n<li>Reset &amp; Format data</li>\n<li>Rekomendasi menu</li>\n<li>Menambahkan menu</li>\n<li>Melihat detail menu</li>\n<li>Mengedit menu</li>\n<li>Menghapus menu</li>\n<li>Mencari menu</li>\n<li>Filter menu</li>\n</ul>\n<p>Repo: <a href=\"https://github.com/sejutaimpian/makanbang\">https://github.com/sejutaimpian/makanbang</a>\nDemo: <a href=\"https://makanbang.sampurasun.my.id/\">https://makanbang.sampurasun.my.id/</a></p>\n<p>Terima kasih atas perhatian dan bintangnnya.</p>",
+      "image": "SEASON-4-6 Maret 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Maret 2024",
+      "projectLink": "http://memory-game.ikr4m.my.id/",
+      "projectIdx": 3,
+      "username": "Bukan Wibu",
+      "message": "<p>Selamat malam Pak Dhika semoga sehat selalu. Saya datang lagi dengan proyek iseng saya ini.</p>\n<p>Isengnya ini karena ini sebenarnya tugas bikin game sederhana dulu di kampus dan deadlinenya cuma dua hari jadi maaf banget kalau kodenya berantakan. Kemudian maaf juga karena ngga responsif karena targetnya cuma untuk PC doang.</p>\n<p>Stack yang dipakai cuma tok Svelte aja.</p>\n<p>Gamenya simpel pak, cuma game memory yang ngecocokin dua kotak doang. Bisa dilihat di repo saya ini (sudah ada beserta link gamenya di dalam repo).</p>\n<p><a href=\"https://github.com/ikr4-m/simple-memory-game\">https://github.com/ikr4-m/simple-memory-game</a></p>\n<p>Terima kasih pak atas perhatiannya 🙏</p>",
+      "image": "SEASON-4-6 Maret 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Maret 2024",
+      "projectLink": "https://nurfisyal.online/",
+      "projectIdx": 4,
+      "username": "gizon_",
+      "message": "<p>Halo Semuanya, Izin showcase untuk pertama kali nya 😀\nIni web portofolio saya, dibuat semingguan karena saya sering revisi design nya. Yaa walaupun sekarang mungkin gak terlalu bagus banget hehe.</p>\n<p>Tech yang dipakai:</p>\n<ul>\n<li>NextJS</li>\n<li>Tailwind CSS</li>\n<li>AOS</li>\n</ul>\n<p>link website: <a href=\"https://nurfisyal.online/\">https://nurfisyal.online/</a></p>\n<p>Kritik dan Saran sarannya ditunggu banget 😁\nTerima Kasih🙏</p>",
+      "image": "SEASON-4-6 Maret 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Maret 2024",
+      "projectLink": "https://elegant-twilight-8db55f.netlify.app/",
+      "projectIdx": 5,
+      "username": "dihpan",
+      "message": "<p>Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, seperti biasa kalau ada saya pasti tidak lain dan tidak bukan, showcasenya pasti game akwoakwoa. baik, untuk game kali ini saya beri nama &quot;Monster Orbit&quot;. dimana kita sebagai player menembaki musuh yang di lindungi oleh armor yang mengitarinya. untuk level ada 2, pertama dia punya 1 armor dan yang kedua dia punya 2 dan juga mohon do&#39;anya warga WPU saya tgl 1 maret nanti saya sidang skripsi XD</p>\n<p>Demo: <a href=\"https://elegant-twilight-8db55f.netlify.app/\">https://elegant-twilight-8db55f.netlify.app/</a></p>\n<p>Control:</p>\n<ul>\n<li>Tekan &quot;Space&quot; untuk menembak</li>\n<li>Panah &quot;kanan/kiri&quot; untuk bergerak</li>\n</ul>\n<p>Github Repo: <a href=\"https://github.com/pepega90/monster-orbit\">https://github.com/pepega90/monster-orbit</a></p>\n<p>Teknologi yang digunakan:</p>\n<ul>\n<li>C++</li>\n<li>raylib (<a href=\"https://www.raylib.com/\">https://www.raylib.com/</a>)</li>\n<li>emscripten (<a href=\"https://emscripten.org/\">https://emscripten.org/</a>)</li>\n</ul>\n<p>Kurang lebihnya mohon maaf, terima kasih.</p>",
+      "image": "SEASON-4-6 Maret 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Maret 2024",
+      "projectLink": "https://idn-area-map.vercel.app",
+      "projectIdx": 6,
+      "username": "F for Fityan",
+      "message": "<p>Halo semuanya, saya Fityan. Kali ini saya ingin showcase project <strong>peta wilayah Indonesia</strong> yang berbasis web. Data utamanya diambil dari API idn-area yang sudah pernah saya showcase sebelumnya.</p>\n<p>Fitur:</p>\n<ul>\n<li>Cari provinsi, kabupaten/kota, kecamatan, dan desa/kelurahan berdasarkan nama</li>\n<li>Ambil data wilayah dan turunannya</li>\n<li>Ambil data pulau berdasarkan kabupaten/kota dan menunjukkan koordinatnya di peta</li>\n<li>Menampilkan batas wilayah pada peta</li>\n<li>Opsi show/hide batas wilayah</li>\n<li>Tombol untuk melihat wilayah di Google Maps berdasarkan koordinat</li>\n<li>Mode gelap</li>\n</ul>\n<p>Tech stack:</p>\n<ul>\n<li>Next.js 14 + TypeScript</li>\n<li>Leaflet.js + react-leaflet untuk petanya</li>\n<li>Tailwind CSS + shadcn-ui</li>\n</ul>\n<p>Link website: <a href=\"https://idn-area-map.vercel.app\">https://idn-area-map.vercel.app</a>\nLink repo: <a href=\"https://github.com/fityannugroho/idn-area-map\">https://github.com/fityannugroho/idn-area-map</a></p>\n<blockquote>\n<p><strong>Note:</strong> Untuk data batas wilayahnya belum lengkap, terutama di level kecamatan &amp; desa/kelurahan. Jadi jangan kaget kalau pas lagi explore tiba2 muncul alert <code>failed to fetch boundary data</code>.</p>\n</blockquote>\n<p>Mohon feedback dan ⭐ nya, terima kasih 🙏</p>",
+      "image": "SEASON-4-6 Maret 2024-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Maret 2024",
+      "projectLink": "https://spmb.peix.my.id/",
+      "projectIdx": 7,
+      "username": "stepan",
+      "message": "<p>Halo Pak Dosen, teman-teman sekalian,</p>\n<p>Perkenalkan, nama saya Fais. Pada showcase kedua ini, saya ingin mempersembahkan proyek Sistem Pendaftaran Mahasiswa Baru berbasis website yang dibuat menggunakan Laravel 10, Inertia.js, Tailwind css, Vue, dan database MySQL.</p>\n<p>Saya menyempatkan diri untuk membuat proyek sederhana ini selama magang di Kominfo pada masa liburan semester 1. Terima kasih kepada tim SPBE Kominfo Pekanbaru yang telah membantu saya dan membuat saya sadar bahwa Laravel masih sangat dibutuhkan. Sejujurnya, saya awalnya mempelajari Node.js.</p>\n<p>Proyek ini dibuat selama magang di Kominfo pada masa liburan semester 1. Saya memutuskan untuk mengembangkan proyek ini karena website sebelumnya sudah dibuat sejak sekitar tahun 2018, dan saya ingin meningkatkan kualitasnya.</p>\n<p>Meskipun proyek sederhana ini sudah dibuat, saya sadar bahwa masih banyak hal yang perlu diperbaiki dan ditingkatkan. Oleh karena itu, saya mengundang kawan-kawan untuk memberikan ide dan masukan. Jika ada ide atau masalah yang ditemukan, silakan kabari saya agar proyek ini dapat menjadi lebih baik lagi.</p>\n<p>Fitur:</p>\n<ul>\n<li>Pendaftaran &amp; Formulir</li>\n<li>Tes Ujian, Kesehatan, dan Wawancara.</li>\n<li>4 role/level : user, panitia, keuangan, dan admin</li>\n<li>web setting (perencanaan agar dinamis)</li>\n<li>setting prodi &amp; gelombang</li>\n<li>setting mapel ujian, soal ujian, dan waktu pengerjaan</li>\n<li>Notifikasi sederhana di dalam website</li>\n<li>dashboard panitia</li>\n</ul>\n<p>Source code: <a href=\"https://github.com/Paiiss/spmb-laravel\">https://github.com/Paiiss/spmb-laravel</a>\nPreview: <a href=\"https://spmb.peix.my.id/\">https://spmb.peix.my.id/</a>\nWebsite lama: <a href=\"https://spmb.htp.ac.id/\">https://spmb.htp.ac.id/</a></p>\n<p>Akun uji coba:</p>\n<ol>\n<li>Panitia, Email: <a href=\"mailto:demo@peix.my.id\">demo@peix.my.id</a> - Pass: DemoSpmb</li>\n<li>Keuangan, Email: <a href=\"mailto:keuangan@peix.my.id\">keuangan@peix.my.id</a> - Pass: AdminKeuangan\nCatatan: Harap tidak melakukan perubahan yang tidak diinginkan, untuk pengetesan pendaftaran bisa langsung mendaftarkan akun</li>\n</ol>\n<p>Kalau teman - teman ingin menggunakan source code ini di sekolah / kampus teman - teman silahkan saja untuk menggunakanya, tapi jangan di jual ya ^_^</p>\n<p>Terima kasih atas perhatiannya.</p>",
+      "image": "SEASON-4-6 Maret 2024-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "6 Maret 2024",
+      "projectLink": "https://vue-school.vercel.app/",
+      "projectIdx": 8,
+      "username": "NATH",
+      "message": "<p>Selamat malam, Pak Dhika dan teman-teman semua.</p>\n<p>Saya Nathan. Kali ini saya ingin membagikan project kedua saya. Untuk showcase project kali ini, saya membagikan web landing page sekolah .</p>",
+      "image": "SEASON-4-6 Maret 2024-8.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Tautan :",
+      "projectLink": "https://zia-bakery.vercel.app/",
+      "projectIdx": 0,
+      "username": "zyourbae",
+      "message": "<p>Selamat malam pak dhika dan teman-teman WPU semua, perkenalkan saya Heru Azy.</p>\n<p>Izinkan saya ikut showcase project pertama saya yang bernama Zia Bakery, website ini saya buat dalam rangka pembelajaran React yang saya dapat dari channel WPU dan juga VIP CODE STUDIO.</p>\n<p>Website ini ceritanya akan digunakan untuk toko kue milik calon istri saya, karena masih tahap pengembangan semua asset didalamnya masih saya ambil dari internet dan ada beberapa fitur seperti cart yang masih belum bisa berfungsi. Website ini akan terus saya update seiring saya belajar React, karena untuk sekarang masih dalam bentuk User Interface nya saja.</p>\n<p><strong>Tech Stack:</strong></p>\n<ul>\n<li>React</li>\n<li>Tailwind</li>\n<li>Framer Motion</li>\n</ul>\n<p><strong>Link:</strong></p>\n<ul>\n<li>Website: <a href=\"https://zia-bakery.vercel.app/\">https://zia-bakery.vercel.app/</a></li>\n<li>Repository: <a href=\"https://github.com/HeruAzyy/zia-bakery\">https://github.com/HeruAzyy/zia-bakery</a></li>\n</ul>\n<p>Agar website ini terus berkembang mohon kritik dan saran dari pak dhika dan teman-teman WPU semua.</p>",
+      "image": "SEASON-4-Tautan :-0.png"
     }
   ]
 }
