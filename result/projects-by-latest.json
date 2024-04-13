@@ -1,6 +1,96 @@
 {
-  "fetched_at": "2024-04-06T12:44:30.951Z",
+  "fetched_at": "2024-04-13T12:41:39.074Z",
   "data": [
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 April 2024",
+      "projectLink": "https://winter-cosrent.vercel.app",
+      "projectIdx": 9,
+      "username": "Yuichiro Takumi",
+      "message": "<p>Asallamualaikum Wr wb, Salam Sejahtera dan Namobudhaya, Salam Harmoni</p>\n<p>Hallo temen-temen dan Sandhika sensei 😇 perkenalkan saya Yuichiro, saya merupakan mahasiswa sastra jepang smester 4 dari universitas di Bali. Pada kali ini saya ingin showcase project pertama saya dan pertama kali juga saya showcase di chanell WPUNPAS, project saya berbasis Front End yaitu website Winter Cosrent. Website ini merupakan project gabut yang saya buat karena jenuh belajar bahasa jepang. Saya membuatnya sekitar 4 hari saja.</p>\n<p>Adapaun hal yg saya lakukan karena tidak paham akan data base:</p>\n<ol>\n<li><p>Pada bagian registrasi form, saya memamfaatkan api bot telegram untuk mengirimkan notifikasi ke id chat telegram user, ketika user mengirim form\nData registrasi username dan password akan tersimpan secara otomatis di localstorage</p>\n</li>\n<li><p>Pada halaman admin terdapat satu form saja, form tersebut bertujuan untuk menginput data customer yg melakukan booking pada costume cosplay, Selanjutnya pada form booking costume cosplay, form sudah terkoneksi dengan api bot telegram yg nanti akan terkirim ke grup telegram.</p>\n</li>\n</ol>\n<p>maaf jika website nya kurang responsive di berbagai device hehe😁, selain itu website ini sangat 単純と思いました。</p>\n<p>Untuk membantu perkembangan skill dan pengetahuan saya akan dunia programming saya membutuhkan roastingan dan komentar hot spicy dari temen-temen dan juga Sandhika sensei untuk membantu diri saya berkembang 🙏\nAsallamualaikum Wr wb, salam sejahtera dan namo budhaya, salam harmoni, dan salam titik koma👋👋</p>\n<p>Tech :\n​Tailwind CSS\n​JS\n​AOS\n​Spreedsheet excel\n​API Bot telegeram</p>\n<p>Hosting :\nVercel</p>\n<p>Link demo website :\n<a href=\"https://winter-cosrent.vercel.app\">https://winter-cosrent.vercel.app</a></p>\n<p>Link grup telegram untuk cek fungsi bot :\n<a href=\"https://t.me/+RfDiQ9bthYswZmE9\">https://t.me/+RfDiQ9bthYswZmE9</a></p>\n<p>Repo github :</p>",
+      "image": "SEASON-4-13 April 2024-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 April 2024",
+      "projectLink": "https://ews-concept.vercel.app",
+      "projectIdx": 8,
+      "username": "UndeadBrain",
+      "message": "<p>share konsep desain web informasi/ews gempa bumi dengan tema neon genesis evangelion terinspirasi dari nerv app dari jepang, beberapa data-datanya dari bmkg tapi bisa jadi tidak realtime dan akurat</p>\n<p>Web : <a href=\"https://ews-concept.vercel.app\">https://ews-concept.vercel.app</a>\nRepo : <a href=\"https://github.com/bagusindrayana/ews-concept\">https://github.com/bagusindrayana/ews-concept</a></p>",
+      "image": "SEASON-4-13 April 2024-8.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 April 2024",
+      "projectLink": "https://drive.google.com/file/d/1uDqulMIgdv7p1tWCoshFj2sR2zfRpb7F/view?usp=sharing",
+      "projectIdx": 7,
+      "username": "kopi dingin",
+      "message": "<p>selamat pagi pak, kali ini saya mau showcase game buatan saya. dibuat pake <strong>RPG maker xp</strong>. gamenya dibuat pake RPG maker tapi saya ga bikin sistem role di game ini pak. jadi saya cuma ngegunain fitur dialog sama pengkondisian aja untuk ngebuat game ini</p>\n<p>navigasi di in gamenya bukan pake mouse tapi pake arrou button sama enter buat confirm.</p>\n<p>link download : <a href=\"https://drive.google.com/file/d/1uDqulMIgdv7p1tWCoshFj2sR2zfRpb7F/view?usp=sharing\">https://drive.google.com/file/d/1uDqulMIgdv7p1tWCoshFj2sR2zfRpb7F/view?usp=sharing</a></p>\n<p>maap maap ni pak klo kualitasnya masih kureng 🙏</p>",
+      "image": "SEASON-4-13 April 2024-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 April 2024",
+      "projectLink": "https://blog.bellawan.my.id",
+      "projectIdx": 6,
+      "username": "Bellawan Kusuma Aji",
+      "message": "<p>Selamat beraktifitas Pak Sandhika dan kawan-kawan sekalian. Berikut project ke 2 saya yang saya submit di Project Showcase ini.</p>\n<p>Sedikit background, project ini merupakan sebuah project <strong>Web Blog/CMS</strong> (Content Management System) yang berbasiskan framework Laravel. Project ini pada awalnya berangkat dari keinginan membangun ulang project blog, yang mulai dibuat 2010 silam menggunakan platform Blogspot. Dengan semakin berkembangnya teknologi web, saya tertarik untuk kembali belajar mengikuti perkembangan yang ada. Salah satunya framework PHP yang sangat powerful, yang baru saya kenal 2023 yang lalu.</p>\n<p>Awalnya saya berniat untuk membuat project ini tertutup, namun karena banyak hal yang saya pelajari dan kulik dari project ini, saya memutuskan untuk terus belajar dan membuatnya open source.</p>\n<p>Saya sadari masih banyak kekurangan di sana sini, saya mohon kritikan dan saran agar terus berkembang &lt;:hehehe:972470914488885288&gt;</p>\n<p><strong>Teknologi :</strong></p>\n<ol>\n<li>Laravel 10</li>\n<li>Laravel Livewire &amp; AlpineJS</li>\n<li>TailwindCSS</li>\n<li>EditorJS</li>\n</ol>\n<p><strong>Project Link:</strong></p>\n<ol>\n<li>GitHub Repo <a href=\"https://github.com/belankus/BKBlog\">https://github.com/belankus/BKBlog</a></li>\n<li>Website <a href=\"https://blog.bellawan.my.id\">https://blog.bellawan.my.id</a></li>\n<li>Dashboard <a href=\"https://blog.bellawan.my.id/dashboard\">https://blog.bellawan.my.id/dashboard</a> (register dahulu, verifikasi email untuk fitur lebih lengkap)</li>\n</ol>\n<p><strong>Akses Dashboard:</strong></p>\n<p>Kawan kawan dapat mencoba dengan registrasi untuk mendapat akses ke dashboard sebagai visitor. Apabila kawan-kawan konfirmasi email akan naik role otomatis ke user. Atau dapat gunakan akun berikut</p>\n<p>Credentials:</p>\n<ol>\n<li>Visitor <code>abc@abc.com</code> pass: <code>password</code></li>\n<li>Visitor <code>def@def.com</code> pass: <code>password</code></li>\n<li>User <code>user1@bellawan.my.id</code> pass: <code>password</code></li>\n<li>User <code>user2@bellawan.my.id</code> pass: <code>password</code></li>\n<li>Superadmin <code>sandhika.galih@unpas.ac.id</code> pass: sudah saya DM ke Pak Dhika</li>\n</ol>",
+      "image": "SEASON-4-13 April 2024-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 April 2024",
+      "projectLink": "https://armandwipangestu.vercel.app",
+      "projectIdx": 5,
+      "username": "devnull",
+      "message": "<p>Assalamu&#39;alaikum pak dhika dan kawan-kawan. Kali ini saya mau showcase project yang ke tiga kali, yang dimana project kali ini adalah sebuah web portfolio pribadi saya dan juga blog sederhana untuk sharing atau catetan proses pembelajaran saya mengenai teknologi.</p>\n<p>Website ini saya buat dengan tech stack:</p>\n<ul>\n<li><code>Next.js</code></li>\n<li><code>Tailwind CSS</code></li>\n<li><code>Markdown</code></li>\n</ul>\n<p>FYI: Design web ini terinspirasi dari video pak dhika yang &quot;Membuat Website Portfolio Menggunakan Tailwind CSS 3&quot;, namun saya coba buat dengan tech stack Next.js dan menambahkan halaman blog</p>\n<p>Berikut link website dan juga repository github nya:</p>\n<ul>\n<li><p>Website:\n<a href=\"https://armandwipangestu.vercel.app\">https://armandwipangestu.vercel.app</a></p>\n</li>\n<li><p>GitHub:\n<a href=\"https://github.com/armandwipangestu/armandwipangestu.vercel.app\">https://github.com/armandwipangestu/armandwipangestu.vercel.app</a></p>\n</li>\n</ul>\n<p>Semoga website yang saya buat ini bisa berguna untuk teman-teman semuanya (terlebih khusus pada bagian blog, soalnya saya suka bikin tulisan disana &lt;:hehehe:972470914488885288&gt; ).</p>",
+      "image": "SEASON-4-13 April 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 April 2024",
+      "projectLink": "https://angkasamuhammad.github.io/Object-3D-View/object3dview.html",
+      "projectIdx": 4,
+      "username": "⚙⚙WowGGGearing⚙⚙",
+      "message": "<p>Bismillaahirrahmaanirrahiim\nAssalaamu&#39;alaykum Wr wb.</p>\n<p>Project shocase kali ini adalah Object 3D Viewer..\nMenampilkan objek 3d menggunakan texture berupa Voronoi, sehingga texture tidak tampak pixelated/blur saat zoom in.\nAku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU &amp; memilih library yang mengutamakan performa.</p>\n<p>JS library:</p>\n<ul>\n<li>wgpu-matrix <a href=\"https://wgpu-matrix.org/docs/\">https://wgpu-matrix.org/docs/</a></li>\n</ul>\n<p>Repo: <a href=\"https://github.com/AngkasaMuhammad/Object-3D-View/\">https://github.com/AngkasaMuhammad/Object-3D-View/</a>\nWeb: <a href=\"https://angkasamuhammad.github.io/Object-3D-View/object3dview.html\">https://angkasamuhammad.github.io/Object-3D-View/object3dview.html</a></p>\n<p>Dari project ini diharapkan kita tidak cuma ahli main game, kita juga bisa 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 dompet makin slim 💸📉.\nMaturnuewun</p>",
+      "image": "SEASON-4-13 April 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 April 2024",
+      "projectLink": "https://kurakuraninja-towewew.vercel.app/",
+      "projectIdx": 3,
+      "username": "Chopper",
+      "message": "<p>Halloo semuanya saya chopper, kali ini saya mau showcase project sederhana. Project gabut tidak di sengaja, bernama TOWEWEW.</p>\n<p>Ini adalah hasil experiment menggunakan framermotion.</p>\n<p>Link: <a href=\"https://kurakuraninja-towewew.vercel.app/\">https://kurakuraninja-towewew.vercel.app/</a>\nRepo: <a href=\"https://github.com/Drian-key/kurakuraninja-towewew\">https://github.com/Drian-key/kurakuraninja-towewew</a></p>",
+      "image": "SEASON-4-13 April 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 April 2024",
+      "projectLink": "https://dua-opat.vercel.app",
+      "projectIdx": 2,
+      "username": "pusakamngl",
+      "message": "<p>Halo temen-temen semua, kali ini saya mau showcase projek ke dua kalinya disini. Projek ini cukup sederhana yang dibuat untuk mengisi waktu kosong di bulan ramadhan nemenin ngabuburit sama nunggu sahur.</p>\n<p>Projek ini bernama <strong>24 Game</strong>, yaitu permainan matematika di mana pemain mencoba mencari solusi perhitungan untuk mencapai nilai 24 dari empat atau enam kartu yang diberikan, menggunakan operasi matematika ( x - + ÷ ).</p>\n<p><strong>Tech :</strong></p>\n<ul>\n<li>ReactJS</li>\n<li>VITE</li>\n<li>TailwindCSS</li>\n<li>React Joyride</li>\n<li>React Router</li>\n<li>React Card Flip</li>\n</ul>\n<p><strong>Fitur :</strong></p>\n<ul>\n<li>Yak nyari nilai 24</li>\n</ul>\n<p><strong>Links :</strong></p>\n<ul>\n<li>[Demo] <a href=\"https://dua-opat.vercel.app\">https://dua-opat.vercel.app</a></li>\n<li>[Repo] <a href=\"https://github.com/pusakamanggala/24-game-web-app\">https://github.com/pusakamanggala/24-game-web-app</a></li>\n</ul>",
+      "image": "SEASON-4-13 April 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 April 2024",
+      "projectLink": "https://nezu.my.id/",
+      "projectIdx": 1,
+      "username": "Lost Gophers",
+      "message": "<p>Halo temen temen 👋 udah lama nih. kalo ini aku mau share project website discord bot aku yang dulu. sekarang tampilan nya udah lebih modern 😁</p>\n<p>Teknologi yang di gunakan:</p>\n<ul>\n<li>SolidJS</li>\n<li>TailwindCSS</li>\n<li>TypeScript</li>\n<li>Golang (Backend API) [Buat yang kemaren bilang &quot;Gophers kok php&quot;]</li>\n<li>Kotlin JVM (Discord BOT)</li>\n</ul>\n<p>Dan aku mau kasih tau kalau <code>NezukoChan</code> music bot Discord pertama yang mempunyai fitur <code>Crossfade</code> secara komersil</p>\n<p>Links:</p>\n<ul>\n<li><a href=\"https://nezu.my.id/\">https://nezu.my.id/</a></li>\n</ul>",
+      "image": "SEASON-4-13 April 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 April 2024",
+      "projectLink": "https://github.com/alfarabygit/KisahNabi",
+      "projectIdx": 0,
+      "username": "Indra",
+      "message": "<p>Assalamu&#39;alaikum pak dhika dan kawan-kawan semoga sehat selalu. Kali ini saya mau showcase projects ke sembilan yang mana projects nya ini dalam bentuk mobile(aplikasi android) sederhana yaitu app kisah nabi. &lt;:hehehe:972470914488885288&gt;</p>\n<p>Tech stack:\nA. Android studio\nB. Java(programming language)</p>\n<p>Adapun alasannya adalah untuk menguji pemahaman saya sejauh mana saya mampu membuat sebuah projects menggunakan Android studio dan juga untuk meramaikan showcase projects selama bulan puasa. Jadi di dalam aplikasi ini terdapat beberapa kisah-kisah nabi yang kita kenal mulai dari Nabi Adam sampai dengan Nabi Muhammad.</p>\n<p>Seperti biasa jgn lupa like dan feedback showcase projects sederhana saya yang ke sembilan dari bapak dan kawan-kawan.</p>\n<p>Sekian, Wassalamu&#39;alaikum wr, wb</p>\n<p>Jgn lupa titik koma guys(ditunggu projects selanjutnya) &lt;:hehehe:972470914488885288&gt;</p>\n<p>Link download app:\n<a href=\"https://drive.google.com/file/d/15W3_nWZu5qNPOFs-vvEiEOgn9kHIr0dI/view?usp=drivesdk\">https://drive.google.com/file/d/15W3_nWZu5qNPOFs-vvEiEOgn9kHIr0dI/view?usp=drivesdk</a></p>\n<p>GitHub link:\n<a href=\"https://github.com/alfarabygit/KisahNabi\">https://github.com/alfarabygit/KisahNabi</a></p>\n<p>Jangan lupa follow:\nGitHub: <a href=\"https://github.com/alfarabygit\">https://github.com/alfarabygit</a>\nLinkedIn:<a href=\"https://www.linkedin.com/in/alfaraby-indra-2084501b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\">https://www.linkedin.com/in/alfaraby-indra-2084501b7?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app</a>\nInstagram:<a href=\"https://instagram.com/alfarabyindra?igshid=OGQ5ZDc2ODk2ZA==\">https://instagram.com/alfarabyindra?igshid=OGQ5ZDc2ODk2ZA==</a>\nYouTube: <a href=\"https://youtube.com/@indracode7?si=0q3i5-a3Z6ltfHZc\">https://youtube.com/@indracode7?si=0q3i5-a3Z6ltfHZc</a></p>",
+      "image": "SEASON-4-13 April 2024-0.png"
+    },
     {
       "season": "SEASON-4",
       "showcaseDate": "25 Maret 2024",
