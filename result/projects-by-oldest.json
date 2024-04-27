@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-04-20T12:45:04.687Z",
+  "fetched_at": "2024-04-27T12:44:56.826Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -13896,6 +13896,60 @@
       "username": "Yuichiro Takumi",
       "message": "<p>Asallamualaikum Wr wb, Salam Sejahtera dan Namobudhaya, Salam Harmoni</p>\n<p>Hallo temen-temen dan Sandhika sensei 😇 perkenalkan saya Yuichiro, saya merupakan mahasiswa sastra jepang smester 4 dari universitas di Bali. Pada kali ini saya ingin showcase project pertama saya dan pertama kali juga saya showcase di chanell WPUNPAS, project saya berbasis Front End yaitu website Winter Cosrent. Website ini merupakan project gabut yang saya buat karena jenuh belajar bahasa jepang. Saya membuatnya sekitar 4 hari saja.</p>\n<p>Adapaun hal yg saya lakukan karena tidak paham akan data base:</p>\n<ol>\n<li><p>Pada bagian registrasi form, saya memamfaatkan api bot telegram untuk mengirimkan notifikasi ke id chat telegram user, ketika user mengirim form\nData registrasi username dan password akan tersimpan secara otomatis di localstorage</p>\n</li>\n<li><p>Pada halaman admin terdapat satu form saja, form tersebut bertujuan untuk menginput data customer yg melakukan booking pada costume cosplay, Selanjutnya pada form booking costume cosplay, form sudah terkoneksi dengan api bot telegram yg nanti akan terkirim ke grup telegram.</p>\n</li>\n</ol>\n<p>maaf jika website nya kurang responsive di berbagai device hehe😁, selain itu website ini sangat 単純と思いました。</p>\n<p>Untuk membantu perkembangan skill dan pengetahuan saya akan dunia programming saya membutuhkan roastingan dan komentar hot spicy dari temen-temen dan juga Sandhika sensei untuk membantu diri saya berkembang 🙏\nAsallamualaikum Wr wb, salam sejahtera dan namo budhaya, salam harmoni, dan salam titik koma👋👋</p>\n<p>Tech :\n​Tailwind CSS\n​JS\n​AOS\n​Spreedsheet excel\n​API Bot telegeram</p>\n<p>Hosting :\nVercel</p>\n<p>Link demo website :\n<a href=\"https://winter-cosrent.vercel.app\">https://winter-cosrent.vercel.app</a></p>\n<p>Link grup telegram untuk cek fungsi bot :\n<a href=\"https://t.me/+RfDiQ9bthYswZmE9\">https://t.me/+RfDiQ9bthYswZmE9</a></p>\n<p>Repo github :</p>",
       "image": "SEASON-4-13 April 2024-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "27 April 2024",
+      "projectLink": "https://muuwafi.site",
+      "projectIdx": 0,
+      "username": "wapii",
+      "message": "<p>Assalamualaikum wr.wb.</p>\n<p>Halo teman teman, perkenalkan saya Wafi. Saya seorang ui/ux design, duduk dibangku kelas 10 jurusan DKV (Desain Komunikasi Visual).</p>\n<p>Kali ini saya ingin mengikuti showcase project WPUNPAS.</p>\n<p>Disini saya ingin mengshare project website personal/portofolio yang dibuat dengan react js, firebase dan tailwind css.</p>\n<p>Link web : <a href=\"https://muuwafi.site\">https://muuwafi.site</a>\nGithub : <a href=\"https://github.com/muuwafi\">https://github.com/muuwafi</a></p>",
+      "image": "SEASON-4-27 April 2024-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "27 April 2024",
+      "projectLink": "https://pamerajadulu.vercel.app",
+      "projectIdx": 1,
+      "username": "depa",
+      "message": "<p>halo semuanya, salam kenal.\nperkenalkan saya depa. izin ikutan showcase project yg saya bikin 👨‍💻</p>\n<p>project kali ini terinspirasi dari hashtag yg rame di twitter #PamerAjaDulu (<a href=\"https://twitter.com/hashtag/PamerAjaDulu\">https://twitter.com/hashtag/PamerAjaDulu</a>)\njadi saya coba bikin web untuk tempat temen-temen semua me-&quot;mamerkan&quot; project yang temen-temen pernah buat agar tidak hilang begitu saja</p>\n<p>untuk web nya sendiri bisa di akses di : <a href=\"https://pamerajadulu.vercel.app\">https://pamerajadulu.vercel.app</a></p>\n<p>untuk fitur-fiturnya sendiri diantaranya:</p>\n<ul>\n<li>register &amp; login</li>\n<li>submit project</li>\n<li>vote project</li>\n</ul>\n<p>ayo temen-temen semua buat submit semua project yang pernah dibikin biar bisa diliat sama yang lain 🚀</p>\n<p>*project ini bisa dibilang sebagai clone dari ProductHunt dengan kearifan lokal hehehe</p>\n<p>makasih semuanya, semoga bisa bermanfaat.. 🙇‍♂️</p>",
+      "image": "SEASON-4-27 April 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "27 April 2024",
+      "projectLink": "https://yogameleniawan.com/",
+      "projectIdx": 2,
+      "username": "yogameleniawan",
+      "message": "<p>halo semuanya, salam kenal. perkenalkan nama saya yoga, izin mengikuti showcase project portfolio saya yak..</p>\n<p>untuk tema project portfolio sebenernya ambil tema vs code jadi icon2 yang dipake ya pake vscode icon, mau pake theme sublime tapi engga deh😁</p>\n<p>untuk linknya bisa diakses di : <a href=\"https://yogameleniawan.com/\">https://yogameleniawan.com/</a></p>\n<p>untuk techstack yang saya gunakan adalah :</p>\n<ul>\n<li>NextJS</li>\n<li>TailwindCSS</li>\n<li>Framer Motion</li>\n</ul>\n<p>terimakasih atas perhatiannya temen-temen🫡</p>",
+      "image": "SEASON-4-27 April 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "27 April 2024",
+      "projectLink": "https://thedonation.cloud ",
+      "projectIdx": 3,
+      "username": "Muhammad Saleh Solahudin",
+      "message": "<p>Halo semuanya perkenalkan nama saya Muhammad Saleh Solahudin, izin ikut showcase project website yang saya dan rekan saya buat ya Pak.</p>\n<p>Jadi website sederhana ini waktu itu kami buat untuk mengikuti PolarDB Global Hackathon 2023 yang diselenggarakan oleh Alibaba Cloud dan CodePolitan. Website ini kami beri nama <strong>&quot;The Cloud Donation&quot;</strong>, nama tersebut terpikir karena kami ingin membuat website donasi yang memanfaatkan teknologi cloud.</p>\n<p>Untuk tantangan nya mungkin lebih ke arah waktu pengerjaan nya, karena waktunya yang lumayan singkat (hanya ada waktu 1 bulan) dan kami ber tiga semuanya kerja. Jadi hanya ada waktu 1 sampai 2 jam saja setelah working hours di malam hari. Oleh karena itu kami memilih teknologi yang benar-benar kami bisa.</p>\n<p>Mungkin jika teman-teman melihat teknologi nya kenapa ga pake react, vue, next atau nuxt? jawabannya karena kami waktu itu belum menguasainya 😅</p>\n<p>Teknologi:</p>\n<ul>\n<li>HTML, CSS, JS</li>\n<li>PHP</li>\n<li>Go</li>\n<li>Berbagai Macam Layanan dari AlibabaCloud</li>\n</ul>\n<p>Untuk akses buat loginnya akan saya kirim via private message ya Pak.</p>\n<p>Terimakasih semua untuk perhatiannya 🫡</p>\n<p>Link Website: <a href=\"https://thedonation.cloud\">https://thedonation.cloud</a></p>\n<p>Kalau mau nyoba-nyoba boleh ya, soalnya bukan website production 😁</p>",
+      "image": "SEASON-4-27 April 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "27 April 2024",
+      "projectLink": "https://msaf.tech",
+      "projectIdx": 4,
+      "username": "CC-18 | Muhammad Salman Alfarisi",
+      "message": "<p>Halo semuanya, aku <strong>Salman</strong> dan izin buat ikut showcase projek ku yang ku buat beberapa minggu terakhir ini</p>\n<p>Jadi pertama, aku ada website portfolio pribadi yang punya beberapa fitur berikut:</p>\n<ul>\n<li>Dark mode</li>\n<li>Keyboard shortcut (<code>ctrl m</code> dan <code>ctrl f</code>)</li>\n<li>Guestbook (isi guys :D)</li>\n<li>Form</li>\n<li>dll.</li>\n</ul>\n<p>Nah websitenya juga punya beberapa page yang punya beberapa fungsi spesial, contohnya:</p>\n<ul>\n<li><code>/playground</code> : Komponen librari gratis yang bisa di-copy-paste sebagai sarana aku eksplorasi (kaya shadcn-ui)</li>\n<li><code>/guestbook</code> : Sebagai tanda pengunjung website, bisa login pake OAuth supabase</li>\n<li><code>/blog</code> : Sarana aku untuk menulis blog, mulai dari personal sampai ke tutorial</li>\n<li><code>/template</code> : Page ini bakal dipake buat taro template yg aku punya, mostly starters buat efisiensi setup projek</li>\n</ul>\n<p>Techstack yang aku pake di projek ini mencakup:</p>\n<ul>\n<li>Next, Typescript</li>\n<li>TailwindCSS</li>\n<li>Supabase</li>\n<li>Hygraph, GQL</li>\n</ul>\n<p>Projeknya bisa dilihat di <a href=\"https://msaf.tech\">https://msaf.tech</a></p>",
+      "image": "SEASON-4-27 April 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "27 April 2024",
+      "projectLink": "https://github.com/aufarijaal/online-book-store-backend",
+      "projectIdx": 5,
+      "username": "Aufa Rijal",
+      "message": "<p>Assalamu&#39;alaikum Wr Wb. Selamat malam teman teman WPU.</p>\n<p>Perkenalkan kembali nama saya Aufa, saya sebenernya udah dua kali showcase project cuma gap nya agak lama sejak terakhir showcase jdi mending kenalan lagi. hehe.</p>\n<p>Project yang kali ini mau share adalah sebuah <strong>Fullstack Web Application</strong> tentang <strong>Online Book Store</strong> dan saya kasih nama <strong>Garadia</strong>, gak tau lah ngarang aja namanya, mirip Gramedia. wkwk.</p>\n<p><strong>Tech Stack</strong></p>\n<ul>\n<li>Laravel Sail, sebagai Backend API</li>\n<li>Nuxt JS, sebagai Front End</li>\n<li>Bootstrap, tpi pake custom theme yg namanya Zephyr dari Bootswatch</li>\n<li>MySQL</li>\n<li>Midtrans, pake Sandbox</li>\n<li>Ngrok, buat expose backend supaya midtrans bisa di pake.</li>\n</ul>\n<p><strong>Fitur</strong></p>\n<ul>\n<li>Cart, Checkout</li>\n<li>Admin role</li>\n<li>CRUD Genre, Books, Author, dll</li>\n</ul>\n<p><strong>Note</strong></p>\n<ul>\n<li>Project ini belum dihosting, dan belum ada rencana untuk dihosting, jdi maaf pak dhika, nanti nyoba nya manual, step demo nya ada dibawah.</li>\n<li>Mohon maaf juga kalo nanti ada buku buku dgn cover yang lumayan vulgar / tdk pantas. di ignore aja.\nkarena data nya hasil scrape random, sekitar 700an. tpi cover yang ke download cuma 400an, sisanya gagal download, jdi nanti ada beberapa buku yang no cover.</li>\n</ul>\n<p><strong>Link Repo Backend / API</strong>\n<a href=\"https://github.com/aufarijaal/online-book-store-backend\">https://github.com/aufarijaal/online-book-store-backend</a></p>\n<p><strong>Link Repo Frontend</strong>\n<a href=\"https://github.com/aufarijaal/online-book-store-frontend\">https://github.com/aufarijaal/online-book-store-frontend</a></p>\n<p><strong>Link Cover Images</strong>\n<a href=\"https://drive.google.com/file/d/1QbS-hXFRQt9Dr7tZekATfI5cHrPJTv6d/view?usp=sharing\">https://drive.google.com/file/d/1QbS-hXFRQt9Dr7tZekATfI5cHrPJTv6d/view?usp=sharing</a></p>\n<p><strong>Step Demo</strong></p>\n<ol>\n<li>Clone kedua repo.</li>\n<li>Jalankan docker.</li>\n<li>Run <code>composer install</code> di backend.</li>\n<li>Run <code>vendor/bin/sail up</code> untuk jalankan container nya. tambahkan <code>-d</code> kalo mau mode <code>detach</code></li>\n<li>Buat database bernama <code>laravel</code>, atau nama lain juga boleh tpi harus ubah dulu di .env</li>\n<li>Run <code>vendor/bin/sail artisan migrate --seed</code> untuk migrate sekaligus seeder nya.</li>\n<li>Download cover image dari link diatas, extract lalu simpan di <code>storage/app/public/covers</code></li>\n<li>Buat file .env (lihat di DM pak)</li>\n</ol>",
+      "image": "SEASON-4-27 April 2024-5.png"
     }
   ]
 }
