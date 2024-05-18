@@ -1,6 +1,96 @@
 {
-  "fetched_at": "2024-05-11T12:46:51.964Z",
+  "fetched_at": "2024-05-18T12:48:34.477Z",
   "data": [
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "18 Mei 2024",
+      "projectLink": "https://farkhanmhd.vercel.app/",
+      "projectIdx": 9,
+      "username": "farkhanmhd",
+      "message": "<p>Assalaumalaikum Pak Dhika dan teman-teman semua,</p>\n<p>Perkenalkan nama saya Farkhan dari Medan, Izin showcase untuk pertama kalinya untuk web portfolio sederhana yang saya buat dari hasil belajar NextJS, Jotai, dan GSAP.</p>\n<p>Site: <a href=\"https://farkhanmhd.vercel.app/\">https://farkhanmhd.vercel.app/</a>\nRepo: <a href=\"https://github.com/farkhanmhd/portfolio\">https://github.com/farkhanmhd/portfolio</a></p>\n<p>Teknologi yang dipakai pada project ini:</p>\n<ul>\n<li>NextJS</li>\n<li>TailwindCSS</li>\n<li>Jotai</li>\n<li>GSAP</li>\n<li>Lenis</li>\n</ul>",
+      "image": "SEASON-4-18 Mei 2024-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "18 Mei 2024",
+      "projectLink": "https://github.com/ekokurniadi/rust_user_api_monolith",
+      "projectIdx": 8,
+      "username": "Kurniadi",
+      "message": "<p>Assalamualaikum Pak Dhika dan teman-teman semua, izin share hasil belajar Backend dengan Rust.</p>\n<p>Dibuat Dengan :</p>\n<ul>\n<li>Rust</li>\n<li>PostgresSql</li>\n<li>Diesel ORM</li>\n<li>Rocket Framework</li>\n</ul>\n<p>Terima kasih</p>\n<p>Repository : <a href=\"https://github.com/ekokurniadi/rust_user_api_monolith\">https://github.com/ekokurniadi/rust_user_api_monolith</a></p>",
+      "image": "SEASON-4-18 Mei 2024-8.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "18 Mei 2024",
+      "projectLink": "https://cari-mahasiswa.vercel.app/",
+      "projectIdx": 7,
+      "username": "f/1.8",
+      "message": "<p>Halo Pak Dhika dan temen-temen semuanya, semoga diberikan kesehatan dan kelancaran dalam menjalani hari. Perkenalkan saya Haikel Ilham Hakim, izin untuk showcase project. Jadi <strong>cari-mahasiswa</strong> adalah sebuah Website yang berfungsi untuk mencari data mahasiswa berdasarkan nama, NIM, juga perguruan tingginya. Selain itu, kita juga bisa melihat detail perguruan tinggi mahasiswa yang kita cari. Cara kerjanya sama seperti Websitenya PDDikti, hanya saja Website ini ga ada pencarian dosennya + secara UI nya juga lebih simple hehe 😄 . By default, value dari input searchnya sendiri adalah <strong>Yuuki</strong>.</p>\n<p>Dibuat dengan:</p>\n<ul>\n<li>Next JS 14</li>\n<li>Typescript</li>\n<li>Tailwind CSS + shadcn/ui</li>\n<li>React Query</li>\n<li>Jotai</li>\n<li>tRPC</li>\n</ul>\n<p>Repository: <a href=\"https://github.com/haikelz/cari-mahasiswa\">https://github.com/haikelz/cari-mahasiswa</a>\nLive Website: <a href=\"https://cari-mahasiswa.vercel.app/\">https://cari-mahasiswa.vercel.app/</a></p>\n<p>ありがとう (Terima Kasih)</p>",
+      "image": "SEASON-4-18 Mei 2024-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "18 Mei 2024",
+      "projectLink": "https://ngc-1512.github.io/",
+      "projectIdx": 6,
+      "username": "Sometimes",
+      "message": "<p>Punten, perkenalkan saya uji saya ingin showcase project pertama saya yaitu sebuah game tik tak toe yang dilengkapi dengan algoritma minimax.</p>\n<p>Bahasa yang saya gunakan hanyalah vanilla javascript dan untuk framework hanya menggunakan\nbootstrap saja.</p>\n<p>untuk pilihan ai nya hanya ada dua yaitu smartAI dan foolAI.</p>\n<p>site: <a href=\"https://ngc-1512.github.io/\">https://ngc-1512.github.io/</a>\nrepository: <a href=\"https://github.com/NGC-1512/NGC-1512.github.io\">https://github.com/NGC-1512/NGC-1512.github.io</a></p>\n<p>Hatur nuhun.</p>",
+      "image": "SEASON-4-18 Mei 2024-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "18 Mei 2024",
+      "projectLink": "https://github.com/DeRuneLabs/jane",
+      "projectIdx": 5,
+      "username": "Hugo de Rune",
+      "message": "<p>wello pak dhika, seperti biasa lupakanlah titik koma &lt;:hehehe:972470914488885288&gt;\nkali ini saya akan showcase project yang bernama <code>jane (joy along new experience)</code>, jadi project ini kerja sama bareng @Nab de Rune yang merupakan compiler dari bahasa pemograman yang saya buat sendiri pak dengan ekstensi <code>.jn</code>, jadi tujuan dari project ini adalah untuk mengcounter project-project gabut, sederhana, dan melawan serangan dari pengguna <code>$</code> di awal nama variabel. <code>jane</code> ini bisa compile dan transpile (dari bahasa jane ke cpp untuk transpile) sehingga lebih fleksibel lagi (rencana bisa support banyak bahasa untuk intergrasi ke bahasa <code>jane</code>), tujuan dari project ini difokuskan untuk membuat program dengan bahasa yang safe dan mudah untuk dipelajari dan menjadi sebuah pengalaman baru dalam membuat program sistem yang safe</p>\n<p>bahasa yang digunakan:</p>\n<ul>\n<li>golang</li>\n<li>c++ ( untuk api )</li>\n<li>shell ( untuk automatic build project, maintain oleh &lt;@731792306511806496&gt; )</li>\n</ul>\n<p>repository: <a href=\"https://github.com/DeRuneLabs/jane\">https://github.com/DeRuneLabs/jane</a></p>\n<p>terima kasih pak dhika, menerima kritik dan saran, and lupakan titik koma</p>",
+      "image": "SEASON-4-18 Mei 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "18 Mei 2024",
+      "projectLink": "https://al-quranku-v1.vercel.app",
+      "projectIdx": 4,
+      "username": "amandd",
+      "message": "<p>Hallo, selamat malam pak dhika dan teman-teman wpu semua\nperkenalkan kembali nama saya Aman, izin showcase project untuk yang ke dua, nama project nya adalah al-quranku project ini merupakan hasil belajar next js selama bulan puasa kemarin</p>\n<p>website ini terinspirasi dari equran.id, API nya juga saya ambil dari <a href=\"https://equran.id/apidev/v2\">https://equran.id/apidev/v2</a></p>\n<p>untuk saat ini fitur yang tersedia</p>\n<ul>\n<li>mode fokus baca qur&#39;an (tanpa terjemahan)</li>\n<li>mode baca qur&#39;an + terjemahan</li>\n<li>tafsir</li>\n<li>pencarian berdasarkan nama atau nomor surah</li>\n<li>audio player murottal</li>\n<li>bookmark ayat</li>\n<li>login dan register untuk bookmark</li>\n<li>PWA</li>\n</ul>\n<p>Techstack:</p>\n<ul>\n<li>Typescript</li>\n<li>NextJs</li>\n<li>Tailwindcss</li>\n<li>Firebase</li>\n</ul>\n<p>Link: <a href=\"https://al-quranku-v1.vercel.app\">https://al-quranku-v1.vercel.app</a>\nRepo: <a href=\"https://github.com/aMand777/al-quranku\">https://github.com/aMand777/al-quranku</a></p>\n<p>Terima kasih semoga bermanfaat.</p>",
+      "image": "SEASON-4-18 Mei 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "18 Mei 2024",
+      "projectLink": "https://noosabaktee-room.netlify.app/",
+      "projectIdx": 3,
+      "username": "noosabaktee",
+      "message": "<p>Halo pak dhika dan teman-teman👋</p>\n<p>Saya Rama Nusa Bakti ingin showcase project saya. Kali ini saya membuat portfolio 3d. Disini kalian bisa explore kamar saya sambil mencari tahu tentang diri saya🤗</p>\n<p>Teknologi:\nReact Three Fiber</p>\n<p>Link:\n<a href=\"https://noosabaktee-room.netlify.app/\">https://noosabaktee-room.netlify.app/</a></p>\n<p>GitHub:\n<a href=\"https://github.com/noosabaktee/my-room\">https://github.com/noosabaktee/my-room</a></p>",
+      "image": "SEASON-4-18 Mei 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "18 Mei 2024",
+      "projectLink": "https://absenin.vann.my.id",
+      "projectIdx": 2,
+      "username": "Vann",
+      "message": "<p>Malam semua nya,\nKenalin Saya Vann, nama asli Stevan, terakhir showcase disini sih 2022, udah lama banget.</p>\n<p>Sekarang saya balik lagi pengen showcase, disini saya ingin memperkenalkan sebuah project yang bernama <strong>Absenin</strong>, absenin ini merupakan web absensi yang memiliki fitur yang bernama <strong>anti absenin orang lain</strong>, dimana kita tidak bisa absenin orang lain.</p>\n<p>Web ini terinpirasi dari teman sekelas yang selalu ngomong &quot;weh absenin dong, tar gw masuk kelas nya agak telat, biar dosen nya ga marah&quot;, nyatanya dia madol 🤣.</p>\n<p>Di web ini memiliki beberapa fitur yang berguna untuk mencegah hal tersebut terjadi, seperti</p>\n<ol>\n<li>IP Logging</li>\n<li>Browser Fingerprint</li>\n</ol>\n<blockquote>\n<p>&quot;Lah misal ada ip logging, pake vpn bisa dong lolos?&quot;, nah disini saya juga ada logging Fingerprint, jadi 1 device cuma bisa 1x scan</p>\n</blockquote>\n<p><strong>Untuk fitur lain ada di readme Project nya</strong>\n<a href=\"https://github.com/Absenin\">https://github.com/Absenin</a></p>\n<p><strong>Untuk repo WEB dan API ada disini</strong>\n<a href=\"https://github.com/Absenin/absenin-web\">https://github.com/Absenin/absenin-web</a>\n<a href=\"https://github.com/Absenin/absenin-api\">https://github.com/Absenin/absenin-api</a></p>\n<p><strong>Untuk link website ada disini</strong>\n<a href=\"https://absenin.vann.my.id\">https://absenin.vann.my.id</a></p>\n<p><strong>Oh ya untuk credentials nya</strong>\n<a href=\"https://absenin.vann.my.id/login/admin\">https://absenin.vann.my.id/login/admin</a>\nPass: admin</p>\n<p><a href=\"https://absenin.vann.my.id/login/account\">https://absenin.vann.my.id/login/account</a>\nEmail: <a href=\"mailto:admin@admin.com\">admin@admin.com</a>\nPass: admin</p>\n<p><strong>Oh ya kalian juga bisa nambah user dari dashboard</strong>\n<a href=\"https://absenin.vann.my.id/dashboard/admin\">https://absenin.vann.my.id/dashboard/admin</a></p>\n<p><strong>Documentation cara pakai</strong>\n<a href=\"https://github.com/Absenin/docs/tree/main/how-to-use\">https://github.com/Absenin/docs/tree/main/how-to-use</a></p>\n<p><strong>Untuk teknologi dan bahasa yang di pakai di project ini</strong></p>\n<ul>\n<li>Nextjs</li>\n<li>Flask</li>\n<li>Python</li>\n<li>Typescript</li>\n<li>Postgresql</li>\n<li>Prisma ORM</li>\n<li>Rest API</li>\n</ul>\n<blockquote>\n<p>Untuk showcase ini, pembuatan user sudah saya limit ke 20, dan akun 20, untuk mencegah spam dan down saat showcase</p>\n</blockquote>\n<p>Mungkin sekian dari saya,\nTerimakasih</p>",
+      "image": "SEASON-4-18 Mei 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "18 Mei 2024",
+      "projectLink": "https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack",
+      "projectIdx": 1,
+      "username": "Arif Budiman Arrosyid",
+      "message": "<p>Selamat malam semuanya,\nSaya Arif Budiman, saya mau berbagi vscode extension pack &quot;<strong>Better Laravel Extension Pack</strong>&quot;\nuntuk TALL stack (Tailwind, AlpineJs, Laravel, Livewire) dan\nbeberapa config yang saya pakai.\n<a href=\"https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack\">https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack</a>\natau bisa dengan eksekusi di vscode</p>\n<pre><code>ext install arifbudimanar.better-laravel-extension-pack\n</code></pre>\n<p>Sudah sekitar <strong>2,465</strong> yang install dan <strong>4,900</strong> download, lumayan banyak.\nUntuk repo sudah ada di deskripsinya.</p>\n<p>Ada juga beberapa vscode theme dan windows terminal theme, untuk lebih lengkapnya silahkan kunjungi\n<a href=\"https://marketplace.visualstudio.com/publishers/arifbudimanar\">https://marketplace.visualstudio.com/publishers/arifbudimanar</a></p>\n<p>Terimakasih. ✌️</p>",
+      "image": "SEASON-4-18 Mei 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "18 Mei 2024",
+      "projectLink": "https://zenfresh-proto.netlify.app/",
+      "projectIdx": 0,
+      "username": "Umar Jihad",
+      "message": "<p>Halo semuanya.</p>\n<p>Saya Umar dari Jogja. Sudah lama gak showcase 😁. Kali ini saya mau showcase website pemesanan laundry. Ini upgrade dari showcase Saya sebelumnya. Pada showcase sebelumnya hanya dari frontend nya saja, sekarang udah full stack 😁. Kebetulan, project ini juga Saya jadikan bahan tugas mata kuliah MPPL (Metode Pengembangan Perangkat Lunak)</p>\n<p>Demo: <a href=\"https://zenfresh-proto.netlify.app/\">https://zenfresh-proto.netlify.app/</a>\nRepo: <a href=\"https://github.com/jihadable/zenfresh/tree/tugas_mppl\">https://github.com/jihadable/zenfresh/tree/tugas_mppl</a></p>\n<p>Tech Stack: MERN + daisyui (tailwindcss)</p>\n<p>Di dalam web ini, terdapat 2 role yaitu user dan admin. Untuk user, Pak Dhika bisa registrasi aja, untuk admin, nanti Saya kirim email sama password nya lewat DM instagram Pak Dhika hehe 😉</p>",
+      "image": "SEASON-4-18 Mei 2024-0.png"
+    },
     {
       "season": "SEASON-4",
       "showcaseDate": "11 Mei 2024",
