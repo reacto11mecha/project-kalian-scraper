@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-05-25T12:48:03.507Z",
+  "fetched_at": "2024-06-01T12:48:27.552Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -10251,6 +10251,141 @@
               "username": "farkhanmhd",
               "message": "<p>Assalaumalaikum Pak Dhika dan teman-teman semua,</p>\n<p>Perkenalkan nama saya Farkhan dari Medan, Izin showcase untuk pertama kalinya untuk web portfolio sederhana yang saya buat dari hasil belajar NextJS, Jotai, dan GSAP.</p>\n<p>Site: <a href=\"https://farkhanmhd.vercel.app/\">https://farkhanmhd.vercel.app/</a>\nRepo: <a href=\"https://github.com/farkhanmhd/portfolio\">https://github.com/farkhanmhd/portfolio</a></p>\n<p>Teknologi yang dipakai pada project ini:</p>\n<ul>\n<li>NextJS</li>\n<li>TailwindCSS</li>\n<li>Jotai</li>\n<li>GSAP</li>\n<li>Lenis</li>\n</ul>",
               "image": "SEASON-4-18 Mei 2024-9.png"
+            }
+          ]
+        },
+        {
+          "date": "26 Mei 2024",
+          "projects": [
+            {
+              "link": "https://virtualtech.vercel.app/",
+              "username": "Zernox",
+              "message": "<p>Halooo, semuanya! Perkenalkan nama saya Riecky, mahasiswa di Binus jurusan Creativepreneurship. Kali ini saya akan share project web saya.</p>\n<p>Jadi, project ini awalnya dibuat untuk bisnis pribadi saya. Niatnya sih pengen bikin sesuatu yang unik, tapi pas udah jadi... hmmm, kok kurang ya? Akhirnya, aku putuskan untuk menggunakan template dari internet dan akhirnya project ini ga aku pake WKWKWK</p>\n<p>Project ini aku beri nama VirtualTech, yaitu web yang menampilkan portofolio fotografi drone. Desainnya dari mana? nyontek dari Internet! Kenapa aku pilih desain ini? Karena simpel tapi keren, cocok banget dengan selera aku, dan Jujur, saya gak bisa design samsek, jadi ya... contek sana-sini lah (cloning design) 😂. Btw sorry design aslinya udah lupa dimana karena udah lama ini projectnya.</p>\n<p>Oh iya, web ini dibangun dengan arsitektur client-server. Karena aku penasaran aja sih pengen belajar pake client-server gmn, makanya aku pilih itu.</p>\n<p>Untuk teknologi dan bahasa yang dipakai di project ini:\n• Di sisi client: React.js, Tailwindcss, dan Framer Motion\n• Di sisi server: Express.js</p>\n<p>Nah, buat yang mau cek langsung webnya atau mau lihat kodenya, bisa klik link di bawah ini:\nWebsite: <a href=\"https://virtualtech.vercel.app/\">https://virtualtech.vercel.app/</a>\nRepo: <a href=\"https://github.com/rieckypoerwadiredja/virtualtech\">https://github.com/rieckypoerwadiredja/virtualtech</a></p>\n<p>Mohon kritik dan sarannya Terimakasih 🙏</p>",
+              "image": "SEASON-4-26 Mei 2024-0.png"
+            },
+            {
+              "link": "https://foresia.vercel.app/",
+              "username": "kagchi",
+              "message": "<p>Halo temen temen, kali ini aku mau share project lagi. jadi uas di semester aku ini ada project untuk buat web komunitas. nah aku kepikiran untuk coba clone Reddit. web nya sih sederhana dan simpel 😁.</p>\n<p>Tech Stacks:</p>\n<ul>\n<li>NextJS (TypeScript)</li>\n<li>DrizzleORM</li>\n<li>S3 Storage</li>\n</ul>\n<p>Ini untuk hasil nya. terim kasih 😁\n<a href=\"https://foresia.vercel.app/\">https://foresia.vercel.app/</a></p>\n<p>Source code nya:\n<a href=\"https://github.com/KagChi/foresia\">https://github.com/KagChi/foresia</a></p>\n<p>Note: kalo pas create post/community kena 404, ctrl shift + r. karena cache dari vercel nya itu</p>",
+              "image": "SEASON-4-26 Mei 2024-1.png"
+            },
+            {
+              "link": "https://rasyidarazak.github.io/portfolio/",
+              "username": "Rain",
+              "message": "<p>Assalamulaikum, halo Pak Dhika dan temen&quot; semua, saya Rasyid, izin share web portfolio minimalis dari template dengan sedikit modifikasi. Apa perlu saya import webnya ke ReactJS? Minta saran juga untuk kekurangannya, terimakasih.</p>\n<p>Tech:</p>\n<ul>\n<li>HTML</li>\n<li>CSS + Bootstrap</li>\n<li>Vanilla JS</li>\n</ul>\n<p>Source Code: <a href=\"https://github.com/rasyidarazak/portfolio\">https://github.com/rasyidarazak/portfolio</a>\nWebsite: <a href=\"https://rasyidarazak.github.io/portfolio/\">https://rasyidarazak.github.io/portfolio/</a></p>",
+              "image": "SEASON-4-26 Mei 2024-2.png"
+            },
+            {
+              "link": "https://kolektan.com",
+              "username": "michael.id",
+              "message": "<p>Selamat malam Pak Dhika dan teman-teman WPU. Ini adalah showcase kedua saya setelah showcase pertama satu setengah tahun lalu. Web ini terinspirasi oleh konten YouTube WPU yang mencoba membuat web dengan meminta bantuan chatGPT. Tentunya ada sedikit penyuntingan manual dari saya.</p>\n<p>Latar belakang pembuatan web ini adalah untuk menghemat kertas dalam kegiatan pertemuan di Gereja. Dalam pertemuan ini biasanya selain membaca kitab suci dan berdoa, kami juga menyanyikan beberapa lagu rohani.</p>\n<p>Awalnya kami selalu mencetak teks lirik lagu tiap pekan (karena pilihan lagu kami usahakan berbeda). Lama-kelamaan untuk menghemat kertas, petugas yang memimpin pertemuan hanya diminta membagikan screenshot lagu via WhatsApp Group komunitas setiap pekan. Nah tujuan web ini supaya mempermudah karena hasilnya langsung berupa file PDF. Tampilan langsung via web tidak dipilih agar anggota yang mengikuti pertemuan tersebut dapat lebih fokus pada acara pertemuan.</p>\n<p>Teknologi yang digunakan:\nPHP, CSS, JavaScript, MySQL, FPDF</p>\n<p>Web: <a href=\"https://kolektan.com\">https://kolektan.com</a>\nSource code: <a href=\"https://github.com/karyawati/kolektan\">https://github.com/karyawati/kolektan</a>\nUntuk librari FPDF tidak saya unggah ke github, bisa diunduh langsung di fpdf.org</p>\n<p>Untuk memilih judul lagu klik di area sekitar judul lagu, bukan di judul lagu. Tombol Unduh PDF ada di akhir daftar lagu.</p>\n<p>Catatan: Teks lagu dan File MP3 belum semuanya diunggah. Beberapa ISP juga memblokir layanan berbagi tautan yang disediakan oleh pcloud. Contoh ISP yang memblokir adalah Tri, sementara yang tidak memblokir adalah Biznet.</p>\n<p>Saran untuk pengembangan dan perbaikan berikutnya selalu saya dan ChatGPT tunggu :).</p>",
+              "image": "SEASON-4-26 Mei 2024-3.png"
+            },
+            {
+              "link": "https://lib-music.vercel.app",
+              "username": "Yui",
+              "message": "<p>Hallo teman-teman WPU dan Sandhika 先生 Saya Yui kali ini saya ingin showcase project ke-3 saya yaitu Library Music🐤, karena saya suka membuat lagu dan musik random oleh sebab itu saya ingin membuat album musik saya sendiri😁, website ini adalah library musik kecil-kecilan dan simple🦀</p>\n<p>Feature : Donwload music dan Create music</p>\n<p>Untuk fitur create music bersifat manual bukan otomatis ter create hehe😁 pada feature download dan create saya memamfaatkan bot telegram untuk notifikasi saja</p>\n<p>Tech site : Tailwind UI, Javascript, API Telegram Bot</p>\n<p>Site link : <a href=\"https://lib-music.vercel.app\">https://lib-music.vercel.app</a>\nRepo : <a href=\"https://github.com/Yu1chiro/lib-music\">https://github.com/Yu1chiro/lib-music</a></p>\n<p>Mohon maaf jika codingan sedikit berantakan, kurang responsive dan mungkin terdapat bug, saya hanya memaksimalkan di device mobile hehe😁seperti biasa mohon kritik dan saran nya teman-teman dan Sandhika先生 Thankyou 🦀コメントをいただいてありがとう</p>",
+              "image": "SEASON-4-26 Mei 2024-4.png"
+            },
+            {
+              "link": "https://indoquran.my.id",
+              "username": "by",
+              "message": "<p>Assalamualaikum, selamat malam Pak Dhika dan teman&quot; semua. Perkenalkan saya **Akbar **izin showcase project yang ke 3 dan ini adalah website Al-Quran yang saya update dari showcase pertama. Untuk perbandingan dengan versi pertama bisa cek di repository. Dengan keterbatasan ilmu yang saya miliki saya terbuka dalam kritik dan sarannya . Terimakasih atas kesempatannya.</p>\n<p><code>Tech Stacks :</code></p>\n<ul>\n<li>Nextjs</li>\n<li>Typescript</li>\n<li>Redux Toolkit</li>\n<li>Tailwind CSS</li>\n</ul>\n<p><code>Features :</code></p>\n<ul>\n<li>Alquran dan Terjemah</li>\n<li>Tafsir Perayat</li>\n<li>Audio Perayat 5 Jenis Qori</li>\n<li>Share Media Sosial</li>\n<li>Jadwal Sholat</li>\n<li>Adzan Pengingat Sholat (Audio)</li>\n<li>Hadits 9 Riwayat</li>\n<li>Doa - Doa</li>\n<li>Multiple Bookmark</li>\n<li>Share Ayat From Image</li>\n<li>Dynamic Open Graph</li>\n</ul>\n<p><code>Links :</code></p>\n<ul>\n<li>Repo : <a href=\"https://github.com/Akbaroke/indoquran.my.id\">https://github.com/Akbaroke/indoquran.my.id</a></li>\n<li>Web : <a href=\"https://indoquran.my.id\">https://indoquran.my.id</a></li>\n</ul>",
+              "image": "SEASON-4-26 Mei 2024-5.png"
+            },
+            {
+              "link": "https://lansicare-health.vercel.app/",
+              "username": "! Naufalnr",
+              "message": "<p>Assalamualaikum Pak Dhika dan Teman Teman, selamat malam, perkenalkan nama saya Naufal Nabil Ramadhan dari SMK Telkom Malang, untuk kesempatan kali ini saya akan showcase project yang dikerjakan oleh tim saya 4 orang, nama projectnya adalah LansiCare Health, terimakasih atas kesempatanya.</p>\n<p>Tech Stacks :</p>\n<ul>\n<li>Nextjs</li>\n<li>NextAuth</li>\n<li>Typescript</li>\n<li>TailwindCSS</li>\n<li>Flowbite React</li>\n<li>Mongodb</li>\n<li>Mongoose</li>\n</ul>\n<p>Features :\n=&gt; Untuk Pasien</p>\n<ul>\n<li>Register dan Login untuk Authentikasi Pengguna/pasien</li>\n<li>Registrasi &amp; CheckUp Kesehatan</li>\n<li>Track Kesehatan berupa Riwayat Penyakit dan Riwayat CheckUp pada halaman Profil</li>\n<li>Komentar yang dapat diisi sebagai feedback\n=&gt; Untuk Dokter</li>\n<li>Login untuk Authentikasi dokter</li>\n<li>Dashboard untuk monitoring pengguna/pasien</li>\n<li>View, Edit, dan Delete data pengguna/pasien</li>\n<li>Form CheckUp kesehatan di halaman Edit Profile</li>\n<li>Profil Dokter</li>\n</ul>\n<p>Login dokter:</p>\n<ul>\n<li>email: <a href=\"mailto:naufal_nabil_32rpl@student.smktelkom-mlg.sch.id\">naufal_nabil_32rpl@student.smktelkom-mlg.sch.id</a></li>\n<li>password: 12345678</li>\n</ul>\n<p>Links:</p>\n<ul>\n<li>Repo : <a href=\"https://github.com/naufalnrsmitter20/lansicare-health\">https://github.com/naufalnrsmitter20/lansicare-health</a></li>\n<li>Link : <a href=\"https://lansicare-health.vercel.app/\">https://lansicare-health.vercel.app/</a></li>\n<li>Halaman dokter : <a href=\"https://lansicare-health.vercel.app/administration\">https://lansicare-health.vercel.app/administration</a></li>\n</ul>",
+              "image": "SEASON-4-26 Mei 2024-6.png"
+            },
+            {
+              "link": "https://wsu.natunakode.com/",
+              "username": "Triandi",
+              "message": "<p>Assalamualaikum, selamat malam Pak Dhika dan teman&quot; semua. Perkenalkan saya **Triandi **saya mahasiswa di Universitas Maritim Raja Ali Haji (UMRAH) Jurusan Teknik Informatika, Izin showcase project yang pertama dan ini adalah website untuk memendekkan link yang saya beri nama <strong>Web Shorten URL</strong>. Berikut penjelesan singkat:</p>\n<p><code>Tech Stacks :</code></p>\n<ul>\n<li>React</li>\n<li>Tailwind CSS</li>\n<li>Supabase</li>\n</ul>\n<p><code>Features :</code></p>\n<ul>\n<li>Pick Expiration Date</li>\n<li>Delete After Redirection</li>\n</ul>\n<p><code>Links :</code></p>\n<ul>\n<li>Web : <a href=\"https://wsu.natunakode.com/\">https://wsu.natunakode.com/</a></li>\n<li>Hasil Shorten : <a href=\"https://wsus.me/Random-or-Custom\">https://wsus.me/Random-or-Custom</a></li>\n</ul>\n<p>Catatan: Terkait halaman <strong>Contact &amp; ReportLink</strong>, juga sudah berfungsi dengan baik. Jika teman-teman ingin mencoba, silakan pada saat mengisi e-mail, pastikan e-mail tersebut aktif sebab akan ada salinannya.</p>\n<p>Dengan keterbatasan ilmu yang saya miliki, saya terbuka dalam kritik dan saran. Terima kasih atas kesempatannya.</p>",
+              "image": "SEASON-4-26 Mei 2024-7.png"
+            },
+            {
+              "link": "https://drive.google.com/file/d/1ABUw02G1Kt9uAVJAEyf7w3AHFSWU1LMd/view?usp=sharing",
+              "username": "mardiansyah",
+              "message": "<p>Assalamualaikum, selamat malam Pak Dhika dan pasukan Titik Koma.</p>\n<p>Nazar saya, jika suatu hari saya dapat memiliki laptop yang lancar untuk ngoding mobile app, saya akan membuat aplikasi yang bermanfaat bagi umat Muslim dan akan saya publish ke Play Store. Aplikasi ini akan tanpa iklan dan gratis karena saya tidak ingin mendapatkan uang dari aplikasi ini.</p>\n<p>Sebelumnya maaf kalau aplikasinya sangat sederhana dan ga bagus karena ini aplikasi mobile pertama.</p>\n<p>Aplikasi ini bernama Ibadahku yang baru memiliki fitur:</p>\n<p>Al-Qur&#39;an\nMembaca Al-Qur&#39;an\nMemutar suara ayat tertentu\nMenyimpan ayat terakhir yang dibaca\nDapat langsung menuju ke surah dan ayat terakhir yang dibaca\nJadwal Sholat\nWaktu hitung mundur ke waktu sholat selanjutnya\nNotifikasi jadwal sholat\nSaya sangat membutuhkan kritik dan saran dari Pak Dhika dan teman-teman, serta masukan mengenai fitur yang ingin ditambahkan karena masih sedikit banget fiturnya.</p>\n<p>Tech stacks:\nFlutter</p>\n<p>Aplikasi dapat download di google drive :\n<a href=\"https://drive.google.com/file/d/1ABUw02G1Kt9uAVJAEyf7w3AHFSWU1LMd/view?usp=sharing\">https://drive.google.com/file/d/1ABUw02G1Kt9uAVJAEyf7w3AHFSWU1LMd/view?usp=sharing</a>\natau bisa akses di Play Store di link berikut karena saya sudah menambahkan email <a href=\"mailto:sandhikagalih@unpas.ac.id\">sandhikagalih@unpas.ac.id</a> sebagai penguji : <a href=\"https://play.google.com/apps/testing/com.ibadahku_mardiancode\">https://play.google.com/apps/testing/com.ibadahku_mardiancode</a></p>\n<p>Oh iya sekarang sudah masuk tahap pengujian tertutup saya butuh 20 penguji agar bisa masuk tahap pengujian terbuka Barang kali temen - temen ada yang mau, boleh minta emailnya bantu saya supaya bisa rilis ke production</p>",
+              "image": "SEASON-4-26 Mei 2024-8.png"
+            },
+            {
+              "link": "https://levianthproject.github.io/flowers-gift-for-you/",
+              "username": "L . V",
+              "message": "<p>Helloooo guysss, untuk kalian yang ingin ngasih web lucu ke doi atau crush disaat mereka sedang badmoood atau lagi ngambekk niii coba kasih web ini ke mereka yaaaa, dan semoga mereka sukaaa &lt;a:loveletter:720534267150598145&gt;</p>\n<p>Made with vanilla only ❤️‍🔥</p>\n<p>CSS Vanila Forever!!! 🫶</p>\n<p>Link website :\n<a href=\"https://levianthproject.github.io/flowers-gift-for-you/\">https://levianthproject.github.io/flowers-gift-for-you/</a></p>\n<p>Link Repo :</p>",
+              "image": "SEASON-4-26 Mei 2024-9.png"
+            }
+          ]
+        },
+        {
+          "date": "1 Juni 2024",
+          "projects": [
+            {
+              "link": "https://avendash.pages.dev/",
+              "username": "Asta",
+              "message": "<p>Hallo Pak Dhika dan teman teman semua, perkenalkan saya Ararya Arka saat ini saya baru lulus SMA dan sedang berharap untuk lulus UTBK, nah karena nunggu hasil UTBK menurut saya terlalu lama dan gak ngapa ngapain dirumah alhasil saya bikin project yang cukup sederhana yaitu Dashboard IoT dengan menggunakan MQTT</p>\n<p>Project ini masih banyak bug yaitu data yang kadang tidak terkirim, namun bug tersebut dapat dikurangi dengan membuka websitenya terlebih dahulu lalu menjalanakan wokwi/esp32 yang aslinya, project ini juga memiliki AI dari groq API yang bisa kena limit untuk itu selain link yang sudah saya sediakan saya juga memberikan tutorial untuk clone project di readme GitHub</p>\n<p>Tech Stacks:</p>\n<ul>\n<li>React + Vite</li>\n<li>Typescript</li>\n<li>MqttJs</li>\n<li>TailwindCSS</li>\n<li>DaisyUI</li>\n<li>sedikit GSAP</li>\n</ul>\n<p>Features:</p>\n<ul>\n<li>menerima data dari sensor maupun topics mqtt</li>\n<li>mengirim data menuju mqtt ( dapat dicek menggunakan mqttx, atau dapat di cek dengan mengisi topics: aven/relay, untuk message: 0 untuk matikan relay dan 1 untuk menghidupkan )</li>\n<li>AI untuk meminta saran tentang IoT</li>\n<li>banyak Tema agar tidak bosan dari DaisyUI</li>\n</ul>\n<p>Link Website:</p>\n<p><a href=\"https://avendash.pages.dev/\">https://avendash.pages.dev/</a></p>\n<p>Link Repo:</p>\n<p><a href=\"https://github.com/Araryarch/Avendash\">https://github.com/Araryarch/Avendash</a></p>\n<p>Link Wokwi untuk simulasi perangkat IoT:</p>\n<p><a href=\"https://wokwi.com/projects/398586316793952257\">https://wokwi.com/projects/398586316793952257</a></p>\n<p>mohon maaf jika masih banyak bug dan UI yang tidak terlalu bagus, mohon untuk kritik dan sarannya teman teman semua, terimakasih 😁</p>",
+              "image": "SEASON-4-1 Juni 2024-0.png"
+            },
+            {
+              "link": "https://github.com/DemuraAIdev/ARGA/",
+              "username": "DemuraAI",
+              "message": "<p>Halo semuanya, perkenalkan saya Vahry dari SMK 1 Kota Bengkulu, Kali ini saya akan share project saya bernama ARGA, ARGA adalah sebuah game engine berbasis text yang di program dalam bahasa Javascript dan file game hanya berupa file JSON.</p>\n<p>Tech Stack :</p>\n<ul>\n<li>NodeJS</li>\n</ul>\n<p>Fitur :</p>\n<ul>\n<li>Buat game hanya berbasis JSON</li>\n<li>Fitur yang banyak</li>\n<li>Ringan</li>\n</ul>\n<p><a href=\"https://github.com/DemuraAIdev/ARGA/\">https://github.com/DemuraAIdev/ARGA/</a></p>",
+              "image": "SEASON-4-1 Juni 2024-1.png"
+            },
+            {
+              "link": "https://penghitung-garis-regresi.vercel.app/",
+              "username": "UBJ",
+              "message": "<p>Halloooo pak sandika, hallo juga untuk temen temen\nPerkenalkan nama saya Riko fernanda saputra biasa di panggil Riko saya kelas 11 tkj dari SMK Darma Siswa 1, Sidoarjo. Izin spill sedikit waktu pak sandika di event Surabaya Dev saya ikut loh temen temen hehe, menurut saya itu sebuah kebanggan banget wkwk, okey next ini pertama kali saya show case, mau share PII #2 (Projek Iseng-Iseng), PII #1 ada di yt saya (riko fernanda saputra) ya temen hehe jangan lupa nonton, sekarang saya mau pamerin yang PII #2 ini website tentang penghitung garis regresi, website ini sangat simple dan semoga bermanfaat</p>\n<p>Tech stack;\nHTML\nCSS\nJs</p>\n<p>Link Vercel :\n<a href=\"https://penghitung-garis-regresi.vercel.app/\">https://penghitung-garis-regresi.vercel.app/</a></p>\n<p>Link GitHub :\n<a href=\"https://github.com/RIKO-FERNANDA-S\">https://github.com/RIKO-FERNANDA-S</a></p>",
+              "image": "SEASON-4-1 Juni 2024-2.png"
+            },
+            {
+              "link": "https://genztopup.web.id",
+              "username": "XecionFire",
+              "message": "<p>hi Fellas, hallo pak Dhika,\noh iya, izinkan saya memperkenalkan diri terlebih dahulu karena pepatah mengatakan &quot;tak kenal maka tak sayang&quot;, nama saya Raphaell Brilliansyah P, aku siswa SMA MUHAMMADIYAH 2 Surabaya.</p>\n<p>oke jadi aku dapet pesanan website third party topup games, orangnya udah izinin aku buat masukin ke showcase ini. BTW website nya work ya, bukan prototype.</p>\n<p>ini link website nya : <a href=\"https://genztopup.web.id\">https://genztopup.web.id</a></p>\n<p>program yang ku pakai cuman</p>\n<ul>\n<li>NodeJs, js (back end)</li>\n<li>PHP, html, css, js(front end)</li>\n</ul>\n<p><strong><em>DETAILS NYA</em></strong></p>\n<p><strong>BACK END (packages / thirdParty)</strong></p>\n<ul>\n<li>cors (npm)</li>\n<li>crypto (npm)</li>\n<li>express (npm)</li>\n<li>ejs (npm)</li>\n<li>morgan (npm)</li>\n<li>node-fetch (npm)</li>\n<li>(7 more) ga seberapa penting</li>\n</ul>\n<p><strong>FRONT END DETAILS</strong></p>\n<ul>\n<li>PHP (vanilla routing and basic Oauth)</li>\n<li>TailwindCss</li>\n<li>DaisyUI</li>\n<li>SwiperJs</li>\n<li>Boxicon</li>\n<li>Jquery [include ajax]</li>\n<li>colorThief</li>\n</ul>\n<p>salam</p>\n<ul>\n<li>raphaell.b.p</li>\n</ul>",
+              "image": "SEASON-4-1 Juni 2024-3.png"
+            },
+            {
+              "link": "https://darkterminal.mintlify.app/dark-extensions/introduction",
+              "username": "⚡ darkterminal - S.F.E",
+              "message": "",
+              "image": "SEASON-4-1 Juni 2024-4.png"
+            }
+          ]
+        },
+        {
+          "date": "🚨 LibSQL Driver Laravel - Out Now 🚨",
+          "projects": [
+            {
+              "link": "https://bshopp.vercel.app/",
+              "username": "Iqbal Muthahhary",
+              "message": "<p>Assalamualaikum, Hallo Pa Dhika, dan juga teman&quot; WPU, pertama-tama perkenalkan saya Iqbal Muthahhary biasa di panggil iqbal atau bal saya mahasiswa semester 2 dari Universitas Pamulang yang di tangerang jurusan Teknik Informatika, ini merupakan showcase pertama saya di WPU dan juga project Next Js pertama saya dan nama project saya adalah <strong>BShopp</strong>. BShopp merupakan sebuah web sederhana dan simple dimana kita bisa melakukan pemebelian sebuah product,</p>\n<p>Di web cuman ada dua role doang yaitu : member/user dan admin.</p>\n<p>Feature :\nUser :</p>\n<ul>\n<li>Auth (Login &amp; Register)</li>\n<li>Edit Profile</li>\n<li>Cart</li>\n<li>Favorite Products</li>\n<li>Comments</li>\n<li>Checkout Product</li>\n</ul>\n<p>Techstack :</p>\n<ul>\n<li>Next Js 14 (Pages Router)</li>\n<li>TypeScript</li>\n<li>NextAuth</li>\n<li>Firebase</li>\n<li>Framer-motion</li>\n<li>ChartJs</li>\n<li>Tailwindcss</li>\n</ul>\n<p>Ini link web nya : <a href=\"https://bshopp.vercel.app/\">https://bshopp.vercel.app/</a>\nIni untuk source code nya: <a href=\"https://github.com/Ibaliqbal/bshopp\">https://github.com/Ibaliqbal/bshopp</a>\nDan ini untuk simulator payment nya : <a href=\"https://simulator.sandbox.midtrans.com/\">https://simulator.sandbox.midtrans.com/</a></p>\n<p>Maaf pak untuk warna di web nya terlalu kaku cuman warna hitam-putih doang, soalnya bingung untuk refrensi warna web nya. Dan mohon untuk saran dan kritik nya pak dhika dan teman&quot; sekalian. Oh iya untuk akses login admin nya saya akan dm ig bapak dengan username ig : muthahhary_iqbal</p>",
+              "image": "SEASON-4-🚨 LibSQL Driver Laravel - Out Now 🚨-0.png"
+            },
+            {
+              "link": "https://sersow.com",
+              "username": "Asada",
+              "message": "<p>Halo Pak Dhika dan teman², perkenalkan nama saya Mikail, saya izin share project buatan saya dan teman² saya, aplikasi bernama <strong>Sersow</strong>.</p>\n<p><strong># Sersow</strong>\nSersow adalah sebuah platform yang dirancang untuk Project Showcase. User dapat menggunggah dan Showcase Project mereka dengan detail seperti deskripsi, kategori proyek, logo, gambar, video thumbnail, dll. User dapat berinteraksi dengan project lain seperti memberikan like, komentar, dan berbagi. Sersow juga menyediakan fitur-fitur seperti mencari proyek, trends peoject, dan menampilkan proyek dalam berbagai kategori seperti Website, Aplikasi Mobile, Karya Seni, Paper, AI, dll. Untuk saat ini Sersow diperuntukan mahasiswa atau seluruh entitas Universitas Pendidikan Indonesia yang memiliki email .upi.edu.</p>\n<p><strong>Sersow</strong>: <a href=\"https://sersow.com\">https://sersow.com</a>\n<em>saat ini hanya support desktop only</em></p>\n<p>Karna ini masih internal UPI, Pak Dhika bisa pakai akun ini untuk coba:\nusername: asada\npassword: loreM@123\n<em>mohon teman² disini jangan spam project karena banyak user aktif ya 🙏</em></p>\n<p>Catatan: Kedepanya Sersow ini bukan hanya di pakai mahasiswa UPI saja, tapi seluruh orang dapat akses. Sersow juga kedepanya bertujuan untuk membangun ekosistem yang lebih massive lagi.</p>\n<h2><strong>Tech Stack</strong></h2>\n<p>Sersow menggunakan architecture Microservices.</p>\n<p><strong>Front-end</strong>:</p>\n<blockquote>\n<p>• NextJS 13\n• TailwindCSS</p>\n</blockquote>\n<p><strong>Back-end</strong>:</p>\n<blockquote>\n<p>• ExpressJS\n• Sequelize\n• MySQL</p>\n</blockquote>\n<p><strong>Server Architecture</strong>:</p>\n<blockquote>\n<p>• Ubuntu\n• Cloudflare\n• Nginx\n• PM2\n• Google Search</p>\n</blockquote>\n<h2><strong>Repository &amp; Documentation</strong></h2>\n<blockquote>\n<p>• Web Repository: <a href=\"https://github.com/Asadaaaaa/sersow-view\">https://github.com/Asadaaaaa/sersow-view</a>\n• Back-end Repository: <a href=\"https://github.com/Asadaaaaa/sersow-controller\">https://github.com/Asadaaaaa/sersow-controller</a>\n• API Documentation: <a href=\"https://documenter.getpostman.com/view/23736615/2s93XsX6GE\">https://documenter.getpostman.com/view/23736615/2s93XsX6GE</a>\n• Design System: <a href=\"https://www.figma.com/community/file/1226144847810765063\">https://www.figma.com/community/file/1226144847810765063</a>\n• Information Architecture: <a href=\"https://www.figma.com/community/file/1225399452746793090/sersow-information-architecture-v1-2\">https://www.figma.com/community/file/1225399452746793090/sersow-information-architecture-v1-2</a></p>\n</blockquote>",
+              "image": "SEASON-4-🚨 LibSQL Driver Laravel - Out Now 🚨-1.png"
+            },
+            {
+              "link": "https://keystro.app/",
+              "username": "Listening to Dev Podcast",
+              "message": "<p>Assalamualaikum Pak Dhika dan kawan-kawan semua.\nKenalin Saya Arif mahasiswa D3 insyAllah bentar lagi lulus, sekarang lagi magang dan bulan depan pendaftaran sidang. Saya mau share aplikasi desktop buatan saya dan temen saya. Saya bagian teknikal atau fitur-fitur utamanya, kalau temen bagian desain/UInya.</p>\n<p>Aplikasinya untuk sekarang baru release di Windows dan macOS, belum ada rencana untuk Linux. Link download bisa diliat di <a href=\"https://keystro.app/\">https://keystro.app/</a> atau bisa search Keystro di <a href=\"https://apps.microsoft.com/detail/9n9p8jlx5kmq?hl=id-id&gl=ID\">Microsoft Store</a> kalau di Windows. Kalau di MacOS bisa juga download versi yang terbaru di <a href=\"https://github.com/Keystroapp/keystro-releases/releases\">github</a></p>\n<p>Teknologi yang dipakai:</p>\n<ul>\n<li>Flutter\nUdah itu aja :v Paling ada beberapa plugin Flutter native, diubah sesuai kebutuhan karena plugin yang ada sekarang itu butuh beberapa fitur yang belum ada.</li>\n</ul>\n<p>Fitur:</p>\n<ul>\n<li>Visualisasi Keystroke / Shortcut Keyboard, basically keylogger lah tapi lokal dan bukan buat ngehack orang wkw</li>\n<li>Highlight Cursor</li>\n<li>Simulasi suara neken tombol keyboard mekanik</li>\n</ul>\n<p>Untuk sekarang masih masih awal-awal rilis jadi mungkin belum banyak banget fitur tambahan dan mungkin ada beberapa bug yang ga ketahuan.\nBoleh kirim kirim review/feedbacknya disini ya ges atau kalau mau ada yang ditanyain</p>\n<p>Tengkyu</p>",
+              "image": "SEASON-4-🚨 LibSQL Driver Laravel - Out Now 🚨-2.png"
+            },
+            {
+              "link": "https://frontendaese.de/",
+              "username": "As",
+              "message": "<p>Hallo Pak Dhika, dan juga teman&quot; WPU dan sepuh&quot; WPU, saya Raihan biasa dipanggil nengok &quot;hehe&quot;, saya hanya lulusan SMA saya ingin share simple web portofolio saya, ini merupakan showcase pertama saya di WPU showcase-project. Nama project ini adalah frontendaese, frontendaese merupakan sebuah web portofolio sederhana dan simple yang terinspirasi dari VSCode.</p>\n<p>Tech Stack:</p>\n<ul>\n<li>React/Typescript</li>\n<li>TailwindCSS</li>\n<li>Framer Motion</li>\n</ul>\n<p>Fitur:</p>\n<ul>\n<li>Ingin meniru VSCode, ada terminal, ada open/close file/tab, untuk saat ini baru itu aja pak, masih dikit dan simple.</li>\n</ul>\n<p>Link:</p>\n<ul>\n<li>Live: <a href=\"https://frontendaese.de/\">https://frontendaese.de/</a></li>\n<li>Github: <a href=\"https://github.com/rhnas110/frontendaese-v2\">https://github.com/rhnas110/frontendaese-v2</a></li>\n<li>LinkedIn: <a href=\"https://www.linkedin.com/in/raihanas/\">https://www.linkedin.com/in/raihanas/</a> (follback LinkedIn saya pak jikalau boleh, terimakasih pak)</li>\n</ul>\n<p>Note: Untuk fiturnya masih sedikit Pak, dan dimohon buka di Desktop atau &gt;1024px, karena kalau di Mobile belum ada apa-apa. Terakhir mohon untuk saran dan kritik nya Pak Dhika, dan teman&quot;, seperti tambah fitur apa.</p>",
+              "image": "SEASON-4-🚨 LibSQL Driver Laravel - Out Now 🚨-3.png"
+            },
+            {
+              "link": "https://ui-tokopedia.vercel.app",
+              "username": "EJA</>",
+              "message": "<p>Halo semua, saya Afriza panggil aja Eza ingin memperkenalkan project Tokopedia Clone untuk langkah tutorial buat nya ada di tiktok saya\n@ahmadafriza25, untuk saat ini tampilan web hanya mobile saja Masih progres bagian PC atau desktop nya saran pakai mobile simulator chrome download di extension.</p>\n<p>Note: Klo ingin post Product harus buat akun dan buat toko, cara buat nya ada di Profile bar, Klik Buka toko gratis lalu masukan nama toko nya,jika sudah maka masuk ke halaman selanjutnya dan klik teks tambah product</p>\n<p>Note2: jika tombol registrasi tidak muncul maka tulis ulang email nya</p>\n<p>Techstack:\n1.React.js\n2.Express.js\n3.Prisma ORM\n4.jwt auth\n5.cloudnary\n6.multer library express\n7.midtrans payment gateway</p>",
+              "image": "SEASON-4-🚨 LibSQL Driver Laravel - Out Now 🚨-4.png"
             }
           ]
         }
