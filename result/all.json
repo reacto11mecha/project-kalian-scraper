@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-06-01T12:48:27.552Z",
+  "fetched_at": "2024-06-08T12:48:44.216Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -10386,6 +10386,71 @@
               "username": "EJA</>",
               "message": "<p>Halo semua, saya Afriza panggil aja Eza ingin memperkenalkan project Tokopedia Clone untuk langkah tutorial buat nya ada di tiktok saya\n@ahmadafriza25, untuk saat ini tampilan web hanya mobile saja Masih progres bagian PC atau desktop nya saran pakai mobile simulator chrome download di extension.</p>\n<p>Note: Klo ingin post Product harus buat akun dan buat toko, cara buat nya ada di Profile bar, Klik Buka toko gratis lalu masukan nama toko nya,jika sudah maka masuk ke halaman selanjutnya dan klik teks tambah product</p>\n<p>Note2: jika tombol registrasi tidak muncul maka tulis ulang email nya</p>\n<p>Techstack:\n1.React.js\n2.Express.js\n3.Prisma ORM\n4.jwt auth\n5.cloudnary\n6.multer library express\n7.midtrans payment gateway</p>",
               "image": "SEASON-4-🚨 LibSQL Driver Laravel - Out Now 🚨-4.png"
+            }
+          ]
+        },
+        {
+          "date": "8 Juni 2024",
+          "projects": [
+            {
+              "link": "https://buka.sh",
+              "username": "Sony",
+              "message": "<p>Hello, saya Sony, mau juga iseng2 memperkenalkan project saya, namanya Buka, ini juga project yg dibuat di waktu luang. Isinya sebenarnya campur2, bisa nonton TV, dengerin radio, baca quick news dan lain lain. Ini juga masih work in progress. Terima kasih jika ada feedback. Techstack yg dipakai Next.js dan kawan-kawannya.</p>\n<p>Link: <a href=\"https://buka.sh\">https://buka.sh</a></p>",
+              "image": "SEASON-4-8 Juni 2024-0.png"
+            },
+            {
+              "link": "https://github.com/oystr29/qrip",
+              "username": "oystr",
+              "message": "<p>Hallo, perkenalkan nama saya Oktavian, disini saya mau share <em>cli tool</em> simple yang saya buat. Namanya adalah <code>qrip</code></p>\n<p><strong>qrip</strong> adalah <em>command line interface</em> buat nampilkan qrcode url ip address dari network yang sedang terkoneksi</p>\n<p><strong>## Kenapa buat ini?</strong>\nSaya pengen coba responsive layout dan touch screen web di hp, tapi kita harus terkoneksi di jaringan yang sama kalau mau buka web local di hp.</p>\n<p>Dan saya mager untuk ngecek ip address nya di setting 😅\nDan juga karena most of the time saya pakai terminal (neovim user btw), jadi kenapa gak langsung dapatin ip address nya di terminal, terus tinggal scan dari hp.\nMaka jadilah <strong>qrip</strong></p>\n<p><strong>## Cara Install</strong></p>\n<ul>\n<li>Install <a href=\"https://nodejs.org/en\">node</a></li>\n<li>Install secara global <code>npm i -g qrip-cli</code></li>\n<li>Tinggal jalankan <code>qrip</code> 🎉</li>\n</ul>\n<p>**Teknologi yang dipakai: **</p>\n<ul>\n<li>typescript</li>\n</ul>\n<blockquote>\n<p>hati-hati dalam pemakaian (terutama saat streaming) karena ip address kalian bakal terlihat dari qr code nya</p>\n</blockquote>\n<p>Untuk reponya ada di <a href=\"https://github.com/oystr29/qrip\">github.com/oystr29/qrip</a>\nDan npm packages nya ada di <a href=\"https://www.npmjs.com/package/qrip-cli\">npmjs.com/package/qrip-cli</a></p>\n<p>Itu aja dulu, sekian dan terimakasih (◍•ᴗ•◍)</p>",
+              "image": "SEASON-4-8 Juni 2024-1.png"
+            },
+            {
+              "link": "https://www.iqbalfaris.my.id/",
+              "username": "Flexy",
+              "message": "<p>Assalamu&#39;alaikum Wr Wb.</p>\n<p>Halo pak Dhika dan Teman-teman semua, perkenalkan nama saya Iqbal Faris Akbar bisa dipanggil Iqbal, Faris atau Akbar :). Ini showcase project pertama kali saya yaitu project portofolio dengan admin panel page, jadi maaf kalo biasa aja projectnya 🙏,Pritttt 😂.</p>\n<p>Project ini dibangun menggunakan **ReactJs **dan **Laravel **yang saya hubungkan menggunakan <strong>API</strong>. Project ini saya buat untuk memperdalam pemahaman saya tentang <strong>ReactJs</strong>, <strong>Tailwind</strong>, **API **dan <strong>Laravel</strong></p>\n<p>cara menjalankan:\n<code>php artisan serve</code>\ndi terminal terpisah: <code>cd frontEnd</code> lalu <code>npm run dev</code></p>\n<p>Library &amp; Tech yang saya gunakan:\nVite X ReactJs: <a href=\"https://react.dev/\">https://react.dev/</a>\nLaravel: <a href=\"https://laravel.com/docs/10.x\">https://laravel.com/docs/10.x</a>\nTailwind: <a href=\"https://tailwindcss.com/\">https://tailwindcss.com/</a>\nSwiper: <a href=\"https://swiperjs.com/\">https://swiperjs.com/</a>\nreact-tooltip: <a href=\"https://www.npmjs.com/package/react-tooltip\">https://www.npmjs.com/package/react-tooltip</a>\nRecaptcha: <a href=\"https://www.npmjs.com/package/react-google-recaptcha\">https://www.npmjs.com/package/react-google-recaptcha</a>\nSweet Alert (Admin Page): <a href=\"https://sweetalert2.github.io/\">https://sweetalert2.github.io/</a></p>\n<p>Website: <a href=\"https://www.iqbalfaris.my.id/\">https://www.iqbalfaris.my.id/</a>\nRepo: <a href=\"https://github.com/iqbalfaris24/Portfolio-V.3\">https://github.com/iqbalfaris24/Portfolio-V.3</a></p>\n<p>Terimakasih pak Dhika dan Teman-teman semua semoga sehat selalu... Oh ya jangan lupa cek email jika mencoba fitur contact 🙂</p>",
+              "image": "SEASON-4-8 Juni 2024-2.png"
+            },
+            {
+              "link": "https://lemme-guess-your-bday.netlify.app",
+              "username": "Aufa Rijal",
+              "message": "<p>Halo semua</p>\n<p>perkenalkan kembali, aku Aufa, kali ini aku mau share mini trivial game sulap yang simpel sekalian belajar framer motion, game nya tentang tebak tanggal lahir, nama game nya adalah Lemme Guess Your Bday. Sebenarnya permainan ini adalah permainan masa SD yang dikasih tau sama temen, karena game nya menarik kek ada magic2nya tpi logic behind nya udah fix, aku coba buat versi web game.</p>\n<p>Cara main nya super simpel, kalian tinggal pilih dipikiran kalian sebuah angka dari 1 sampe 31,\nterus klik play lalu jawab masing masing card apakah nomer yang kalian pilih ada atau tidak di setiap card nya,\nklik yes kalau iya dan klik no kalau nomer yang kalian pilih tidak ada di kartu itu\nsetelah kartu kelima, klik tombol Guess my number, nanti game nya akan menebak nomer yang kalian pilih.</p>\n<p>Stack:</p>\n<ul>\n<li>React Vite</li>\n<li>Framer Motion</li>\n<li>Daisy UI</li>\n</ul>\n<p>Game: <a href=\"https://lemme-guess-your-bday.netlify.app\">https://lemme-guess-your-bday.netlify.app</a>\nRepo: <a href=\"https://github.com/aufarijaal/lemme-guess-your-bday\">https://github.com/aufarijaal/lemme-guess-your-bday</a>\nReferensi: <a href=\"https://ifkarsyah.blogspot.com/2016/12/sulap-zaman-sd-menebak-tanggal-ultah.html\">https://ifkarsyah.blogspot.com/2016/12/sulap-zaman-sd-menebak-tanggal-ultah.html</a></p>\n<p>Terimakasihhh</p>",
+              "image": "SEASON-4-8 Juni 2024-3.png"
+            },
+            {
+              "link": "https://dedekurnn.my.id",
+              "username": "kawaiineko",
+              "message": "<p>Halo semua,</p>\n<p>kenalin saya Dede, ini pertama kalinya ikutan showcase, dan mau showcase project portofolio aja tipis tipis pake nextjs monolith.</p>\n<p>Tech stack yang dipake:\nNeon Postgres\nDrizzle ORM\nTypescript\nNext.js App Router\nFramer Motion\ni18n buat fitur ganti bahasa\nTailwind\nNodemailer</p>\n<p>Link:\nLive: <a href=\"https://dedekurnn.my.id\">https://dedekurnn.my.id</a>\nRepo: <a href=\"https://github.com/DedeKurnn/portfolio-v2\">https://github.com/DedeKurnn/portfolio-v2</a></p>\n<p>Inspirasi desainnya dari Brittany Chiang <a href=\"https://brittanychiang.com\">https://brittanychiang.com</a></p>\n<p>Kritik dan sarannya sangat dinantikan. Makasihh</p>",
+              "image": "SEASON-4-8 Juni 2024-4.png"
+            },
+            {
+              "link": "https://ridloghifary.github.io/ridlos-portofolio/",
+              "username": "Ridloghfryy",
+              "message": "<p>Halo semuanya!!</p>\n<p>Saya Ridlo achmad ghifary ingin memperkenalkan proyek portofolio pribadi, contentnya masi sangat minimal dan saya masi butuh banyak saran dan masukan dari teman teman, ini adalah showcase pertama saya, saya juga tertarik di programming sejak lulus sekolah terus belajar dari youtube dan course gratis lainnya...</p>\n<p>NB: beberapa animasi saya aplikasikan diawal jadi bisa direfresh ulang for better experience...👐🏻</p>\n<p>Stack yang saya pake:</p>\n<ul>\n<li><code>React Vite</code></li>\n<li><code>Typescript</code></li>\n<li><code>Aos animation</code></li>\n<li><code>TailwindCss</code></li>\n<li><code>TailwindCSS BG Patterns</code></li>\n<li><code>Github Pages</code></li>\n<li><code>GSAP</code></li>\n<li><code>i18n</code></li>\n</ul>\n<p>Live: <a href=\"https://ridloghifary.github.io/ridlos-portofolio/\">https://ridloghifary.github.io/ridlos-portofolio/</a>\nRepo: <a href=\"https://github.com/RidloGhifary/ridlos-portofolio\">https://github.com/RidloGhifary/ridlos-portofolio</a></p>\n<p>Sangat menerima kritik saran masukan hujatan...Makasi semuanyaa👋🏻</p>",
+              "image": "SEASON-4-8 Juni 2024-5.png"
+            },
+            {
+              "link": "https://porfoliov6.vercel.app",
+              "username": "EJA</>",
+              "message": "<p>Halo semua, saya Afriza panggil aja Eza ingin memperkenalkan project Portofolio saya, Di dalam nya ada AI\nChat, untuk toturial Membuat AI nya ada di tiktok @ahmadafriza25</p>\n<p>Techstack : Next.js, Flask(Python) , Groq AI Api, Vercel(deploy), Shancn UI library , Typescript</p>\n<p>Link Project :\n<a href=\"https://porfoliov6.vercel.app\">https://porfoliov6.vercel.app</a></p>\n<p>Link repo AI :\n<a href=\"https://github.com/Sanjaee/Flask-AI.git\">https://github.com/Sanjaee/Flask-AI.git</a></p>",
+              "image": "SEASON-4-8 Juni 2024-6.png"
+            },
+            {
+              "link": "https://dianwicaksono.site",
+              "username": "BaseleusNara",
+              "message": "<p>Halo semuanya perkenalkan saya Dian, seorang pemula dalam pemrograman website dan juga UI/UX Design. Kali ini izinkan saya untuk memperkenalkan portfolio saya kepada kalian, saya sangat terbuka untuk feedback dan juga beberapa saran jadi tidak usah ragu ya.</p>\n<p>Techstach yang digunakan : HTML, CSS, Bootstrap.</p>\n<p>Link Portfolio: <a href=\"https://dianwicaksono.site\">https://dianwicaksono.site</a>\nRepo : <a href=\"https://github.com/DianKartiko/Helios\">https://github.com/DianKartiko/Helios</a></p>\n<p>Terima kasih semuanya.</p>",
+              "image": "SEASON-4-8 Juni 2024-7.png"
+            },
+            {
+              "link": "https://gr.mahpardigital.com/",
+              "username": "galih_roswandi654",
+              "message": "<p>Hallo semuanya, perkenalkan nama saya Galih Roswandi saya berasal dari kota Tasikmalaya, Saat ini saya sedang bekerja di salah satu perusahaan yang ada di Yogyakarta berposisi sebagai seorang Frontend Developer. Ini pertama kali saya ikut showcase project WPU, Website yang saya buat yaitu personal portfolio yang menggunakan teknologi sebagai berikut:</p>\n<ul>\n<li>NextJS</li>\n<li>Tailwindcss</li>\n<li>Bot telegram</li>\n<li>Particle JS</li>\n<li>Framer motion</li>\n<li>Axios</li>\n<li>React toastify</li>\n<li>Nginx</li>\n<li>Cloudflare</li>\n</ul>\n<p>Demo: <a href=\"https://gr.mahpardigital.com/\">https://gr.mahpardigital.com/</a>\nRepo: <a href=\"https://github.com/galihroswandi/Personal-Portfolio\">https://github.com/galihroswandi/Personal-Portfolio</a></p>\n<p>Terima kasih banyak pak dhika dan teman teman semoga website nya menginspirasi mohon maaf jika domainnya belum seuai karena masih kurang dana, mohon kritik dan sarannya atau boleh juga mengirimkan feedback melalui form contact di websitenya.</p>",
+              "image": "SEASON-4-8 Juni 2024-8.png"
+            },
+            {
+              "link": "https://bocil-js-demo.vercel.app/",
+              "username": "Nanda Learning",
+              "message": "<p>Halo perkenalkan nama saya Ananda Lukman Ramadhan kalian bisa panggil saya nanda,saya seorang solo devloper untuk sejauh ini masih untuk hobby aja ngoding hehe selain itu saya juga suka mengupload kontent tutorial dan seru seruan aja ngoding di tiktok ini nama akun saya @nandahobbyngoding.</p>\n<p>Jadi saya perkenalkan sebuah project yang saya buat yaitu Bocil JS nama nya agak lucu karna saya terinspirasi saat lagi nonton windah basudara 😁 .Ok lanjut saya jelaskan fungsi nya sebagai started template untuk menginstall React Js,Express Js dan Express TS dengan waktu yang sangat cepat ⚡</p>\n<p>Jika ingin memodifikasi nya saya izin kan karena saya berniat menjadikan extension ini sebagai project open source yang bisa di pakai oleh siapa pun 👌</p>\n<p>Teknologi yang di gunakan :</p>\n<ul>\n<li>Javascript</li>\n<li>Node JS</li>\n<li>Extension Generator Framework</li>\n</ul>\n<p>Demo Tampilan : <a href=\"https://bocil-js-demo.vercel.app/\">https://bocil-js-demo.vercel.app/</a></p>\n<p>Repository : <a href=\"https://github.com/NandaLearning/BocilJS-Extension\">https://github.com/NandaLearning/BocilJS-Extension</a></p>",
+              "image": "SEASON-4-8 Juni 2024-9.png"
             }
           ]
         }
