@@ -1,6 +1,96 @@
 {
-  "fetched_at": "2024-06-08T12:48:44.216Z",
+  "fetched_at": "2024-06-15T12:49:57.784Z",
   "data": [
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "TechStack",
+      "projectLink": "https://yusufs.me",
+      "projectIdx": 7,
+      "username": "panggilajasyris",
+      "message": "<p>Halo pak dosen kita semua,perkenalkan saya Muhammad yusuf saputra (yusuf),izin share showcase project punya bang andre yang saya ubah sedikit🙏(sudah izin) .</p>\n<p>github bang andre : <a href=\"https://github.com/ndrvndr\">https://github.com/ndrvndr</a></p>\n<p>yang saya ubah:</p>\n<ul>\n<li>spotify activity ke discord activity</li>\n<li>blog sanity saya ubah menjadi certificate (ga bisa buka sanity studionya😭)</li>\n<li>add lib music</li>\n</ul>\n<p>techstack:</p>\n<ul>\n<li>next</li>\n<li>tailwind</li>\n<li>ts</li>\n<li>cloudinary</li>\n<li>lanyard</li>\n<li>giscuss dll</li>\n</ul>\n<p>demo: <a href=\"https://yusufs.me\">https://yusufs.me</a>\nrepo: <a href=\"https://github.com/VernSG/yusufporto.git\">https://github.com/VernSG/yusufporto.git</a></p>",
+      "image": "SEASON-4-TechStack-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "TechStack",
+      "projectLink": "https://naelyo.github.io/Portfolio/",
+      "projectIdx": 6,
+      "username": "Naell",
+      "message": "<p>Halo Pak Dhika dan Kawan-kawan semua 😁. Perkenalkan saya Nathanael Christian Siboro (Nael), pada kesempatan kali ini saya mau share showcase project pertama saya yaitu sebuah website portfolio. Untuk responsive tablet belum saya buat🙏</p>\n<p>Tech stack :</p>\n<ol>\n<li>HTML</li>\n<li>CSS</li>\n<li>JavaScript</li>\n<li>Jquery</li>\n<li>AOS</li>\n<li>Animated CSS</li>\n</ol>\n<p>Alasan kenapa saya buat website ini : karna ingin menantang diri saya untuk membuat website main portfolio, tanpa menggunakan framework yang terkenal seperti tailwind, bootstrap, framework js, DLL</p>\n<p>jika ada masukkan dan kriktikan dari Pak Dhika maupun kawan-kawan, saya sangat menghargainya, terimakasih.</p>\n<p>Github : <a href=\"https://github.com/NaelYo\">https://github.com/NaelYo</a>\nRepo : <a href=\"https://github.com/NaelYo/Portfolio\">https://github.com/NaelYo/Portfolio</a>\nLive : <a href=\"https://naelyo.github.io/Portfolio/\">https://naelyo.github.io/Portfolio/</a></p>",
+      "image": "SEASON-4-TechStack-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "TechStack",
+      "projectLink": "https://futami.my.id",
+      "projectIdx": 5,
+      "username": "双海Yarn",
+      "message": "<p>Hai pak, saya futami kembali memberikan showcase sebuah web linktree like dengan banyak fitur</p>\n<ul>\n<li>Random trivia setiap refresh beranda</li>\n<li>Flexbox (karena grid tidak bisa center item ganjil)</li>\n<li>Dark mode (cuma backgroundnya saja)</li>\n<li>Dynamic favicon (terinspirasi astro js) dan bisa ikutin dark/light mode juga saat tidak fokus</li>\n<li>RSS youtube (karena lebih hemat dibanding api)</li>\n</ul>\n<p>Techstack:</p>\n<ul>\n<li>Sveltekit</li>\n<li>Tailwind CSS</li>\n<li>rss-parser</li>\n<li>firebase (hosting saja)</li>\n</ul>\n<p><a href=\"https://futami.my.id\">https://futami.my.id</a>\nRepo: <a href=\"https://github.com/futamiyarn/futami-landing\">https://github.com/futamiyarn/futami-landing</a>\nDynamic favicon code: <a href=\"https://github.com/futamiyarn/futami-landing/blob/main/src/routes/%2Blayout.svelte\">https://github.com/futamiyarn/futami-landing/blob/main/src/routes/%2Blayout.svelte</a></p>",
+      "image": "SEASON-4-TechStack-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "TechStack",
+      "projectLink": "https://github.com/myudak/Vision-Label",
+      "projectIdx": 4,
+      "username": "myudak",
+      "message": "<p>Hi everyone! I&#39;ve just launched a new project that helps you easily describe, rename, and organize your images using the free Gemini API.</p>\n<p>If you’re like me and have thousands of images and memes scattered in a download folder with random filenames, this tool will be a lifesaver. While there are paid apps available, I decided to create an open-source solution for everyone to use for free. Check it out and simplify your image management!</p>\n<p>Tech Stack :\nPython\nGemini API</p>\n<p>Link ke project: <a href=\"https://github.com/myudak/Vision-Label\">https://github.com/myudak/Vision-Label</a></p>",
+      "image": "SEASON-4-TechStack-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "TechStack",
+      "projectLink": "https://drive.google.com/file/d/1VEBRILPKayC9IE730ci136uUqC_T5AAf/view?usp=sharing",
+      "projectIdx": 3,
+      "username": "mardiansyah",
+      "message": "<p>Assalamualaikum warahmatullahi wabarakatuh pak dhika dan teman - teman perkenalkan saya Muhammad Mardiansyah, izin share aplikasi mobile saya yaitu aplikasi kesehatan gizi, salah satu fitur dari aplikasi saya adalah hasil inspirasi dari waktu saya mengikuti event GDG bandung</p>\n<p>berikut fiturnya</p>\n<ol>\n<li>Analisa kandungan gizi dari gambar menggunakan API Gemini</li>\n<li>Melihat kandungan gizi dari ribuan data makanan di indonesia (tahan card saat pencarian jika ingin memilih lebih dari satu food)</li>\n<li>Rencana sehat pengguna dapat mengelola rencana makanan perhari (geser jika ingin menghapus)</li>\n<li>artikel</li>\n</ol>\n<p>tech stack :\nFlutter\nExpress.js\nTypescript\nSupabase</p>\n<p>berikut link download apk nya :\n<a href=\"https://drive.google.com/file/d/1VEBRILPKayC9IE730ci136uUqC_T5AAf/view?usp=sharing\">https://drive.google.com/file/d/1VEBRILPKayC9IE730ci136uUqC_T5AAf/view?usp=sharing</a>\nLink repo : <a href=\"https://github.com/mardiansyah17/nutrition2\">https://github.com/mardiansyah17/nutrition2</a></p>",
+      "image": "SEASON-4-TechStack-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "TechStack",
+      "projectLink": "https://aidea-2d-surya-adityas-projects.vercel.app",
+      "projectIdx": 2,
+      "username": "Suryaaditya",
+      "message": "<p>Halo semua, saya ingin share mengenai explorasi “Full” THREE.js 3D experience untuk sebuah project kantor yg sedang saya kerjakan. Website ini memiliki slicing component on scroll yg tidak biasa karna diagonal ada pada page Home dan sebuah experiment slider yg ada di page expertise.</p>\n<p>Untuk menemukan cara membuat website seperti ini saya membutuhkan waktu sekita 1 bulan full untuk menguilik hingga jadi seperti di link dibawah (Hanya 2 page). Website ini HTML dan CSS nya hampir tidak terpakai jadi hanya untuk inisialisasi masing-masing section supaya bisa di render ke THREE.js nya.</p>\n<p>Semua asset 3D logo dan object ditengah itu masih buatan saya dan untuk testing, saya yakin nanti akan diganti.\nLink: <a href=\"https://aidea-2d-surya-adityas-projects.vercel.app\">https://aidea-2d-surya-adityas-projects.vercel.app</a></p>",
+      "image": "SEASON-4-TechStack-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "TechStack",
+      "projectLink": "https://color-matching-five.vercel.app/",
+      "projectIdx": 1,
+      "username": "bima4924",
+      "message": "<p>Assalamualaikum semua perkenalkan nama saya Bima. Izin share game berbasis web namanya Color Matching Game.</p>\n<p>Inspirasi dari video tiktok dan youtube short</p>\n<ul>\n<li>link video tiktok: <a href=\"https://www.tiktok.com/@phillips_fambam/video/7319191689447427358\">https://www.tiktok.com/@phillips_fambam/video/7319191689447427358</a></li>\n<li>link youtube short: <a href=\"https://www.youtube.com/shorts/HRObSDTHG18\">https://www.youtube.com/shorts/HRObSDTHG18</a></li>\n</ul>\n<p>Techstack:</p>\n<ul>\n<li>NextJS</li>\n<li>React</li>\n<li>TailwindCSS</li>\n<li>ReactDnD (buat drag and drop)</li>\n<li>React Conffeti (Biar kalau menang muncul conffeti 🤣 )</li>\n</ul>\n<p>Demo: <a href=\"https://color-matching-five.vercel.app/\">https://color-matching-five.vercel.app/</a>\nRepo: <a href=\"https://github.com/BimaAdi/color-matching\">https://github.com/BimaAdi/color-matching</a></p>\n<p>Mohon kritik dan saranya terutama dibagian UI dan UX nya. Masih belajar desain soalnya 🙏 .</p>\n<p>Kalau teman-teman nemu bug, mau fix bug atau nambah fitur silahkan pull request saja.</p>\n<p>Thank You</p>",
+      "image": "SEASON-4-TechStack-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "TechStack",
+      "projectLink": "https://sitara.tapera.nojin.site/",
+      "projectIdx": 0,
+      "username": "Nojin",
+      "message": "<p>Assalamualaikum, hallo all. Perkenalkan saya Nojin, pelajar smk rpl. Kali ini saya ingin showcase projek yang bernama recreate sitara.tapera.go.id karna merasa cukup risih dengan tampilannya.</p>\n<p>Btw ini pertama kali saya ikut showcase, maaf kalo masih belepotan ya huhu🙏🏻</p>\n<p>Projek ini bernama re-create sitara.tapera, saya hanya mencoba untuk membuat ulang website sitara.tapera.go.id dengan ilmu yang saya punya</p>\n<p>Techstack</p>\n<ul>\n<li>html</li>\n<li>css tailwind</li>\n<li>js</li>\n</ul>\n<p>Demo : <a href=\"https://sitara.tapera.nojin.site/\">https://sitara.tapera.nojin.site/</a>\nRepo : <a href=\"https://github.com/NojinNojs/recreate-tapera\">https://github.com/NojinNojs/recreate-tapera</a></p>\n<p>Mohon kritik dan sarannya ya, aeigatouuu 🙏🏻</p>",
+      "image": "SEASON-4-TechStack-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "15 Juni 2024",
+      "projectLink": "https://nimue-web.vercel.app/",
+      "projectIdx": 1,
+      "username": "leonurium",
+      "message": "",
+      "image": "SEASON-4-15 Juni 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "15 Juni 2024",
+      "projectLink": "https://ngetik-ngebut.vercel.app/",
+      "projectIdx": 0,
+      "username": "hibrizii",
+      "message": "<p>Assalamualaikum, perkenalkan nama saya Hibrizii, mahasiswa sastra tapi sangat hobi ngoding hehe..\nSebelumnya saya terima kasih ke Pak Dhika atas semua ilmu yang telah dibagikan, ga hanya koding tapi juga pelajaran2 hidup yang saya petik (😭😭😭)</p>\n<p>Meskipun ini pertama kali saya ikut showcase, tapi ini adalah project kedua yang saya kerjakan dengan niat.</p>\n<p>Project ini namanya: NGETIKNGEBUT (website untuk ngetest kecepatan ngetik), untuk logika programnya saya pake JS vanilla jaya jaya jaya (mohon maaf kodingannya masih berantakan 🙏)</p>\n<p>techstack:</p>\n<ul>\n<li>html</li>\n<li>sass</li>\n<li>JS</li>\n<li>nodeJs</li>\n</ul>\n<p>demo: <a href=\"https://ngetik-ngebut.vercel.app/\">https://ngetik-ngebut.vercel.app/</a>\nrepo: <a href=\"https://github.com/hibrizii/ngetik-ngebut\">https://github.com/hibrizii/ngetik-ngebut</a></p>\n<p>Mohon kritik dan sarannya , terima kasih🙏</p>",
+      "image": "SEASON-4-15 Juni 2024-0.png"
+    },
     {
       "season": "SEASON-4",
       "showcaseDate": "8 Juni 2024",
