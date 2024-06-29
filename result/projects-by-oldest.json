@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-06-22T12:50:39.722Z",
+  "fetched_at": "2024-06-29T12:50:03.859Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -14490,6 +14490,96 @@
       "username": "panggilajasyris",
       "message": "<p>Halo pak dosen kita semua,perkenalkan saya Muhammad yusuf saputra (yusuf),izin share showcase project punya bang andre yang saya ubah sedikit🙏(sudah izin) .</p>\n<p>github bang andre : <a href=\"https://github.com/ndrvndr\">https://github.com/ndrvndr</a></p>\n<p>yang saya ubah:</p>\n<ul>\n<li>spotify activity ke discord activity</li>\n<li>blog sanity saya ubah menjadi certificate (ga bisa buka sanity studionya😭)</li>\n<li>add lib music</li>\n</ul>\n<p>techstack:</p>\n<ul>\n<li>next</li>\n<li>tailwind</li>\n<li>ts</li>\n<li>cloudinary</li>\n<li>lanyard</li>\n<li>giscuss dll</li>\n</ul>\n<p>demo: <a href=\"https://yusufs.me\">https://yusufs.me</a>\nrepo: <a href=\"https://github.com/VernSG/yusufporto.git\">https://github.com/VernSG/yusufporto.git</a></p>",
       "image": "SEASON-4-TechStack-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "23 Juni 2024",
+      "projectLink": "https://posin-amibeias-projects.vercel.app/",
+      "projectIdx": 0,
+      "username": "Amibeia",
+      "message": "<h2>Halo Pak Dhika dan Kakak Kakak 👋</h2>",
+      "image": "SEASON-4-23 Juni 2024-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Fitur Utama",
+      "projectLink": "https://gamepad12.000webhostapp.com/",
+      "projectIdx": 0,
+      "username": "Kezmann",
+      "message": "<p>Assalamualaikum pak dosen kita semua, perkenalkan saya Afriza Kezman Setiawan jurusan Sistem informasi semester 2 dari Ma&#39;soem University, izin share showcase project pembuatan Website hasil saya pak untuk tugas Uas pemograman web di kampus saya pak saya juga pernah dapet projekan dari perusahaan kecil yang minta buatin website juga pak walaupun masih pemula, website ini berisi tentang olshop yang berisi crud, mohon koreksinya pak soalnya saya dari Sma bukan Smk pak, saya juga belajar otodidak dari chanel bapak dan Dea Afrizal, mohon koreksinya pak. Btw ini juga lagi ngerjain projek yang ke 7 pak, doain lancar dan terbuka inspirasi nya wkwkwk.</p>\n<p>Tech Stacks\nHTML\nPHP\nCSS\nJavaScript</p>\n<p><a href=\"https://gamepad12.000webhostapp.com/\">https://gamepad12.000webhostapp.com/</a></p>",
+      "image": "SEASON-4-Fitur Utama-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Fitur Utama",
+      "projectLink": "https://zikkk.my.id/",
+      "projectIdx": 1,
+      "username": "Zikkk",
+      "message": "<p>Halo pak dika.\nperkanelakan nama saya Zikri fikri, calon mahasiswa.</p>\n<p>Nama Project: <strong>Zosmed</strong>\nsosmed hasil belajar selama 2 minggu termasuk servernya juga :v</p>\n<p><strong>TechStacks</strong>\nPHP 🔥\nVUE 3\nINERIA\nLARAVEL\nTailwindcss</p>\n<p><a href=\"https://zikkk.my.id/\">https://zikkk.my.id/</a>\nex user\n<strong>email</strong>: <a href=\"mailto:freyapremium4@gmail.com\">freyapremium4@gmail.com</a> <strong>pw</strong>:admin@123</p>\n<p>github: <a href=\"https://github.com/zikrifikri21\">https://github.com/zikrifikri21</a></p>\n<p>kalau ada yg mau gabung dev ni aplikasi dm aja <a href=\"https://www.instagram.com/zikrifikri.21/\">https://www.instagram.com/zikrifikri.21/</a> 😁</p>\n<p>Tolong jangan di spam ya kaka-kaka soalnya masih pemula soal atur server 🙏</p>",
+      "image": "SEASON-4-Fitur Utama-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Fitur Utama",
+      "projectLink": "https://diky-without-c.github.io/color-sorter/",
+      "projectIdx": 2,
+      "username": "snayz",
+      "message": "<p>Halo semuanya, perkenalkan nama saya Diky. Pada kesempatan kali ini saya mau showcase pertama project saya yaitu sebuah game &quot;Color-sorter&quot;, saya membuat project ini dalam rangka menchallange diri saya membuat sebuah game dalam 1 hari, dan menurut saya game ini simple dan dapat dibuat dalam 1 hari 😅</p>\n<p>Tech stack:</p>\n<ol>\n<li>React.js</li>\n<li>TailwindCSS</li>\n</ol>\n<p>Links:\nRepo: <a href=\"https://github.com/Diky-Without-C/color-sorter\">https://github.com/Diky-Without-C/color-sorter</a>\nDemo: <a href=\"https://diky-without-c.github.io/color-sorter/\">https://diky-without-c.github.io/color-sorter/</a></p>",
+      "image": "SEASON-4-Fitur Utama-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Fitur Utama",
+      "projectLink": "https://thecoin.pow.kim",
+      "projectIdx": 3,
+      "username": "broken dreamer",
+      "message": "<p>Selamat malam Pak Dika dan semuanya, saya kembali untuk ikut meramaikan showcase malam ini. Project kali ini bernama &quot;The Coin&quot;, sebuah komunitas <strong>non-profit</strong> yang bertujuan untuk memperkenalkan ekosistem blockchain seperti NFT, cryptocurrency (tolong jangan tanya mekleren saya warna apa), smart contract, DApps, dan lainnya. Tempat ini diharapkan bisa menjadi wadah bagi developer dan trader agar tidak ada lagi <em>blind people following blind people</em>. Komunitas ini diinisiasi oleh saya dan seorang teman (bukan developer), jadi untuk webnya saya yang mengerjakannya sendiri.</p>\n<p>Web: <a href=\"https://thecoin.pow.kim\">https://thecoin.pow.kim</a>\nGithub: <a href=\"https://github.com/thecoin-id\">https://github.com/thecoin-id</a> (repository tidak dibagikan)</p>\n<p>Saat ini, website ini hanya memiliki dua fitur utama, yaitu artikel dan kursus, akan terus dikembangkan agar lebih interaktif dan lebih lengkap untuk orang mencari informasi dan belajar. Jumlah artikel dan kursus masih terbatas karena website ini baru saja diluncurkan dan kami masih mencari <em>Champion</em> yang bersedia membantu mengisi materi. Bagi teman-teman yang ingin berbagi pengetahuan, kami sangat terbuka untuk kontribusi.</p>\n<p><strong>Teknologi yang digunakan:</strong></p>\n<ul>\n<li>Main stack: Tailwind CSS, AlpineJs, Laravel, Livewire</li>\n<li>Library lainnya: Tiptap Editor, Sentry, Blade Icons, etc</li>\n<li>Database: PostgreSQL</li>\n<li>Deployment: Biznet Gio Neo Lite (kalau lemot salahkan mereka bukan salah PHP :v)</li>\n</ul>\n<p>Websitenya masih terlihat sederhana karena kebanyakan fitur hanya digunakan oleh admin/champion/helper. Untuk pengerjaannya memakan waktu seminggu. Credentials akun untuk Pak Dika nanti saya kirim lewat DM (kalau tidak lupa, hehe). Btw, untuk Tall Stack, terakhir kali saya pakai dua tahun lalu di Laravel 8 dan Livewire 2, ternyata sekarang banyak fitur baru yang keren.</p>\n<p>Bagi yang tertarik, silakan ikut meramaikan komunitasnya. Sekian dan terima masukan.</p>",
+      "image": "SEASON-4-Fitur Utama-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Fitur Utama",
+      "projectLink": "https://www.sanity.io/projects/awd-portofolio",
+      "projectIdx": 4,
+      "username": "Agus W",
+      "message": "<p>Selamat malam semuanya dan Pak Dika, saya Agus Wahyu Dupayana (Awd) akan project showcase portofolio yang saya sudah buat sebelumnya. Perbedaan dari project portofolio ini yaitu terdapat CMS didalamnya dengan menggunakan Sanity CMS. Sanity CMS ini merupakan headless CMS yang berbasis cloud. Jadi, keselurahan konten web ini dapat diubah secara dinamis dengan Sanity Studio.</p>\n<p>TechStack yang digunakan :</p>\n<ul>\n<li>Sanity CMS</li>\n<li>Next JS</li>\n<li>Tailwind CSS</li>\n</ul>\n<p>Link Portofolio : <a href=\"https://awd.my.id\">https://awd.my.id</a>\nLink Github : <a href=\"https://github.com/putuwahyu29/awd\">https://github.com/putuwahyu29/awd</a>\nSanity Showcase Project : <a href=\"https://www.sanity.io/projects/awd-portofolio\">https://www.sanity.io/projects/awd-portofolio</a></p>",
+      "image": "SEASON-4-Fitur Utama-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Fitur Utama",
+      "projectLink": "https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v2/Poly%20Landhep%20v2.html",
+      "projectIdx": 5,
+      "username": "⚙⚙WowGGGearing⚙⚙",
+      "message": "<p>Bismillaahirrahmaanirrahiim\nAssalaamu&#39;alaykum Wr wb.</p>\n<p>Project shocase kali ini adalah Poly Landhep v2 - Differential Gear ⚙️⚙️⚙️.\nwow⚙️ℹ️🆖 akhirnya punya gear di dalam web.\nDi Blender, aku bikin shader node berisi beberapa fungsi matematika yang bisa dizoom sampai kecil, tidak pakai image texture. Blender supports, untuk generate data extra sebelum export menggunakan file glTF.</p>\n<p>Differential Gear ⚙️ sering dijumpai di kendaraan roda &gt;= 3, menampilkan cara kerja gear saat kendaraan berbelok.\nIntel Corona adalah objek yang muncul tidak aku duga saat mengedit shader. Karena penampakan yang WoW💥💥, sekalian aku kasih control agar bisa dizoom. Objek ini sangat kecil dan langka, jadi IT WORK DONT TOUCH ‼️‼️.\nSementara, texture disusun tidak karuan sebagai math art 🎨🖼️.</p>\n<p>Editor:</p>\n<ul>\n<li>Blender 3.4.1</li>\n<li>Text Area Kelap Kelip <a href=\"https://github.com/AngkasaMuhammad/TextAreaKelapKelip\">https://github.com/AngkasaMuhammad/TextAreaKelapKelip</a></li>\n<li>Notepad++</li>\n</ul>\n<p>library:</p>\n<ul>\n<li>wgpu-matrix <a href=\"https://wgpu-matrix.org/docs/\">https://wgpu-matrix.org/docs/</a></li>\n</ul>\n<p>Repo: <a href=\"https://github.com/AngkasaMuhammad/Poly-Landhep\">https://github.com/AngkasaMuhammad/Poly-Landhep</a>\nWeb: <a href=\"https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v2/Poly%20Landhep%20v2.html\">https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v2/Poly%20Landhep%20v2.html</a></p>\n<p>Aku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU &amp; memilih library yang mengutamakan performa.\nKita tidak cuma ahli main game, kita juga ahli 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 atau dompet makin slim 💸📉.\nKita tidak cuma bisa berkendara 🛵🚙, kita juga bisa 💪💪 bikin kendaraan yang irit, awet, ringan, &amp; banter.\nMaturnuwun.</p>",
+      "image": "SEASON-4-Fitur Utama-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Fitur Utama",
+      "projectLink": "https://spacewyverndev.itch.io/novae-01",
+      "projectIdx": 6,
+      "username": "aethxrn",
+      "message": "<h2>Halo Semuanya 👋</h2>",
+      "image": "SEASON-4-Fitur Utama-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Tautan",
+      "projectLink": "https://zenfresh-proto.netlify.app/",
+      "projectIdx": 0,
+      "username": "Umar Jihad",
+      "message": "<p>Halo semuanya.</p>\n<p>Saya Umar dari Jogja. Sudah lama gak showcase 😁. Kali ini saya mau showcase project fullstack website pemesanan laundry. Ini upgrade dari showcase Saya sebelumnya. Kebetulan, project ini juga Saya jadikan bahan tugas mata kuliah MPPL (Metode Pengembangan Perangkat Lunak)</p>\n<p>Demo: <a href=\"https://zenfresh-proto.netlify.app/\">https://zenfresh-proto.netlify.app/</a>\nRepo: <a href=\"https://github.com/jihadable/zenfresh/tree/tugas_mppl\">https://github.com/jihadable/zenfresh/tree/tugas_mppl</a></p>\n<p>Tech Stack: MERN + daisyUI(tailwindcss) + Midtrans</p>\n<p>Terdapat 2 role yaitu cutomer dan admin. Untuk customer, Pak Dhika bisa registrasi aja, untuk admin, nanti Saya kirim email sama password nya lewat DM discord Pak Dhika.</p>\n<p>Website ini juga dilengkapi payment gateway menggunakan midtrans. Hasil nonton tutor dari Pak Dhika dan Kang Dea.</p>\n<p>Mekanisme pemesanan laundry</p>\n<ol>\n<li>Pelanggan memesan laundry melalui halaman order</li>\n<li>Admin mengonfirmasi pemesanan</li>\n<li>Kurir menjemput pakaian yang ingin dilaundry</li>\n<li>Admin memperbarui data pesanan seperti status</li>\n<li>Kurir mengantar pakaian yang sudah dilaundry</li>\n<li>Pelanggan melakukan pembayaran</li>\n</ol>\n<p>Karena pembayaran melalui midtrans masih dalam mode sandbox, jadi untuk memudahkan pembayaran, Pak Dhika bisa menggunaan midtrans simulator\n<a href=\"https://simulator.sandbox.midtrans.com/\">https://simulator.sandbox.midtrans.com/</a></p>\n<p>Untuk pengembangan selanjutnya, Saya ingin menambahkan fitur lupa password, fitur chat serta fitur memasukkan alamat dengan memilih lewat Google Maps. Mungkin teman-teman memiliki saran atau masukan tentang fitur-fitur tersebut. tersebut.</p>",
+      "image": "SEASON-4-Tautan-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Tautan",
+      "projectLink": "https://farrellid.xyz",
+      "projectIdx": 1,
+      "username": "parreelll",
+      "message": "<p>Hallo Pak Sandhika dan Teman&#39; semuanya,\nPerkenalkan Nama Saya Farrell Athar R, Sebelumnya saya belum pernah mengikuti showcase project dan kali ini saya ingin membagikan Website Portfolio Saya yang sedang saya kembangkan. Website ini saya design dengan konsep modern minimalist.</p>\n<p>Berikut Teknologi yang Saya Pakai :\nHTML\nCSS\nJavaScript</p>\n<p>🔗 Link Website: <a href=\"https://farrellid.xyz\">https://farrellid.xyz</a>\nKritik &amp; Saran? <a href=\"https://forms.gle/hsM64iJb3KMQ9XQx9\">https://forms.gle/hsM64iJb3KMQ9XQx9</a></p>",
+      "image": "SEASON-4-Tautan-1.png"
     }
   ]
 }
