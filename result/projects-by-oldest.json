@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-07-06T12:49:09.410Z",
+  "fetched_at": "2024-07-13T12:49:06.449Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -14760,6 +14760,96 @@
       "username": "Hendra Bangun",
       "message": "<p>Assalamualaikum Hendra, dan kawan-kawan semuanya,</p>\n<p>Perkenalkan, saya Hendra. Saya membuat proyek pertama saya yaitu kumpulan file game yang bisa diakses secara online. Ini adalah upaya saya untuk belajar dan berbagi karya dengan komunitas.</p>\n<p>Website: <a href=\"https://game.dwirz.my.id/\">https://game.dwirz.my.id/</a></p>\n<p>Tech Stack:</p>\n<ul>\n<li>HTML</li>\n<li>CSS</li>\n<li>JavaScript</li>\n</ul>\n<p>Terima kasih!</p>",
       "image": "SEASON-4-6 Juli 2024-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 Juli 2024",
+      "projectLink": "http://sibarang.chitos.site/public/",
+      "projectIdx": 0,
+      "username": "CHITOS",
+      "message": "<p>Halo pak Sandhika dan rekan-rekan semua,\nsaya I Kadek Naryasa (Chitos) izin untuk mengikuti showcase project, dimana ini adalah showcase pertama saya.</p>\n<p>project yang saya buat adalah sebuah website sederhana dengan nama SIBARANG (Sistem Informasi Pencatatan Peminjaman Barang) yang sistemnya mirip dengan aplikasi kasir.</p>\n<p>Sistem ini digunakan untuk mencatat data peminjaman barang yang dilakukan (dalam hal ini saya asumsikan di dalam sebuah perusahaan). sistem ini saya buat karena terinspirasi dari permasalahan salah satu teman saya di sebuah perusahaan IT, yang dimana untuk peminjaman barang (alat teknis) masih secara manual dan sering kali ada barang yang tidak tercatat.\nsistem ini akan terus saya kembangkan agar bisa mengatasi permasalahan tersebut.</p>\n<p>TechStack :</p>\n<ol>\n<li>Codeigniter 4</li>\n<li>Boostrap 5</li>\n<li>SweetAlert2</li>\n</ol>\n<p>untuk websitenya bisa di akses di link : <a href=\"http://sibarang.chitos.site/public/\">http://sibarang.chitos.site/public/</a>\nuntuk github : <a href=\"https://github.com/zeynaryasa/SIBARANG_SHOW\">https://github.com/zeynaryasa/SIBARANG_SHOW</a></p>\n<p>ID dan Password untuk login akan kirimkan via cht discoed ke pak &lt;@376337405185097728&gt; di hari sabtu saat sebelum live showcase project</p>\n<p>untuk tampilannnya masih sangat simpel dan agak berantakan karena saya bukan FE , untuk itu saya ingin memminta saran dan masukan dari pak dhika dan rekan-rekan dari segi tampilan dan dari segi fitur yang mungkin bisa saya tambahkan kedepannya</p>\n<p>noted :\nhalaman perlu di refresh jika ngeblank karena saya menggunakan hosting gratis 🙂</p>\n<p>belum suport untuk mobile 🙂</p>\n<p>terimakasih..!!</p>",
+      "image": "SEASON-4-13 Juli 2024-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 Juli 2024",
+      "projectLink": "https://farxdemo.vercel.app/",
+      "projectIdx": 1,
+      "username": "parreelll",
+      "message": "<p>Hallo Pak Sandhika dan Teman&#39; semuanya,\nPerkenalkan Nama Saya Farrell Athar R &lt;:iwak_hehe:1083991043155951646&gt;, Sebelumnya saya sudah pernah mengikuti showcase project dan kali ini saya ingin showcase lagi yaitu Website Community Discord yang sedang saya Kembangkan. Website ini saya design dengan konsep modern minimalist sama seperti Website Portfolio Saya Pribadi yang telah di Showcase pada 23 Juni Lalu.</p>\n<p>Berikut Teknologi yang Saya Pakai :\nHTML\nCSS\nJavaScript</p>\n<p>🔗 Link Website: <a href=\"https://y6rey.vercel.app\">https://y6rey.vercel.app</a>\n:worryadios: Kritik &amp; Saran? <a href=\"https://forms.gle/hsM64iJb3KMQ9XQx9\">https://forms.gle/hsM64iJb3KMQ9XQx9</a></p>\n<p>(edited 09 juli 2024)\ndan adapun Saya Membuat Website Portfolio Baru untuk Menggantikan Website Portfolio Lama saya dikarenakan Hosting Website Lama saya yang Berisikan Seluruh Script Portfolio lama Tidak bisa Diakses Kembali. dan Seluruh Database Script Web lama yang ada di File Manager tidak terbackup di Folder Pilihan (agar tidak terkena AutoClear) maka seluruhnya terhapus karna AutoClear IOBit ( Software Pembersih ).</p>\n<p>Teknologi: Sama, hanya ada tambahan di Contact Me menggunakan:\n<a href=\"https://formsubmit.co\">https://formsubmit.co</a></p>\n<p>Berikut Demo Web Portfolio Baru:\n<a href=\"https://farxdemo.vercel.app/\">https://farxdemo.vercel.app/</a></p>\n<p>Berikut Web Portfolio Lama saya:\n<a href=\"https://farrellid.xyz\">https://farrellid.xyz</a></p>\n<p>Terima kasih Pak Sandhika dan Teman-teman semuanya. :dinojoget:</p>",
+      "image": "SEASON-4-13 Juli 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 Juli 2024",
+      "projectLink": "https://advierifaldy.vercel.app/",
+      "projectIdx": 2,
+      "username": "Vi",
+      "message": "<p>Halo semuanya</p>\n<p>Perkenalkan saya M Advie Rifaldy dari Bandung, mahasiswa semester 6\nPada kesempatan kali ini saya mau share website portfolio sederhana saya yang baru saya update buat persiapan magang nanti di semester 7. dengan tech stack yang digunakan yaitu:</p>\n<ul>\n<li>NextJS</li>\n<li>Aceternity UI</li>\n<li>Tailwind CSS</li>\n</ul>\n<p>Link website : <a href=\"https://advierifaldy.vercel.app/\">https://advierifaldy.vercel.app/</a>\nLink repo : <a href=\"https://github.com/madvier83/portfolio-2024\">https://github.com/madvier83/portfolio-2024</a></p>\n<p>Bila ada saran atau pertanyaan boleh chat melalui kontak yang ada pada website saya &lt;:rock_approved:980409751869485057&gt;</p>\n<p>Terima Kasih</p>",
+      "image": "SEASON-4-13 Juli 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 Juli 2024",
+      "projectLink": "https://superdafis.github.io/portofolio/",
+      "projectIdx": 3,
+      "username": "Superman",
+      "message": "<p>Assalamualaikum warahmatullahi wabarakatuh.\nPerkenalkan nama saya Danish. Izin share web portfolio saya.</p>\n<p>Teknologi :\n-HTML\n-CSS\n-Bootstrap</p>\n<p>Demo : <a href=\"https://superdafis.github.io/portofolio/\">https://superdafis.github.io/portofolio/</a>\nRepo : <a href=\"https://github.com/superdafis/portofolio\">https://github.com/superdafis/portofolio</a></p>\n<p>Mohon kritik dan sarannya</p>\n<p>Terimakasih</p>",
+      "image": "SEASON-4-13 Juli 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 Juli 2024",
+      "projectLink": "https://crates.io/crates/mini-config",
+      "projectIdx": 4,
+      "username": "DankenDonet",
+      "message": "<p>Halo gaes,</p>\n<p>perkenalkan saya Dharmawangsa (dikenal sebagai <code>zonblade</code>), mau share project open-source menggunakan bahasa Rust yang saya namai <code>mini-config</code>. Project ini ditujukan untuk menjadi solusi dari salah satu masalah yang ada.</p>\n<p>Problem :</p>\n<blockquote>\n<p>pada saat saya membuat package ini, tidak ada config-package yang dapat melakukan perubahan pada runtime. Dan jika dibuat sendiri sebenarnya bisa (toh ini saya bikin sendiri juga), berhubung program yang sedang saya kerjakan bukan mono-repo maka, library dynamic config yang dapat berubah saat runtime diperlukan.</p>\n</blockquote>\n<p>Solusi :</p>\n<blockquote>\n<p>se-simple membuat variable yang disimpan pada memory, menggunakan ENUM untuk menjadi perantara. Dan dengan adanya libraray ini, tidak perlu mengoding ulang pada setiap project lainnya, dan jika ada update tinggal set ke versi terbaru.</p>\n</blockquote>\n<p>Teknologi :\nRust</p>\n<p>Library tambahan:\n<code>syn</code>\n<code>quote</code></p>\n<p>Crates : <a href=\"https://crates.io/crates/mini-config\">https://crates.io/crates/mini-config</a>\nRepository (github) : <a href=\"https://github.com/zonblade/mini-config-rs\">https://github.com/zonblade/mini-config-rs</a></p>\n<p>yang mau contribute sangat dipersilahkan 🔥</p>\n<p>Terimakasih</p>",
+      "image": "SEASON-4-13 Juli 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 Juli 2024",
+      "projectLink": "https://jurnalkoding.com/",
+      "projectIdx": 5,
+      "username": "Raf",
+      "message": "<p>Assalamualaikum teman-teman,</p>\n<p>Perkenalkan saya Rafi izin untuk mengikuti showcase project, dimana project ini adalah showcase pertama saya.</p>\n<p>Saya ingin memperkenalkan sebuah project pribadi saya, sebuah platform Learning Management System (LMS) yang saya beri nama Jurnalkoding.com. Saat ini, website masih dalam tahap pengembangan. Melalui project ini, saya berharap dapat memperdalam pengetahuan tentang SEO dan manajemen website secara efektif.</p>\n<p>Di Jurnalkoding.com, saya telah menyediakan berbagai artikel dan seri pembelajaran yang dapat diakses secara gratis oleh teman-teman semua. Jika teman-teman tertarik untuk belajar bersama atau sekadar melihat-lihat, saya mengundang teman - teman untuk mengunjungi website ini.</p>\n<p>Techstack :</p>\n<ul>\n<li>Laravel</li>\n<li>Tailwindcss</li>\n<li>Javascript</li>\n<li>Alpinejs</li>\n</ul>\n<p>Template :\nTemplate yang saya gunakan merupakan buatan saya sendiri, jika teman - teman tertarik bisa kunjungi di repository (github) : <a href=\"https://github.com/Raf-Taufiqurrahman/RILT-Starter\">https://github.com/Raf-Taufiqurrahman/RILT-Starter</a> [catatan : beda project dengan yang saya showcase].</p>\n<p>Link Website : <a href=\"https://jurnalkoding.com/\">https://jurnalkoding.com/</a></p>\n<p>Mohon masukan dan saran untuk pengembangan selanjutnya.</p>\n<p>Terimakasih.</p>",
+      "image": "SEASON-4-13 Juli 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 Juli 2024",
+      "projectLink": "https://redhoarifin.vercel.app",
+      "projectIdx": 6,
+      "username": "Redho A.",
+      "message": "<p>Assalamu&#39;alaikum\nSelamat Siang kawan kawan saya Redho Arifin.</p>\n<p>Saya ingin memperkanal project portofolio diri saya. saya masih belajar dan terus mengupgrade diri. project akan terus saya kembangkan. kiranya saya akan berterima kasih apabila teman - teman memberikan saran.</p>\n<p>Tech Stack:</p>\n<ul>\n<li>Next Js</li>\n<li>Shdcn UI</li>\n<li>Aceternity UI</li>\n</ul>\n<p>Repo: <a href=\"https://github.com/redhocode/redhocode-portofolio-2024\">https://github.com/redhocode/redhocode-portofolio-2024</a>\nPreview: <a href=\"https://redhoarifin.vercel.app\">https://redhoarifin.vercel.app</a></p>\n<p>Note: untuk bahasa inggris masih kacau.</p>\n<p>Terima Kasih</p>",
+      "image": "SEASON-4-13 Juli 2024-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 Juli 2024",
+      "projectLink": "https://mrdrfilm.site/",
+      "projectIdx": 7,
+      "username": "Morderrr",
+      "message": "<p>Assalamualaikum,\nSelamat Malam semuanya, perkenalkan saya Bernie Aryandhi</p>\n<p>Saya ingin memperkenalkan Website hasil pembelajaran di youtube Web Programming Unpas, website itu merupakan website streaming &amp; download film atau tv series, entah boleh atau engga, kalau boleh Alhamdulillah, kalau tidak, tidak apa apa. Saya hanya ingin memperkenalkan website saya di showcase-project pertama saya ini dan ini menjadi bukti nyata kalau konten WPU sangat sangat bermanfaat buat saya yang dari 0 ingin menjadi programmer hingga ini project terbesar saya walaupun masih sederhana, tolong saran nya untuk saya agar menjadi lebih baik kedepannya.</p>\n<p>Tech Stack:</p>\n<ul>\n<li>Laravel</li>\n<li>Vite</li>\n<li>Tailwindcss</li>\n<li>Flowbite</li>\n</ul>\n<p>API:</p>\n<ul>\n<li>The Movie Database</li>\n<li>Vidsrc</li>\n</ul>\n<p>Preview : <a href=\"https://mrdrfilm.site/\">https://mrdrfilm.site/</a></p>\n<p>Note : Maaf kalau isi footer nya ngasal</p>\n<p>Terimakasih, Sukses semuanya🔥</p>",
+      "image": "SEASON-4-13 Juli 2024-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 Juli 2024",
+      "projectLink": "https://alfaridzahamdani.github.io/Portofolio2024/",
+      "projectIdx": 8,
+      "username": "Alfa",
+      "message": "<p>Assalamualaikum,\nSelamat Siang semuanya perkenalkan saya Alfaridza</p>\n<p>Saya ingin memperkenalkan website portofolio saya, saya masih belajar tentang frontend dan terus upgrade diri. Projects ini belum sepenuhnya jadi, masih akan terus saya kembangkan, mohon sarannya dari teman teman apabila ada yang perlu diperbaiki.</p>\n<p>Text Stack</p>\n<ul>\n<li>NextJs</li>\n<li>Framer Motion</li>\n<li>GSAP</li>\n<li>SASS</li>\n</ul>\n<p>GitHub Repository: <a href=\"https://github.com/AlfaridzaHamdani/Portofolio2024\">https://github.com/AlfaridzaHamdani/Portofolio2024</a>\nLive Demo: <a href=\"https://alfaridzahamdani.github.io/Portofolio2024/\">https://alfaridzahamdani.github.io/Portofolio2024/</a></p>\n<p>Terimakasih semuanya</p>",
+      "image": "SEASON-4-13 Juli 2024-8.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "13 Juli 2024",
+      "projectLink": "https://bizzcode.site/",
+      "projectIdx": 9,
+      "username": "BimaBizz",
+      "message": "<p>punten pak dika dan teman-teman mau ikut nampilin project sederhana</p>\n<p>ceritanya ini website ini dibuat karena sudah ingin migrasi dari reactjs ke Nextjs karena emang fitur yang ditawarkan oleh nextjs lebih wow dari pada react, salah satunya yang membuat saya ngebet banget pengen migrasi dari reactjs adalah pengelolaan SEO yang lumayan sederhana, dan bahkan bisa diterapkan menggunakan <strong>Cockpit CMS</strong></p>\n<p><strong>Penjelasan</strong></p>\n<p>FYI: website sudah di crawl google dan ditempatkan di halaman pertama pencarian dengan keyword <strong>bizzcode &amp; bimabizz</strong> (walau belum sempurna)</p>\n<p>project ini dibuat dengan nextjs dan dengan tailwindcss serta ada fitur untuk melakukan filter block untuk badword (hanya ditampilkan diweb tidak di panel cms), serta fitur form yang akan langsung masuk ke email SMTP server saya yang memungkin saya langsung membalas email dari pengirim, untuk database saya menggunakan API yang disediakan oleh <strong>Cockpit CMS</strong></p>\n<p>Github\n<a href=\"https://github.com/BimaBizz/bizzcode\">https://github.com/BimaBizz/bizzcode</a></p>\n<p>Demo Website\n-&gt; <a href=\"https://bizzcode.site/\">https://bizzcode.site/</a> (frontend)\n-&gt; <a href=\"https://admin.bizzcode.site/\">https://admin.bizzcode.site/</a> (headless cms)</p>",
+      "image": "SEASON-4-13 Juli 2024-9.png"
     }
   ]
 }
