@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-07-13T12:49:06.449Z",
+  "fetched_at": "2024-07-20T12:49:46.579Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -10832,6 +10832,71 @@
               "username": "BimaBizz",
               "message": "<p>punten pak dika dan teman-teman mau ikut nampilin project sederhana</p>\n<p>ceritanya ini website ini dibuat karena sudah ingin migrasi dari reactjs ke Nextjs karena emang fitur yang ditawarkan oleh nextjs lebih wow dari pada react, salah satunya yang membuat saya ngebet banget pengen migrasi dari reactjs adalah pengelolaan SEO yang lumayan sederhana, dan bahkan bisa diterapkan menggunakan <strong>Cockpit CMS</strong></p>\n<p><strong>Penjelasan</strong></p>\n<p>FYI: website sudah di crawl google dan ditempatkan di halaman pertama pencarian dengan keyword <strong>bizzcode &amp; bimabizz</strong> (walau belum sempurna)</p>\n<p>project ini dibuat dengan nextjs dan dengan tailwindcss serta ada fitur untuk melakukan filter block untuk badword (hanya ditampilkan diweb tidak di panel cms), serta fitur form yang akan langsung masuk ke email SMTP server saya yang memungkin saya langsung membalas email dari pengirim, untuk database saya menggunakan API yang disediakan oleh <strong>Cockpit CMS</strong></p>\n<p>Github\n<a href=\"https://github.com/BimaBizz/bizzcode\">https://github.com/BimaBizz/bizzcode</a></p>\n<p>Demo Website\n-&gt; <a href=\"https://bizzcode.site/\">https://bizzcode.site/</a> (frontend)\n-&gt; <a href=\"https://admin.bizzcode.site/\">https://admin.bizzcode.site/</a> (headless cms)</p>",
               "image": "SEASON-4-13 Juli 2024-9.png"
+            }
+          ]
+        },
+        {
+          "date": "20 Juli 2024",
+          "projects": [
+            {
+              "link": "https://gachakodam.vercel.app/",
+              "username": "sakaskuy",
+              "message": "<p>Assalamualaikum\nPak Dika dan teman-teman sekalian, perkenalkan nama saya Hamdan</p>\n<p>Saya ingin menunjukkan hasil website yang sedang ramai belakangan ini tenang khodam, jadi ini adalah projek iseng yang saya buat namanya gacha kodam, datasetnya di dapat dari GPT dan asset gambar dari google, mungkin banyak kurangnya.</p>\n<p>Deskripsi : jadi kita memasukan nama setelah itu akan merandome khodam yang tersedia 25 khodam dengan tinggkat rarerty yang berbeda-beda</p>\n<p>Tack stack:\n-Next js\n-React Spring\n-Tailwindcss\n-Html to image</p>\n<p>Repo :\n<a href=\"https://github.com/sakatimuna7/gachakodam\">https://github.com/sakatimuna7/gachakodam</a>\nDemo :\n<a href=\"https://gachakodam.vercel.app/\">https://gachakodam.vercel.app/</a></p>\n<p>Terimakasih semuanya.</p>",
+              "image": "SEASON-4-20 Juli 2024-0.png"
+            },
+            {
+              "link": "https://anwarachilles.my.id",
+              "username": "Anwar Achilles",
+              "message": "<p>Assalamuallaikum.</p>\n<p>Punten Pak Dika dan teman-teman, ini pertama kali saya ikut showcase project ini.</p>\n<p>Saya telah membuat website profil pribadi yang sederhana. Mungkin masih kurang dalam hal konten yang ingin saya sampaikan di website ini. Saat ini, saya masih memperbaiki dan mengembangkannya. Akan sangat membantu jika ada saran untuk meningkatkan kesalahan baik itu dalam tata letak, tipografi, konten, dan lainnya.</p>\n<p>Untuk Tech Stack yang digunakan:\nHTML, CSS, JS, PHP</p>\n<p>Berikut adalah website saya:\n<a href=\"https://anwarachilles.my.id\">https://anwarachilles.my.id</a></p>\n<p>Untuk tambahan informasi, akan saya kirim DM ke Pak Dika.</p>\n<p>Terima kasih semuanya 🙏.</p>",
+              "image": "SEASON-4-20 Juli 2024-1.png"
+            },
+            {
+              "link": "https://chic-licorice-a6212b.netlify.app/",
+              "username": "dihpan",
+              "message": "<p>Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, kali ini saya mau showcase game yang bernama &quot;Timbersaw&quot;. kalau teman-teman main dota 2 pasti tau hero ini ya, dimana kita sebagai player akan menghindari ranting dengan cara memotong pohon</p>\n<p>Demo: <a href=\"https://chic-licorice-a6212b.netlify.app/\">https://chic-licorice-a6212b.netlify.app/</a></p>\n<p>Control:\nPanah kanan dan kiri</p>\n<p>Github Repo: <a href=\"https://github.com/pepega90/timbersaw\">https://github.com/pepega90/timbersaw</a></p>\n<p>Teknologi yang digunakan:</p>\n<p>C++\nraylib (<a href=\"https://www.raylib.com/\">https://www.raylib.com/</a>)\nemscripten (<a href=\"https://emscripten.org/\">https://emscripten.org/</a>)</p>\n<p>Kurang lebihnya mohon maaf, terima kasih.</p>",
+              "image": "SEASON-4-20 Juli 2024-2.png"
+            },
+            {
+              "link": "https://nichommerce.com",
+              "username": "Nicholas Chandra",
+              "message": "<p>Selamat Malam semuanya, perkenalkan saya Nicholas Chandra.</p>\n<p>Saya ingin memperkenalkan website hasil karya saya, yaitu Nichommerce. Website ini merupakan platform e-commerce yang fokus menjual produk digital seperti laptop, PC, smartphone, dan elektronik lainnya.</p>\n<p>Sebelumnya, saya menggunakan MERN stack, namun setelah melihat banyak konten di feed Instagram dan YouTube tentang Laravel, saya memutuskan untuk belajar Laravel sekitar satu bulan yang lalu. Mohon saran dan kritikannya agar saya bisa terus berkembang.</p>\n<p>Untuk teknologinya masih pake dasar-dasar di laravel,\nuntuk rolenya ada 2 yaitu admin dan user. Defaut: user</p>\n<p>untuk admin bisa manage product, manage category product, manage article, dan manage category article.</p>\n<p>Tech Stack:</p>\n<p>Laravel Blade\nMySQL\nTailwind CSS</p>\n<p>Preview: <a href=\"https://nichommerce.com\">https://nichommerce.com</a></p>\n<p>Note: Mohon maaf jika ada kekurangan pada beberapa bagian website.</p>\n<p>Terima kasih, sukses selalu untuk kita semua! 🔥</p>",
+              "image": "SEASON-4-20 Juli 2024-3.png"
+            },
+            {
+              "link": "https://www.tokokeramik.com",
+              "username": "sarrahman",
+              "message": "<p>Halo semuanya,</p>\n<p>Saya Rahman. Saya bukan programmer profesional dan tidak pernah kuliah di bidang IT, jadi mohon maaf jika aplikasi saya kurang sempurna di mata para ahli di sini.</p>\n<p>Saya mencoba menyelesaikan masalah yang sering dihadapi oleh toko keramik yang tidak memahami teknologi tetapi ingin membuat katalog keramik online dengan mudah dan cepat. Ide ini muncul karena saya juga bekerja sebagai sales di toko keramik.</p>\n<p>Konsepnya sederhana: pemilik toko dapat mendaftar dan membuat toko online mereka sendiri. Mereka kemudian dapat menambahkan barang yang sudah saya sediakan, yang berasal dari berbagai merek yang ada di Indonesia. Dengan begitu, pemilik toko tidak perlu menginput barang mereka sendiri, karena saya telah melakukan scraping dari semua situs pemasok publik dan menambahkannya ke sistem saya dengan cepat.</p>\n<p>Saya sadar aplikasi ini memiliki banyak kekurangan dan masih jauh dari sempurna, tetapi saya terus memperbaikinya di tengah kesibukan saya di luar coding.</p>\n<p>Teknologi yang digunakan:</p>\n<p>Frontend : Typescript - Nextjs\nBackend : Rust - Actix web\nUI : tailwindcss</p>\n<p>ini aplikasinya : <a href=\"https://www.tokokeramik.com\">https://www.tokokeramik.com</a></p>\n<p>kurang lebih mohon maaf dan terima kasih banyak pak dika atas semua ilmunya.</p>",
+              "image": "SEASON-4-20 Juli 2024-4.png"
+            },
+            {
+              "link": "https://connect-verse-seven.vercel.app/",
+              "username": "Ilham Rangga Kurniawan",
+              "message": "<p>Halo semuanya</p>\n<p>saya Ilham Rangga Kurniawan saya baru saja naik kelas 1 smk, pada kesempatan kali ini saya ingin showcase project saya beberapa minggu ini yaitu ig clone yang saya namakan Connect Verse, project ini bertujuan untuk belajar dan mengembangkan portofolio, apabila pak dhika mau coba fitur ainya bisa hubungi saya, supaya bisa diberikan akses</p>\n<p>teknologi yang digunakan antara lain</p>\n<p>Next.js 14 (app router &amp; server action)\nTailwind CSS\nShadcn UI\nPusher (untuk real time chat nya)\nPrisma ORM\nPostgre SQL\nZustand\nDocker (walaupun masih error)</p>\n<p>Source code: <a href=\"https://github.com/IlhamRanggaKurniawan/ConnectVerse\">https://github.com/IlhamRanggaKurniawan/ConnectVerse</a>\nDemo:<a href=\"https://connect-verse-seven.vercel.app/\">https://connect-verse-seven.vercel.app/</a></p>\n<p>web ini akan saya terus kembangkan, terimakasih semuanya</p>",
+              "image": "SEASON-4-20 Juli 2024-5.png"
+            },
+            {
+              "link": "https://yukitanya.my.id",
+              "username": "Taufik Hidayat",
+              "message": "<p>Assalamu&#39;alaikum wr. wb.</p>\n<p>Halo semuanya, nama saya Taufik Hidayat. Saya ingin memperkenalkan project yang telah saya buat yaitu Yukitanya.</p>\n<p>Yukitanya adalah platform yang menghubungkan banyak siswa ke dalam sebuah forum diskusi untuk menyelesaikan tugas sekolah secara bersama. Referensinya dari Brainly tapi dengan user interface seperti Twitter.</p>\n<p>Tech Stack yang digunakan adalah:</p>\n<ul>\n<li>TypeScript</li>\n<li>Next.js</li>\n<li>Node.js</li>\n<li>PostgreSQL</li>\n<li>Drizzle ORM</li>\n<li>Typesense</li>\n<li>Shadcn UI</li>\n<li>Tailwind CSS</li>\n</ul>\n<p>Demo: <a href=\"https://yukitanya.my.id\">https://yukitanya.my.id</a>\nSource Code: <a href=\"https://github.com/tfkhdyt/yukitanya\">https://github.com/tfkhdyt/yukitanya</a></p>\n<p>Ngomong-ngomong, project ini adalah Capstone Project yang kelompok saya buat selama MSIB 5 di mitra Forest Interactive di tahun 2023. Dan alhamdulillah capstone project kami menjadi juara pertama saat itu. Dan saat ini saya sedang menulis skripsi dengan menjadikan project ini menjadi topik skripsi saya.</p>\n<p>Mungkin cukup sekian dari saya, saya ucapkan terima kasih untuk semuanya.</p>\n<p>Wassalamu&#39;alaikum wr. wb.</p>",
+              "image": "SEASON-4-20 Juli 2024-6.png"
+            },
+            {
+              "link": "https://mrxnunu.com/",
+              "username": "mrxnuu('name');",
+              "message": "<p>Hallo semuanya,</p>\n<p>perkenalkan nama saya ibnu, saya hanya Coder &amp; Manusia Biasa. Disini saya ingin membagikan karya saya yaitu website\ntop up games yang dimana ini merpuakan tugas akhir kuliah saya lalu saya publish dan digunakan untuk bisinis walapun\nsedang belajar bisnis digital\nSaya sadar aplikasi ini memiliki banyak kekurangan dan masih jauh dari sempurna, tetapi saya terus memperbaikinya di tengah kesibukan saya di luar coding.</p>\n<p>Teknologi yang digunakan :\nLaravel MVC, MYSQL, nginx dan Bootsrap CSS</p>\n<p>Fitur :\nCek Validasi Akun game\nTerintegrasi payment gateway\nDemo : <a href=\"https://mrxnunu.com/\">https://mrxnunu.com/</a></p>\n<p>Mungkin cukup sekian dari saya, saya ucapkan terima kasih untuk semuanya.</p>\n<p>Wassalamu&#39;alaikum wr. wb.</p>",
+              "image": "SEASON-4-20 Juli 2024-7.png"
+            },
+            {
+              "link": "https://slowy-portofolio-website.vercel.app/",
+              "username": "Xaviera de Rune",
+              "message": "<p>wello pak dhika</p>\n<p>kembali lagi, saya ingin showcase project sederhana, cman kali ini sangat sederhana karena saya tidak showcase ai, tpi hanya sekedar showcase web portofolio saya yang paling sederhana, untuk project-project sederhana cuma saya tampilkan beberapa pak dhika, untuk selebihnya saya private untuk kebutuhan lain pak, web sederhana ini menggunakan</p>\n<ul>\n<li>reactjs (sederhana)</li>\n<li>emailjs (sederhana )</li>\n<li>tailwind (sederhana)</li>\n<li>typwritter (sederhana)</li>\n<li>frammer motion</li>\n</ul>\n<p>untuk webn sederhananya bisa pak dhika cek dsini\n<a href=\"https://slowy-portofolio-website.vercel.app/\">https://slowy-portofolio-website.vercel.app/</a></p>\n<p>untuk repo web sederhananya bisa diliat disini pak dhika\n<a href=\"https://github.com/slowy07/slowy07.github.io\">https://github.com/slowy07/slowy07.github.io</a></p>\n<p>terima kasih pak dhika sederhana, sederhana, sederhana, sederhana, sederhana, sederhana, sederhana, sederhana</p>",
+              "image": "SEASON-4-20 Juli 2024-8.png"
+            },
+            {
+              "link": "https://tokusatsu-heroes-agency.vercel.app/",
+              "username": "crocodille0476",
+              "message": "<p>Assalamualaikum wr.wb</p>\n<p>Selamat pagi/siang/sore/malam pak dhika dan rekan2x sekalian. Perkenalkan nama saya Akbar dan ini adalah pertama kalinya saya mengikuti showcase project WPU. saya belajar ilmu2x frontend developer baru hampir sekitar setahun yang lalu dengan mengikuti bootcamp frontend sekitar kurang lebih selama 4 bulan, tapi sampai sekarang belajarnya masih saya lanjutkan sendiri. besar harapan saya dengan belajar frontend saya bisa switch career menjadi seorang frontend developer. btw usia saya sudah kepala 3 hehe lumayan was2x juga saya sebenarnya pak nekat coba switch career di usia segini hehe (maaf malah saya jadi curhat).</p>\n<p>Project yang saya buat ini adalah landing page sederhana dengan tema biro jasa tokusatsu (superhero jepang) karena kebetulan saya suka japanese culture &amp; tokusatsu. Saya membuat website ini untuk mempelajari menggunakan Next JS dan belajar menggunakan animation.\nJadi ini fungsi websitenya kita bisa menyewa heroes yang kita pilih buat nolong kita kalau lagi dalam bahaya gitu pak hehehe ibarat kayak 911.</p>\n<p>teknologi:</p>\n<ul>\n<li>Next JS</li>\n<li>Tailwind</li>\n<li>Flowbite</li>\n<li>AOS</li>\n<li>Javascript</li>\n<li>Sweetalert</li>\n</ul>\n<p>demo: <a href=\"https://tokusatsu-heroes-agency.vercel.app/\">https://tokusatsu-heroes-agency.vercel.app/</a>\ncode: <a href=\"https://github.com/akbaradiw/Tokusatsu-Heroes-Agency\">https://github.com/akbaradiw/Tokusatsu-Heroes-Agency</a></p>\n<p>note:</p>\n<ul>\n<li>animation pada halaman home bagian section kedua mode desktop kadang2x tidak jalan (harus refresh ulang).</li>\n<li>animation pada halaman portoflio bagian bawah juga kadang2x tidak jalan (harus refresh ulang).</li>\n</ul>\n<p>Mohon maaf jika masih ada yang kurang 🙏\nSaya sangat mengharapkan kritik dan saran dari pak dhika &amp; rekan sekalian.</p>",
+              "image": "SEASON-4-20 Juli 2024-9.png"
             }
           ]
         }
