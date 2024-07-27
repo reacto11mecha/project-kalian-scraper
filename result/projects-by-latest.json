@@ -1,6 +1,96 @@
 {
-  "fetched_at": "2024-07-20T12:49:46.579Z",
+  "fetched_at": "2024-07-27T12:57:17.737Z",
   "data": [
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Juli 2024",
+      "projectLink": "https://kalsong.vercel.app",
+      "projectIdx": 9,
+      "username": "kalin",
+      "message": "<p>Assalamualaikum pak dika dan teman-teman semua.</p>\n<p>Perkenalkan nama saya Haikal, seorang mahasiswa di Bandung. Project ini merupakan project pertama saya dalam persiapan mata kuliah WBD pada semester depan. Project ini dinamakan Kalsong, project ini menampilkan lagu yang paling sering saya dengar menggunakan Spotify API. Projek ini memakan waktu sekitar satu minggu</p>\n<p>Tech stack yang saya gunakan:\nReactJS, Tailwind, dan ExpressJS</p>\n<p>Link website:\n<a href=\"https://kalsong.vercel.app/\">https://kalsong.vercel.app/</a></p>\n<p>Link repository:\n<a href=\"https://github.com/Haikalin/FE_Kalsong\">https://github.com/Haikalin/FE_Kalsong</a></p>\n<p>jika ada kritik, saran, ataupun pertanyaan, bisa chat ke discord saya</p>",
+      "image": "SEASON-4-25 Juli 2024-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Juli 2024",
+      "projectLink": "https://lazora.vercel.app",
+      "projectIdx": 8,
+      "username": "scw.",
+      "message": "<p>Assalamualaikum pak dika dan teman-teman semua.</p>\n<p>Perkenalakan nama saya Soni, seorang lulusan SMA yang belajar programming secara otodidak. Pada showcase pertama ini, saya ingin memperkenalkan sebuah project open-source yang telah saya kembangkan selama 3 bulan yaitu Lazora. Apa sih itu lazora? Lazora adalah sebuah e-commerce app yang dirancang untuk memfasilitasi penjualan berbagai jenis produk.</p>\n<p>feature yang sudah saya kerjakan:\nlogin multi role(RBAC), favourite, search &amp; filter product, REST API, CRUD product, CRUD banner product, dashboard, infinite scroll, dll.</p>\n<p>tech stack yang saya gunakan:\nNext.Js(app router), redux toolkit, tailwind css, next auth, prisma ORM, mongodb, tanstack query, uploadthing, tiptap js, redis upstash.</p>\n<p>akun untuk akses dashboard(readonly):\nemail: <a href=\"mailto:viewer@gmail.com\">viewer@gmail.com</a>,\npassword: JKH^#$dd7%6Hdh,</p>\n<p>live demo:\n<a href=\"https://lazora.vercel.app/\">https://lazora.vercel.app/</a>\nRepository:\n<a href=\"https://github.com/soni-canra-wiguna/lazora/\">https://github.com/soni-canra-wiguna/lazora/</a></p>\n<blockquote>\n<p><em>untuk saat ini app-nya belum responsive.</em></p>\n</blockquote>\n<p>jika ada kritik, saran, request feature ataupun pertanyaan, kalian bisa reply pesan ini atau chat saya di <a href=\"https://wa.me/083822462241\">https://wa.me/083822462241</a>\nTerimakasih.</p>",
+      "image": "SEASON-4-25 Juli 2024-8.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Juli 2024",
+      "projectLink": "https://vicalls.vercel.app",
+      "projectIdx": 7,
+      "username": "Vi",
+      "message": "<p>Halo semuanya</p>\n<p>Perkenalkan saya Advie Rifaldy dari Bandung, mahasiswa semester 6\nkali ini saya mau share sebuah aplikasi website PWA meeting sederhana seperti zoom/gmeet yang saya beri nama Vicalls, project ini saya buat dengan beberapa third party service, project ini sudah support PWA dan bisa di install di berbagai platform. Tech stack yang digunakan yaitu:</p>\n<ul>\n<li><p>NextJS</p>\n</li>\n<li><p>Typescript</p>\n</li>\n<li><p>Shadcn UI</p>\n</li>\n<li><p>Tailwind CSS</p>\n</li>\n<li><p>Next-PWA</p>\n</li>\n<li><p>stream <a href=\"https://getstream.io\">https://getstream.io</a></p>\n</li>\n<li><p>clerk <a href=\"https://clerk.com\">https://clerk.com</a></p>\n</li>\n</ul>\n<p>Website ini saya hosting menggunakan vercel:\n<a href=\"https://vicalls.vercel.app\">https://vicalls.vercel.app</a></p>\n<p>Repository project:\n<a href=\"https://github.com/madvier83/vicalls\">https://github.com/madvier83/vicalls</a></p>\n<p>Dengan mengikuti tutorial, dari project ini saya belajar typescript, membuat custom hook, server action dan sistem layouting di nextjs 14.\nService yang saya gunakan yaitu clerk untuk auth dan stream untuk penyedia meeting, semua service dan hosting yang dipakai gratisan awokawok</p>\n<p>Bila ada saran dan pertanyaan boleh chat lewat discord\nTerima Kasih .</p>",
+      "image": "SEASON-4-25 Juli 2024-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Juli 2024",
+      "projectLink": "https://fakhri112.github.io/space-tourism-website",
+      "projectIdx": 6,
+      "username": "schrodingers9166",
+      "message": "<p>Assalamualaikum 👐</p>\n<p>Halo semuanya, saya Fakhri mau berbagi hasil project.</p>\n<p>Ini adalah project web yang berjudul Space Tourism Website atau landing page Space Tourism. Project ini sebenarnya challenge dari dari website frontendmentor.io. Semua asset dan desain UI sudah tersedia, saya tinggal implementasi aja sesuai challenge. Mohon saran dan kritiknya. 😁</p>\n<p>Tech: Vue 3, Vue Router, TailwindCSS\nRepo: <a href=\"https://github.com/Fakhri112/space-tourism-website\">https://github.com/Fakhri112/space-tourism-website</a>\nWeb: <a href=\"https://fakhri112.github.io/space-tourism-website\">https://fakhri112.github.io/space-tourism-website</a></p>\n<p>Ngomong-ngomong saya sudah pernah mengirimkan project di discord showcase-project pada bulan mei sebelumnya tetapi sampai sekarang belum pernah dipamerkan. Saya berharap project saya yang sebelumnya bisa dipamerkan kapan-kapan. 🙏</p>\n<p>Terimakasih</p>",
+      "image": "SEASON-4-25 Juli 2024-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Juli 2024",
+      "projectLink": "https://lokachips.netlify.app",
+      "projectIdx": 5,
+      "username": "Zumaku",
+      "message": "<p>Assalamualaikum👋.</p>\n<p>Halo Pak Sandhika, mau berbagi nih salah satu projekan gratis yang saya buat untuk tambah-tambah portfolio.</p>\n<p>Nama websitenya <strong>Lokachip</strong>. Sa buat ini website buat teman saya untuk membantu mempromosikan produk keripiknya. Karena websitenya cuma sebagai sistem informasi, jadi ngak pake backend.</p>\n<p>Live demo\n<a href=\"https://lokachips.netlify.app/\">https://lokachips.netlify.app/</a></p>\n<p>Documentation📑\n<a href=\"https://github.com/zumaku/loka_chips\">https://github.com/zumaku/loka_chips</a></p>\n<p>Frontend Tech 🛠️\n=&gt; ReactJS\n=&gt; Tailwind\n=&gt; GSAP</p>\n<p>Terima kasih 🙏</p>",
+      "image": "SEASON-4-25 Juli 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Juli 2024",
+      "projectLink": "https://hollands-code.vercel.app",
+      "projectIdx": 4,
+      "username": "M1917Enfield",
+      "message": "<p>Assalamualaikum.</p>\n<p>Halo pak Sandhika dan teman-teman semua, izin share projek yang sudah kami (@cadutX @syauqialzaa dan saya) kerjakan untuk challenge dicoding &quot;IDCamp 2023 Challenge: Transformasi Teknologi Pendidikan Indonesia Emas 2045&quot; dan Alhamdulillah atas rahmat dari Tuhan Yang Maha Pengasih (Allah) telah masuk winning apps:</p>\n<p>Hollands Code:\n<a href=\"https://hollands-code.vercel.app/\">https://hollands-code.vercel.app/</a></p>\n<p>Ini merupakan sebuah tes untuk menentukan bakat dan kepribadian siswa yang didasarkan dari tes holland oleh john holland. Pada akhir test, siswa akan mendapatkan summary rekomendasi berdasarkan skor tes oleh AI.</p>\n<p>Tech stack</p>\n<p>Front-end:</p>\n<ul>\n<li>TypeScript (Programming Language)</li>\n<li>NextJS 14 (Framework)</li>\n<li>NextUI (UI library)</li>\n<li>TailwindCSS (CSS Framework)</li>\n</ul>\n<p>Back-end:</p>\n<ul>\n<li>JavaScript (Programming Language)</li>\n<li>HapiJS (Framework)</li>\n<li>Prisma w/Postgresql (ORM &amp; DB)</li>\n<li>HapiJWT (Authentication)</li>\n<li>Groq SDK (AI Summarization)</li>\n</ul>\n<p>Karena projek masih berupa MVP kedepan nya fitur-fitur baru akan ditambahkan, oleh karena itu kritik maupun saran dari teman-teman semua akan sangat bermanfaat bagi kami.</p>",
+      "image": "SEASON-4-25 Juli 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Juli 2024",
+      "projectLink": "https://movie-astro.vercel.app",
+      "projectIdx": 3,
+      "username": "Balsss",
+      "message": "<p>Asslamualaikum,</p>\n<p>Selamat malam Pa Dika dan teman&quot; semua nya, pada kali ini izinkan saya untuk melakukan showcase ketiga saya. Karena saya cukup bosan untuk menjalankan liburan semester yang cukup panjang jadi saya ber inisiatif untuk membuat sebuah web Movie dan Tv Show yang cukup simple saja ga ter lalu bagus banget</p>\n<p>Techstack :</p>\n<ul>\n<li>Astro Js</li>\n<li>React Js</li>\n<li>TypeScript</li>\n<li>Supabase</li>\n<li>AuthJs (auth-astro)</li>\n<li>TailwindCSS</li>\n</ul>\n<p>Demo : <a href=\"https://movie-astro.vercel.app/\">https://movie-astro.vercel.app/</a>\nSource code : <a href=\"https://github.com/Ibaliqbal/movie-astro\">https://github.com/Ibaliqbal/movie-astro</a></p>\n<p>Saya sangat menerima atas semua masukan dari Pa Dhika maupun teman&quot; WPU</p>\n<p>Terima kasih</p>",
+      "image": "SEASON-4-25 Juli 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Juli 2024",
+      "projectLink": "https://aafrzl.my.id",
+      "projectIdx": 2,
+      "username": "MrFluxy",
+      "message": "<p>Assalamualaikum, Halo semuanya.</p>\n<p>Perkenalkan, nama saya Afrizal Mufriz Fouji. Saya seorang frontend developer yang masih terus belajar, khususnya dalam bidang web development.</p>\n<p>Ini adalah showcase pertama saya dan disini saya ingin memperkenalkan website portfolio. Project ini awalnya dibuat tahun lalu saat saya masih dalam tahap pembelajaran web development. Namun, saya telah menambahkan beberapa fitur baru, terutama fitur AI Chat.</p>\n<p>Fitur AI Chat ini terintegrasi dengan AI SDK dari Vercel, dan untuk model LLM-nya, saya menggunakan GROQ. Fitur AI ini mampu menjawab semua pertanyaan tentang detail diri saya dan juga informasi yang ada pada website portfolio saya tapi kadang suka ngaco hehe.</p>\n<p>Tech stack yang digunakan:</p>\n<ul>\n<li>Next.js</li>\n<li>TailwindCSS</li>\n<li>Framer Motion &amp; GSAP (untuk animasi)</li>\n<li>ThreeJS (Render Asset 3D)</li>\n<li>Headless CMS Sanity (untuk dynamic content)</li>\n<li>AI SDK dengan model LLM GROQ</li>\n</ul>\n<p>Link website : <a href=\"https://aafrzl.my.id\">https://aafrzl.my.id</a></p>\n<p>Saya sangat mengharapkan kritik dan saran dari temen-temen semua agar saya bisa terus berkembang dan menjadi lebih baik ke depannya.</p>\n<p>Terima kasih 🙏🏻</p>",
+      "image": "SEASON-4-25 Juli 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Juli 2024",
+      "projectLink": "https://porto-rzkir.vercel.app",
+      "projectIdx": 1,
+      "username": "rineta",
+      "message": "<p>Assalamualaikum wr.wb</p>\n<p>Selamat malam pak dhika dan rekan2x sekalian. Perkenalkan nama saya Rizki dan ini adalah pertama kalinya saya mengikuti showcase project WPU.</p>\n<p>Saya lulusan SMK PANDU BOGOR pada tahun 2021 dan saya belajar web developer secara otodidak dan pasti dengan bimbingan guru&quot; yt contohnya Pak Dika.</p>\n<p>Project yang saya buat ini adalah portofolio sederghana yang dibuat dari nol</p>\n<p>teknologi :</p>\n<p>Next JS (typescript)\nSASS\nReact-particles\nReact FAST Marquee\nreact-awesome-reveal</p>\n<p>demo: <a href=\"https://porto-rzkir.vercel.app/\">https://porto-rzkir.vercel.app/</a></p>\n<p>Mohon maaf jika masih ada yang kurang 🙏\nSaya sangat mengharapkan kritik dan saran dari pak dhika &amp; rekan sekalian.</p>\n<p>Wassalamualaikum wr.wb</p>",
+      "image": "SEASON-4-25 Juli 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Juli 2024",
+      "projectLink": "https://danfolio.vercel.app",
+      "projectIdx": 0,
+      "username": "dnm17_",
+      "message": "<p>Assalamualaikum wr. wb.</p>\n<p>Selamat malam pak Dhika dan teman2 semua, perkenalkan nama saya Dani. Udah lama banget nih gak share projek di WPU soalnya belum ada semangat buat bikin projek baru heheh. Kali ini saya ingin share projek portfolio pribadi dan ini adalah showcase projek saya yg ke 8.</p>\n<p>Disclaimer dulu sebelumnya projek ini tidak saya buat dari 0 melainkan hasil modifikasi dari projek orang lain yg berlisensi MIT dan ada beberapa bagian yang Saya modifikasi sesuai selera saya. Tentunya credit dari pembuat aslinya sudah saya cantumkan di footer.</p>\n<p>Tech Stack yg digunakan adalah:</p>\n<ul>\n<li>TypeScript</li>\n<li>NextJS</li>\n<li>TailwindCSS</li>\n</ul>\n<p>Demo: <a href=\"https://danfolio.vercel.app\">https://danfolio.vercel.app</a>\nSource Code: <a href=\"https://github.com/dfsdanimaulana/danfolio_2\">https://github.com/dfsdanimaulana/danfolio_2</a></p>\n<p>Mohon kritik dan sarannya untuk projek ini supaya bisa dikembangkan lebih baik lagi, untuk waktu dan kesempatan nya saya ucapkan terimakasih 🙏</p>",
+      "image": "SEASON-4-25 Juli 2024-0.png"
+    },
     {
       "season": "SEASON-4",
       "showcaseDate": "20 Juli 2024",
