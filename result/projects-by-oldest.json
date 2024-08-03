@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-07-27T12:57:17.737Z",
+  "fetched_at": "2024-08-03T12:54:54.162Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -15030,6 +15030,96 @@
       "username": "kalin",
       "message": "<p>Assalamualaikum pak dika dan teman-teman semua.</p>\n<p>Perkenalkan nama saya Haikal, seorang mahasiswa di Bandung. Project ini merupakan project pertama saya dalam persiapan mata kuliah WBD pada semester depan. Project ini dinamakan Kalsong, project ini menampilkan lagu yang paling sering saya dengar menggunakan Spotify API. Projek ini memakan waktu sekitar satu minggu</p>\n<p>Tech stack yang saya gunakan:\nReactJS, Tailwind, dan ExpressJS</p>\n<p>Link website:\n<a href=\"https://kalsong.vercel.app/\">https://kalsong.vercel.app/</a></p>\n<p>Link repository:\n<a href=\"https://github.com/Haikalin/FE_Kalsong\">https://github.com/Haikalin/FE_Kalsong</a></p>\n<p>jika ada kritik, saran, ataupun pertanyaan, bisa chat ke discord saya</p>",
       "image": "SEASON-4-25 Juli 2024-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 Agustus 2024",
+      "projectLink": "https://journee-eight.vercel.app",
+      "projectIdx": 0,
+      "username": "Raihanmd",
+      "message": "<p>Assalamualaikum semuanya,</p>\n<p>Nama saya Muhammad Raihan Firdaus dari Ciamis, pada kesempatan kali saya ini ingin berbagi hasil project yang tentunya 0 user side project. Jadi pada web yang saya buat kali ini cuma landing page biasa, simple, overrated, tapi gatau knp saya suka, jadi temanya ini adalah sebuah landing page Travel agent yang saya kasih nama Journee.</p>\n<p>Tech stack yang saya pakai:</p>\n<ul>\n<li>NextJS TS</li>\n<li>Shadcn tailwind</li>\n<li>Swiper</li>\n<li>Framer motion</li>\n<li>Vercel</li>\n</ul>\n<p>Berikut web nya yang saya hosting di vercel\n<a href=\"https://journee-eight.vercel.app/\">https://journee-eight.vercel.app/</a></p>\n<p>Repository\n<a href=\"https://github.com/raihanmd/journee\">https://github.com/raihanmd/journee</a></p>\n<p>Terimakasih pak</p>",
+      "image": "SEASON-4-1 Agustus 2024-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 Agustus 2024",
+      "projectLink": "https://quranmurojaah.aqwamhm.com",
+      "projectIdx": 1,
+      "username": "AHizMuh",
+      "message": "<p>Assalamu&#39;alaikum Pak Dhika dan teman-teman WPU semuanya,</p>\n<p>Perkenalkan, nama saya Aqwam. Pada kesempatan ini, saya ingin memperkenalkan proyek saya yang bernama QuranMuroja&#39;ah.</p>\n<p>Proyek ini adalah sebuah aplikasi Al-Qur&#39;an berbasis web yang dirancang untuk membantu para penghafal Al-Qur&#39;an dalam menghafal ayat-ayat yang mirip satu sama lain, atau yang dikenal sebagai ayat-ayat mutasyabihat. Dengan bantuan aplikasi ini, diharapkan para penghafal tidak akan tertukar ketika menghafal atau mengulang ayat-ayat tersebut. Teman-teman bisa cek halaman landing page aplikasi ini untuk melihat fitur-fitur dan cara kerjanya.</p>\n<p>Teknologi yang digunakan dalam pengembangan aplikasi ini: Nuxt JS, Vuetify, PWA dan Codeigniter.</p>\n<p>Berikut adalah link untuk mengakses aplikasi QuranMuroja&#39;ah: <a href=\"https://quranmurojaah.aqwamhm.com\">https://quranmurojaah.aqwamhm.com</a></p>\n<p>InsyaAllah, saya akan terus berupaya untuk mengembangkan proyek ini agar dapat bermanfaat untuk saya pribadi dan para penghafal Al-Qur&#39;an yang lainnya. Segala kritik dan saran sangat saya harapkan untuk penyempurnaan aplikasi ini di masa mendatang.</p>\n<p>Kurang lebihnya mohon maaf. Wassalamu&#39;alaikum warahmatullahi wabarakatuh.</p>",
+      "image": "SEASON-4-1 Agustus 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 Agustus 2024",
+      "projectLink": "https://g-raph.netlify.app",
+      "projectIdx": 2,
+      "username": "noosabaktee",
+      "message": "<p>Halo pak dhika dan teman-teman👋</p>\n<p>Saya Rama Nusa Bakti ingin showcase project saya. Kali ini saya membuat game matematika bernama G-raph🦒\nG-raph adalah game matematika yang menantang kalian membuat grafik untuk menembak target🎯\nPoint akan bertambah jika semua target dalam satu level berhasil ditembak🏅</p>\n<p>Teknologi:\nHTML, CSS, Javascript</p>\n<p>Link:\n<a href=\"https://g-raph.netlify.app\">https://g-raph.netlify.app</a></p>\n<p>GitHub:\n<a href=\"https://github.com/noosabaktee/graph-game\">https://github.com/noosabaktee/graph-game</a></p>",
+      "image": "SEASON-4-1 Agustus 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 Agustus 2024",
+      "projectLink": "https://angkasamuhammad.github.io/TanahSyam/v0/TanahSyam.html",
+      "projectIdx": 3,
+      "username": "⚙⚙WowGGGearing⚙⚙",
+      "message": "<p>Bismillaahirrahmaanirrahiim\nAssalaamu&#39;alaykum Wr wb.</p>\n<p>Project shocase kali ini adalah TanahSyam.\nKita harus tetap ingat saudara/saudari kita di Palestine dengan donasi, boikot, &amp; sebar berita Palestina</p>\n<p>Simulasi kota Gaza meluncurkan roket ke kota Tel eFFeFFF.\nini cuma :</p>\n<ol>\n<li>utakatik sinar matahari</li>\n<li>frame speed ( settimeout() )</li>\n<li>getar on/off</li>\n<li>timespeed</li>\n</ol>\n<p>Editor:</p>\n<ul>\n<li>Blender 3.4.1</li>\n<li>Text Area Kelap Kelip <a href=\"https://github.com/AngkasaMuhammad/TextAreaKelapKelip\">https://github.com/AngkasaMuhammad/TextAreaKelapKelip</a></li>\n<li>Notepad++</li>\n</ul>\n<p>Javascript library:</p>\n<ul>\n<li>wgpu-matrix <a href=\"https://wgpu-matrix.org/docs/\">https://wgpu-matrix.org/docs/</a></li>\n</ul>\n<p>Repo: <a href=\"https://github.com/AngkasaMuhammad/TanahSyam\">https://github.com/AngkasaMuhammad/TanahSyam</a>\nWeb: <a href=\"https://angkasamuhammad.github.io/TanahSyam/v0/TanahSyam.html\">https://angkasamuhammad.github.io/TanahSyam/v0/TanahSyam.html</a></p>\n<p>Aku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU &amp; memilih library yang mengutamakan performa.\nKita tidak cuma ahli main game, kita juga ahli 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 atau dompet makin slim 💸📉.\nKita tidak cuma bisa berkendara 🛵🚙, kita juga bisa 💪💪 bikin kendaraan yang irit, awet, ringan, &amp; banter.\nMaturnuwun.</p>",
+      "image": "SEASON-4-1 Agustus 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 Agustus 2024",
+      "projectLink": "https://mntn-ten.vercel.app",
+      "projectIdx": 4,
+      "username": "Iqbal",
+      "message": "<p>Asslamualaikum Wr. Wb</p>\n<p>Selamat pagi/siang/sore/malam, teman teman semuanya dan pak Sandhika Galih.</p>\n<p>Perkenalkan nama saya Iqbal. Disini saya akan berbagi projek showcase saya untuk yang kedua kalinya, saya disini akan berbagi projek website landing page saya yang sangat sederhana ini. Projek ini berjudul MNTN yang berisi tentang mendaki gunung yang saya convert dari design UI dan UX Figma. Website yang saya buat menjadi harcode ini tidak sepenuhnya sesuai dengan Design UI/UX dari figma tapi saya menambahkan sedikit optimisasi agar animasi bisa berjalan lebih baik</p>\n<p>Tech Stack :</p>\n<ul>\n<li>Next.js</li>\n<li>GSAP</li>\n<li>TailwindCSS</li>\n<li>Lenis</li>\n</ul>\n<p>Website : <a href=\"https://mntn-ten.vercel.app\">https://mntn-ten.vercel.app</a>\nFigma Design : <a href=\"https://www.figma.com/community/file/788675347108478517/mntn-landing-page\">https://www.figma.com/community/file/788675347108478517/mntn-landing-page</a>\nRepo : <a href=\"https://github.com/MuhammadIqbalAlghifari/mntn\">https://github.com/MuhammadIqbalAlghifari/mntn</a></p>\n<p>Jika ada kritik, saran ataupun pertanyaan bisa comment atau chat ke discord saya\nTerima kasih, Wassalamualailum Wr. Wb</p>",
+      "image": "SEASON-4-1 Agustus 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 Agustus 2024",
+      "projectLink": "https://ridloghifary.github.io/snake-game",
+      "projectIdx": 5,
+      "username": "Ridloghfryy",
+      "message": "<p>Hallo semuanya @everyone dan pak Sandhika Galih</p>\n<p>Saya Ridoo, terima kasih sudah dikasih kesempatan untuk showcase kedua saya, di showcase kali ini saya ingin membagikan project game ular kecil saya yang bernama Snake game (<em>game ular &gt; snake game cuma dibahasa inggrisin aja wkwk</em>) featurenya masih sangat sedikit dan burik, setiap telur yg dimakan akan menambah 10 point dan game akan semakin cepat kalau point yg diperoleh semakin banyak...saya juga menambahkan sedikit background music agar tidak datar</p>\n<p>Featurenya hanya ada:</p>\n<ul>\n<li>Ganti tema</li>\n<li>Start game</li>\n<li>Pause game</li>\n<li>Restart game</li>\n<li>Jalan naik, kiri, bawah, kanan (WASD | Arrow keys).</li>\n<li>Randomize lokasi telur</li>\n<li>Score tracking.</li>\n<li>Highest score</li>\n</ul>\n<p>Tech stack yang saya pakai:</p>\n<ul>\n<li>HTML5</li>\n<li>Javascript</li>\n<li>CSS3</li>\n</ul>\n<p>Live preview (github pages):</p>\n<ul>\n<li><a href=\"https://ridloghifary.github.io/snake-game\">https://ridloghifary.github.io/snake-game</a></li>\n</ul>\n<p>Repository (github):</p>\n<ul>\n<li><a href=\"https://github.com/RidloGhifary/snake-game\">https://github.com/RidloGhifary/snake-game</a></li>\n</ul>\n<p>teman teman klo mau ngasi saran atau kritik, saya akan sangat menerima, thanks teman teman👐🏻\n<strong>(jaman sekarang udah ada ai, saya masih bikin game uler)</strong> <code>#tetapngoding</code></p>",
+      "image": "SEASON-4-1 Agustus 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 Agustus 2024",
+      "projectLink": "https://riyandarmawan.github.io/list-of-lit",
+      "projectIdx": 6,
+      "username": "Riyan",
+      "message": "<p>Halo semuanya👋</p>\n<p>Nama saya Riyan Darmawan, ini merupakan showcase pertama saya. Pada showcase kali saya akan mengirimkan project yang bernama List of LIt. Pada website ini kita dapat mencari sebuah buku menggunakan API dari google.</p>\n<p>note: Untuk tampilannya sendiri bisa dibilang copas dari salah satu video di playlist laravel dari channel &lt;@376337405185097728&gt; tentang <a href=\"https://youtu.be/-9Z9a91vTLc?si=LVfyLndiXdJwzLoc\">component</a>😅</p>\n<p>Tech Stack:</p>\n<ul>\n<li>React JS</li>\n<li>Tailwind CSS</li>\n</ul>\n<p>API:</p>\n<ul>\n<li><a href=\"https://developers.google.com/books\">Google Books API</a></li>\n</ul>\n<p>Fitur:</p>\n<ul>\n<li>Dapat mencari berdasarkan judul buku</li>\n<li>Dapat juga mencari buku berdarkan author buku tersebut dengan format (<em>Judul Buku</em> by <em>Nama Author</em>)</li>\n</ul>\n<p>Github Repository:\n<a href=\"https://github.com/riyandarmawan/list-of-lit\">https://github.com/riyandarmawan/list-of-lit</a></p>\n<p>Live Demo:\n<a href=\"https://riyandarmawan.github.io/list-of-lit/\">https://riyandarmawan.github.io/list-of-lit/</a></p>\n<p>Teman-teman juga bisa memberikan saran kepada saya, agar di showcase selanjutnya bisa lebih baik lagi.\nTerima kasih teman teman</p>",
+      "image": "SEASON-4-1 Agustus 2024-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 Agustus 2024",
+      "projectLink": "https://porto-iqbal.vercel.app/",
+      "projectIdx": 7,
+      "username": "Balsss",
+      "message": "<p>Assalamualaikum Wr. Wb</p>\n<p>Halo Pa Dhika dan semua teman WPU, karena saya merasa cukup bosan untuk menjalankan liburan semester kali ini dan kebetulan ga punya kegiatan yang cukup banyak untuk mengisi ke bosanan saya ini &lt;:senyumin_aja:980830376547217419&gt; , maka dengan kesempatan ini izinkan saya untuk melakukan showcase sebuah project personal web/portofolio saya yang cukup sederhana dan simple saja&lt;:hehehe:972470914488885288&gt;&lt;:hehehe:972470914488885288&gt; ,</p>\n<p>Techstack :</p>\n<ul>\n<li>Astro Js</li>\n<li>React Js</li>\n<li>Sedikit GSAP dan Framer motion</li>\n<li>TailwindCSS</li>\n</ul>\n<p>Demo : <a href=\"https://porto-iqbal.vercel.app/\">https://porto-iqbal.vercel.app/</a>\nSource code : <a href=\"https://github.com/Ibaliqbal/astro-porto\">https://github.com/Ibaliqbal/astro-porto</a></p>\n<p>Mohon maaf jika ada animasi yang tidak terlalu bagus ataupun yang tidak sinkron karena saya baru pertama kali bikin web yang ada animasinya yang lumayan kompleks, saya sangat menerima atas semua masukan dari Pa Dhika maupun teman&quot; WPU.</p>\n<p>Sekian dari saya Terimakasih 🙏</p>",
+      "image": "SEASON-4-1 Agustus 2024-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 Agustus 2024",
+      "projectLink": "https://bimapn.vercel.app/",
+      "projectIdx": 8,
+      "username": "Richard",
+      "message": "<p>Halo kawan-kawan👋</p>\n<p>Perkenalkan nama saya Bima Putra, dan pada kesempatan kali ini saya ingin showcase project portfolio website yang sudah saya buat menggunakan tech stack berikut:</p>\n<ul>\n<li>React</li>\n<li>NextJS</li>\n<li>Three JS</li>\n<li>TailwindCSS</li>\n<li>Framer Motion</li>\n</ul>\n<p><strong>Link website:</strong>\n<a href=\"https://bimapn.vercel.app/\">https://bimapn.vercel.app/</a></p>\n<p><strong>Github Repository:</strong>\n<a href=\"https://github.com/BimaPn/portfolio\">https://github.com/BimaPn/portfolio</a></p>\n<p>Bila ada kritik dan saran silahkan untuk menghubungi saya via dm.\nSekian dari saya, terimakasih...</p>",
+      "image": "SEASON-4-1 Agustus 2024-8.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 Agustus 2024",
+      "projectLink": "https://stevanandreas.my.id/",
+      "projectIdx": 9,
+      "username": "covilyn",
+      "message": "<p>Halo pak, izin showcase web beneran sederhana aja kok,,</p>\n<p>karna personal web saya yang kemarin rasanya sudah jadul, jadi pengen ganti dengan tema yang baru..</p>\n<p>link: <a href=\"https://stevanandreas.my.id/\">https://stevanandreas.my.id/</a></p>",
+      "image": "SEASON-4-1 Agustus 2024-9.png"
     }
   ]
 }
