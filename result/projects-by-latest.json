@@ -1,6 +1,96 @@
 {
-  "fetched_at": "2024-08-10T12:56:17.980Z",
+  "fetched_at": "2024-08-17T12:54:46.106Z",
   "data": [
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "17 Agustus 2024",
+      "projectLink": "https://artiwancara.vercel.app/",
+      "projectIdx": 9,
+      "username": "Habi",
+      "message": "<p>Selamat malam semuanya,\nPerkenalkan nama saya Ahmad Rizky Nusantara Habibi</p>\n<p>Izin share project yang bernama Artiwancara. Project ini adalah platform untuk latihan wawancara dengan AI.</p>\n<p>Tech Stack:\nSveltekit\nTailwindCSS</p>\n<p>Github: <a href=\"https://github.com/ahmadhabibi14/artiwancara\">https://github.com/ahmadhabibi14/artiwancara</a>\nWebsite: <a href=\"https://artiwancara.vercel.app/\">https://artiwancara.vercel.app/</a></p>",
+      "image": "SEASON-4-17 Agustus 2024-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "17 Agustus 2024",
+      "projectLink": "https://diomaulana.com",
+      "projectIdx": 8,
+      "username": "Dio Maulana",
+      "message": "<p>Selamat malam semuanya,\nPerkenalkan nama saya Dio Maulana, pertama kali submit showcase.</p>\n<p>izin share pengalaman pertama bikin full frontend web code (Biasanya backend / mobile) tapi nyontek juga dari learningnya pak dika tentang website porftofolio (cuman ngubah techstacknya)</p>\n<p>Tech Stack:</p>\n<ul>\n<li>Tailwind</li>\n<li>Svelte</li>\n<li>Elysia JS(Gaya-gayaan aja, cuman buat ngirim form ke telegram)</li>\n</ul>\n<p>Runtime bun.sh</p>\n<p>Github: <a href=\"https://github.com/maulanadiooo/portofolio\">https://github.com/maulanadiooo/portofolio</a>\nWebsite: <a href=\"https://diomaulana.com\">https://diomaulana.com</a></p>\n<p>Terimakasih</p>",
+      "image": "SEASON-4-17 Agustus 2024-8.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "17 Agustus 2024",
+      "projectLink": "https://terminal-portofolio.vercel.app/",
+      "projectIdx": 7,
+      "username": "sycle",
+      "message": "<p>Halo selamat malam Pak Dhika dan teman-teman semua.</p>\n<p>Perkenalkan nama saya Rivaldo Tandoko. Pada kesempatan kali ini saya ingin ikut showcase project terminal-portofolio. Project ini merupakan versi live demo dari project CLI Based Portofolio yang dibangun dengan Node.js. Project ini saya buat berdasarkan inspirasi dari project salah satu youtuber luar negeri yaitu ForrestKnight.</p>\n<p>Tech Stack:\nTailwindCss\nReactJs</p>\n<p>Link:\n<a href=\"https://terminal-portofolio.vercel.app/\">https://terminal-portofolio.vercel.app/</a></p>\n<p>Repo:\n<a href=\"https://github.com/rtrivaldo/terminal-portofolio-react\">https://github.com/rtrivaldo/terminal-portofolio-react</a></p>\n<p>Kritik dan saran sangat saya harapkan sebagai pembelajaran bagi saya.\nSekian dari saya, terimakasih Pak Dhika dan teman-teman.</p>",
+      "image": "SEASON-4-17 Agustus 2024-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "17 Agustus 2024",
+      "projectLink": "https://www.nekosukuriputo.dev/",
+      "projectIdx": 6,
+      "username": "bossque",
+      "message": "<p>Halo selamat malam Pak Dhika dan teman-teman semua. 😊</p>\n<p>Perkenalkan nama saya Abdul Rahmat. Pada kesempatan kali ini saya mau ikut partisipasi dalam showcase project.\nProject ini adalah web portofolio saya, saya mendapatkan inspirasi ketika saya menemukan link seorang developer luar negeri dari linkedIn. Saya berkeiginan memuat web yang serupa akan tetapi karena teknologi dan tools yang digunakan baru bagi saya, maka disela kesibukan saya bekerja saya mempelajari teknologi yang dipakai.\nWeb ini masih dalam pengembangan dan saya kira baru 20% dari ekspetasi saya. Jadi harap maklum jika teman-teman mendapatkan bug atau tampilan yang tidak sesuai dari web ini.</p>\n<p>Tech stack:\nTypescript\nVue 3 + Vite\nPinia\nPhaser 3</p>\n<p>berikut link nya : <a href=\"https://www.nekosukuriputo.dev/\">https://www.nekosukuriputo.dev/</a></p>\n<p>Sekian dari saya, terimakasih Pak Dhika dan teman-teman. 🙏</p>",
+      "image": "SEASON-4-17 Agustus 2024-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "17 Agustus 2024",
+      "projectLink": "https://hjcodintech.site/",
+      "projectIdx": 5,
+      "username": "HJ Codin Tech",
+      "message": "<p>Halo pak Dika dan teman - teman</p>\n<p>Perkenalkan nama saya Hansen Jonatan . Saya adalah seorang mahasiswa Semester 5 di Universitas Internasional Batam . Pada kesempatan kali ini saya ingin showcase project landing page dari startup yang saya kembangkan dengan tech stack</p>\n<p>Next JS\nReact\nTailwindcss</p>\n<p>Link website :</p>\n<p><a href=\"https://hjcodintech.site/\">https://hjcodintech.site/</a></p>\n<p>Note: isi dari blog , saya konsumsi dan jadikan konten di Tiktok &lt;@649579627416780811&gt;</p>\n<p>Kritik dan saran saya harapkan sebagai pembelajaran dari saya 🙏.\nSekian dari saya , terimakasih teman - teman dan pak Dhika</p>",
+      "image": "SEASON-4-17 Agustus 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "17 Agustus 2024",
+      "projectLink": "https://gilang-nugroho.github.io/gilangnugroho.github.io/",
+      "projectIdx": 4,
+      "username": "SirLancelot",
+      "message": "<p>Halo Pak Dika dan teman-teman,</p>\n<p>Perkenalkan nama saya Gilang Nugroho. Pada kesempatan kali ini saya ingin showcase project portfolio website sederhana yang sudah saya buat menggunakan tech stack berikut:</p>\n<p>HTML\nCSS\nBootstrap\nJavascript</p>\n<p>Link website:\n<a href=\"https://gilang-nugroho.github.io/gilangnugroho.github.io/\">https://gilang-nugroho.github.io/gilangnugroho.github.io/</a></p>\n<p>Github Repository:\n<a href=\"https://github.com/Gilang-Nugroho/gilangnugroho.github.io\">https://github.com/Gilang-Nugroho/gilangnugroho.github.io</a></p>\n<p>Kritik dan saran saya harapkan sebagai pembelajaran bagi saya🙏\nSekian dari saya, terimakasih...</p>",
+      "image": "SEASON-4-17 Agustus 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "17 Agustus 2024",
+      "projectLink": "https://github.com/amalhanaja/codebleu",
+      "projectIdx": 3,
+      "username": "amalhanaja",
+      "message": "<p>Halo semua,</p>\n<p>Saya Alfian Akmal Hanantio dari Tangerang Selatan. Saya seorang Android Developer di suatu perusahaan dan juga Mahasiswa Semester 8 di Universitas Terbuka. Mohon doanya untuk dinyatakan lulus di semester ini.</p>\n<p>Di kesempatan kali ini saya ingin share tentang project akhir pekan saya yang berjudul codeblue yang berbasis CLI untuk melakukan review pull request / merge request menggunakan Gemini AI dari Google.</p>\n<p>Nama codebleu sendiri diambil dari influencer review makanan yang pernah viral beberapa saat lalu.</p>\n<p>Tech stack: Go, Gemini API, Github API, Bitbucket API\nFitur:</p>\n<ul>\n<li>Review Pull Request</li>\n<li>Support Bitbucket Pull Request</li>\n<li>Support Github Pull Request</li>\n<li>Custom Prompt</li>\n</ul>\n<p>Link Repository: <a href=\"https://github.com/amalhanaja/codebleu\">https://github.com/amalhanaja/codebleu</a></p>\n<p>Harapannya dengan codebleu dapat memberi insight tambahan untuk pull request. karena sering saya alami kalau source code di tim saya patternnya sudah kebentuk review di dalam pull request sudah mulai berkurang. Dan menurut saya juga membantu saya dalam mempelajari teknologi baru dan bahasa baru</p>\n<p>Terima kasih</p>",
+      "image": "SEASON-4-17 Agustus 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "17 Agustus 2024",
+      "projectLink": "https://play.google.com/store/apps/details?id=com.potadev.literatur",
+      "projectIdx": 2,
+      "username": "SiBagood",
+      "message": "<p>Halo semuanaya, karena saya gak sabar nunggu terjemahan LN official/yang bagus, jadi bikin aplikasi buat baca epub LN raw dengan fitur terjemahan yang bisa disimpan, mesin terjemahnya bisa pakai google translate, deepl, llama (groq) dan gemini.</p>\n<p>tech : flutter, isar, epubx</p>\n<p>link repo : <a href=\"https://github.com/bagusindrayana/literatur-flutter\">https://github.com/bagusindrayana/literatur-flutter</a>\nlink playstore : <a href=\"https://play.google.com/store/apps/details?id=com.potadev.literatur\">https://play.google.com/store/apps/details?id=com.potadev.literatur</a>\nkalau mau download manual : <a href=\"https://github.com/bagusindrayana/literatur-flutter/releases/tag/literatur-release-1.0.8-9-fix-build\">https://github.com/bagusindrayana/literatur-flutter/releases/tag/literatur-release-1.0.8-9-fix-build</a></p>\n<p>oya karena saya pake api yang gratis jadi bisa kena limit, kalau kena limit silahkan build sendiri dengan api key masing2. terjemahannya bisa per chapter, karena kalau LN/buku yang teksnya panjang bakal lama dan rawan gagal kalau terjemahin semuanya langsung.</p>",
+      "image": "SEASON-4-17 Agustus 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "17 Agustus 2024",
+      "projectLink": "https://zach-me.vercel.app/",
+      "projectIdx": 1,
+      "username": "Zaxxch",
+      "message": "<p>Halo semuanya</p>\n<p>Saya Rizky Zaki Zulkarnaen (Zach) dari Purwakarta yang sedang rantau ke bandung, saya seorang software engineer di suatu perusahaan sekaligus mahasiswa otw semeset 3 di Telkom University. Kali ini mau showcase personal website saya yang &quot;sederhana&quot;</p>\n<p>Tech Stack:\nNextJS, Tailwind, ShadCN, Aceternity, Resend</p>\n<p>Web: <a href=\"https://zach-me.vercel.app/\">https://zach-me.vercel.app/</a>\nRepo: <a href=\"https://github.com/RizkyZaki/my\">https://github.com/RizkyZaki/my</a></p>",
+      "image": "SEASON-4-17 Agustus 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "17 Agustus 2024",
+      "projectLink": "https://stockwise-2110.netlify.app/",
+      "projectIdx": 0,
+      "username": "Umar Jihad",
+      "message": "<p>Halo semua</p>\n<p>Saya Umar dari Jogja. Kali ini mau showcase versi upgrade dari project sebelum nya lagi hehe. Project IMS (Inventory Management System) yang sebelum nya hanya terdiri dari frontend saja, sekarang udah full stack.</p>\n<p>Tech Stack:\nReactJS (Typescript), Vanilla CSS, Laravel, MySQL</p>\n<p>Demo: <a href=\"https://stockwise-2110.netlify.app/\">https://stockwise-2110.netlify.app/</a>\nRepo: <a href=\"https://github.com/jihadable/stockwise\">https://github.com/jihadable/stockwise</a></p>",
+      "image": "SEASON-4-17 Agustus 2024-0.png"
+    },
     {
       "season": "SEASON-4",
       "showcaseDate": "1 Agustus 2024",
