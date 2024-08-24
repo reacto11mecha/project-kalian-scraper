@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-08-17T12:54:46.106Z",
+  "fetched_at": "2024-08-24T12:57:29.625Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -11092,6 +11092,201 @@
               "username": "Habi",
               "message": "<p>Selamat malam semuanya,\nPerkenalkan nama saya Ahmad Rizky Nusantara Habibi</p>\n<p>Izin share project yang bernama Artiwancara. Project ini adalah platform untuk latihan wawancara dengan AI.</p>\n<p>Tech Stack:\nSveltekit\nTailwindCSS</p>\n<p>Github: <a href=\"https://github.com/ahmadhabibi14/artiwancara\">https://github.com/ahmadhabibi14/artiwancara</a>\nWebsite: <a href=\"https://artiwancara.vercel.app/\">https://artiwancara.vercel.app/</a></p>",
               "image": "SEASON-4-17 Agustus 2024-9.png"
+            }
+          ]
+        },
+        {
+          "date": "18 Agustus 2024",
+          "projects": [
+            {
+              "link": "https://json.web.id",
+              "username": "daniwebdev",
+              "message": "<p>Halo semuanya,</p>\n<p>Izin share update project yang dulu pernah di pamerkan disini juga, tapi ada perubahan techstack yang saya gunakan. hehe</p>\n<p>backend : Go (GoFiber+sqlite)\nfrontend : Nextjs + Tailwind + SwaggerUI</p>\n<p>json.web.id adalah layanan gratis dan open source yang menyediakan API untuk melakukan operasi CRUD. Saya terinspirasi untuk membuat proyek ini ketika sedang belajar Flutter. Saat ingin mencoba operasi CRUD, saya harus membuat API terlebih dahulu, meskipun sederhana. Hal ini cukup merepotkan karena saya harus membuat backend terlebih dahulu. Meskipun saya memiliki latar belakang yang kuat di backend, saya berpikir, bagaimana jika ada orang yang belajar frontend tetapi pengetahuannya tentang backend kurang? Mereka mungkin akan mencoba menggunakan Firebase atau Firestore, yang juga memerlukan pengetahuan tentang setup di Firebase.</p>\n<p>Apa saja yang dapat dilakukan dengan json.web.id?</p>\n<p>Saya membuat json.web.id sefleksibel mungkin, sehingga kita bisa membuat berbagai use case dengan respons JSON yang kita tentukan. Ada beberapa hal yang bisa kita lakukan untuk membuat &quot;resource&quot; atau data yang unik untuk setiap request.</p>\n<p>Kita bisa menggunakan <code>apiKey</code> atau <code>resourceName</code>, atau kombinasi keduanya. Misalnya, kita ingin membuat aplikasi <strong>daftar kontak</strong> dan <strong>todo list</strong>. Kita bisa mengisi dengan <code>apiKey=&quot;project-saya&quot;</code> dan <code>resourceName=contacts</code> atau <code>resourceName=todo</code>, sehingga data todo list kita tidak tercampur dengan inputan orang lain. Semoga bisa dipahami, ya</p>\n<p>Terimakasih,\nwebsite: <a href=\"https://json.web.id\">https://json.web.id</a>\nGithub: <a href=\"https://github.com/daniwebdev/json.web.id\">https://github.com/daniwebdev/json.web.id</a> (terimakasih bintangnya 😁 )</p>",
+              "image": "SEASON-4-18 Agustus 2024-0.png"
+            },
+            {
+              "link": "https://uitopia.xyz",
+              "username": "smithereens",
+              "message": "<p>Halo semua,</p>\n<p>Perkenalkan, nama saya Cahya Wibawa.</p>\n<p>izin share project ui/topia sebuah ui component library terinspirasi dari Magic UI dan Aceternity. Ide bikin project ini karena lagi suka eksperiment UI dengan Framer Motion.</p>\n<p>Tech Stack:\nNext.js\nTailwindCSS\nshadcn/ui\nFramer Motion</p>\n<p>Tautan:\nGitHub: <a href=\"https://git.new/ui/topia\">https://git.new/ui/topia</a>\nWebsite: <a href=\"https://uitopia.xyz\">https://uitopia.xyz</a>\nBlog: <a href=\"https://cahyawibawa.dev/projects/ui-topia\">https://cahyawibawa.dev/projects/ui-topia</a></p>\n<p>Saat ini, showcase components masih dikit, jadi saya sangat mengapresiasi kontribusi dari teman-teman yang ingin menambahkan lebih banyak lagi UI components.</p>\n<p>Terima kasih!</p>",
+              "image": "SEASON-4-18 Agustus 2024-1.png"
+            },
+            {
+              "link": "https://links.mgkusumaputra.me/Linktion",
+              "username": "MGKPs",
+              "message": "<p>Halo selamat pagi, siang, sore, malam semuanya\nSudah lama rasanya tidak ikutan showcase project, dan akhirnya kali ini bisa ikutan lagi showcase project simple hasil speedrun selama kurang lebih 20 jam+</p>\n<p>Project kali ini adalah <strong>Linktion</strong>\nApa itu linktion? Jadi Linktion adalah self-hosted Link-in-bio yang menggunakan notion sebagai CMSnya.\nUntuk saat ini fiturnya masih basic seperti linktree pada umumnya. Karena sekalian project belajar github action, husky, dan kawan-kawan</p>\n<p>Project ini bisa digunakan semua orang tanpa perlu hardcode, cukup custom semuanya melalui notion database.</p>\n<p>Tech stack untuk project ini:</p>\n<ul>\n<li>Next.js 14 app dir</li>\n<li>Tailwind</li>\n<li>Notion SDK</li>\n</ul>\n<p>bagi kawan-kawan yang memiliki ide saran untuk update fitur selanjutnya bisa mengisi form ini &lt;:hehehe:972470914488885288&gt; <a href=\"https://tally.so/r/w4jyOo\">https://tally.so/r/w4jyOo</a>\nLink Repository dan Demo:</p>\n<ul>\n<li>Repo: <a href=\"https://github.com/Mgkusumaputra/linktion\">https://github.com/Mgkusumaputra/linktion</a></li>\n<li>Demo: <a href=\"https://links.mgkusumaputra.me/Linktion\">https://links.mgkusumaputra.me/Linktion</a>\nInstallation Guide: <a href=\"https://mgkusumaputra.my.id/linktion/guide\">https://mgkusumaputra.my.id/linktion/guide</a></li>\n</ul>\n<p>Terima kasih atas waktunya kawan-kawan dan pak dhika, project ini masih sangat basic sekali jadi boleh berikan kritik dan saran untuk update project ini kedepannya</p>",
+              "image": "SEASON-4-18 Agustus 2024-2.png"
+            },
+            {
+              "link": "https://art.razaofficial.cloud/",
+              "username": "Revenant S.KOM",
+              "message": "<p>Hallo semua\nHallo Pak Dika</p>\n<p>Perkenalkan saya Rahman atau bisa di panggil Kibieptr / Omann. Saya lulusan SMK tahun 2024.</p>\n<p>Mohon izin share project Artikel/Blog yang saya buat dari bulan kemarin dengan nama *<strong>*Raza Art**</strong></p>\n<p>*<strong>*Raza Art**</strong> adalah situs artikel yang menyediakan platform bagi pengguna untuk membaca dan berbagi artikel tentang teknologi pengembang.</p>\n<p><strong>*<strong>Tech Stack:</strong>*</strong></p>\n<ul>\n<li>*<strong>*Frontend &amp; Backend**</strong>:</li>\n<li>Next.js</li>\n<li>React.js</li>\n<li>*<strong>*Database**</strong>:</li>\n<li>Supabase</li>\n<li>*<strong>*Style**</strong>:</li>\n<li>Tailwind CSS</li>\n<li>*<strong>*Content SDK**</strong>:</li>\n<li>Content Layer</li>\n<li>*<strong>*Slugger**</strong>:</li>\n<li>Github Slugger</li>\n</ul>\n<p>Tautan:\nRepo : <a href=\"https://github.com/kibieptr/raza-art\">https://github.com/kibieptr/raza-art</a>\nWebsite : <a href=\"https://art.razaofficial.cloud/\">https://art.razaofficial.cloud/</a> atau <a href=\"https://razaart.vercel.app/\">https://razaart.vercel.app/</a></p>\n<p>Support Me Jangan lupa di follow :\nInstagram : <a href=\"https://instagram.com/kibieptr\">https://instagram.com/kibieptr</a>_\nLinkedin : <a href=\"https://www.linkedin.com/in/kibieptr/\">https://www.linkedin.com/in/kibieptr/</a>\nSaweria : <a href=\"https://saweria.co/razaid\">https://saweria.co/razaid</a>\nTrakteer : <a href=\"https://trakteer.id/razaid\">https://trakteer.id/razaid</a></p>\n<p>Terimakasih puh :u\nMinta Kritik dan saran\nSekian terima gaji :u</p>",
+              "image": "SEASON-4-18 Agustus 2024-3.png"
+            },
+            {
+              "link": "https://ahmadammar.vercel.app",
+              "username": "musyaffaaa",
+              "message": "<p>Assalamualaikum, Selamat pagi Pa Dhika dan teman-teman, perkenalkan saya Ammar ingin mengikuti project showcase nya WPU</p>\n<p>Disini saya membuat website portfolio pribadi saya dan merupakan project pertama saya menggunakan NextJs dengan Typescript. Dalam website saya ini juga dilengkapi dengan fitur dark mode untuk user interface nya, ya mungkin project saya ini masih sangat terlihat sederhana oleh karena itu melalui project showcase ini saya ingin memperoleh masukan dari Pa Dhika dan teman-teman WPU semua.</p>\n<p>Tech Stack :</p>\n<ul>\n<li>NextJs 14</li>\n<li>Tailwind CSS</li>\n<li>Shadcn UI</li>\n</ul>\n<p>Link GitHub :\n<a href=\"https://github.com/ahmadammarm/ammar-nextjs\">https://github.com/ahmadammarm/ammar-nextjs</a></p>\n<p>Link Website :\n<a href=\"https://ahmadammar.vercel.app\">https://ahmadammar.vercel.app</a></p>\n<p>Terima kasih sudah mereview project sederhana saya ini semoga kedepannya bisa mengembangkan dengan lebih baik lagi😃</p>",
+              "image": "SEASON-4-18 Agustus 2024-4.png"
+            },
+            {
+              "link": "https://disbyte.vercel.app/",
+              "username": "Yudistira Putra",
+              "message": "<p>Halo semuanya Perkenalkan saya Yudis mau coba ikut project showcase</p>\n<p>Disini saya bikin website umkm jual beli produk digital yang login nya pakai wallet metamask dan transaksi menggunakan token Matic di jaringan polygon .</p>\n<p>Tech Stack :\nReact\nBootstrap</p>\n<p>Tautan\nRepo : <a href=\"https://github.com/Yudis-bit/web3commerce.git\">https://github.com/Yudis-bit/web3commerce.git</a>\nWebsite : <a href=\"https://disbyte.vercel.app/\">https://disbyte.vercel.app/</a></p>\n<p>Terimakasih banyak, mohon maaf bila ada salah kata baru pertama soalnya ikut showcase 🙏</p>",
+              "image": "SEASON-4-18 Agustus 2024-5.png"
+            },
+            {
+              "link": "https://jcwd031001.purwadhikabootcamp.com/",
+              "username": "mcnugget",
+              "message": "<p>Halo semuanya perkenalkan saya Rezza mau coba ikut project showcase</p>\n<p>Disini saya dan teman-teman saya (3 orang termasuk saya) membuat website multi warehouse grocery app sederhana menggunakan typescript. Maaf sebelumnya kalau website ini masih banyak kekurangan dari segi kerapihan codingan maupun UI. Saya sangat terbuka dengan masukan untuk pengembangan website maupun diri saya sendiri sebagai web developer pemula🙏</p>\n<p>Tech Stack:</p>\n<ul>\n<li>Frontend:<blockquote>\n<p>Next.js\nTailwindCSS\nshadcn/ui\nRedux Toolkit</p>\n</blockquote>\n</li>\n<li>Backend:<blockquote>\n<p>Node.js\nExpress.js\nMidtrans\nPrisma\nMySQL</p>\n</blockquote>\n</li>\n</ul>\n<p>Tautan:</p>\n<blockquote>\n<p>Repo: <a href=\"https://github.com/rezzadtyp/belanja.in-app\">https://github.com/rezzadtyp/belanja.in-app</a>\nWebsite: <a href=\"https://jcwd031001.purwadhikabootcamp.com/\">https://jcwd031001.purwadhikabootcamp.com/</a>\nPortfolio: <a href=\"https://rezza-portfolio.vercel.app/\">https://rezza-portfolio.vercel.app/</a></p>\n</blockquote>\n<p>Terimakasih banyak, mohon maaf bila ada salah kata pak🙏</p>",
+              "image": "SEASON-4-18 Agustus 2024-6.png"
+            },
+            {
+              "link": "https://salmoon.vercel.app",
+              "username": "mon",
+              "message": "<p>Selamat pagi semuanya!</p>\n<p>Perkenalkan lagi, saya Salman dan kali ini mau showcase portfolio saya yang baru untuk showcase selanjutnya.</p>\n<p>Website ini dibuat dengan fungsi rangkap sebagai sarana showcase skill programming saya dan juga sebagai sarana eksperimen dengan komponen-komponen kecil yang bisa teman-teman gunakan. Untuk detail seperti stack, sitemap, dan fitur akan saya jelaskan di bawah ini:</p>\n<p>Stack:</p>\n<ul>\n<li>Next.js (Typescript)</li>\n<li>TailwindCSS</li>\n<li>framer-motion</li>\n<li>supabase</li>\n<li>hygraph-gql</li>\n<li>shadcn-ui</li>\n</ul>\n<p>Featured url:</p>\n<ul>\n<li>/guestbook // fitur leave a trace, inspired by leerob.io</li>\n<li>/lab // fitur eksperimen komponen dan animasi, inspired by ibelick.com dan kbo.sk</li>\n<li>/blog // sarana menulis saya, menggunakan hygraph + gql</li>\n<li>/archive // sarana showcase product serta projek yang pernah saya buat</li>\n</ul>\n<p>Live: <a href=\"https://salmoon.vercel.app\">https://salmoon.vercel.app</a>\nRepo: <a href=\"https://github.com/msafdev/salmoon/stargazers\">https://github.com/msafdev/salmoon/stargazers</a> (janlup dikasih ⭐️ hehe)</p>\n<p>Sekian projek saya minggu ini, terimakasih semuanya!</p>",
+              "image": "SEASON-4-18 Agustus 2024-7.png"
+            },
+            {
+              "link": "http://8.215.7.36/",
+              "username": "NF37",
+              "message": "<p>Halo semuanya perkenalkan saya Fatiq mau coba ikut project showcase</p>\n<p>Disini saya membuat aplikasi chat real-time dengan fullstack javascript. Maaf sebelumnya kalau website ini masih banyak kekurangan. Saya sangat terbuka dengan masukan untuk pengembangan website maupun diri saya sendiri sebagai web developer pemula🙏</p>\n<p>Tech Stack:</p>\n<ul>\n<li>Mobile :</li>\n</ul>\n<blockquote>\n<p>React-native\nGithub repo: <a href=\"https://github.com/Anomali99/pischat-mobile-react-native\">https://github.com/Anomali99/pischat-mobile-react-native</a>\nDownload apk: <a href=\"https://drive.google.com/drive/folders/1fYQEOYMYOwRrbAZst2-xcWponxzYDpw4\">https://drive.google.com/drive/folders/1fYQEOYMYOwRrbAZst2-xcWponxzYDpw4</a></p>\n</blockquote>\n<ul>\n<li>Frontend:</li>\n</ul>\n<blockquote>\n<p>React JS\nTailwindCSS\nGithub repo: <a href=\"https://github.com/Anomali99/pischat-web-react-js\">https://github.com/Anomali99/pischat-web-react-js</a>\nDemo project: <a href=\"http://8.215.7.36/\">http://8.215.7.36/</a></p>\n</blockquote>\n<ul>\n<li>Backend:<blockquote>\n<p>Express.js\nWebsocket\nMariaDB\nGithub repo: <a href=\"https://github.com/Anomali99/pischat-server-express-js\">https://github.com/Anomali99/pischat-server-express-js</a></p>\n</blockquote>\n</li>\n</ul>\n<p>Terimakasih banyak, mohon maaf bila ada salah kata pak🙏</p>",
+              "image": "SEASON-4-18 Agustus 2024-8.png"
+            },
+            {
+              "link": "https://kumanime.fun/",
+              "username": "Xierra",
+              "message": "<p>Halo semuanya perkenalkan saya Nasywan mau coba ikut project showcase</p>\n<p>Disini saya membuat website streaming anime sederhana menggunakan reactjs dengan nama <strong>Kumanime</strong>. Dalam website ini saya menggunakan API unofficial otakudesu untuk mendapatkan detail dari anime-animenya. Jika ada kritik maupun saran itu bakal membantu saya kedepannya.</p>\n<blockquote>\n<p>Tech Stack:</p>\n<ul>\n<li>React JS</li>\n<li>TailwindCSS</li>\n</ul>\n<p>Tautan:\nRepo: <a href=\"https://github.com/MastayY/kumanime\">https://github.com/MastayY/kumanime</a> (star nya kawan)\nWebsite: <a href=\"https://kumanime.fun/\">https://kumanime.fun/</a></p>\n</blockquote>",
+              "image": "SEASON-4-18 Agustus 2024-9.png"
+            }
+          ]
+        },
+        {
+          "date": "23 Agustus 2024",
+          "projects": [
+            {
+              "link": "https://infvckmatika-class.vercel.app/",
+              "username": "hanzuldan",
+              "message": "<p>Assalamualaikum pa dika dan teman teman👋</p>\n<p>Perkenalkan saya Ilhan HJ Mahasiswa semester 4 dari STMIK Jabar. Saya ingin showcase project saya yang ketiga. Setelah sebelumnya saya mengirimkan project portfolio dan kuisioner kebahagiaan. Project yang kali ini saya kirimkan merupakan project infvckmatika-class yang merupakan website showcase project-project kelas kami, kata fvck disini tidak bermaksud kasar tapi merupakan kependekan dari Fostering Virtuosity Creativity and Knowledge yang berarti &quot;Tempat Membina Keahlian, Kreativitas, dan Pengetahuan&quot;. Project ini kami buat rame rame di sela waktu kuliah, prosesnya dimulai dari design di figma sampai fullstack menggunakan laravel, tapi yang saya kirimkan merupakan versi front-end nya.</p>\n<p>Tech :\nHTML\nCSS\nJS\nTAILWINDCSS\nGSAP\nAOS\nCONFETTI.JS</p>\n<p>Github : <a href=\"https://github.com/Ilhanhj/infvckmatika-class\">https://github.com/Ilhanhj/infvckmatika-class</a>\nWebsite : <a href=\"https://infvckmatika-class.vercel.app/\">https://infvckmatika-class.vercel.app/</a></p>",
+              "image": "SEASON-4-23 Agustus 2024-0.png"
+            },
+            {
+              "link": "https://cryptarithms-solver.vercel.app",
+              "username": "Vufi",
+              "message": "<p><strong>Cryptarithms Solver</strong>\nHalo semua,</p>\n<p>Perkenalkan nama saya <strong>Dais</strong> dan ini kali pertama saya ikut showcase. Saya sangat excited memamerkan project yang saya buat sendiri. Project ini saya beri nama Cryptarithms Solver. Seperti namanya, project ini bertujuan untuk memecahkan puzzle-puzzle atau teka-teki Cryptarithm. Ini terinspirasi dari proyek bang <strong>Fajrul fx</strong>: <a href=\"https://fajrul.com/cryptarithm/\">https://fajrul.com/cryptarithm/</a></p>\n<p>Saya tertarik dengan puzzle Cryptarithm dari <strong>Clash Of Champions</strong> dan akhirnya mendownload aplikasi puzzle Cryptarithm di HP. Saat stuck dengan salah satu soal, saya cari jawabannya di Google dan ketemu proyek Cryptarithm solver oleh Fajrul fx. Solver itu cuma bisa menjumlahkan dua susunan angka. Bang Fajrul juga menjelaskan metodenya di situ, dan saya jadi tertarik buat bikin versi yang lebih fleksibel</p>\n<blockquote>\n<p>Tech Stack:</p>\n<ul>\n<li>Next.js 14 (App Router)</li>\n<li>TailwindCss</li>\n<li>Shadcn/ui</li>\n<li>Magic UI</li>\n</ul>\n<p>Akun Github: <a href=\"https://github.com/favolia\">https://github.com/favolia</a>\nWebsite: <a href=\"https://cryptarithms-solver.vercel.app\">https://cryptarithms-solver.vercel.app</a></p>\n</blockquote>\n<p>Saya merasa kalo project saya belum sempurna, bila ada yang menemukan bug atau ada saran bisa sampein ke saya aja, buat yang lahir 2005 ayo kita berteman:)</p>",
+              "image": "SEASON-4-23 Agustus 2024-1.png"
+            },
+            {
+              "link": "https://angga7togk.vercel.app/",
+              "username": "Angga7Togk",
+              "message": "<p>Halo semuanya, perkenalkan saya Angga. Saya ingin memperkenalkan portofolio saya.</p>\n<p>Disini saya membuat website portofolio sederhana menggunakan ReactJS dan NextJS dengan nama angga7togk. Dalam website ini, saya menampilkan proyek-proyek yang telah saya kerjakan, pengalaman kerja, dan keterampilan yang saya miliki. Jika ada kritik maupun saran, itu akan sangat membantu saya untuk berkembang kedepannya.</p>\n<p>Tech Stack:</p>\n<p>ReactJS\nNextJS\nTailwindCSS\nTautan:</p>\n<p>Repo: <a href=\"https://github.com/angga7togk/angga7togk-nextjs\">https://github.com/angga7togk/angga7togk-nextjs</a> (beri bintang ya)\nWebsite: <a href=\"https://angga7togk.vercel.app/\">https://angga7togk.vercel.app/</a>\nKalo website di atas gabisa pake: <a href=\"https://angga7togk.animaku.my,id\">https://angga7togk.animaku.my,id</a></p>\n<p>Note untuk mobile:\nharus memakai mode landscape</p>\n<p>Terimakasih banyak, mohon maaf bila ada salah kata.</p>\n<p>tolong di lirik sedikit saja 🙂</p>",
+              "image": "SEASON-4-23 Agustus 2024-2.png"
+            },
+            {
+              "link": "https://cryptarithm.netlify.app",
+              "username": "Kotomono",
+              "message": "<p>Halo semuanya, perkenalkan saya Mono. Saya ingin showcase pertama kalinya di sini dan ini merupakan project sederhana terbaru saya.</p>\n<p>Cryptarithm Bahasa Indonesia</p>\n<p>Iya, isinya kumpulan soal kuis Cryptarithm yang bisa kalian kerjakan, namun saya selipkan soal-soal karangan saya sendiri dalam bahasa Indonesia.</p>\n<p>Tech stack nya pakai Next JS tailwind.</p>\n<p>Link : <a href=\"https://cryptarithm.netlify.app\">https://cryptarithm.netlify.app</a></p>\n<p>Project sederhana ini masih jauh dari kata sempurna, mohon untuk memberi kritik dan saran terhadap project saya ini. Terima kasih.</p>",
+              "image": "SEASON-4-23 Agustus 2024-3.png"
+            },
+            {
+              "link": "https://daffasam.github.io/portfolio/",
+              "username": "Daffasam",
+              "message": "<p>Assalamualaikum Pak Dika dan teman teman semuanya.</p>\n<p>Perkenalkan nama saya Daffa Sacofi. Disini saya membuat website portofolio sederhana menggunakan html,css, dan javascript sedikit. di portfolio berisi about, experience, dan project. Masih belajar untuk menjadi frontend web developer. jika ada kritik dan sarannya, itu membantu saya untuk berkembang lebih baik lagi.</p>\n<p>Github: <a href=\"https://daffasam.github.io/portfolio/\">https://daffasam.github.io/portfolio/</a></p>\n<p>Terimakasih banyak, mohon maaf bila ada salah kata. happy coding.</p>",
+              "image": "SEASON-4-23 Agustus 2024-4.png"
+            },
+            {
+              "link": "https://monday-cafe.online/",
+              "username": "shinein.",
+              "message": "<p>Assalmualaikum Pak Dika dan teman teman semuanya.</p>\n<p>perkenalkan nama saya alief wafiq ramadhan.Saya ingin showcase project laravel sederhana saya bersama teman teman saya. Jadi nama project nya adalah MondayCafe, isi nya ya kayak menu menu cafe gitu. mungkin untuk fitur masih banyak kurang nya karna ini sebenarnya tugas akhir bootcamp gitu dan udah keburu deadline</p>\n<p>TechStack : laravel</p>\n<p>Link : <a href=\"https://monday-cafe.online/\">https://monday-cafe.online/</a>\nGithub : <a href=\"https://github.com/alief123d/monday-cafe\">https://github.com/alief123d/monday-cafe</a></p>\n<p>mungkin kalau ada saran dan kritik boleh disampaikan, terimakasih dan happy coding.</p>",
+              "image": "SEASON-4-23 Agustus 2024-5.png"
+            },
+            {
+              "link": "https://www.karismatenda.my.id",
+              "username": "Bellawan Kusuma Aji",
+              "message": "<p><strong>Website Persewaan Tenda</strong></p>\n<p>Selamat Malam Pak Sandhika dan Para Rebahanners semua, izin showcase Project Sederhana 🚀 dalam rangka bantu calon mertua. Project ini berupa frontend website persewaan tenda, yang melayani sewa tenda, panggung dan berbagai kebutuhannya untuk acara nikahan dll. Ini showcase ketiga saya dan project react pertama saya, shout out untuk kang Avip buat tutor reactnya!</p>\n<p><strong>Secara singkat skema project ini:</strong></p>\n<ol>\n<li>User melakukan pemesanan manual melalui page contact, atau bisa langsung checkout produk.</li>\n<li>Kirim notifikasi email ringkasan pemesanan ke user dan admin.</li>\n<li>Admin akan memproses pesanan dengan membuat quotation/penawaran</li>\n<li>Penawaran digenerate dengan Laravel Livewire dan DOMPdf (Point of Sales, beda project)</li>\n<li>Admin akan mengirimkan estimasi harga final di penawaran lewat email/whatsapp</li>\n</ol>\n<p><strong>Fitur:</strong></p>\n<ol>\n<li>Showcase produk dan acara serta beberapa dokumentasi</li>\n<li>Checkout produk</li>\n</ol>\n<p><strong>Dalam pengembangan:</strong></p>\n<ol>\n<li>Login untuk menyimpan riwayat pesanan</li>\n<li>Fitur Pencarian</li>\n<li>Dokumentasi dan konten masih sangat terbatas, karena baru mulai aktif dokumentasi foto dan ingin improve ke bisnis model baru (pelayanan online)</li>\n</ol>\n<p><strong>Tech Stack:</strong></p>\n<ol>\n<li>NextJS App Router</li>\n<li>MongoDB</li>\n<li>Redis</li>\n<li>TailwindCSS</li>\n</ol>\n<p>Link : Karisma Tenda (<a href=\"https://www.karismatenda.my.id\">https://www.karismatenda.my.id</a>)</p>\n<p>Sayang sekali project ini belum bisa saya open source codenya. Jika tertarik, ada project open source yang sudah saya publish di showcase sebelumnya <a href=\"https://github.com/belankus/BKBlog\">https://github.com/belankus/BKBlog</a></p>\n<p>Terima kasih, hatur nuhun.</p>",
+              "image": "SEASON-4-23 Agustus 2024-6.png"
+            },
+            {
+              "link": "https://anshoria.github.io/",
+              "username": "martabak coklat",
+              "message": "<p>Assalmualaikum Pak Dika dan teman teman semuanya👋.</p>\n<p>Perkenalkan saya ansori. Disini saya ingin showcase projek sederhana untuk pertama kali mengenai website portofolio. Seperti pada umumnya terdapat informasi mengenai saya dan projek-projek yang telah saya buat.\nJuga terdapat fitur star yang terinspirasi dari github. Jangan lupa bintangnya pak Dika dan temen2😁.</p>\n<p>Tech Stack:\n-Bootstrap\n-HTML\n-CSS\n-Javascript</p>\n<p>Link: <a href=\"https://anshoria.github.io/\">https://anshoria.github.io/</a>\nGithub: <a href=\"https://github.com/anshoria/anshoria.github.io\">https://github.com/anshoria/anshoria.github.io</a></p>\n<p>Terima kasih semuanya🙌.</p>",
+              "image": "SEASON-4-23 Agustus 2024-7.png"
+            },
+            {
+              "link": "https://colab.research.google.com/drive/1GeIUioUCnMsA1P8LREsjKpTiW6mpAByy?usp=sharing",
+              "username": "Arfy Slowy",
+              "message": "<p>wello pak dhika kembali lagi dengan project sederhana</p>\n<p>disini saya ingin showcase project bareng pak professor <a href=\"https://www.linkedin.com/in/giswqs/\">quisheng wu</a> (GDE earth engine dan associate professor University of Tennessee, US 🇺🇸 ). project ini dibidang tentang Geographic information system (GIS) 🌍 , jadi ini adalah sistem pemetaan dengan teknologi komputer. disini packagenya bernama <code>leafmap</code>. <code>leafmap</code> ini adalah sebuah package kembangan dari <code>geemap</code> (google earth engine) map, sebelumnya saya juga maintainer dari <code>geemap</code> yang kemudian saya jadi salah satu owner and maintainer dari project baru ini yaitu <code>leafmap</code> dan organisasi open source yang membuat package-package yang berhubungan dengan GIS ini pak dhika yaitu <code>open geospatial solution (opengeos)</code>. jadi disini saya membuat sebuah visualiasi bangunan 3d dan juga pemetaan lahan di kota jakarta dengan package <code>leafmap</code> ini pak dhika.</p>\n<p>yang digunakan dalam <code>leafmap</code> ini antara lain:</p>\n<ul>\n<li>geojson</li>\n<li>ipyleaflet</li>\n<li>numpy</li>\n<li>pandas</li>\n<li>matplotlib</li>\n<li>folium</li>\n</ul>\n<p>demo project : <a href=\"https://colab.research.google.com/drive/1GeIUioUCnMsA1P8LREsjKpTiW6mpAByy?usp=sharing\">https://colab.research.google.com/drive/1GeIUioUCnMsA1P8LREsjKpTiW6mpAByy?usp=sharing</a>\ngithub project: <a href=\"https://github.com/opengeos/leafmap\">https://github.com/opengeos/leafmap</a></p>\n<p>terima kasih pak <a href=\"https://www.linkedin.com/in/giswqs/\">quisheng</a> sudah memberikan ilmu tentang GIS dan thank you pak dhika, lupakan titik koma &lt;:mantab:972471617923993600&gt;</p>",
+              "image": "SEASON-4-23 Agustus 2024-8.png"
+            },
+            {
+              "link": "https://farrellid.xyz",
+              "username": "parreelll",
+              "message": "<p>Hallo Pak Sandhika dan Teman&#39; semuanya,\nPerkenalkan Nama Saya Farrell Athar R, Sebelumnya saya sudah pernah mengikuti showcase project dan kali ini saya ingin membagikan lagi Website Portfolio Saya yang sedang saya kembangkan. Website ini saya design dengan konsep modern minimalist.</p>\n<p>Berikut Teknologi yang Saya Pakai :\nHTML\nCSS\nJavaScript</p>\n<p>🔗 Link Website: <a href=\"https://farrellid.xyz\">https://farrellid.xyz</a>\nKritik &amp; Saran? <a href=\"https://forms.gle/hsM64iJb3KMQ9XQx9\">https://forms.gle/hsM64iJb3KMQ9XQx9</a></p>",
+              "image": "SEASON-4-23 Agustus 2024-9.png"
+            }
+          ]
+        },
+        {
+          "date": "24 Agustus 2024",
+          "projects": [
+            {
+              "link": "https://ariqfrhan.vercel.app/",
+              "username": "hysteria",
+              "message": "<p>Halo teman-teman semuanya!</p>\n<p>Perkenalkan saya Muhammad Ariq Farhan. Pada kesempatan kali ini saya mau showcase personal portfolio website saya yang sederhana dengan beberapa tech stack yang digunakan yaitu :</p>\n<p>⦁ NextJs\n⦁ TailwindCSS\n⦁ Aceternity UI\n⦁ Framer motion</p>\n<p>Web : <a href=\"https://ariqfrhan.vercel.app/\">https://ariqfrhan.vercel.app/</a>\nRepo : <a href=\"https://github.com/ariqfrhan/my-portfolio-next\">https://github.com/ariqfrhan/my-portfolio-next</a></p>\n<p>Bila ada saran atau pertanyaan terkait website atau portfolio videografi yang ada di website (especially color grading) boleh banget chat melalui kontak yang ada di website saya. &lt;:rock_approved:980409751869485057&gt;</p>\n<p>Terima kasih.</p>",
+              "image": "SEASON-4-24 Agustus 2024-0.png"
+            },
+            {
+              "link": "https://zzz-newspaper.potadev.com",
+              "username": "SiBagood",
+              "message": "<p>selamat malam semuanya, saya mau share desain web sederhana yang terinspirasi dari UI newspaper di dalam game Zenless Zone Zero. karena simpel aja webnya jadi dibuat dengan HTML,CSS dan JS saja, webnya juga masih kurang responsif jadi mungkin masih berantakan di ukuran layar tertentu.\nweb : <a href=\"https://zzz-newspaper.potadev.com\">https://zzz-newspaper.potadev.com</a>\nrepo : <a href=\"https://github.com/bagusindrayana/zzz-newspaper\">https://github.com/bagusindrayana/zzz-newspaper</a></p>",
+              "image": "SEASON-4-24 Agustus 2024-1.png"
+            },
+            {
+              "link": "https://hbd-kizu.vercel.app/",
+              "username": "Kaede Mitsuki",
+              "message": "<p>Halo pak Sandhika dan teman-teman semuanya!</p>\n<p>Perkenalkan nama saya Muhammad Rizki, saya ingin showcase project sederhana saya dengan style RPG-like anime bertema Blue Archive, project ini dibikin untuk ucapan ulang tahun saya pada 1 Juli kemarin.</p>\n<h2>Tech Stack</h2>\n<ul>\n<li>SvelteKit</li>\n<li>TailwindCSS</li>\n</ul>\n<h2>Site Support</h2>\n<ul>\n<li>Google Translate (untuk translate ke bahasa Jepang)</li>\n<li>Hugging Face (untuk generate AI VITS model)</li>\n</ul>\n<p>Demo: <a href=\"https://hbd-kizu.vercel.app/\">https://hbd-kizu.vercel.app/</a>\nRepo: <a href=\"https://github.com/rushkii/hbd-kizu\">https://github.com/rushkii/hbd-kizu</a></p>\n<p>oh ya, ini webnya lebih bagus di desktop screen only ya!</p>\n<p>Kalau ada kritik dan saran silahkan komen, terima kasih pak Shandika dan teman-teman semuanya.</p>",
+              "image": "SEASON-4-24 Agustus 2024-2.png"
+            },
+            {
+              "link": "https://podomoro-timer-kappa.vercel.app/",
+              "username": "Fikri Taufiqurrahman",
+              "message": "<p>Hallo Pak Dika!</p>\n<p>Perkenalkan nama saya Fikri Taufiqurrahman, saya ingin showcase project pertama saya. Saya membuat web pomodoro timer sederhana untuk menambah produktivitas temen-temen.</p>\n<p>Tech stack nya:</p>\n<ul>\n<li>ReactJS - Vite</li>\n<li>Tailwind CSS</li>\n<li>@hello-pangea/dnd (Drag and Drop)</li>\n</ul>\n<p>Fitur:</p>\n<ul>\n<li>Timer</li>\n<li>Add and Delete Task</li>\n<li>Drag and Drop</li>\n<li>Notification</li>\n<li>Notes</li>\n<li>Local Storage (ketika di refresh data task dan note tetep ada)</li>\n</ul>\n<p>Web: <a href=\"https://podomoro-timer-kappa.vercel.app/\">https://podomoro-timer-kappa.vercel.app/</a>\nGithub: <a href=\"https://github.com/fikri-taufiqurrahman/podomoro-timer\">https://github.com/fikri-taufiqurrahman/podomoro-timer</a></p>\n<p>Kalau ada saran atau pertanyaan bisa ke <a href=\"https://forms.gle/xsqNJjD4QiuyDsbF9\">https://forms.gle/xsqNJjD4QiuyDsbF9</a></p>\n<p>terimakasih semuanya ✨</p>",
+              "image": "SEASON-4-24 Agustus 2024-3.png"
+            },
+            {
+              "link": "https://askyui-anything.vercel.app/",
+              "username": "Yui",
+              "message": "<p>Hallo temen temen dan sandhika sensei\nUdah lama saya tenggelam dan ga showcase project😶‍🌫, saya Yui mahasiswa Sasjep kali ini saya ingin showcase project sederhana, yg saya berikan nama 内諸メッセージ (naisho messeji) project ini mirip dengan aplikasi NGLINK yaitu kita dapat mengirimkan secret message, untuk sistemnya disini yaitu CRUD sederhana.\nUntuk responsivenya saya khususkan untuk Mobile device saja. Project ini juga menjadi pondasi awal saya dalam belajar data base khsusnya konfigurasi firebase.</p>\n<p>Fitur :\nPanel admin untuk melihat respon user yg terkirim dan logo icon instagram yg memiliki fungsi untuk men-capture gambar dan melakukan redirecting ke instagram.</p>\n<p>Github : <a href=\"https://github.com/Yu1chiro/Ask-me-anything/\">https://github.com/Yu1chiro/Ask-me-anything/</a></p>\n<p>Website : <a href=\"https://askyui-anything.vercel.app/\">https://askyui-anything.vercel.app/</a></p>\n<p>Admin : <a href=\"https://askyui-anything.vercel.app/admin/Sign.html\">https://askyui-anything.vercel.app/admin/Sign.html</a></p>\n<p>Email : <a href=\"mailto:Yui123@gmail.com\">Yui123@gmail.com</a> Pw : Yui123</p>\n<p>Tech : HTML, CSS, Tailwind, Vanila JS, Flowbite, Firebase, Sweet Alert.</p>\n<p>Mohon maaf jika design masih kurang dari sisi UI/UX nya seperti biasa saran, kritik dan komentar temen-temen WPU dan sandhika sensei sangat saya butuhkan untuk mengembangkan project saya menjadi lebih baik😇.</p>\n<p>Saya juga ingin mengucapkan banyak&quot; terimakasih sama pak dhika khususnya dari playlist tailwind css, mata kuliah Sakubun (menulis karangan dalam bahasa jepang) saya dapet A pak hehe. Kebetulan UAS projectnya membuat website blog😁😁 Terimakasih semuanya dan jangan lupa titik koma✨, Menyala wii 🔥🔥</p>",
+              "image": "SEASON-4-24 Agustus 2024-4.png"
+            },
+            {
+              "link": "https://jcode-2110.netlify.app/",
+              "username": "Umar Jihad",
+              "message": "<p>Assalamu&#39;alaikum Semua.</p>\n<p>Saya Umar dari Jogja.</p>\n<p>Kali ini mau showcase versi upgrade dari project sebelum nya lagi 😁, yang sebelum nya hanya dari sisi frontend, sekarang sudah fullstack.</p>\n<p>Project nya bernama Jcode, semacam platform kursus online programming. Selain itu, terdapat juga fitur Codex (Coding Exercise) di mana user bisa melatih skill programming dengan menyelesaikan soal cerita (mirip seperti Leetcode dan Codewars). Pada fitur Codex ini, hanya terdapat dua bahasa pemrogramman yang bisa digunakan yaitu javascript dan python. Semoga kedepannya bahasa nya bisa Saya tambah 😁.</p>\n<p>Semoga Pak Dhika dan kawan-kawan mencoba semua soal yang ada lalu bisa memberikan feedback.</p>\n<p>Tech Stack:\nVanilla CSS, ReactJS, NodeJS, ExpressJS, MySQL.</p>\n<p>Demo: <a href=\"https://jcode-2110.netlify.app/\">https://jcode-2110.netlify.app/</a>\nRepo: <a href=\"https://github.com/jihadable/jcode\">https://github.com/jihadable/jcode</a></p>",
+              "image": "SEASON-4-24 Agustus 2024-5.png"
+            },
+            {
+              "link": "https://nelshenyong.github.io/wedding-invitation-responsive/",
+              "username": "Nelshen Yong",
+              "message": "<p>Halo Semua.</p>\n<p>Perkenalkan Nelshen Yong, saya ingin showcase tugas sekolah saya yaitu Web Undangan.</p>\n<p>Fitur:</p>\n<ul>\n<li>Dark Mode</li>\n<li>Dark Mode Remember (Local Storage)</li>\n<li>Animation</li>\n<li>Responsive</li>\n</ul>\n<p>Link Github Pages: <a href=\"https://nelshenyong.github.io/wedding-invitation-responsive/\">https://nelshenyong.github.io/wedding-invitation-responsive/</a>\nLink Repo: <a href=\"https://github.com/nelshenyong/wedding-invitation-responsive\">https://github.com/nelshenyong/wedding-invitation-responsive</a></p>",
+              "image": "SEASON-4-24 Agustus 2024-6.png"
+            },
+            {
+              "link": "https://imagically.net/",
+              "username": "Wahyu",
+              "message": "<p>Assalamualaikum semua.</p>\n<p>Saya Wahyu dari Bekasi. Mohon izin mau show case project saya yang bernama Imagically, sebuah CDN gambar untuk konversi dan resize gambar secara real time di cloud, project ini terinspirasi dari statically dan optimole.</p>\n<p>Tech stack:</p>\n<ul>\n<li>Go</li>\n<li>Libvips</li>\n<li>Redis</li>\n<li>Tailwind</li>\n<li>Hugo</li>\n</ul>\n<p>Repo: <a href=\"https://github.com/wahyuief/imagically\">https://github.com/wahyuief/imagically</a>\nWeb: <a href=\"https://imagically.net/\">https://imagically.net/</a></p>\n<p>Mohon maaf untuk backendnya close source. Terima kasih.</p>",
+              "image": "SEASON-4-24 Agustus 2024-7.png"
+            },
+            {
+              "link": "https://www.wimba.store/",
+              "username": "Lozra",
+              "message": "<p>Assalamualaikum semua.</p>\n<p>Saya Fadlan dari Depok, mohon izin mau show project simple saya. ini usaha bisnis Madu yang dimana ini adalah client kedua saya beliau meminta saya untuk membuat Landing Page.</p>\n<p>Tech stack:\nHTML\nCSS\nJS\nSWIPER\nLEAFLET</p>\n<p>Web: <a href=\"https://www.wimba.store/\">https://www.wimba.store/</a></p>\n<p>Minta saran tambahin apalagi agar lebih bagus lagi, karena ini projectnya masih berlanjut hehe. Terima kasih.</p>",
+              "image": "SEASON-4-24 Agustus 2024-8.png"
+            },
+            {
+              "link": "https://itsolusi.my.id/",
+              "username": "Nafal Mumtaz Fuadi",
+              "message": "<p><strong><em>Haloo Sahabatku</em></strong>\nassalamualaikum guys perkenalkan nama saya adalah nafal\nsebut sajah nafdi\ndisini saya ingin showcase pertama kalinyah.\nproject ini dibuat pada bulan kemarin saya menyelesaikan KKP (Kuliah Kerja Pratek) di SMKN 1 Cikarang Utara yang dimana saya sendiri selama 3 bulan disana ditemukan ide masalah agar pemilihan osis menjadi efesien lalu saya membuat website e-voting (elektronik pemilihan) dengan berjudul Sistem pemilihan Ketua osis di SMKN 1 Cikarang Utara berbasis website</p>\n<p>*<strong>*FITUR :**</strong></p>\n<ul>\n<li>Keamanan</li>\n<li>Efesien</li>\n<li>Sistem Monitoring</li>\n<li>Menu cetak kartu pemilihan</li>\n<li>Menu menambahkan kandidat</li>\n<li>Menu seeting pemilih = panitia ( Guru ) &amp; siswa</li>\n<li>Responsive</li>\n</ul>\n<p><strong>link website : <a href=\"https://itsolusi.my.id/\">https://itsolusi.my.id/</a></strong></p>\n<p>**Link cek kartu pemilih : **</p>",
+              "image": "SEASON-4-24 Agustus 2024-9.png"
             }
           ]
         }
