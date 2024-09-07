@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-08-31T12:58:05.600Z",
+  "fetched_at": "2024-09-07T12:57:21.863Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -15480,6 +15480,186 @@
       "username": "Nafal Mumtaz Fuadi",
       "message": "<p><strong><em>Haloo Sahabatku</em></strong>\nassalamualaikum guys perkenalkan nama saya adalah nafal\nsebut sajah nafdi\ndisini saya ingin showcase pertama kalinyah.\nproject ini dibuat pada bulan kemarin saya menyelesaikan KKP (Kuliah Kerja Pratek) di SMKN 1 Cikarang Utara yang dimana saya sendiri selama 3 bulan disana ditemukan ide masalah agar pemilihan osis menjadi efesien lalu saya membuat website e-voting (elektronik pemilihan) dengan berjudul Sistem pemilihan Ketua osis di SMKN 1 Cikarang Utara berbasis website</p>\n<p>*<strong>*FITUR :**</strong></p>\n<ul>\n<li>Keamanan</li>\n<li>Efesien</li>\n<li>Sistem Monitoring</li>\n<li>Menu cetak kartu pemilihan</li>\n<li>Menu menambahkan kandidat</li>\n<li>Menu seeting pemilih = panitia ( Guru ) &amp; siswa</li>\n<li>Responsive</li>\n</ul>\n<p><strong>link website : <a href=\"https://itsolusi.my.id/\">https://itsolusi.my.id/</a></strong></p>\n<p>**Link cek kartu pemilih : **</p>",
       "image": "SEASON-4-24 Agustus 2024-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 September 2024",
+      "projectLink": "https://iegmood.vercel.app",
+      "projectIdx": 0,
+      "username": "eL .",
+      "message": "<p>assalamualaikum pak dika dan teman-teman semuanya.</p>\n<p>perkenalkan saya elgibran. saya ingin showcase project webapps untuk pelacakan depresi yang membantu psikiater memantau kesehatan mental. setelah mengisi tes kesehatan mental, akan secara otomatis menerima solusi, konsultasi, atau umpan balik yang dipersonalisasi melalui model ai. jadi saya beri nama project-nya adalah iegmood. untuk fiturnya seperti menggunakan tes phq-9, feedback dari model ai gemini, pemantauan psikiater, dan peringatan kondisi kritis.</p>\n<p><strong>tech stack</strong>:</p>\n<ul>\n<li><strong>next.js 14 (app route)</strong></li>\n<li><strong>typescript</strong></li>\n<li><strong>tailwind css</strong></li>\n<li><strong>postgresql (db)</strong></li>\n<li><strong>prisma (orm)</strong></li>\n<li><strong>docker</strong></li>\n<li><strong>shadcn-ui</strong></li>\n<li><strong>clerk (auth)</strong></li>\n</ul>\n<p>demo: <a href=\"https://iegmood.vercel.app\">https://iegmood.vercel.app</a>\nrepo: <a href=\"https://github.com/ibrahimelgibran/iegcode-psikiater\">https://github.com/ibrahimelgibran/iegcode-psikiater</a></p>\n<p>mungkin kalau ada saran dan kritik boleh disampaikan, terima kasih.</p>",
+      "image": "SEASON-4-1 September 2024-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 September 2024",
+      "projectLink": "https://pamerajadulu.com",
+      "projectIdx": 1,
+      "username": "depa",
+      "message": "<p>halo semuanya, salam kenal.\nperkenalkan saya depa. izin ikutan showcase project yg saya bikin 👨‍💻</p>\n<p>project kali ini terinspirasi dari hashtag yg rame di twitter #PamerAjaDulu (<a href=\"https://twitter.com/hashtag/PamerAjaDulu\">https://twitter.com/hashtag/PamerAjaDulu</a>)\njadi saya coba bikin web untuk tempat temen-temen semua me-&quot;mamerkan&quot; project yang temen-temen pernah buat agar tidak hilang begitu saja</p>\n<p>untuk web nya sendiri bisa di akses di : <a href=\"https://pamerajadulu.com\">https://pamerajadulu.com</a>\nuntuk repository nya bisa dilihat disini : <a href=\"https://github.com/depapp/PamerAjaDulu\">https://github.com/depapp/PamerAjaDulu</a> (barangkali ada yang mau bantu-bantu buat kontribusi hehe)</p>\n<p>tech-stack yg dipake:</p>\n<ul>\n<li><code>nextjs</code> as frontend</li>\n<li><code>emotion css</code> as styling</li>\n<li><code>firebase</code> as database</li>\n<li><code>playwright</code> as ui end2end testing tool</li>\n</ul>\n<p>untuk fitur-fiturnya sendiri diantaranya:</p>\n<ul>\n<li>register &amp; login (bisa menggunakan Google)</li>\n<li>submit project</li>\n<li>vote project</li>\n</ul>\n<p>ayo temen-temen semua buat submit semua project yang pernah dibikin biar bisa diliat sama yang lain 🚀</p>\n<p>*project ini bisa dibilang sebagai clone dari ProductHunt dengan kearifan lokal hehehe</p>\n<p>makasih semuanya, semoga bisa bermanfaat.. 🙇‍♂️</p>",
+      "image": "SEASON-4-1 September 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 September 2024",
+      "projectLink": "https://projectwebsites.vercel.app/",
+      "projectIdx": 2,
+      "username": "Giri Diwa Adam",
+      "message": "<p>Assalamu&#39;alaikum wr, wb</p>\n<p>Selamat Siang Pak Dhika dan Teman-Teman programmer sekalian, Di kesempatan kali ini saya Kembali Memamerkan Hasil Karya saya yang masih berupa <strong>&quot;Portofolio&quot;</strong>, Tidak seperti sebelumnya portofolio ini saya poles dengan menggunakan animasi dari beberapa UI terkini seperti **Acternity UI ** dan juga <strong>Radix UI</strong>, walau cuma sebuah portofolio sederhana tetapi saya sudah senang dapat memamerkan hasil karya saya\ndi sini.</p>\n<p>Techstack Yang saya Gunakan :\n**</p>\n<ul>\n<li>Next JS 14 (Typescript)</li>\n<li>Tailwind CSS</li>\n<li>Acternity UI, Framer Motion</li>\n<li>Radix UI</li>\n<li>Vercel (CI/CD)\n**\nLink Show : <a href=\"https://projectwebsites.vercel.app/\">https://projectwebsites.vercel.app/</a>\nGitHub Repo : <a href=\"https://github.com/Giridiwa319/giri_portofolio\">https://github.com/Giridiwa319/giri_portofolio</a></li>\n</ul>\n<p>Mudah-mudahan bisa menjadi inspirasi design website bagi teman-teman\nyang ingin membuat website Portfolio.</p>\n<p>Sekian dan Terimakasih 🙂</p>\n<p>Assalamu&#39;alaikum wr, wb</p>",
+      "image": "SEASON-4-1 September 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 September 2024",
+      "projectLink": "https://lulagi-memeworld.vercel.app/",
+      "projectIdx": 3,
+      "username": "trent_handoko",
+      "message": "<p>Selamat pagi Pak Dhika dan teman-teman,</p>\n<p>Perkenalkan saya Satia, kali in saya ingin memamerkan web MEME saya yang simple, minimalis, sederhana dan apaadanya, bernama &quot;lulagi&quot;. Sekilas tentang web saya adalah teman-teman bisa share meme setelah login dan memberikan komen pada postingan orang lain. Serta melihat postingan yg terbaru atau yg sedang trending.</p>\n<p>Tech Stack:</p>\n<ul>\n<li>Next JS + typescript</li>\n<li>Kinde (auth)</li>\n<li>Tailwind, ShadcnUI, MagicUI</li>\n<li>Prisma + Neon (database)</li>\n<li>TanStack Query</li>\n</ul>\n<p>Link Demo : <a href=\"https://lulagi-memeworld.vercel.app/\">https://lulagi-memeworld.vercel.app/</a>\nGitHub Repo Project : <a href=\"https://github.com/Trenttrevor/lulagi-meme\">https://github.com/Trenttrevor/lulagi-meme</a></p>\n<p>Untuk catatan, fitur post meme berupa video saya nonaktifkan karena limit database gratisan :). Tapi untuk image masih sangat bisa digunakan. Saya sadar bahwa web saya masih banyak kekurangan, maka dari itu saran dan kritik sangat saya harapkan. Terimakasih!</p>",
+      "image": "SEASON-4-1 September 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 September 2024",
+      "projectLink": "https://roastgithub.vercel.app",
+      "projectIdx": 4,
+      "username": "SiBagood",
+      "message": "<p>Halo semuanya, ijin share projek iseng aja 😁, yaitu web untuk roasting profile githubmu 😁</p>\n<p>Stack :\nSvelte\nExpress + Gemini AI API</p>\n<p>Web : <a href=\"https://roastgithub.vercel.app\">https://roastgithub.vercel.app</a>\nFrontend : <a href=\"https://github.com/bagusindrayana/roastgithub\">https://github.com/bagusindrayana/roastgithub</a>\nBackend : <a href=\"https://github.com/bagusindrayana/roastgithub-api\">https://github.com/bagusindrayana/roastgithub-api</a></p>\n<p>Edit :\nRequestnya saya batasin,\nsaya tambahin model llama dari groq AI,\nSerta ada inputan untuk masukan api key sendiri</p>\n<p>Soalnya sehari aja langsung rame yang make dan tagihan GCP Gemini ai saya tembus 1jt</p>",
+      "image": "SEASON-4-1 September 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 September 2024",
+      "projectLink": "https://www.spillspoil.my.id",
+      "projectIdx": 5,
+      "username": "Bellawan Kusuma Aji",
+      "message": "<p>Selamat malam Pak Dhika dan para rebahanners di manapun kalian berada.</p>\n<p>Kali ini saya mau share project sederhana ke 4 saya, sembari nunggu antrian project showcase ke 3 saya direview.</p>\n<p>Walaupun ini project setengah matang, submit aja dulu buat booking antrian, daripada antriannya tambah panjang 😃</p>\n<p><strong>SpillSpoil</strong>\nWebsite sosial media gaya ala twitter. Fiturnya belum selengkap twitter, tapi inspirasi memang dari sana.</p>\n<p><strong>Fitur basic:</strong></p>\n<ol>\n<li>Post Status &amp; attachment</li>\n<li>Profile Pengguna</li>\n<li>Feed for-you &amp; following</li>\n<li>Notification</li>\n<li>Follow, Like &amp; Comment</li>\n<li>Pesan DM</li>\n</ol>\n<p><strong>Tech Stack :</strong></p>\n<ol>\n<li>NextJS</li>\n<li>React Query</li>\n<li>PostgreSQL</li>\n<li>Lucia Auth\ndan beberapa library pendukung lainnya.</li>\n</ol>\n<p>Sekian dari saya, kurang lebihnya mohon maaf. Terima kasih, hatur nuhun.</p>\n<p><strong>SpillSpoil</strong>\n<a href=\"https://www.spillspoil.my.id\">https://www.spillspoil.my.id</a></p>",
+      "image": "SEASON-4-1 September 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 September 2024",
+      "projectLink": "https://balmed-v2.vercel.app/home",
+      "projectIdx": 6,
+      "username": "Balsss",
+      "message": "<p>Assalamualaikum wr wb</p>\n<p>Halo Pak Dhika dan semua teman WPU. Karena saya ingin kena semprit sama pak dhika, maka izinkan saya sebagai pemula untuk memamerkan project saya yang sederhana saja. Project ini merupakan sebuah sosial media yang sederhana saja yang saya berikan nama nya yaitu <strong>BALMED</strong>, untuk segi UI nya saya copas dikit dari twitter atau X</p>\n<p>Fitur:</p>\n<ul>\n<li>Authentikasi</li>\n<li>Post for-you dan by following</li>\n<li>Post by hastag</li>\n<li>Create, Like, Comment, Repost, dan Mark Post</li>\n<li>Update profile</li>\n<li>Follow user</li>\n<li>InfiniteScroll</li>\n<li>Search Post</li>\n<li>Notification</li>\n<li>Download file/media post</li>\n</ul>\n<p>Techstack:</p>\n<ul>\n<li>NextJs 14</li>\n<li>TypeScript</li>\n<li>Supabase</li>\n<li>React Query</li>\n<li>NextAuth</li>\n<li>Tailwind CSS</li>\n</ul>\n<p>Sekian dari saya, mohon maaf apabila ada kekurangan dari project saya yang sederhana ini, bila ada sebuah kritik dan saran saya sangat menerima. Terima kasih 🙏🙏</p>\n<p><strong>Note</strong> :\nAda beberapa fitur yang masih dalam tahap pengembangan dan web nya masih belum saya responsive kan, tapi insyaallah ketika project ini di pamerkan semua fitur dan responsive sudah terselesaikan</p>\n<p>Demo :\n<a href=\"https://balmed-v2.vercel.app/home\">https://balmed-v2.vercel.app/home</a></p>\n<p>Repo :\n<a href=\"https://github.com/Ibaliqbal/balmed-v2\">https://github.com/Ibaliqbal/balmed-v2</a></p>",
+      "image": "SEASON-4-1 September 2024-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 September 2024",
+      "projectLink": "https://texter-id.glitch.me/",
+      "projectIdx": 7,
+      "username": "Doma",
+      "message": "<p>Halooo semuanyaaa\nSaya Fathin dari Bengkulu, Kali ini saya mau showcase Twitter remake saya (dulu pernah, tapi kali ini saya bikin ulang dengan berbagai penyesuaian agar lebih seperti twitter dan semacamnya) + menggunakan sistem akun</p>\n<p>untuk frontend menggunakan Bootstrap dan backend menggunakan bunJS (typescript), express, mongodb tidak lupa dengan</p>\n<p>saya berencana membuat frontendnya menggunakan React, tapi mengingat server yang digunakan masih gratisan jadi saya masih mengurung niat saya</p>\n<p>Tech Stack: MongoDB, Express, BunJS, Bootstrap</p>\n<p>edit: eh iya lupa bahas fitur nih\nFitur\nPost\nRepost\nRequote\nShare\nEmbed\nInfinite Scroll\nLike\nUpdate Profile\nFollow User\nSearch Post\nPost by Hashtag\nNotification\nSearch User\nLIGHT MODE 🔥\nFollowing tab</p>\n<p>Demo: <a href=\"https://texter-id.glitch.me/\">https://texter-id.glitch.me/</a>\nRepo: <a href=\"https://github.com/MFathinHalim/Texter\">https://github.com/MFathinHalim/Texter</a></p>",
+      "image": "SEASON-4-1 September 2024-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 September 2024",
+      "projectLink": "https://new.pow.kim",
+      "projectIdx": 8,
+      "username": "envil",
+      "message": "<p>Selamat malam Pak Dika dan teman-teman.</p>\n<p>Perkenankan saya berbagi mengenai proyek sederhana saya, yaitu website portfolio sederhana. Website sederhana ini bertujuan untuk menampilkan portofolio proyek sederhana saya dan pengalaman kerja yang telah saya lakukan.</p>\n<p>Saya buat website sederhana ini sekitar beberapa bulan lalu, dan setelah menerima beberapa masukan dari teman-teman tentang portfolio lama saya, saya memutuskan untuk membuat versi baru dari website sederhana ini, karena katanya di versi 1 kurang <em>readable</em> untuk recruiter dan awam, makanya di versi 2 saya buat lebih sederhana meskipun tidak terlalu jauh perbedannya. Jadi saya minta feedback dari Pak Dika dan teman-teman tentang kedua versi ini hehe. Kedua versi tersebut dapat diakses melalui link berikut:</p>\n<p><a href=\"https://www.pow.kim\">https://www.pow.kim</a> (versi 1)\n<a href=\"https://new.pow.kim\">https://new.pow.kim</a> (versi 2)</p>\n<p>Untuk kode sumbernya, dapat dilihat di repositori GitHub berikut:</p>\n<p><a href=\"https://github.com/kimmyxpow/www.pow.kim\">https://github.com/kimmyxpow/www.pow.kim</a>\n<a href=\"https://github.com/kimmyxpow/pow\">https://github.com/kimmyxpow/pow</a></p>\n<p>Sekitar 96% animasi scroll sederhana dari website portfolio sederhana versi 2 ini saya rancang dengan menggunakan CSS murni sebagai basis utama, terinspirasi dari materi yang disampaikan Pak Dika pada acara Google IO Bogor. Jika teman-teman tidak merasa ada animasi saat scroll, kemungkinan teman-teman mengaktifkan reduce motion atau browser yang digunakan belum support. Meskipun demikian, saya masih menggunakan sedikit Framer Motion dan Animate.css untuk beberapa animasi sederhana lain (karena malas convert ke css :v).</p>\n<p>Berikut adalah teknologi yang digunakan pada masing-masing versi:</p>\n<p>Versi 1: SvelteKit, MDsveX, Tailwind CSS, Lenis Scroll, GSAP\nVersi 2: Next.js, Pocketbase, Tailwind CSS, Lenis Scroll, sedikit Framer Motion dan Animate.css</p>\n<p>Terima kasih semua, tolong maklum masih sederhana karena saya masih pemula.</p>",
+      "image": "SEASON-4-1 September 2024-8.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "1 September 2024",
+      "projectLink": "https://testflight.apple.com/join/afqRhd8c",
+      "projectIdx": 9,
+      "username": "listeningtodevpodcast",
+      "message": "<p>Assalamualaikum Pak Dhika dan kawan-kawan semua.\nSaya Arif. Alhamdulillah sudah lulus sidang dan sekarang insyAllah nunggu wisuda.</p>\n<p>Mau showcase lagi ni, kali ini aplikasinya Open Source khusus MacOS, terinspirasi dari aplikasi <a href=\"https://dropoverapp.com/\">Dropover</a>.\nIntinya dia aplikasi untuk nyimpen file dengan cara men-drag file, cursor di-shake, nanti akan muncul aplikasi overlaynya, terus files bisa disimpen di overlay tersebut.</p>\n<p>Tech Stack:</p>\n<ul>\n<li>Flutter</li>\n<li>Swift (buat plugin, sedikit modifikasi)</li>\n</ul>\n<p>Repo: <a href=\"https://github.com/foamify/shakepin\">https://github.com/foamify/shakepin</a></p>",
+      "image": "SEASON-4-1 September 2024-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "7 September 2024",
+      "projectLink": "https://hansenjonatan.tech",
+      "projectIdx": 0,
+      "username": "HJ Codin Tech",
+      "message": "<p>Halo semua,</p>\n<p>Saya Hansen Jonatan dari Batam . Mohon izin mau show case project saya yang berupa personal portfolio.</p>\n<p>Website ini mengambil data dari cms yang saya buat dengan teknologi NextJS</p>\n<p>Tech stack :</p>\n<ul>\n<li>NextJS</li>\n<li>TailwindCSS</li>\n<li>Prisma ( ORM )</li>\n<li>neondb ( database )</li>\n<li>Framer Motion</li>\n</ul>\n<p>Link website : <a href=\"https://hansenjonatan.tech\">https://hansenjonatan.tech</a></p>",
+      "image": "SEASON-4-7 September 2024-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "7 September 2024",
+      "projectLink": "https://oliku.vercel.app",
+      "projectIdx": 1,
+      "username": "wildanm",
+      "message": "<p>Assalamu&#39;alaikum, Halo semua.</p>\n<p>Perkenalkan nama saya Wildan Maolana saya ingin berbagi Web Aplikasi saya yang bernama <strong>Oliku</strong>, Ini adalah aplikasi untuk menyimpan informasi ganti oli buat kendaraan (Jumlah liter oli, merek oli, km maksimal, dll), Saya membuat aplikasi ini bertujuan untuk mengingatkan informasi oli untuk kendaraan, karena mungkin beberapa orang (termasuk saya) sering lupa kapan terakhir kali ganti oli, dan km nya berapa, dll. Saya pikir mungkin aplikasi ini akan berguna buat pemilik rental mobil, atau orang kaya yang mempunyai banyak kendaraan.</p>\n<h4>Teknologi yang digunakan</h4>\n<p><strong>Front-end</strong></p>\n<ul>\n<li>Nextjs 14</li>\n<li>Shadcn/UI</li>\n<li>Tailwind</li>\n</ul>\n<p><strong>Back-end</strong></p>\n<ul>\n<li>PostgreSQL</li>\n<li>Prisma</li>\n<li>Auth.js</li>\n</ul>\n<h4>DEMO</h4>\n<p><strong>URL</strong>\n<a href=\"https://oliku.vercel.app\">https://oliku.vercel.app</a></p>\n<p><strong>Repo</strong>\n<a href=\"https://github.com/Sisableng/oliku\">https://github.com/Sisableng/oliku</a></p>\n<p>Mohon kritik dan saranya, Terimakasih.</p>",
+      "image": "SEASON-4-7 September 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "7 September 2024",
+      "projectLink": "https://profil-joan.vercel.app/",
+      "projectIdx": 2,
+      "username": "jaon",
+      "message": "<p>halo semua saya joan, udah 6 bulan ga ngoding buat tes kedinasan, saya mulai ngoding lagi di project pertama saya ini setelah 6 bulan. kali ini di showcase ke 7, saya cuma buat website profil 1 page aja karena ini cuma pemanasan doang</p>\n<p>tech stack : React, Tailwind, Flowbite, Gsap</p>\n<p>web : <a href=\"https://profil-joan.vercel.app/\">https://profil-joan.vercel.app/</a>\nrepo : <a href=\"https://github.com/joanpurbaa/profil\">https://github.com/joanpurbaa/profil</a></p>",
+      "image": "SEASON-4-7 September 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "7 September 2024",
+      "projectLink": "https://elearning1.fazalhakim.my.id/",
+      "projectIdx": 3,
+      "username": "faza",
+      "message": "<p>Assalamualaikum wr wb Pak Dhika dan teman2 semua</p>\n<p>Saya ingin showcase project saya berupa e-learning web app sederhana, masih terdapat banyak kekurangan 🙂 mohon masukannya. Beberapa kekurangan tersebut diantaranya adalah 1. design UI masih seadanya, 2. material sangat terbatas.</p>\n<p>Selain kekurangan web app ini juga memiliki beberapa fitur yaitu:</p>\n<ol>\n<li>User dapat sign up atau login menggunakan akun dummy</li>\n<li>Terdapat progress bar pada menu Chapter dan Sub-Chapter</li>\n<li>checklist material yang telah diselesaikan, dalam hal ini contoh nya jika telah selesai menonton video YT maka akan otomstis terceklist dan otomatis menambah progress bar di Chapter dan subChapter.</li>\n</ol>\n<p>Mungkin itu saja Pak Dhika dan teman2 semua. Mohon masukannya 😁</p>\n<p>Tech stack:</p>\n<ul>\n<li>React.js</li>\n<li>Node.js</li>\n<li>Express.js</li>\n<li>Sequelize ORM</li>\n<li>MySQL Database</li>\n</ul>\n<p>Demo: <a href=\"https://elearning1.fazalhakim.my.id/\">https://elearning1.fazalhakim.my.id/</a>\nAkun Dummy:</p>\n<ol>\n<li><a href=\"mailto:johndoe@example.com\">johndoe@example.com</a>, qwerty123</li>\n<li><a href=\"mailto:user2@example.com\">user2@example.com</a>, User123!</li>\n</ol>\n<p>Note: Konten hanya tersedia di Grade 1 =&gt; Thematic Learning =&gt; Natural Science =&gt; Plant =&gt; Plant Anatomy 😁</p>",
+      "image": "SEASON-4-7 September 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "7 September 2024",
+      "projectLink": "http://qviu.github.io",
+      "projectIdx": 4,
+      "username": "michael.id",
+      "message": "<p>Halo Pak Dhika dan mahasiswa WPU.</p>\n<p>Kali ini saya ingin showcase project saya yang ketiga. Proyek ini dibuat untuk mengatasi kendala yang dihadapi orang tua yang kesulitan mengecek perubahan harga barang yang kini tidak lagi dikirim dalam bentuk hardcopy, tetapi dalam bentuk file Excel.</p>\n<p>Web: <a href=\"http://qviu.github.io\">http://qviu.github.io</a>\nGitHub: <a href=\"http://www.github.com/qviu/qviu.github.io\">http://www.github.com/qviu/qviu.github.io</a></p>\n<p>(Username GitHub sudah diganti dari karyawati menjadi qviu karena lebih singkat)</p>\n<p>Teknologi yang digunakan: HTML, JavaScript, Bulma\nDibantu oleh ChatGPT</p>\n<p>Untuk tampilan dari web ini sementara tidak dipentingkan karena mengejar fungsionalitasnya. Saran dari Pak Dhika dan rekan-rekan tetap dinanti untuk pengembangan web ini.</p>",
+      "image": "SEASON-4-7 September 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "7 September 2024",
+      "projectLink": "https://github.com/darkterminal/turso-client-http",
+      "projectIdx": 5,
+      "username": "darkterminal | panggilmeiam",
+      "message": "",
+      "image": "SEASON-4-7 September 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Turso PHP SDK",
+      "projectLink": "https://play.google.com/store/apps/details?id=com.bercamilan.siluettempur",
+      "projectIdx": 0,
+      "username": "SAMBUYYA - bercamilan.com",
+      "message": "<p>Halo semuanya,\nDan selamat malam Pak Dika</p>\n<p>Saya mau showcase aplikasi android saya berupa game idle strategi bernama Siluet Tempur.</p>\n<p>Di game ini kalian bisa membeli dan memilih siluet untuk melawan siluet musuh pada tahapan tahapan tertentu dan menontonnya hingga kemenangan.</p>\n<p>Cara bermain:\nTekan menu bermain untuk memulai, beli siluet yang diinginkan, kembali dari toko siluet, lalu tekan kembali bermain, pilih tahapan yang ingin dimenangkan dan pilih siluet yang dimiliki dan tersedia oleh tahapan dan terakhir mulai permainan.</p>\n<p>Teknologi yang digunakan:</p>\n<ul>\n<li>Kotlin dan SDK android</li>\n<li>Javascript</li>\n<li>HTML</li>\n<li>CSS</li>\n</ul>\n<p>Link play store:\n<a href=\"https://play.google.com/store/apps/details?id=com.bercamilan.siluettempur\">https://play.google.com/store/apps/details?id=com.bercamilan.siluettempur</a></p>\n<p>Terima kasih dan selamat malam</p>",
+      "image": "SEASON-4-Turso PHP SDK-0.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Turso PHP SDK",
+      "projectLink": "https://cinetrack-coral.vercel.app/",
+      "projectIdx": 1,
+      "username": "sycle",
+      "message": "<p>Selamat malam Pak Dika dan teman-teman.</p>\n<p>Pada kesempatan kali ini, saya ingin mengshowcase project sederhana yang saya buat selama kurang lebih 2 minggu. Fitur utama dari website ini adalah untuk mencari dan melihat details film dan tv shows. Website ini dibangun berdasarkan referensi yang saya dapatkan dari dribble, behance, dan awwwards. Website ini saya buat dengan teknologi NextJs dan TailwindCSS. Semua data diambil dari API TMDb.</p>\n<p>Live demo: <a href=\"https://cinetrack-coral.vercel.app/\">https://cinetrack-coral.vercel.app/</a>\nRepo: <a href=\"https://github.com/rtrivaldo/cinetrack\">https://github.com/rtrivaldo/cinetrack</a></p>\n<p>Sekian showcase dari project saya di minggu ini, terimakasih semuanya!</p>",
+      "image": "SEASON-4-Turso PHP SDK-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Turso PHP SDK",
+      "projectLink": "https://radifa.my.id/",
+      "projectIdx": 2,
+      "username": "DIP",
+      "message": "<p>Selamat Malam Pak Dika Dan teman Teman.</p>\n<p>Perkenalkan Saya DIP . Ini Merupakan Project Showcase Ke 3 Yang mana ini adalah website sederhana portofolio pribadi.</p>\n<p>Teknologi yang digunakan yaitu :\nNext JS\nFramer\nTailwindsCss\nExpressJS\nMongoDB</p>\n<p>Demo : <a href=\"https://radifa.my.id/\">https://radifa.my.id/</a>\nRepo : <a href=\"https://github.com/MuhammadRadifa/portfolio-v2\">https://github.com/MuhammadRadifa/portfolio-v2</a></p>\n<p>Mungkin Itu Saja Pak Dhika dan teman semua. Mohon Untuk Saran Dan Masukkan Nya Website Sederhana Saya agar kedepan saya bisa terus berkembang.</p>\n<p>sekian terima kasih</p>\n<p>note : screen responsive belum support 2k</p>",
+      "image": "SEASON-4-Turso PHP SDK-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "Turso PHP SDK",
+      "projectLink": "https://portofolio.rizrmdhn.com/",
+      "projectIdx": 3,
+      "username": "AzE",
+      "message": "<p>Selamat malam pak dika dan teman teman.</p>\n<p>Perkenalkan saya rizki. Ini merupakan project showcase pertama saya yang dimana ini adalah website sederhana portofolio pribadi milik saya.</p>\n<p>Teknologi yang digunakan yaitu :\nT3App (<a href=\"https://create.t3.gg/\">https://create.t3.gg/</a>)\nLucia (Authentication)\nDrizzle (ORM)</p>\n<p>Demo : <a href=\"https://portofolio.rizrmdhn.com/\">https://portofolio.rizrmdhn.com/</a>\nRepo : <a href=\"https://github.com/rizrmdhn/portofolio-webpage-v4\">https://github.com/rizrmdhn/portofolio-webpage-v4</a></p>\n<p>mungkin itu saja pak dika dan teman semua. Mohon untuk saran dan masukkannya untuk website sederhana saya agar kedepannya saya bisa terus berkembang.</p>\n<p>note:\nuntuk dashboardnya tidak bisa diakses dikarenakan private</p>",
+      "image": "SEASON-4-Turso PHP SDK-3.png"
     }
   ]
 }
