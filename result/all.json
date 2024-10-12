@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-10-05T13:00:09.847Z",
+  "fetched_at": "2024-10-12T12:59:44.082Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -11560,67 +11560,132 @@
           ]
         },
         {
-          "date": "30 September 2024",
+          "date": "6 Oktober 2024",
           "projects": [
             {
               "link": "https://ryzalleolife.vercel.app/",
               "username": "rnyaz",
               "message": "<p>Halo Pak Dhika dan teman-teman WPU semua. Perkenalkan nama saya Fahrizal ini pertama kalinya untuk mengikuti showcase project. Sempat belajar otodidak html css di awal perkuliahan tetapi sudah gak minat lagi dengan segala hal pemrograman jadi rehat Sampe semester 4, hehe &lt;:hehehe:972470914488885288&gt; . Jadi tahun ini saya mau fokus belajar pemrograman karena mau semester 5 tapi gak bisa apa&quot;. Project saya ini berupa Website Portfolio yang cukup sederhana.</p>\n<p>Tech Stack :</p>\n<ul>\n<li>REACT JS dan GSAP</li>\n<li>Tailwind CSS</li>\n<li>Email.js</li>\n</ul>\n<p>Project ini merupakan refrensi dari berbagai sumber design webflow portfolio orang luar tapi ada juga dari komunitas GSAP nya. Projects nya cuman ditampilkan sebagian yang lainnya pada private masih belum layak di public.dan sayang nya portfolio project ini hanya max-width 1400px.</p>\n<p>Jika ada yang ingin memberikan kritik dan saran, dapat melalui Contact Form yang ada di project ini. Terima kasih sudah meluangkan waktu untuk melihat project saya!</p>\n<p>Live Site : <a href=\"https://ryzalleolife.vercel.app/\">https://ryzalleolife.vercel.app/</a></p>\n<p>Github bisa dikunjungi dari portfolio terimakasih 🙏🏻</p>",
-              "image": "SEASON-4-30 September 2024-0.png"
+              "image": "SEASON-4-6 Oktober 2024-0.png"
             },
             {
               "link": "https://rb.gy/ugcu2p",
               "username": "NATH",
               "message": "<p>Selamat malam, Pak Dhika dan teman-teman semua.</p>\n<p>Perkenalkan, saya Nathan. Pada kesempatan kali ini, saya ingin memperkenalkan project ketiga saya. Dalam showcase ini, saya akan membagikan Project UI/UX - Prototype Aplikasi Mobile yang saya beri nama Flora Scan.</p>\n<p>Aplikasi Flora Scan ini saya rancang sebagai bagian dari tugas kuliah saya, dengan tujuan utama untuk membantu pengguna mencari tahu lebih detail mengenai berbagai jenis tanaman secara mudah dan cepat. Aplikasi ini didesain untuk memberikan informasi yang mendalam dan berguna bagi para penggemar botani, pelajar, dan siapa saja yang ingin belajar lebih banyak tentang flora di sekitar kita.</p>\n<p>Meskipun begitu, saya menyadari bahwa prototype aplikasi ini masih memiliki beberapa kekurangan. Misalnya, fitur Favorit belum sepenuhnya berfungsi sehingga pengguna belum bisa menambahkan tanaman ke dalam halaman favorit. Selain itu, fitur Edit Lokasi Pengguna juga belum berjalan sesuai yang diharapkan. Halaman dalam aplikasi ini cukup banyak, mungkin masih ada beberapa aspek lain yang perlu ditingkatkan.</p>\n<p>Tautan Prototype aplikasi: <a href=\"https://rb.gy/ugcu2p\">https://rb.gy/ugcu2p</a></p>\n<p>Saya sangat menghargai kritik dan saran dari Pak Dhika dan teman-teman semua agar saya bisa terus memperbaiki dan menyempurnakan aplikasi ini. Terima kasih banyak atas perhatian dan waktu yang telah diberikan. 🙏🙏</p>",
-              "image": "SEASON-4-30 September 2024-1.png"
+              "image": "SEASON-4-6 Oktober 2024-1.png"
             },
             {
               "link": "https://m-class.vercel.app/",
               "username": "Balsss",
               "message": "<p>Assalamualaikum wr wb</p>\n<p>Halo Pa Dhika dan semua teman WPU, Pada kesempatan kali izinkan saya untuk showcase project sederhana saya ini, project sederhana saya merupakan sebuah web yang bisa di bilang web LMS (Learning Management System), untuk segi ui nya saya copas dari google classroom ya bisa di bilang ini merupakan project clone google classroom walaupun ga terlalu mirip banget. &quot;Kenapa ui nya ngambil dari google classroom bang ?&quot;, Karena saya ingin mengenang kembali masa lalu pada tahun covid di mana pada tahun tersebut bisa di bilang saya seorang pemalas untuk mengerjakan sebuah tugas, tapi sekarang alhamdulillah sudah mulai konsisten untuk mempelajari hal yang berbasis web berkat dari pa dhika dan juga bang dea.</p>\n<p>Untuk fitur dan tech stack bisa langsung saja kesini : <a href=\"https://github.com/Ibaliqbal/mclass#readme\">https://github.com/Ibaliqbal/mclass#readme</a>\nRepo : <a href=\"https://github.com/Ibaliqbal/mclass\">https://github.com/Ibaliqbal/mclass</a>\nDemo : <a href=\"https://m-class.vercel.app/\">https://m-class.vercel.app/</a></p>\n<p>Sekian dari saya apabila ada salah ucap/ketikan mohon di maafkan, dan apabila ada saran dan kritik mengenai project saya yang sederhana ini saya sangat menerima nya , Terima kasih 🙏🙏</p>",
-              "image": "SEASON-4-30 September 2024-2.png"
+              "image": "SEASON-4-6 Oktober 2024-2.png"
             },
             {
               "link": "https://yadh.vercel.app/",
               "username": "yadh",
               "message": "<p>Selamat Pagi/Siang/Malam, Pak Dhika dan Teman-Teman WPU Sekalian. Ini akan jadi kali pertama saya melakukan showcase untuk projek saya disini, projek yang ingin saya kenalkan kali ini adalah website portfolio <del>sederhana</del> minimalis.</p>\n<p>Adapun Tech Stack yang saya gunakan kali ini adalah:</p>\n<ul>\n<li>Typescript</li>\n<li>NextJS</li>\n<li>TailwindCSS</li>\n<li>ShadcnUI</li>\n<li>AceternityUI (Untuk Floating Dock)</li>\n</ul>\n<p><strong>Web:</strong> <a href=\"https://yadh.vercel.app/\">https://yadh.vercel.app/</a>\n<strong>Repo:</strong> <a href=\"https://github.com/yadhst/yadhst\">https://github.com/yadhst/yadhst</a></p>",
-              "image": "SEASON-4-30 September 2024-3.png"
+              "image": "SEASON-4-6 Oktober 2024-3.png"
             },
             {
               "link": "https://jlpt-analyze.vercel.app/",
               "username": "Yui",
               "message": "<p>Hallo Selamat Malam Sandhika sensei dan teman teman WPU aku Yui🙇🏻🙇🏻, mengingat Ujian JLPT (Japanese Language Proficiency Test) semakin dekat, kali ini Yui mau showcase project sederhana, ya karena memang sederhana hehe, yaitu JLPT Try Out Analyze website ini membantu dalam memberikan motivasi beserta feedback seperti saran dan rekomendasi belajar buat persiapan JLPT (Japanese Language Proficiency Test)</p>\n<p>Mungkin masih terdapat beberapa ketidaksesuaian dari ouput yg diberikan oleh gemini karena saya hanya menggunakan yg gratisan hehe 😄</p>\n<p>Jadi cara isi form nya cukup sederhana, untuk pengisian input nilai biasanya memakai patokan dari sertifikat Try Out JLPT pada umumnya</p>\n<p>Cocok buat temen temen yg ingin motivasi, rekomendasi dan saran belajar yg tepat sebelum Ujian JLPT resmi/offline🙇🏻🙇🏻</p>\n<p>Link : <a href=\"https://jlpt-analyze.vercel.app/\">https://jlpt-analyze.vercel.app/</a>\nGithub : <a href=\"https://github.com/Yu1chiro/jlpt-analyze\">https://github.com/Yu1chiro/jlpt-analyze</a></p>\n<p>Tech :\nTailwinds CSS, Vanila Javascript, Sweet Alert, Gemini API, Flowbite dan beberapa prompting khusus untuk memberikan gemini role dan intruksi</p>\n<p>Seperti biasa kritik dan saran sangat dibutuhkan untuk mengembangkan project menjadi lebih baik terimakasih sandhika sensei dan teman-teman WPU 🙇🏻🙇🏻jangan lupa ;</p>",
-              "image": "SEASON-4-30 September 2024-4.png"
+              "image": "SEASON-4-6 Oktober 2024-4.png"
             },
             {
               "link": "https://gen-p.kid.my.id/",
               "username": "Eris Sulistina",
               "message": "<p>Selamat malam pak Dhika dan teman-teman WPU semuanya. Saya Eris Sulistina masih setia dengan AlpineJS.</p>\n<p>Kali ini saya membawa projek sederhana bernama gen-p, singkatan dari Generator Password. Berawal dari nyari-nyari ide projek untuk melatih skill membangun website yang interactive, akhirnya saya menemukan sebuah blog yang berjudul <code>100-days-100-projects</code> yang salah satunya ada projek membuat password generator. BTW, tulisannya sudah tidak bisa diakses.</p>\n<p>Teknologi yang saya gunakan ya seperti biasa &lt;:hehehe:972470914488885288&gt;</p>\n<ul>\n<li>Alpine js</li>\n<li>Tailwindcss</li>\n<li>SweetAlert2</li>\n</ul>\n<p>Repo: <a href=\"https://github.com/sejutaimpian/gen-p\">https://github.com/sejutaimpian/gen-p</a>\nDemo: <a href=\"https://gen-p.kid.my.id/\">https://gen-p.kid.my.id/</a></p>\n<p>Terima kasih atas perhatian dan bintangnya 🙏</p>\n<p>BTW, ada fitur keyboard shortcut buat kalian yang keyboard warrior &lt;:maaf:999282884034711643&gt;</p>\n<pre><code class=\"language-mdx\">| Keyboard Shortcut | Action                        |\n| :---------------: | :---------------------------- |\n|   Ctrl + Space    | Toggle Theme: Dark/Light Mode |\n|     Ctrl + G      | Generate Password             |\n|     Ctrl + C      | Copy Password                 |\n|     Ctrl + L      | Toggle Option: Lowercase      |\n|     Ctrl + U      | Toggle Option: Uppercase      |\n|  Ctrl + Num Lock  | Toggle Option: Number         |\n|     Ctrl + S      | Toggle Option: Symbol         |\n|      Escape       | Clear Password                |\n|         ↑         | Increment: Character Length   |\n|         ↓         | Decrement: Character Length   |\n|      Page Up      | Increment: Character Length   |\n|     Page Down     | Decrement: Character Length   |\n</code></pre>",
-              "image": "SEASON-4-30 September 2024-5.png"
+              "image": "SEASON-4-6 Oktober 2024-5.png"
             },
             {
               "link": "https://sushi-restauran.netlify.app/",
               "username": "iwaksamping",
               "message": "<p>Halo Pak Dhika dan teman-teman semua.\nsaya Milan, setelah sekian lama gak showcase akhirnya showcase lagi 😁</p>\n<p>project kali ini adalah sebuah website sederhana yang saya buat karena gabut.\nwebsite ini adalah sebuah website jualan/toko, yang karena belum tau mau di isi apa, jadinya di isi sushi dulu.</p>\n<p>Teknologi yang digunakan:</p>\n<blockquote>\n<p>html css js\nScroll Reveal</p>\n</blockquote>\n<p>Github: <a href=\"https://github.com/milanlizriadi/sushi-res\">https://github.com/milanlizriadi/sushi-res</a>\nDemo: <a href=\"https://sushi-restauran.netlify.app/\">https://sushi-restauran.netlify.app/</a></p>\n<p>mohon saran dan kritiknya.\nudah itu aja makasih</p>",
-              "image": "SEASON-4-30 September 2024-6.png"
+              "image": "SEASON-4-6 Oktober 2024-6.png"
             },
             {
               "link": "https://play.google.com/store/apps/details?id=com.vebtoo.herdopos&pcampaignid=web_share",
               "username": "kadal bunting",
               "message": "<p>assalamualaikum pak Dhika. saya izin ikutan showcase project iseng saya. ini project berupa aplikasi android yang bersifat offline. nama aplikasinya Herdopos. ini aplikasi kasir offline scan yang saya buat berdasarkan review keluhan di kolom komentar playstore salah satu aplikasi kasir ternama. Keluhan dari user tersebut adalah tentang scanner barcode pada aplikasi kasir yang harus dipencet tombol barcode satu per satu untuk scanning barcode barang, hal ini memperlambat proses transaksi. Jadi saya tergerak untuk membuat aplikasi untuk solusi problem ini.</p>\n<p>Aplikasi Herdopos memiliki display scanner yang selalu terbuka sehingga user hanya tinggal scan dan scan untuk memasukkan barang ke list barang yang akan dibeli kostumer. hal ini juga terlihat seperti kasir di indomart/alfamart yg menggunakan device tambahan seperti scanner infrared. display scanner di aplikasi herdopos dapat menggantikan scanner infrared tersebut. Setiap barang yang dimasukkan ke dalam aplikasi akan memiliki QRcode masing2 yang tergenerate secara otomatis dan dapat didownload untuk di bubuhkan pada stiker barang user.</p>\n<p>Aplikasi kasir sederhana ini saya buat menggunakan android studio dengan bahasa kotlin.</p>\n<p>Aplikasi dapat di coba gratis dengen mendownload di playstore.\nlink herdopos : <a href=\"https://play.google.com/store/apps/details?id=com.vebtoo.herdopos&pcampaignid=web_share\">https://play.google.com/store/apps/details?id=com.vebtoo.herdopos&amp;pcampaignid=web_share</a></p>\n<p>jika ada saran dan kritikan atau menemukan masalah seperti bug, dll saat mencoba aplikasi saya sangat menerima dengan senang hati sebagai pembelajaran. Aplikasi ini akan terus dikembangkan untuk membantuk teman2 yg memiliki bisnis kecil.</p>\n<p>terima kasih</p>",
-              "image": "SEASON-4-30 September 2024-7.png"
+              "image": "SEASON-4-6 Oktober 2024-7.png"
             },
             {
               "link": "https://main.d2r6y1tdnkmc69.amplifyapp.com/",
               "username": "sarrahman_dev",
               "message": "<p>Halo semua, saya Rahman.</p>\n<p>Saya membuat web pribadi yang tidak menarik dari segi desain, tetapi saya buat sebagai awal perjalanan saya untuk menjadi programmer.</p>\n<p>Selama setahun terakhir, saya berbisnis, namun sayangnya keberuntungan belum berpihak ke saya hehe. Sekarang, saya ingin mencoba berkarier sebagai programmer.</p>\n<p>Saya menyadari bahwa persaingan di industri IT saat ini cukup ketat. sementara saya hanya lulusan SMA.</p>\n<p>Meski begitu, saya sudah mulai koding selama 4 tahun yang mungkin membantu saya beradaptasi untuk memulai posisi Junior Programmer.</p>\n<p>Dengan showcase ini, saya berharap bisa menunjukkan kemampuan saya dan mendapatkan kesempatan untuk bekerja sebagai programmer.</p>\n<p>barang kali ada yang kantor nya butuh programmer tambahan saya siap.</p>\n<p>Tech stack yang saya gunakan:\n• TypeScript\n• Next.js\n• TailwindCSS</p>\n<p>Repo: <a href=\"https://github.com/sarrahman-me/personal-website/\">https://github.com/sarrahman-me/personal-website/</a>\nWebsite: <a href=\"https://main.d2r6y1tdnkmc69.amplifyapp.com/\">https://main.d2r6y1tdnkmc69.amplifyapp.com/</a></p>\n<p>Saya menambahkan fun project khusus untuk showcase ini (setelah showcase saya hapus) karena saya penasaran bahasa pemrograman apa yang kalian sukai.</p>",
-              "image": "SEASON-4-30 September 2024-8.png"
+              "image": "SEASON-4-6 Oktober 2024-8.png"
             },
             {
               "link": "https://wayisapp.vercel.app/",
               "username": "alwayis26",
               "message": "<h4>Halo Teman Teman Semuanya😁</h4>\n<p>Di showcase project pertama saya ini saya ingin share project website portfolio saya. Website portfolio ini memuat beragam konten seperti identitas saya, keahlian/spesialisasi, link terkait seperti sosial media dan project simple lainnya.</p>\n<p>Teknologi yang saya gunakan diantaranya:</p>\n<ul>\n<li>html</li>\n<li>css</li>\n<li>javascript</li>\n<li>lenissmoothscroll</li>\n<li>gsap</li>\n<li>aos</li>\n</ul>\n<p>link repo: <a href=\"https://github.com/alwayis26/WayisPortfolio\">https://github.com/alwayis26/WayisPortfolio</a>\nlink website: <a href=\"https://wayisapp.vercel.app/\">https://wayisapp.vercel.app/</a></p>",
-              "image": "SEASON-4-30 September 2024-9.png"
+              "image": "SEASON-4-6 Oktober 2024-9.png"
+            }
+          ]
+        },
+        {
+          "date": "12 Oktober 2024",
+          "projects": [
+            {
+              "link": "https://live-md.kid.my.id/",
+              "username": "Eris Sulistina",
+              "message": "<p>Selamat malam pak Dhika dan teman-teman WPU semuanya. Saya Eris Sulistina masih setia dengan Alpine.js.</p>\n<p>Kali ini saya membawa projek tidak sederhana bernama live-md, berupa <em>online markdown editor</em>. Berawal dari sering aktif di Discord, sering bikin postingan-postingan di server WPU sehingga memaksa saya untuk mencari website online markdown editor agar bisa melihat preview dari format markdown yang akan saya posting di Discord. Dalam pencarian itu, saya menemukan <a href=\"https://markdownlivepreview.com/\">https://markdownlivepreview.com/</a> yang memberikan fitur preview tulisan markdown.</p>\n<p>Seiring berjalannya waktu, karena sering menggunakan markdownlivepreview, akhirnya saya kepikiran untuk membuat online markdown editor versi saya sendiri. Selain untuk ngetes <del>kesaktian</del> keahlian, hadirnya live-md juga menambal kekurangan-kekurangan yang dimiliki markdownlivepreview, diantaranya:</p>\n<ol>\n<li>Responsive</li>\n<li>Dark Mode</li>\n<li>Keyboard Shortcut</li>\n<li>Auto Scroll</li>\n<li>Alert</li>\n</ol>\n<p>Proses pembangunan fitur utama (markdown preview) terbilang mudah karena hanya menghabiskan waktu satu hari. Fitur yang paling sulit adalah fitur shortcut untuk memberikan formatting pada tulisan yang menghabiskan waktu satu minggu, ini pun masih ada kekurangan pada mobile yang tidak bisa saya atasi, yaitu hilang fokus saat memberikan format karena ketutupan tampilan keyboard di mobile.</p>\n<p>FYI: Desain hint keyboard shortcut, saya tiru dari hint keyboard shortcut milik Discord web.</p>\n<p>Teknologi yang saya gunakan ya seperti biasa &lt;:hehehe:972470914488885288&gt;</p>\n<ul>\n<li>Alpinejs</li>\n<li>Persist: plugin Alpinejs untuk bekerja dengan localStorage</li>\n<li>Tailwindcss</li>\n<li>Typography: plugin Tailwindcss untuk typography</li>\n<li>SweetAlert2</li>\n<li>icons8.com, heroicon, dan remixicon</li>\n<li><a href=\"https://marked.js.org/\">markedjs</a></li>\n</ul>\n<p>Repo: <a href=\"https://github.com/sejutaimpian/live-md\">https://github.com/sejutaimpian/live-md</a>\nDemo: <a href=\"https://live-md.kid.my.id/\">https://live-md.kid.my.id/</a></p>\n<p>Terima kasih atas perhatian dan bintangnya 🙏</p>",
+              "image": "SEASON-4-12 Oktober 2024-0.png"
+            },
+            {
+              "link": "https://git-knights.potadev.com",
+              "username": "SiBagood",
+              "message": "<p>Halo lagi semua, lagi belajar buat game turn based sederhana, dimana stats playernya itu berasal dari aktifitas github kita seperti jumlah repo, total commit, star, follower dll serta item dan skillnya berasal dari bahasa pemograman yang kita pakai direpo kita.</p>\n<p>Stack : sveltekit, tailwind, mongo db, lottie-web, chart js\ntampilan mungkin kurang responsive untuk di mobile jadi disarankan buka dari desktop</p>\n<p>Web : <a href=\"https://git-knights.potadev.com\">https://git-knights.potadev.com</a>\nRepo : <a href=\"https://github.com/bagusindrayana/git-knights\">https://github.com/bagusindrayana/git-knights</a></p>",
+              "image": "SEASON-4-12 Oktober 2024-1.png"
+            },
+            {
+              "link": "https://www.shortpath.site/",
+              "username": "sycle",
+              "message": "<p>Selamat malam Pak Dhika dan teman-teman.</p>\n<p>Perkenalkan nama saya Rivaldo Tandoko, saya merupakan seorang mahasiswa Tel-U semester 3. Pada sesi showcase yang ke-3 ini saya akan men-showcase project URL shortener saya, yaitu &quot;ShortPath&quot;. Project ini saya buat guna meningkatkan kemampuan saya dalam menggunakan framework NextJs.</p>\n<p>Tech Stack:</p>\n<ul>\n<li>NextJs</li>\n<li>TailwindCSS</li>\n<li>PostgreSQL</li>\n<li>Prsima</li>\n<li>Shadcn UI</li>\n<li>React-icons</li>\n</ul>\n<p>Repo: <a href=\"https://github.com/rtrivaldo/shortpath\">https://github.com/rtrivaldo/shortpath</a>\nLive Demo: <a href=\"https://www.shortpath.site/\">https://www.shortpath.site/</a></p>\n<p>Sekian Terima Kasih dan jangan lupa bintang 1 nya.</p>",
+              "image": "SEASON-4-12 Oktober 2024-2.png"
+            },
+            {
+              "link": "https://curhatify.vercel.app/",
+              "username": "z",
+              "message": "<p>Selamat pagi, siang ,sore, dan malam pak Sandhika Galih dan teman teman,</p>\n<p>kali ini saya akan menshowcase proyek &quot;sederhana&quot; yang benar benar sederhana , proyek ini bernama &quot;Curhatify&quot; ,sebuah web untuk menyampaikan curhatan dan mendapatkan respon atau komentar dari orang lain , proyek ini saya bangun untuk menjadi bahan belajar Database relations,API, TypeScript, dan auth . Sayangnya, Proyek yang saya buat kali ini belum mempunyai fitur anonim , jadinya harus login</p>\n<p>tech_stack = {\n&quot;Next.js&quot;,\n&quot;&#39;TailwindCSS&quot;,\n&quot;Prisma&quot;,\n&quot;Supabase&quot;,\n&quot;TypeScript&quot;,\n&quot;NextAuth&quot;,\n}</p>\n<p>Demo: <a href=\"https://curhatify.vercel.app/\">https://curhatify.vercel.app/</a>\nRepo: <a href=\"https://github.com/ryznoxy/curhat-app\">https://github.com/ryznoxy/curhat-app</a></p>\n<p>note: bisa kali di follow github saya dan di star repo saya hehe, ini bukan termasuk proyek sihh</p>\n<p>karena ini proyek belajar , mungkin ada sedikit kesalahan saya mohon maaf , terima kasih untuk pak sandhika dan teman teman</p>",
+              "image": "SEASON-4-12 Oktober 2024-3.png"
+            },
+            {
+              "link": "https://travel-app-dusky-nu.vercel.app",
+              "username": "Iqbal",
+              "message": "<p>Assalamualaikum Wr. Wb, Selamat malam pak Sandhika galih dan teman teman yang saya banggakan.</p>\n<p>Perkenalkan saya Iqbal. Pada kesempatan ini saya ingin memperkenalkan project ketiga saya yang bernama TRVLX.</p>\n<p>TRVLX ini adalah Web yang saya rancang untuk mempermudah siapa saja yang ingin liburan atau healing ke luar kota ataupun luar negeri.</p>\n<p>Namun mohon maaf masih banyak kekurangan dalam Web TRVLX yang saya buat ini, karena saya baru pertama kali terjun ke dunia fullstack, Untuk admin saya sudah dm ke ig pak Sandhika galih dengan username @iqbaalgifari.</p>\n<p>Tech Stack :</p>\n<ul>\n<li>MongoDB</li>\n<li>Express.js</li>\n<li>Next.js</li>\n<li>Node.js</li>\n</ul>\n<p>Fitur :</p>\n<ul>\n<li>Sign up</li>\n<li>Sign in</li>\n<li>Crud</li>\n<li>Dll</li>\n</ul>\n<p>Site : <a href=\"https://travel-app-dusky-nu.vercel.app\">https://travel-app-dusky-nu.vercel.app</a></p>\n<p>Mungkin itu saja dari saya, untuk teman teman mohon keluarkan kritik dan sarannya mengenai UI/UX nya, saya haus kritik dan saran dari teman teman sekalian. Sekian, Wassalamualaikum Wr. Wb</p>",
+              "image": "SEASON-4-12 Oktober 2024-4.png"
+            },
+            {
+              "link": "https://sampleresto.catanism.com",
+              "username": ".cat",
+              "message": "<p>Salam sejahtera untuk pak Dhika dan makhluk2 WPU semuanya.</p>\n<p>Kali ini saya mau mengshowcase project hanaseder bertemakan menu digital, karena tiba2 dapet ide iseng pengen bikin menu digital / cashless pas lagi beli makan.\nSingkat saja, tech stack yang digunakan :</p>\n<ol>\n<li>Laravel 10</li>\n<li>HTMX + blade</li>\n<li>CSS</li>\n<li>MySQL</li>\n</ol>\n<p>Demo: <a href=\"https://sampleresto.catanism.com\">https://sampleresto.catanism.com</a></p>\n<p>Simulasi payment Midtrans :</p>\n<ul>\n<li>PC</li>\n</ul>\n<ol>\n<li>Lakukan pemesanan menu makanan di web <a href=\"https://sampleresto.catanism.com\">https://sampleresto.catanism.com</a></li>\n<li>Pilih tipe pembayaran QRIS (Gopay/Shopeepay/Dana)</li>\n<li>Klik kanan pada gambar QR lalu salin link gambar (Copy Link Image)</li>\n<li>Kunjungi halaman simulasi payment ke <a href=\"https://simulator.sandbox.midtrans.com/\">https://simulator.sandbox.midtrans.com/</a></li>\n<li>Pilih QRIS</li>\n<li>Paste url link gambar yang sudah dicopy tadi</li>\n<li>Kembali ke halaman pembayaran, dan tunggu 10-15 detik (harap maklum kaarena sandbox) atau bisa klik &quot;Check Status&quot;</li>\n<li>Selesai</li>\n</ol>\n<p>-Smartphone</p>\n<ol>\n<li>Lakukan pemesanan menu makanan di web <a href=\"https://sampleresto.catanism.com\">https://sampleresto.catanism.com</a></li>\n<li>Pilih tipe pembayaran QRIS ! *untuk pembayaran via aplikasi masih terbatas di mode sandbox</li>\n<li>Tahan gambar QR hingga muncul pesan &quot;Open image in new tab&quot;, kemudian salin URL pada search bar</li>\n<li>Kunjungi halaman simulasi payment ke <a href=\"https://simulator.sandbox.midtrans.com/\">https://simulator.sandbox.midtrans.com/</a></li>\n<li>Pilih QRIS</li>\n<li>Paste url link gambar yang sudah dicopy tadi</li>\n<li>Kembali ke halaman pembayaran, dan tunggu 10-15 detik (harap maklum kaarena sandbox) atau bisa klik &quot;Check Status&quot;</li>\n<li>Selesai</li>\n</ol>\n<p>Sekian terima gaji. mohon maaf kalo UI/UX nya kurang oke ataupun jika terdapat bug 🙏</p>",
+              "image": "SEASON-4-12 Oktober 2024-5.png"
+            },
+            {
+              "link": "https://jidandev.github.io/portfolio/",
+              "username": "Dexter",
+              "message": "<p>Assalamualaikum Warahmatullahi Wabarakatuh.</p>\n<p>Halo pak Dhika dan teman-teman semuanya. Perkenalkan nama saya Jidan, kali ini saya mau coba² ikut pamerin project sederhana saya yaitu project portfolio.</p>\n<p>Tech:\nHtml\nCss\nJavascript\nAOS\nIonicons</p>\n<p>Websitenya gak sebagus yang lainnya soalnya belum terlalu paham mengenai tampilan yang responsif, masih minta bantuan ai dan gak jago desain.</p>\n<p>Demo:\n<a href=\"https://jidandev.github.io/portfolio/\">https://jidandev.github.io/portfolio/</a>\nGithub Repository:\n<a href=\"https://github.com/jidandev/portfolio/\">https://github.com/jidandev/portfolio/</a></p>",
+              "image": "SEASON-4-12 Oktober 2024-6.png"
+            },
+            {
+              "link": "https://edqe.me",
+              "username": "Yuka ✧",
+              "message": "<p>Halo semuanya, sy edqe14 ato bisa dipanggil yuka aja. Sy baru2 join server WPU, jd ini pertama kali sy showcase project. Utk project kali ini yaitu website portfolio sy, bisa di akses di <a href=\"https://edqe.me\">https://edqe.me</a> .</p>\n<p>Repo: <a href=\"https://github.com/Edqe14/website\">https://github.com/Edqe14/website</a></p>\n<p>📚 Tech stack</p>\n<ol>\n<li>NextJS + Tailwind</li>\n<li>Zustand</li>\n<li>GSAP + MouseFollower</li>\n<li>Contentlayer</li>\n</ol>\n<p>Itu saja dr sy. Terima kasih 🙏</p>",
+              "image": "SEASON-4-12 Oktober 2024-7.png"
+            },
+            {
+              "link": "https://hirakanji-type.vercel.app/",
+              "username": "Yui",
+              "message": "<p>Hallo Minna san dan Shandika sensei🙇🏻\nAku yui kali ini aku ingin showcase project sederhana ya karena aku suka yg sederhana terlebih lagi techstack nya juga sederhana, projectnya yakni website Hirakanji type, Hirakanji type itu apa sih? Hirakanji type ini adalah salah satu platform latihan mengetik huruf bahasa jepang seperti hiragana, katakana dan kanji yang ter integrasi dengan Gemini AI</p>\n<p>Project ini terinspirasi dari adik kelas saya yg kesulitan dalam menguasai huruf hiragana dan katakana, awalnya saya berpikir ingin membuat flashcard website, namun metode flashcard berbasis website sudah banyak di temukan di website&quot; seperti mazii dan easy japanese, karena menurut saya sendiri membaca dan menghafal lewat teks menurut saya kurang efektif dalam menguasai huruf hiragana dan katakana oleh sebab itu saya membuat Hirakanji type🙇🏻🙇🏻.</p>\n<p>Cara kerja websitenya cukup sederhana yakni user harus memilih kategori latihan hiragana/kanji dilanjutkan dengan memilih kategori teks dan menklik generate teks, hasil generate teks latihan dihasilkan oleh gemini, jika user memilih kategori hiragana, maka pada form input user harus mengetik dengan huruf hiragana begitupun sebaliknya, dilanjutkan dengan menklik analisis untuk mendapatkan analisis dari gemini. 🙇🏻 untuk cara penggunaanya ada di bagian guide pada website.</p>\n<p>kendala yg dihadapi ada pada respon atau output analisis gemini yg terkadang kurang sesuai karena saya menggunakan gemini versi gratisan 🙇🏻</p>\n<p>Techstack : HTML, Vanila JS, Tailwind CSS, Flowbite, Sweet Alert, Gemini API\nDan Beberapa prompting khusus untuk memberikan role pada gemini</p>\n<p>Website : <a href=\"https://hirakanji-type.vercel.app/\">https://hirakanji-type.vercel.app/</a>\nRepo : <a href=\"https://github.com/Yu1chiro/Hirakanji-Type\">https://github.com/Yu1chiro/Hirakanji-Type</a></p>\n<p>Project ini masih jauh dari kata sempurna oleh sebab itu saya ingin kritik dan saran teman-teman WPU dan Sandhika sensei untuk mengembangkan project ini menjadi lebih baik kedepanya🙇🏻🙇🏻 Terimakasih &amp; arigathanks</p>",
+              "image": "SEASON-4-12 Oktober 2024-8.png"
+            },
+            {
+              "link": "https://water-app-nine.vercel.app/",
+              "username": "Arifin",
+              "message": "<p>halo pak dhika dan teman teman semua perkenalkan nama arifin saya dari malang jawa timur.</p>\n<p>ini showcase pertama saya dan saya membuat website cuaca sederhana yang nama nya Weather mengunakan api OpenWeatherMap.\nnamun maaf bila masih banyak kekurangan di websit saya karna saya masi pemulah dan hanya belajar otodidak</p>\n<p>note: login nya masi belum berfungsi cuma pelengkap saja</p>\n<p>Tech Stack :</p>\n<ul>\n<li>react js</li>\n<li>tailwind css</li>\n<li>gsap</li>\n<li>leaflet</li>\n</ul>\n<p>demo: <a href=\"https://water-app-nine.vercel.app/\">https://water-app-nine.vercel.app/</a>\nrepo: <a href=\"https://github.com/Arifin0316/water-app\">https://github.com/Arifin0316/water-app</a></p>",
+              "image": "SEASON-4-12 Oktober 2024-9.png"
             }
           ]
         }
