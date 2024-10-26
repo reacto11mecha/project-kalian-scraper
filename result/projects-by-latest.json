@@ -1,6 +1,96 @@
 {
-  "fetched_at": "2024-10-19T13:00:38.932Z",
+  "fetched_at": "2024-10-26T13:00:19.821Z",
   "data": [
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Oktober 2024",
+      "projectLink": "https://duit-ku.vercel.app",
+      "projectIdx": 9,
+      "username": "Adicss",
+      "message": "<p>Halo Pak Dhika ini adalah showcase ke 3 saya setelah 3 minggu belajar NuxtJS (Vue) dan ASP.NET Core 8 akhirnya jadi juga project sederhana untuk mencatat pengeluaran dan pemasukan harian yang juga di lengkapi fitur OCR (Optical Character Recognizer) ya walaupun cuma buat ngambil Tanggal dan Total harga dari transaksi nya aja (Niat nya bakal ada update lagi nanti) dan udah bisa langsung tarik laporan dalam bentuk XLSX (Excel File)</p>\n<p>Web app ini juga udah 100% Responsive jadi bisa di pake di device mana aja mau itu laptop, tab, ataupun mobile phone (asalkan punya browser)</p>\n<p>Detail Tech Stack Yang Digunakan :</p>\n<ol>\n<li>Frontend menggunakan NuxtJS (VueJS) ⚡</li>\n<li>Cache query menggunakan Tanstack Query 🚀</li>\n<li>OCR menggunakan library tesseractjs 📸</li>\n<li>Shadcn/UI versi vue (unofficial port dari shadcn/ui) sebeagai UI library nya 😎</li>\n<li>ASP.NET Core 8 sebagai backend service 💻</li>\n<li>EF Core sebagai ORM 💾</li>\n</ol>\n<p>Fitur:</p>\n<ol>\n<li>Multiple Sumber Income (Akun)</li>\n<li>Meng kategori kan pengeluaran dan bisa ada sub kategori nya juga (optional)</li>\n<li>OCR (Ekperimental) bisa input pengeluaran by ss an gopay misal nya klo abis jajan pake QRIS (tapi ini cuma nge capture tanggal dan total harga nya saja)</li>\n<li>Tarik laporan menjadi file excel</li>\n</ol>\n<p>Link Demo nya (<a href=\"https://duit-ku.vercel.app\">https://duit-ku.vercel.app</a>)</p>",
+      "image": "SEASON-4-25 Oktober 2024-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Oktober 2024",
+      "projectLink": "https://finance-app-xi-seven.vercel.app/",
+      "projectIdx": 8,
+      "username": "Arifin",
+      "message": "<p>halo pak dhika dan teman teman perkenalkan nama saya arifin. saya ingin mengikuti showcase projek yang ke 2 kali ini saya membuat website pengelolah keuangan sederhana .</p>\n<p>tech stack:\nreact js\ntailwind css\ngsap\nfirebase\nrecharts</p>\n<p>fitur:\nregister\nlogin\nchat</p>\n<p>link: <a href=\"https://finance-app-xi-seven.vercel.app/\">https://finance-app-xi-seven.vercel.app/</a></p>\n<p>itu saja dari saya jika ada kritik dan saran mohon disampaikan saja karna itu sangat membantu saya makasi</p>",
+      "image": "SEASON-4-25 Oktober 2024-8.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Oktober 2024",
+      "projectLink": "https://belajar-javascript.netlify.app/",
+      "projectIdx": 7,
+      "username": "Naufal",
+      "message": "<p>Hai kak, perkenalkan nama saya Naufal, saya disini ingin memamerkan web belajar javascript dari basic sampai expert dengan desain yang sangat simple dan minimalist .</p>\n<p>Tech stack:\nHtml\nTailwind CSS\nDaisyui\nFont awesome\nJavascript</p>\n<p>Sekian dari saya terima kasih</p>\n<p>Link : <a href=\"https://belajar-javascript.netlify.app/\">https://belajar-javascript.netlify.app/</a></p>",
+      "image": "SEASON-4-25 Oktober 2024-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Oktober 2024",
+      "projectLink": "https://dotlist.vercel.app/",
+      "projectIdx": 6,
+      "username": "Oodinc",
+      "message": "<p>Assalamu’alaikum warahmatullahi wabarakatuh, Pak Dhika dan teman-teman WPU semua</p>\n<p>Perkenalkan saya Udin, mahasiswa Informatika semester 5 di Universitas Sebelas Maret. Izin mengirimkan project sederhana saya yang ke-2 di showcase-project ini. Project ini berupa website todo-list dengan nama Dotlist.</p>\n<p>Project ini saya buat untuk mengisi waktu luang saat kuliah, tujuan pembuatan website ini untuk membantu user mengatur tugas/pekerjaan secara efektif.</p>\n<p>Fitur didalamnya:</p>\n<ul>\n<li>penggunaan CRUD untuk tugas</li>\n<li>pencarian tugas</li>\n<li>pengelompokan tugas</li>\n</ul>\n<p>Teknologi yang digunakan:\nFrontend:</p>\n<ul>\n<li>Bootstrap</li>\n<li>Framework Laravel 10</li>\n</ul>\n<p>Link web: <a href=\"https://dotlist.vercel.app/\">https://dotlist.vercel.app/</a>\nLink repo: <a href=\"https://github.com/oodinc/Dotlist\">https://github.com/oodinc/Dotlist</a></p>\n<p>Masih terdapat kekurangan mungkin terkait bug atau dari segi UI, maka dari itu minta sarannya dari PaK Dhika dan teman-teman WPU semua.</p>\n<p>Terimakasih.\nWassalamu’alaikum warahmatullahi wabarakatuh</p>",
+      "image": "SEASON-4-25 Oktober 2024-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Oktober 2024",
+      "projectLink": "https://chatversal.vercel.app/",
+      "projectIdx": 5,
+      "username": "Dexter",
+      "message": "<p>Assalamualaikum Warahmatullahi Wabarakatuh.</p>\n<p>Halo pak Dhika dan teman-teman semuanya.\nKali ini saya mau share showcase saya yaitu web real time chat sederhana , feature nya masih dikit dan tampilannya masih jelek.</p>\n<p>Tech:\nReact\nTailwind\nSocket.io\nNode js\nMongodb\nIonicons</p>\n<p>Konsep design dari: Discord</p>\n<p>Website: <a href=\"https://chatversal.vercel.app/\">https://chatversal.vercel.app/</a>\nRepository: <a href=\"https://github.com/jidandev/website-chat?tab=readme-ov-file\">https://github.com/jidandev/website-chat?tab=readme-ov-file</a></p>",
+      "image": "SEASON-4-25 Oktober 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Oktober 2024",
+      "projectLink": "https://meadityamms.vercel.app",
+      "projectIdx": 4,
+      "username": "Adityamms",
+      "message": "<p>Halo teman-teman, saya Adityamms. Kali ini, saya ingin berbagi tentang web portofolio sederhana yang saya kembangkan. Web ini dibangun menggunakan teknologi seperti Next.js, Tailwind CSS, Chakra UI, MongoDB, Cloudinary, Upstash, Nodemailer, NextAuth, dan Midtrans.</p>\n<p>Web ini memiliki berbagai fitur seperti verifikasi email, enkripsi data, operasi CRUD, pembatasan jumlah permintaan (rate limiting), upload gambar, login, pembelian produk, dan fitur baru berupa Group Chat.</p>\n<p>Untuk melihat demo aplikasi, silakan kunjungi:\n<a href=\"https://meadityamms.vercel.app\">https://meadityamms.vercel.app</a></p>\n<p>Terima kasih!</p>",
+      "image": "SEASON-4-25 Oktober 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Oktober 2024",
+      "projectLink": "https://videobarber.vercel.app",
+      "projectIdx": 3,
+      "username": "SiBagood",
+      "message": "<p>Selamat malam semua, mau share web app sederhana namanya &quot;VideoBarber ✂️&quot;, dimana kita bisa meng-cut atau trim video.\nProject ini hasil explorasi saya menggunakan ffmpeg wasm dimana versi ffmpeg yang dapat berjalan di browser, jadi proses encoding/renderingnya dibebankan pada client sehingga tidak perlu upload dan proses video di server, untuk itu disarankan menggunakan browser chrome.\nNote: saya sendiri masih belum tahu limitasi dari ffmpeg wasm ini (apakah work semua device dan apakah support semua tipe video) jadi mungkin akan ada proses trim video yang gagal, dan juga karena ini berjalan di proses client kemungkinan akan lag di device2 tertentu.</p>\n<p>web : <a href=\"https://videobarber.vercel.app\">https://videobarber.vercel.app</a>\nstack : sveltekit, tailwind, ffmpeg wasm</p>\n<p>repo : <a href=\"https://github.com/bagusindrayana/videobarber\">https://github.com/bagusindrayana/videobarber</a></p>",
+      "image": "SEASON-4-25 Oktober 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Oktober 2024",
+      "projectLink": "https://millahh.github.io/portfolio-2024/",
+      "projectIdx": 2,
+      "username": "charming",
+      "message": "<p>Halo selamat pagi Pak Dhika dan teman-teman semua,</p>\n<p>Sebelumnya terima kasih banyak kepada Pak Dhika dan forum ini atas kesempatannya untuk saya bisa ikut showcase project kali ini. Saya Millah, pada kesempatan ini saya gunakan untuk memperkenalkan project portofolio pribadi saya.</p>\n<p>Project ini adalah hasil eksplorasi teknologi-teknologi yang baru saya pelajari. Masukan dan kritik sangat saya harapkan sebagai pembelajaran bagi saya. Sekian dari saya, terima kasih Pak Dhika dan teman-teman.</p>\n<p>Tech Stack yang digunakan:\nTailwindCSS\nReactJs\nThreeJS</p>\n<p>Link Project:\n<a href=\"https://millahh.github.io/portfolio-2024/\">https://millahh.github.io/portfolio-2024/</a></p>\n<p>Repo:\n<a href=\"https://github.com/Millahh/portfolio-2024\">https://github.com/Millahh/portfolio-2024</a></p>\n<p>Notes:</p>\n<ol>\n<li>Saat ini, desain project belum sepenuhnya responsif untuk tampilan mobile.</li>\n<li>Project ini menggunakan fitur 3D rendering, yang sudah berjalan cukup baik, namun untuk pengalaman terbaik, disarankan menggunakan koneksi internet yang lebih cepat agar proses loading gambar lebih maksimal.</li>\n<li>Saya sangat mengapresiasi jika teman-teman bisa memberikan star di GitHub atau connect dengan saya:)</li>\n</ol>",
+      "image": "SEASON-4-25 Oktober 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Oktober 2024",
+      "projectLink": "https://e-invitation-black-and-white.vercel.app/",
+      "projectIdx": 1,
+      "username": "sycle",
+      "message": "<p>Selamat malam Pak Dhika dan teman-teman.</p>\n<p>Perkenalkan nama saya Rivaldo Tandoko, saya merupakan seorang mahasiswa Tel-U semester 3. Pada sesi showcase yang ke-4 ini saya akan men-showcase project website wedding invitation saya. Project ini merupakan project iseng sekaligus nyoba api google.</p>\n<p>Tech Stack:\nNextJs\nTailwindCSS\nGoogleapis\nReact-icons\nAOS\nFramer-motion</p>\n<p>Feature:\nRSVP --&gt; google spreadsheet\nCountdown</p>\n<p>Live Demo: <a href=\"https://e-invitation-black-and-white.vercel.app/\">https://e-invitation-black-and-white.vercel.app/</a></p>",
+      "image": "SEASON-4-25 Oktober 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "25 Oktober 2024",
+      "projectLink": "https://portofolio-react-ts.vercel.app/",
+      "projectIdx": 0,
+      "username": "MLs",
+      "message": "<p>Assalamualaikum Wr. Wb, Selamat malam guruku Pak Shandika galih dan kepada semua teman-teman yang saya banggakan.</p>\n<p>Perkenalkan, saya Muhamad Luthfi Sadli, seorang mahasiswa semester 5 di Universitas Muhammadiyah Tangerang. Hobi saya adalah ngoding dan terus meningkatkan diri dengan mempelajari bahasa pemrograman lainnya.</p>\n<p>Saya membuat portofolio ini sebagai langkah untuk mendapatkan pekerjaan. Saya berharap dengan skill yang saya miliki dalam membuat portofolio yang menarik ini, HRD dapat melihat potensi saya. Namun, saya menyadari bahwa tidak semudah itu untuk mencapai tujuan tersebut. Saya percaya usaha saya dalam membuat portofolio ini bisa menjadi nilai tambah, terutama karena saya telah lulus sebagai React Expert dari Dicoding. Saya juga telah mencantumkan semua skill yang saya pelajari dari SMK Jurusan Rekayasa Perangkat Lunak.</p>\n<p>Saat ini, saya ingin tahu apa yang masih kurang dari diri saya, dan saya sangat membutuhkan arahan untuk memotivasi diri saya lebih lanjut.</p>\n<p>Inspirasi saya dalam membuat website ini berasal dari <a href=\"https://kulbachny.com/\">https://kulbachny.com/</a>.</p>\n<p>Teknologi yang saya gunakan dalam pengembangan portofolio ini adalah</p>\n<ul>\n<li>React JS menerapkan pola struktur modular.</li>\n<li>TypeScript</li>\n<li>Tailwind</li>\n</ul>\n<p>Link website: <a href=\"https://portofolio-react-ts.vercel.app/\">https://portofolio-react-ts.vercel.app/</a></p>\n<p>Terima kasih atas perhatiannya. Saya sangat menghargai kritik dan saran yang membangun.\nWassalamualaikum Wr. Wb.</p>",
+      "image": "SEASON-4-25 Oktober 2024-0.png"
+    },
     {
       "season": "SEASON-4",
       "showcaseDate": "12 Oktober 2024",
