@@ -1,6 +1,96 @@
 {
-  "fetched_at": "2024-11-30T13:02:35.835Z",
+  "fetched_at": "2024-12-07T13:03:37.404Z",
   "data": [
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "2 Desember 2024",
+      "projectLink": "https://github.com/savareyhano/sistem-informasi-inventaris-barang",
+      "projectIdx": 9,
+      "username": "M1917Enfield (Reyhan)",
+      "message": "<p>Assalamualaikum, halo pak Sandika dan teman-teman WPU. Saya izin showcase projek sederhana saya yaitu &quot;Sistem Informasi Inventaris Barang&quot;, ini adalah proyek akhir saya untuk bootcamp WGS NodeJS Batch 4:</p>\n<p><a href=\"https://github.com/savareyhano/sistem-informasi-inventaris-barang\">https://github.com/savareyhano/sistem-informasi-inventaris-barang</a></p>\n<p>Tech stack:</p>\n<ul>\n<li>NodeJS (Runtime)</li>\n<li>Express (Web framework)</li>\n<li>PostgreSQL (Database)</li>\n<li>EJS (Template engine)</li>\n<li>AdminLTE + Bootstrap (Styling)</li>\n<li>JQuery</li>\n</ul>\n<p>Yang ada di website:</p>\n<ul>\n<li>Dasbor (laporan barang masuk barang keluar, pengguna, dst.).</li>\n<li>Stok barang, Barang Masuk, Barang Keluar.</li>\n<li>Log aplikasi</li>\n<li>Kelola pengguna (khusus role admin)</li>\n<li>Ganti email dan password</li>\n<li>Mode gelap</li>\n</ul>\n<p>Fitur-fitur:</p>\n<ul>\n<li>QRCode untuk barang yang dapat di atur ukuran nya (lebar x tinggi) dan dapat di print secara massal</li>\n<li>Scan QRCode barang dengan menggunakan webcam, atau file upload untuk barang masuk dan barang keluar.</li>\n</ul>",
+      "image": "SEASON-4-2 Desember 2024-9.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "2 Desember 2024",
+      "projectLink": "https://miftahurrahman-portofolio.netlify.app/",
+      "projectIdx": 8,
+      "username": "M. Miftahurrahman",
+      "message": "<p>Halo semuanya perkenalkan nama saya Muhammad Miftahurrahman atau yang dikenal sebagai Miftah, saya merupakan lulusan dari SMK dengan jurusan Teknik Komputer dan Jaringan, dan sekarang saya berkuliah di Universitas Mercu Buana Jakarta dengan jurusan Teknik Informatika.\nSaya ingin memperkenalkan hasil pembuatan website portofolio pribadi saya selama saya masih duduk dibangku Sekolah Menengah Kejuruan .</p>\n<p>Teknologi yang saya gunakan yaitu :\nVue JS 3 &amp; Vue use motion</p>\n<p>link website : <a href=\"https://miftahurrahman-portofolio.netlify.app/\">https://miftahurrahman-portofolio.netlify.app/</a>\nrepository : <a href=\"https://github.com/Miftahurrahman-STEI/portfoliovue2024\">https://github.com/Miftahurrahman-STEI/portfoliovue2024</a></p>\n<p>Jika ada saran atau masukan mohon dipersilahkan</p>",
+      "image": "SEASON-4-2 Desember 2024-8.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "2 Desember 2024",
+      "projectLink": "https://brovi.vercel.app",
+      "projectIdx": 7,
+      "username": "SiBagood",
+      "message": "<p>selamat malam semua, ijin share project random, sebuah audio visualizer tapi animasi spectrumnya pakai tab window browser, jadi nanti webnya bakal ngebuka banyak tab window baru yang akan dianimasiin (panjang, lebar, ukuran), jadi.... yang speknya kentang jangan dicoba biar gak ngefreeze 😁 resiko ditanggung masing2 😁 (dan hanya work di desktop)</p>\n<p>stack :\nsveltekit, tailwind, jsmediatags</p>\n<p>web : <a href=\"https://brovi.vercel.app\">https://brovi.vercel.app</a>\nrepo : <a href=\"https://github.com/bagusindrayana/brovi\">https://github.com/bagusindrayana/brovi</a></p>",
+      "image": "SEASON-4-2 Desember 2024-7.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "2 Desember 2024",
+      "projectLink": "http://danchat-tor.work.gd",
+      "projectIdx": 6,
+      "username": "n0tr3x",
+      "message": "<p>Selamat pagi semuanya hai perkenalkan aku adalah XplDan , 0srD4n dll.\nAkun untuk review all fitur</p>\n<pre><code>Username : wpu\nPassword: gogogo\n</code></pre>\n<p>Note aja ini pure PHP karena gak tau caranya pakai framework jadi yah gitulah\nUntuk fitur admin bisa tag aku kalok mau\nAku membuat chat room bernama danchat\nDanchat adalah aplikasi chat room berbasis PHP yang dibangun menggunakan hati. Danchat dirancang sebagai solusi komunikasi instan, memungkinkan pengguna berinteraksi secara real-time dalam ruang obrolan yang aman dan sederhana.</p>\n<p>Fitur Utama\nDanchat menggunakan antarmuka yang minimalis dan user-friendly, menjadikannya mudah diakses baik di desktop maupun perangkat mobile..</p>\n<p>Menggunakan ekstensi PHP seperti <code>intl</code>, <code>gettext</code>, <code>pdo</code>, <code>pcre</code>, dan <code>libsodium</code>, menjamin stabilitas dan keamanan saat pengguna berinteraksi.\nMendukung opsional ekstensi <code>gd</code>, <code>json</code>, dan <code>memached</code> untuk meningkatkan performa dan kustomisasi visual.</p>\n<p>Teknologi yang Digunakan\nDanchat dijalankan di atas server Infinity hosting. memanfaatkan PHP sebagai backend, dan mendukung integrasi dengan berbagai ekstensi PHP untuk menambah fitur-fitur penting dalam sistem komunikasi modern.</p>\n<p>Potensi Pengembangan\nDanchat dirancang agar fleksibel dalam pengembangan lebih lanjut, termasuk peningkatan antarmuka, sistem autentikasi, serta notifikasi untuk pengalaman pengguna yang lebih baik.\nFitur paling utama adalah dalam segi keamanan dimana ini menggunakan encryption code yang begitu panjang jadi gak akan ada yang bisa membobol atau membuka atau melakukan edit terhadap chat yang ada.\nDengan Danchat, komunikasi lebih mudah, cepat, dan aman.\nRepo : <a href=\"https://github.com/0srD4n/Danchat\">https://github.com/0srD4n/Danchat</a>\nDemo chat : <a href=\"http://danchat-tor.work.gd\">http://danchat-tor.work.gd</a>\nLink Tor <a href=\"http://7ezcvo2wrozkrakhitpnloz2m3l6uqa33st6lyyylpe7ptzdghpsc4yd.onion/\">http://7ezcvo2wrozkrakhitpnloz2m3l6uqa33st6lyyylpe7ptzdghpsc4yd.onion/</a></p>",
+      "image": "SEASON-4-2 Desember 2024-6.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "2 Desember 2024",
+      "projectLink": "https://new-portofolio-alpha.vercel.app/",
+      "projectIdx": 5,
+      "username": "leoo",
+      "message": "<p>Assalamualaikum Warahmatullahi Wabarakatuh.</p>\n<p>Halo pak Dhika dan teman-teman semuanya. Sebelumnya perkenalkan nama saya Vickry biasa dipanggil pik. Selebumnya saya belum pernah ikut project showcase. Kali ini saya akan menunjukan project Portofolio simple dan sederhana ini.</p>\n<p>Tech:\nReact\nVite .JS\nGSAP\nEmail JS\nLucide React</p>\n<p>Tools Coding:\nAcode\nTermux</p>\n<p>Websitenya mungkin tidak se Wah yang lainnya karena ini dibuat menggunakan Android jauh sebelum saya membeli Laptop. Jadi masalah UI dan Responsifnya mungkin agak sedikit kurang. Anyway Terimakasih sudah memberikan waktunya untuk melihat dan membaca Showcase saya! ✌</p>\n<p>Demo:\n<a href=\"https://new-portofolio-alpha.vercel.app/\">https://new-portofolio-alpha.vercel.app/</a>\nGithub Repository:\n<a href=\"https://github.com/pikupik/new-portofolio\">https://github.com/pikupik/new-portofolio</a></p>",
+      "image": "SEASON-4-2 Desember 2024-5.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "2 Desember 2024",
+      "projectLink": "https://www.npmjs.com/package/@jidan/simplejs",
+      "projectIdx": 4,
+      "username": "Dexter",
+      "message": "<h5>Simple Js</h5>\n<p>Assalamualaikum, mohon izin pak Dhika dan teman² programmer sekalian, saya mau berbagi library js yang baru saya kembangkan.</p>\n<p>Link\nNPM: <a href=\"https://www.npmjs.com/package/@jidan/simplejs\">https://www.npmjs.com/package/@jidan/simplejs</a>\nREPO: <a href=\"https://github.com/jidandev/simple-js\">https://github.com/jidandev/simple-js</a></p>\n<p>Library nya sederhana cuman buat memperpendek sintaks di javascript doang, mirip kayak jQuery. Mungkin kedepannya bakal ada fitur tambahan, yang bukan cuman memperpendek sintaks doang.</p>\n<p>Library ini open source, jadi silahkan teman² yang mau ikut berkontribusi mengembangkan library ini</p>",
+      "image": "SEASON-4-2 Desember 2024-4.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "2 Desember 2024",
+      "projectLink": "https://invezgo.com",
+      "projectIdx": 3,
+      "username": "Ferdi",
+      "message": "<p>Selamat malam pak Dhika dan teman-teman semuanya.</p>\n<p>Sebelumnya saya sudah pernah showcase web yang berkaitan dengan saham. Dari project sebelumnya saya dapat deal dengan client untuk membuat web yang berkaitan dengan saham juga, selain fee tentu juga dapat banyak pengalaman dan ilmu yang sangat banyak. Kali ini projectnya tidak jauh beda, tetapi ada perubahan setelah rebranding baik itu nama atau code juga berbeda jauh. Project ini juga masuk ke Inkubasi Bisnis Univ saya.</p>\n<p>Pengguna web bisa share postingan terkait saham baik itu analisa, diskusi ringan, upload video atau sekedar baca postingan orang lain. Selain itu, ada sistem verified user dimana verified user ini dapat upload video dan membuat sistem membership sendiri. Kurang lebih seperti gabungan twitter dan youtube khusus untuk saham. Maaf masih sangat sederhana pak karena sekarang statusnya masih minimum viable untuk diri sendiri hehe. Di development, saya sudah persiapkan banyak hal termasuk video encoding ke format HLS, AI untuk banyak hal seperti sorting saham, sistem rekomendasi, sistem notifikasi baik melalui Push PWA atau Email. Tetapi karena alasan beban server sehingga kali ini belum bisa ditampilkan di production. Kedepannya saya ingin perbanyak fitur dan kalau bisa buat server sendiri.</p>\n<p>Teknologi yang digunakan:</p>\n<ul>\n<li>NextJS 15 Typescript (Frontend)</li>\n<li>NestJS + Fastify Typescript (Backend)</li>\n<li>Flask Python (Saya gunakan untuk extract dan olah data dari laporan keuangan quartal, laporan kepemilikan saham dan lain lain yang berkaitan dan penting untuk bahan analisa)</li>\n<li>BullMQ (Sistem Queue untuk Email, Notifikasi dll)</li>\n<li>Redis</li>\n<li>PostgreSQL</li>\n<li>Min.IO</li>\n<li>Grafana + Loki + Pino (Logger dan DevOps stat keseluruhan)</li>\n<li>Midtrans</li>\n</ul>\n<p>Website: <a href=\"https://invezgo.com\">https://invezgo.com</a>\nGithub: <a href=\"https://github.com/Invezgo/invezgo\">https://github.com/Invezgo/invezgo</a> (Hanya kebutuhan docs saja kedepannya)</p>\n<p>Saya rasa masih banyak kekurangan karena masih sangat sederhana. Feel free untuk comment kalau teman-teman ada masukan. Terimakasih banyak pak</p>",
+      "image": "SEASON-4-2 Desember 2024-3.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "2 Desember 2024",
+      "projectLink": "https://calender-jp.vercel.app",
+      "projectIdx": 2,
+      "username": "Yui",
+      "message": "<p>Konbanwa Sandhika sensei &amp; temen-temen WPU saya Yui🙇‍♂️, saya ingin showcase project HTML Dasar karena saya juga suka yang dasar-dasar juga projectnya yakni website &quot;Nihon Karenda&quot; project ini merupakan project iseng dari tugas matakuliah saya yakni Masyarakat &amp; Budaya Jepang.\nAwalnya tugas ini disuruh dosen untuk mencari arti kanji cara baca kanji dan penjelasan dari perayaan jepang tersebut, karena menurut saya ribet.</p>\n<p>Maka dari itu Yui buat versi websitenya wkwkw 😄 dari project kalender ini kita juga bisa tahu terkait perayaan&quot; dan hari&quot; penting di jepang berdasarkan tanggal di kalender.</p>\n<p>Cara pakainya gmana? Di setiap bulan pada kalender terdapat tanggal yg berisi keterangan/label kanji yg merupakan hari&quot; Penting dan perayaan user hanya perlu mengklik tanggal yg berisi label tersebut untuk mendapatkan informasi</p>\n<p>Apa aja yg dipake : Node JS, Express, Vanila JS, Unsplash API (dumy image) &amp; API Gemini</p>\n<p>Link : <a href=\"https://calender-jp.vercel.app\">https://calender-jp.vercel.app</a>\nRepo : <a href=\"https://github.com/Yu1chiro/calender-jp\">https://github.com/Yu1chiro/calender-jp</a>\nReference : <a href=\"https://happylilac.net/\">https://happylilac.net/</a></p>\n<p>Kekurangan masih belum responsive untuk ukuran device handphone hanya support di mode dekstop🙇‍♂️ dan response gemini yg terkadang kurang sesuai karena API nya gratisan hehe:v\nSeperti biasa karena saya pemula, saya butuh kritikan dan masukan dari temen-temen WPU dan sandika sensei akhir kata. ; 忘れないでくださいarigathanks🙇‍♂️🙇‍♂️</p>",
+      "image": "SEASON-4-2 Desember 2024-2.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "2 Desember 2024",
+      "projectLink": "https://rivaldotandoko.vercel.app",
+      "projectIdx": 1,
+      "username": "sycle",
+      "message": "<p>Selamat malam Pak Dhika dan teman-teman.</p>\n<p>Perkenalkan nama saya Rivaldo Tandoko, saya merupakan seorang mahasiswa Tel-U semester 3. Pada sesi showcase yang ke-5 ini saya akan men-showcase web portfolio sederhana saya.</p>\n<p>Tech Stack:\nNextJs\nTypeScript\nTailwindCSS\nShadcn\nAceternity UI\nReact-icons\nAOS\nFramer-motion\nGSAP</p>\n<p>Live Demo: <a href=\"https://rivaldotandoko.vercel.app\">https://rivaldotandoko.vercel.app</a>\nRepo: <a href=\"https://github.com/rtrivaldo/portfoliov2\">https://github.com/rtrivaldo/portfoliov2</a></p>\n<p>Sekian terimakasih. Jangan lupa bintang satunya</p>",
+      "image": "SEASON-4-2 Desember 2024-1.png"
+    },
+    {
+      "season": "SEASON-4",
+      "showcaseDate": "2 Desember 2024",
+      "projectLink": "https://portfolio-v2-milan.vercel.app/",
+      "projectIdx": 0,
+      "username": "IMPHNEN | bWlsYW4u",
+      "message": "<p>Halo Pak Dhika dan temen2 semua.\nSaya Milan dan ini adalah sebuah website portfolio saya yang sangat sederhana.</p>\n<p>Untuk sekarang websitenya belum 100% selesai, jadi ini akan saya update terus</p>\n<p>Dibuat dengan:</p>\n<ul>\n<li>HTML CSS JS</li>\n<li>Tailwind</li>\n<li>GSAP</li>\n<li>SplitType</li>\n</ul>\n<p>Demo: <a href=\"https://portfolio-v2-milan.vercel.app/\">https://portfolio-v2-milan.vercel.app/</a>\nGithub: <a href=\"https://github.com/milanlizriadi/portfolio-v2\">https://github.com/milanlizriadi/portfolio-v2</a></p>\n<p>Silakan di roasting bagi yang mau karena akan sangat membantu saya.\nUdah itu aja Makasih semuanyaa</p>",
+      "image": "SEASON-4-2 Desember 2024-0.png"
+    },
     {
       "season": "SEASON-4",
       "showcaseDate": "30 Oktober 2024",
