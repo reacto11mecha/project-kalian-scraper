@@ -45,6 +45,7 @@ const screenshooter = async (data) => {
       maxConcurrency: 3,
       puppeteerOptions: {
         defaultViewport: { width: 1920, height: 1080 },
+        args: ['--no-sandbox', '--disable-setuid-sandbox']
       },
     });
 
