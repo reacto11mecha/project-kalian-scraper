@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2024-12-28T12:59:31.757Z",
+  "fetched_at": "2025-01-27T06:09:53.059Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -16200,6 +16200,186 @@
       "username": "M1917Enfield (Reyhan)",
       "message": "<p>Assalamualaikum, halo pak Sandika dan teman-teman WPU. Saya izin showcase projek sederhana saya yaitu &quot;Sistem Informasi Inventaris Barang&quot;, ini adalah proyek akhir saya untuk bootcamp WGS NodeJS Batch 4:</p>\n<p><a href=\"https://github.com/savareyhano/sistem-informasi-inventaris-barang\">https://github.com/savareyhano/sistem-informasi-inventaris-barang</a></p>\n<p>Tech stack:</p>\n<ul>\n<li>NodeJS (Runtime)</li>\n<li>Express (Web framework)</li>\n<li>PostgreSQL (Database)</li>\n<li>EJS (Template engine)</li>\n<li>AdminLTE + Bootstrap (Styling)</li>\n<li>JQuery</li>\n</ul>\n<p>Yang ada di website:</p>\n<ul>\n<li>Dasbor (laporan barang masuk barang keluar, pengguna, dst.).</li>\n<li>Stok barang, Barang Masuk, Barang Keluar.</li>\n<li>Log aplikasi</li>\n<li>Kelola pengguna (khusus role admin)</li>\n<li>Ganti email dan password</li>\n<li>Mode gelap</li>\n</ul>\n<p>Fitur-fitur:</p>\n<ul>\n<li>QRCode untuk barang yang dapat di atur ukuran nya (lebar x tinggi) dan dapat di print secara massal</li>\n<li>Scan QRCode barang dengan menggunakan webcam, atau file upload untuk barang masuk dan barang keluar.</li>\n</ul>",
       "image": "SEASON-4-2 Desember 2024-9.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "4 Januari 2025",
+      "projectLink": "https://jolly.pow.kim",
+      "projectIdx": 0,
+      "username": "wand",
+      "message": "<p>Halo pak Dika dan semuanya! Selamat pagi :v 👋</p>\n<p>Sudah lama saya tidak ikut showcase project. Kali ini saya ingin berbagi project sampingan yang saya buat sebagai <em>intermezzo</em> di tengah frustrasi mengerjakan project utama yang sudah tiga bulan nggak selesai-selesai. 😂 Project ini saya namakan <strong>Jolly</strong>, sebuah <em>bahasa pemrograman</em>—atau lebih tepatnya, sebuah <strong>compiler</strong>. Jolly dirancang untuk membuat pengalaman menulis kode lebih seru dan menyenangkan, dengan mengganti keyword JavaScript seperti <code>function</code>, <code>const</code>, dan <code>for</code> menjadi keyword yang lebih fun seperti <code>fun</code>, <code>lock</code>, dan <code>loopy</code>. Jika kalian tau pygyat di python, kalian bisa buat jsgyat menggunakan repo ini, yang mau coba silakan clone dan bermain dengan keywordnya.</p>\n<p>Project ini saya bangun menggunakan <strong>Bun</strong> sebagai runtime utama, dan CLI-nya dibuat dengan bantuan <strong>chalk</strong>, <strong>commander</strong>, <strong>figlet</strong>, dan <strong>ora</strong>. Selain itu, proses minifikasi dan formatting dibantu oleh <strong>Terser</strong> dan <strong>Prettier</strong>.</p>\n<p>Meskipun Jolly adalah project eksperimental dan tidak serius (saya buat cuma sehari dan kodenya berantakan banget :v banyak use case yang belum dites juga), saya merasa project ini cukup menarik untuk dibagikan, terutama bagi kalian yang ingin mencoba sesuatu yang berbeda dalam menulis JavaScript. Jadi, kalau kalian penasaran atau hanya ingin sekadar mencoba Jolly, silakan cek link berikut:</p>\n<ul>\n<li>NPM: <a href=\"https://www.npmjs.com/package/@jolly-lang/compiler\">https://www.npmjs.com/package/@jolly-lang/compiler</a></li>\n<li>Website: <a href=\"https://jolly.pow.kim\">https://jolly.pow.kim</a></li>\n<li>Repository: <a href=\"https://github.com/kimmyxpow/jolly-lang\">https://github.com/kimmyxpow/jolly-lang</a></li>\n</ul>\n<p>Semoga bisa memberikan sedikit hiburan (atau inspirasi) di sela-sela kesibukan coding kalian 😊</p>",
+      "image": "SEASON-5-4 Januari 2025-0.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "4 Januari 2025",
+      "projectLink": "https://tailguide.vercel.app/",
+      "projectIdx": 1,
+      "username": "sycle",
+      "message": "<p>Selamat malam, Pak Dhika dan teman-teman.</p>\n<p>Perkenalkan, nama saya Rivaldo Tandoko, mahasiswa semester 3 di Telkom University. Pada sesi showcase ke-6 ini, saya ingin memperkenalkan sebuah web project yang berfungsi untuk memvisualisasikan berbagai properti CSS dan TailwindCSS, seperti transform, border radius, shadows, serta efek glassmorphism.</p>\n<p>Web ini dirancang untuk membantu developer pemula memahami dan menerapkan properti-properti tersebut secara interaktif dan efisien.</p>\n<p>Tech Stack yang digunakan:</p>\n<ul>\n<li>Next.js</li>\n<li>TailwindCSS</li>\n<li>Shadcn</li>\n<li>React-icons</li>\n</ul>\n<p>Fitur Utama:</p>\n<ul>\n<li>Visualisasi real-time properti CSS seperti transformasi, radius border, shadows, dan efek glassmorphism.</li>\n<li>Antarmuka yang responsif dan interaktif.</li>\n</ul>\n<p>Live Demo: <a href=\"https://tailguide.vercel.app/\">https://tailguide.vercel.app/</a>\nRepository GitHub: <a href=\"https://github.com/rtrivaldo/tailguide\">https://github.com/rtrivaldo/tailguide</a></p>\n<p>Sekian dari saya. Mohon dukungan dan feedbacknya, dan jangan lupa bintang satunya. Terima kasih! 😊</p>",
+      "image": "SEASON-5-4 Januari 2025-1.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "4 Januari 2025",
+      "projectLink": "https://github.com/snaztoz/kaba",
+      "projectIdx": 2,
+      "username": "Hafidh",
+      "message": "<p>Selamat pagi Pak Dhika dan teman-teman WPU, perkenalkan saya Hafidh. Saya ingin ikut melakukan showcase project (pertama kali) yang tengah saya kerjakan saat ini.</p>\n<p>Saya sedang mengerjakan sebuah compiler (dan <em>prototype</em> untuk runtime-nya) untuk bahasa pemrograman yang tengah saya buat: <a href=\"https://github.com/snaztoz/kaba\">Kaba</a>, meskipun untuk saat ini fitur-fiturnya masih sangat minimalis.</p>\n<h4>Teknologi yang digunakan</h4>\n<ul>\n<li>Rust</li>\n</ul>\n<h4>Fitur</h4>\n<ul>\n<li>Math expression (e.g. <code>99 + 5 / 2</code>)</li>\n<li>Pembuatan variabel dengan static typing</li>\n<li>Conditional statement</li>\n<li>Loop statement</li>\n<li>Function</li>\n<li>... dan masih banyak yang <a href=\"https://github.com/snaztoz/kaba#-features\">lainnya</a></li>\n</ul>\n<h4>Link demo</h4>\n<p>Saya mencantumkan <a href=\"https://github.com/snaztoz/kaba#-example\">beberapa contoh</a> program Kaba yang sudah bisa dijalankan oleh compiler dan juga runtime-nya</p>\n<h4>Cara install &amp; run</h4>\n<p>Karena ini project CLI, maka perlu ada beberapa step yang perlu dilakukan untuk bisa menjalankan Kaba:</p>\n<ul>\n<li><p>Cara yang paling mudah, bisa mendownload prebuilt compiler di <a href=\"https://github.com/snaztoz/kaba/releases\">release page</a> dan melakukan unzip filenya. Di dalamnya terdapat binary yang sudah siap digunakan.</p>\n</li>\n<li><p>Jika ingin mem-build compilernya secara manual, maka harus menginstall Rust toolchain terlebih dulu, kemudian mengikuti <a href=\"https://github.com/snaztoz/kaba#%EF%B8%8F-build\">langkah-langkah ini</a>.</p>\n</li>\n</ul>\n<p>Setelah binary compiler sudah didapatkan, buat sebuah file source code Kaba (sebagai contoh, <code>program.kaba</code>), isi dengan program yang <a href=\"https://github.com/snaztoz/kaba#-example\">valid</a>, kemudian jalankan:</p>\n<pre><code class=\"language-sh\">kaba run program.kaba\n</code></pre>\n<p>p.s. Jika source code kosong, maka akan ada error yang belum dicover oleh Kaba (ini adalah known bug)</p>\n<p>Link repo: <a href=\"https://github.com/snaztoz/kaba\">https://github.com/snaztoz/kaba</a></p>\n<p>Sekian dari saya, saya akan sangat menghargai feedback dan masukan dari teman-teman sekalian. Terima kasih😊</p>",
+      "image": "SEASON-5-4 Januari 2025-2.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "4 Januari 2025",
+      "projectLink": "https://drive.google.com/file/d/13CLAD-3kLkMFj18OQkhyxJ1cKReS6Laj/view?usp=drive_link",
+      "projectIdx": 3,
+      "username": "Yoru",
+      "message": "<p>Assalamualaikum, halo semuanya dan pak Dhika, perkenalkan nama saya riswandi, setelah sekian lama baru bisa ikut showcase project lagi soalnya ngoding nya ngikutin mood wkwkwkwk.</p>\n<p>pada project kali ini saya sedang membuat aplikasi mobile untuk pencatatan penjualan outlet, kebetulan kakak saya punya outlet semacam jualan pulsa, jadi saya coba buatkan aplikasi untuk monitoring penjualan biar gk usah di catat lagi di buku.\nNama Aplikasi nya <strong>My Outlet</strong></p>\n<p><strong>FITUR</strong> :</p>\n<ul>\n<li>Pencatatan Penjualan dan Pengeluaran</li>\n<li>Pencatatan Utang dan Piutang</li>\n<li>Laporan total pendapatan</li>\n</ul>\n<p><strong>Cara Penggunaan</strong> :\nsilahkan membuat kategori terlebih dahulu di tab stok kategori kemudian buat produk (optional) pada tab produk,\nuntuk produk sendiri bisa di tulis di halaman transaksi pada saat ingin membuat transaksi,\ntapi untuk lebih memudahkan disarankan membuat produk terlebih dahulu biar bisa autofill dan produknya tersimpan di database</p>\n<p><strong>Teknologi yang di gunakan</strong> :</p>\n<ul>\n<li>FrontEnd :</li>\n<li>React Native</li>\n<li>NativeWind (styling)</li>\n<li>Fastlane (version management)</li>\n<li>BackEnd (API)</li>\n<li>ExpressJS</li>\n<li>Prisma (ORM)</li>\n<li>Nodemailer (Email verification)</li>\n<li>MySQL (Database)</li>\n<li>Docker (Deployment)</li>\n</ul>\n<p><strong>Link Apps</strong> : <a href=\"https://drive.google.com/file/d/13CLAD-3kLkMFj18OQkhyxJ1cKReS6Laj/view?usp=drive_link\">https://drive.google.com/file/d/13CLAD-3kLkMFj18OQkhyxJ1cKReS6Laj/view?usp=drive_link</a>\nmohon maap klo ui nya ngk bagus soalnya gk pinter design wkwkwk</p>\n<p><strong>Link Repo (Apps)</strong> : <a href=\"https://github.com/rixwand/outlet-pembukuan\">https://github.com/rixwand/outlet-pembukuan</a>\nUntuk Repo API belum saya public soalnya belum saya buat dokumentasi nya</p>\n<p><strong>Note</strong> : Untuk server nya sisa 6 bulan jadi tolong di maklumi klo tiba-tiba ngk bisa di akses mwhwh, VPS mahal soalnya</p>\n<p>Sekian dan terima kasih mohon kritik dan sarannya.</p>",
+      "image": "SEASON-5-4 Januari 2025-3.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "4 Januari 2025",
+      "projectLink": "https://github.com/rhysqi/Inventory-System/releases/tag/v1.0",
+      "projectIdx": 4,
+      "username": "rhysqi_",
+      "message": "<p>Assalamualaikum Pak Dhika</p>\n<p>Saya Risky mau showcase yang kedua kali &lt;:hehehe:972470914488885288&gt;\nUntuk showcase kali ini saya mau showcase aplikasi desktop CRUD sederhana yang sangat mudah sekali berbasis Windows.\nSaya juga dibantu oleh asisten saya yaitu ChatGPT untuk mencari dokumentasi karena saya malas mencari dokumentasi yang isinya cukup banyak.\nUntuk kali ini saya juga dibantu oleh para tumbal saya yang bersedia menjadi bahan eksperimen sebagai tester, yaitu</p>\n<ul>\n<li>Iqbal Ramadhan</li>\n<li>Rafika</li>\n</ul>\n<p>Nama dari aplikasi ini adalah <code>Inventory System</code>.\nAplikasi ini dibuat dengan memakai:\n<code>.NET 8, C#, WPF, Sqlite3, .NET Entity Framework(ORM)</code></p>\n<p>fitur yang di implementasikan adalah</p>\n<ul>\n<li>CRUD (Untuk memanajemen barang)</li>\n<li>Soft Delete (proteksi data untuk bisa di recover jika kehapus tidak sengaja)</li>\n</ul>\n<p>Untuk mengoperasikannya</p>\n<ul>\n<li>Sidebar kiri untuk ganti page (<code>Items List</code> untuk daftar barang, <code>Deleted Items</code> untuk barang yang di hapus).</li>\n<li>Tombol <code>add</code> pada page <code>Items List</code> untuk nambah data</li>\n<li>Untuk Edit datanya bisa langsung saja di klik di table nya dan tekan enter untuk apply</li>\n</ul>\n<p>Untuk link release nya bisa di download di sini:\n<a href=\"https://github.com/rhysqi/Inventory-System/releases/tag/v1.0\">https://github.com/rhysqi/Inventory-System/releases/tag/v1.0</a></p>\n<p>(sedikit tambahan)\nAplikasinya udah pakai installer kok. Jadi, kalau mau install/uninstall ngga perlu manual.\nNanti bisa di cek di folder dimana aplikasi di install dan ada file <code>uninstall.exe</code> di sana.\nBisa juga memakai <code>Windows Sandbox</code> sebagai alat testing.</p>\n<p>untuk link repo nya bisa dilihat di sini:\n<a href=\"https://github.com/rhysqi/Inventory-System\">https://github.com/rhysqi/Inventory-System</a></p>\n<p>Untuk bagian fitur <code>Expired Data</code> blm saya implementasikan karena saya sedang malas.\nJadi, saya implementasi nya kapan-kapan.</p>\n<p>Mungkin itu saja dari project saya yang saya buat karena lagi santai2.\nDan untuk project lain mungkin nanti akan di showcase di lain waktu. (karena saya pemalas jadi mungkin kapan-kapan)\nSekian terima kasih</p>",
+      "image": "SEASON-5-4 Januari 2025-4.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "4 Januari 2025",
+      "projectLink": "https://faceapp.imamulikhlas.com",
+      "projectIdx": 5,
+      "username": "AlexaFers",
+      "message": "<p>Assalamualaikum, halo Pak Dhika dan Semuanya... Perkenalkan aku imam, akhirnya ada kesempatan buat ikut showcase project di WPU hehehe..</p>\n<p>Kali ini aku punya project iseng sekaligus coba explore terkait teknologi AI yang sekarang sedang rame. Berawal dari keisengan ingin tau proses dari pembuatan aplikasi seperti FOTOYU yang dapat mencari wajah kita dari koleksi gambar yang diupload oleh orang lain, saya terpikir bagaimana sebenarnya aplikasi seperti itu bekerja.</p>\n<p>Aplikasi ini adalah hasil eksplorasi menggunakan internet dan AI seperti claude dan chatgpt. Kode yang diciptakan juga generate by AI namun dengan campur tangan penulis.</p>\n<p>✨ <strong>Fitur Utama :</strong>\n-Unggah gambar kedalam aplikasi dan menyimpannya ke dalam Database.\n-Deteksi foto dengan gambar yang terkait, lalu hasil pencarian menampilkan seluruh gambar yang telah diunggah dengan wajah yang sesuai.</p>\n<p>🎯 <strong>Teknologi yang di gunakan :</strong>\n-Flask\n-Python\n-MYSQL (database)\n-Nginx</p>\n<p>🔍 **Ingin mencoba langsung? **\n<strong>Video Demo:</strong> <a href=\"https://www.youtube.com/watch?v=1GkWeF-fm-8\">https://www.youtube.com/watch?v=1GkWeF-fm-8</a>\n<strong>Link Apps:</strong> <a href=\"https://faceapp.imamulikhlas.com\">https://faceapp.imamulikhlas.com</a>\n<strong>Repo:</strong> <a href=\"https://github.com/imamulikhlas/AlbumPeopleChecker\">https://github.com/imamulikhlas/AlbumPeopleChecker</a></p>\n<p>Teman-teman yang tertarik dengan projek ini boleh dikembangkan sebebas-bebasnya ya.. Jangan lupa bantu star projeknya di Github jika tertarik.</p>\n<p>Terima kasih &lt;:mantab:972471617923993600&gt;</p>",
+      "image": "SEASON-5-4 Januari 2025-5.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "4 Januari 2025",
+      "projectLink": "https://alfarabygit.github.io/indra7-portfolio/",
+      "projectIdx": 6,
+      "username": "Indra",
+      "message": "<p>Assalamu&#39;alaikum pak dhika dan kawan-kawan semoga sehat selalu. Sudah lama gak live showcase project dan beberapa hari yang lalu muncul lagi dan kali ini saya mau showcase project sederhana yang kesepuluh.</p>\n<p>Project kali ini redesign portfolio sederhana menggunakan reactjs yang mana sebelumnya menggunakan html, css dan js.\nTech stack:</p>\n<ol>\n<li>Vite(reactjs)</li>\n<li>Tailwind css</li>\n<li>Framer motion\nIsi konten portfolio ini adalah beberapa project-project yang sudah di showcase sebelum nya dan sudah responsive.</li>\n</ol>\n<p>Seperti biasa jangan lupa like dan feedback project saya dari pak dhika dan kawan-kawan.</p>\n<p>Sekian wassalamualaikum warahmatullahi wabarakatuh</p>\n<p>Jangan lupa titik koma. Ditunggu project selanjutnya</p>\n<p>GitHub:<a href=\"https://github.com/alfarabygit/indra7-portfolio\">https://github.com/alfarabygit/indra7-portfolio</a>\nWebsite:<a href=\"https://alfarabygit.github.io/indra7-portfolio/\">https://alfarabygit.github.io/indra7-portfolio/</a></p>",
+      "image": "SEASON-5-4 Januari 2025-6.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "4 Januari 2025",
+      "projectLink": "https://evan-web.vercel.app/",
+      "projectIdx": 7,
+      "username": "Mewing",
+      "message": "<p>Assalamu&#39;alaikum pak dhika dan temen temen semuanya semoga sehat sehat ya. akhirnya punya kesempatan buat live showcase project pertama kali. jadi disini saya cuman mau nunjukin website portfolio saya yang saya buat kira kira tahun lalu simpel aja sih, terinspirasi dari salah video yang ada diyoutube juga design nya.</p>\n<p>Saya menggunakan framework nextJs dengan bahasa pemogramman utamanya TypeScript untuk tech stack lebih lengkapnya ada dibawah :</p>\n<ol>\n<li>NextJS 14</li>\n<li>Framer motion</li>\n<li>GSAP</li>\n<li>TailwindCSS\nJangan lupa like dan saya juga butuh masukan dari pak dhika dan temen temen sekalian apa yang harus di perbaiki di website portfolio ini\nSekian terimakasih wassalamualaikum warahmatullahi wabarakatuh.</li>\n</ol>\n<p>Github: <a href=\"https://github.com/evanstef/personal-website-evan\">https://github.com/evanstef/personal-website-evan</a>\nWebsite : <a href=\"https://evan-web.vercel.app/\">https://evan-web.vercel.app/</a></p>",
+      "image": "SEASON-5-4 Januari 2025-7.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "4 Januari 2025",
+      "projectLink": "https://vitalify-health.vercel.app/",
+      "projectIdx": 8,
+      "username": "joan-telkomuniversity-webdesign",
+      "message": "<p>halo semua saya joan kali ini di showcase ke 8, saya cuma buat website kesehatan yg isinya kalkulator BMI dan sebagainya, over all konsepnya buat sdgs 3 tentang kesehatan</p>\n<p>tech stack : React, Tailwind</p>\n<p>web : <a href=\"https://vitalify-health.vercel.app/\">https://vitalify-health.vercel.app/</a>\nrepo : <a href=\"https://github.com/joanpurbaa/vitalify\">https://github.com/joanpurbaa/vitalify</a></p>",
+      "image": "SEASON-5-4 Januari 2025-8.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "4 Januari 2025",
+      "projectLink": "https://ghrelease.vercel.app",
+      "projectIdx": 9,
+      "username": "F for Fityan",
+      "message": "<p>Halo Pak Dhika dan semuanya! Saya Fityan. Ini showcase ke-3 saya (kalo gak salah inget).</p>\n<p>Weekend kemarin saya bikin <strong>GitHub Release Viewer</strong>, website yang <em>simple</em> untuk baca release notes dari repositori2 GitHub <strong>yang publik</strong>, dan bisa switch antar rilis dengan mudah.</p>\n<p>Motifnya bikin ini karena di page GitHub aslinya <em>menurut saya</em> agak susah untuk switch antar rilisnya (UX-nya kurang), plus pengen nyoba Next.js ft. React 19 yang baru aja stable release belum lama ini.</p>\n<ul>\n<li>Repo: <a href=\"https://github.com/fityannugroho/ghrelease\">https://github.com/fityannugroho/ghrelease</a></li>\n<li>Web: <a href=\"https://ghrelease.vercel.app\">https://ghrelease.vercel.app</a></li>\n</ul>\n<p>Tech stack</p>\n<ul>\n<li>Next.js 15 + React 19</li>\n<li>Tailwind CSS + Shadcn UI</li>\n<li>Tanstack Query</li>\n</ul>",
+      "image": "SEASON-5-4 Januari 2025-9.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "11 Januari 2025",
+      "projectLink": "https://syclestore.com",
+      "projectIdx": 0,
+      "username": "sycle",
+      "message": "<p>Selamat malam, Pak Dhika dan teman-teman.</p>\n<p>Perkenalkan, nama saya Rivaldo Tandoko, mahasiswa semester 3 di Telkom University. Pada sesi showcase ke-7 ini, saya ingin memperkenalkan sebuah platform untuk top up game termurah dan #GakPakeLama yaitu SycleStore.</p>\n<p>SycleStore dirancang untuk memudahkan para gamer dalam melakukan top-up berbagai game favorit mereka dengan pengalaman pengguna yang sederhana namun fungsional.</p>\n<p>Tech Stack yang digunakan:</p>\n<ul>\n<li>Next.js</li>\n<li>TailwindCSS</li>\n<li>Prisma</li>\n<li>React-icons</li>\n<li>Shadcn</li>\n</ul>\n<p>Fitur Utama:</p>\n<ul>\n<li>Top-up game tanpa memerlukan login.</li>\n<li>Riwayat transaksi dengan input nomor telepon atau kode pembayaran (tidak perlu login).</li>\n<li>Berbagai metode pembayaran populer</li>\n<li>Dark mode</li>\n</ul>\n<p>Live Demo: <a href=\"https://syclestore.com\">https://syclestore.com</a></p>\n<p>Sekian dari saya. Mohon dukungan dan feedbacknya. Terima kasih! 😊</p>",
+      "image": "SEASON-5-11 Januari 2025-0.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "11 Januari 2025",
+      "projectLink": "https://amanah-fc.site/",
+      "projectIdx": 1,
+      "username": "Kholid Irfangi",
+      "message": "<p>Assalamu&#39;alaikum Pak Dhika dan semua pasukan ; Ijin share project ke 2 saya, kali ini saya mau share landing page yang biasa saja sih ga ada yng spesial kaya nasi goreng. Landing page ini saya buat untuk tempat kerja saya biar kelihatan keren..wkwk\nWebsite ini dibangun menggunakan Vite + React + Tailwindcss. Saran dan masukkannya tentunya saya tunggu.. hehe\nLink github: <a href=\"https://github.com/kholidirfangi/amanah-fc\">https://github.com/kholidirfangi/amanah-fc</a>\nLive website: <a href=\"https://amanah-fc.site/\">https://amanah-fc.site/</a></p>",
+      "image": "SEASON-5-11 Januari 2025-1.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "11 Januari 2025",
+      "projectLink": "https://marketplace.visualstudio.com/items?itemName=Yusupsupriyadicom.keep-moving",
+      "projectIdx": 2,
+      "username": "Wingman",
+      "message": "<p>Hai, Para Developer! 👋</p>\n<p>🚀 Memperkenalkan &quot;𝗞𝗲𝗲𝗽 𝗠𝗼𝘃𝗶𝗻𝗴&quot; - Extension Penunjang kesehatan kamu! 🧘‍♂️💻</p>\n<p>Saya senang bisa memperkenalkan &quot;𝗞𝗲𝗲𝗽 𝗠𝗼𝘃𝗶𝗻𝗴&quot;, ekstensi baru buatan saya untuk VSCode yang dirancang untuk membantu kamu tetap sehat saat coding berjam jam. 🏋️‍♀️✨</p>\n<p>🌟 𝗪𝗵𝗮𝘁 𝗱𝗼𝗲𝘀 𝗶𝘁 𝗱𝗼?? &quot;Keep Moving&quot; adalah aplikasi yang mengingatkan kamu untuk berhenti sejenak, berdiri, dan meregangkan tubuh. Setiap interval waktunya bisa disesuaikan sesuai kebutuhan—defaultnya adalah setiap 1 jam sekali, namun kamu bisa memilih durasi yang lebih pendek atau panjang. Fitur sederhana ini sangat efektif untuk menjaga kesehatan, terutama saat kamu fokus bekerja berjam-jam. Hanya dengan bergerak sedikit, kamu bisa membantu menjaga kesehatan fisik dan fokus mentalmu.</p>\n<p>👉 𝗧𝗿𝘆 𝗶𝘁 𝗻𝗼𝘄: Unduh di VS Code Marketplace\n<a href=\"https://marketplace.visualstudio.com/items?itemName=Yusupsupriyadicom.keep-moving\">https://marketplace.visualstudio.com/items?itemName=Yusupsupriyadicom.keep-moving</a></p>\n<p>💻 **GitHub Repository **\n<a href=\"https://github.com/yusupsupriyadi/keep-moving-extension\">https://github.com/yusupsupriyadi/keep-moving-extension</a></p>\n<p><strong>Tech &amp; Stack:</strong></p>\n<ul>\n<li>Yeoman (Yo)</li>\n<li>Javascript</li>\n<li>Tailwind (cdn)</li>\n<li>Lottie</li>\n</ul>\n<p>Yuk, mulai lebih peduli dengan kesehatanmu! Luangkan sedikit waktu untuk berdiri dan bergerak dari tempat kerjamu. Langkah kecil ini bisa membuat tubuhmu jauh lebih sehat 💪✨</p>\n<p>💖 Kalau kamu merasa ini berguna, jangan lupa beri ⭐ di repo GitHub dan kasih feedback. Itu sangat berarti buat saya! 🙏</p>",
+      "image": "SEASON-5-11 Januari 2025-2.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "11 Januari 2025",
+      "projectLink": "https://pathfinding-visualization-app.vercel.app/",
+      "projectIdx": 3,
+      "username": "trent_handoko",
+      "message": "<p>Selamat pagi Pak Dhika!\nPerkenalkan nama saya Satia, pada kesempatan kali ini saya ingin menunjukkan projek Visualisasi Pathfinding Algorithm. Projek ini bertujuan untuk membantu memahami algoritma pathfinding secara visual(kedepannya saya akan tambahkan lagi untuk sortir algorithm :))</p>\n<p>Tech Stack:\n-Javascript\n-React\n-Tailwind</p>\n<p>Penjelasan singkat dari projek saya: pertama-tama teman&quot; menentukan titik start dan titik finish dgn cara dragging. Kemudian teman&quot; dapat draw walls atau barrier pada fieldnya atau click create random wall (kedepannya saya tambahkan create labyrinth). Lalu teman&quot; bisa pilih algoritma utk mencari jarak terdekat antara dua titik, mau menggunakan dijkstra atau A-star(kedepannya akan saya tambahkan BFS dan DFS :)).</p>\n<p>Untuk demonya dan penjelasan dari projek ini, jika berkenan bisa lihat disini: <a href=\"https://www.youtube.com/watch?v=qWWI8y2dq_E&t=2s\">https://www.youtube.com/watch?v=qWWI8y2dq_E&amp;t=2s</a>\nGithub: <a href=\"https://github.com/Trenttrevor/pathfinding-visualization-app\">https://github.com/Trenttrevor/pathfinding-visualization-app</a>\nWebsite: <a href=\"https://pathfinding-visualization-app.vercel.app/\">https://pathfinding-visualization-app.vercel.app/</a></p>",
+      "image": "SEASON-5-11 Januari 2025-3.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "11 Januari 2025",
+      "projectLink": "https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v3/projects/realtime3d/realtime3d.html",
+      "projectIdx": 4,
+      "username": "⚙⚙WowGGGearing⚙⚙",
+      "message": "<p>Bismillaahirrahmaanirrahiim\nAssalaamu&#39;alaykum Wr wb.</p>\n<p>Project kali ini adalah Realtime 3D - Damaskus\n&quot;Antrian kendaraan menuju Damaskus setelah runtuhnya Assad&quot;</p>\n<p>Web ini sedang Work_In_Progress</p>\n<p>Saat ini aku mau tunjukkan:</p>\n<ul>\n<li>Perubahan bentuk objek secara realtime\nAku edit dari Blender, hasilnya langsung terlihat\nSupabase sebagai storage kumpulan objek 3d</li>\n</ul>\n<p>Untuk memulai:</p>\n<ol>\n<li>Click Show/Hide data (icon mata)</li>\n<li>Click &quot;Tambah client&quot;</li>\n<li>Data jangan diotak atik, cukup dilihat, atau Click Show/Hide data, biar ga kepejet (belum &lt;:jago:1164582900730179659&gt; bahasa &lt;:postgresql:831843519039537162&gt;&lt;:postgresql:831843519039537162&gt;)</li>\n<li>Gerakkan kamera, baca petunjuk</li>\n</ol>\n<p>Next: bikin gerakan armature (pohon goyang, engsel, dll)\nTunggu update selanjutnya</p>\n<p>Editor:</p>\n<ul>\n<li>Blender 4.3.0</li>\n<li>Text Area Kelap Kelip <a href=\"https://github.com/AngkasaMuhammad/TextAreaKelapKelip\">https://github.com/AngkasaMuhammad/TextAreaKelapKelip</a></li>\n<li>Notepad++</li>\n</ul>\n<p>Javascript library:</p>\n<ul>\n<li>wgpu-matrix <a href=\"https://wgpu-matrix.org/docs/\">https://wgpu-matrix.org/docs/</a></li>\n</ul>\n<p>Repo: <a href=\"https://github.com/AngkasaMuhammad/Poly-Landhep/tree/main/Poly%20Landhep/v3/projects/realtime3d\">https://github.com/AngkasaMuhammad/Poly-Landhep/tree/main/Poly%20Landhep/v3/projects/realtime3d</a>\nWeb: <a href=\"https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v3/projects/realtime3d/realtime3d.html\">https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v3/projects/realtime3d/realtime3d.html</a></p>\n<p>Aku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU &amp; memilih library yang mengutamakan performa.\nKita tidak cuma ahli main game, kita juga ahli 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 atau dompet makin slim 💸📉\nKita tidak cuma bisa berkendara 🛵🚙, kita juga bisa 💪💪 bikin kendaraan yang irit, awet, ringan, &amp; banter.</p>\n<h4>🆓🆓 🇵🇸 🇱🇧 +Syria</h4>\n<p>Maturnuwun.</p>",
+      "image": "SEASON-5-11 Januari 2025-4.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "11 Januari 2025",
+      "projectLink": "https://www.bookarcade.my.id ",
+      "projectIdx": 5,
+      "username": "Cang",
+      "message": "<p>Halo Pak Dhika! 👋</p>\n<p>Perkenalkan nama saya Mhd. Goncang, saya ingin memperkenalkan web yang saya buat yaitu Book Arcade, sebuah website interaktif untuk para pecinta membaca dan menulis. Di sini, user bisa:</p>\n<p>📖 Membaca berbagai novel dan cerpen yang ditulis sendiri oleh user\n✍️ Menulis cerita atau karya sendiri\n⭐ Memberikan ulasan dan feedback pada karya orang lain</p>\n<p>Dan untuk fitur arcade nya seperti:\n🎯 Sistem Misi – Selesaikan misi seperti membaca buku tertentu, menulis cerita, atau memberikan ulasan\n🏆 Poin Experience &amp; Level – Setiap aktivitas seperti menyelesaikan misi, menulis cerita, atau memberikan ulasan akan memberikan poin experience untuk meningkatkan level user\n📊 Ranking – Ada sistem peringkat untuk memotivasi user agar lebih aktif dan kompetitif</p>\n<p>Tujuan saya membangun Book Arcade adalah untuk menciptakan komunitas yang lebih aktif, produktif, dan seru di dunia literasi digital. Saya berharap teman-teman bisa mencoba platform ini dan memberikan feedback untuk pengembangan lebih lanjut. 😊</p>\n<p>Teach Stack:</p>\n<ol>\n<li>Next.js</li>\n<li>Mongo DB</li>\n<li>Mongoose</li>\n<li>Tailwind CSS</li>\n<li>Daisy UI</li>\n<li>SWR</li>\n</ol>\n<p>Untuk akun admin, akan saya kirimkan melalui DM Discord ke Pak Dhika</p>\n<p>Silakan kunjungi: <a href=\"https://www.bookarcade.my.id\">https://www.bookarcade.my.id</a>\nGithub: <a href=\"https://github.com/goncang1512/Book_Hub\">https://github.com/goncang1512/Book_Hub</a></p>",
+      "image": "SEASON-5-11 Januari 2025-5.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "11 Januari 2025",
+      "projectLink": "https://attractors.edqe.me/",
+      "projectIdx": 6,
+      "username": "Yuka ✧",
+      "message": "<p>Halo semua 👋</p>\n<p>Kali ini aku mau share salah satu project lamaku, <strong>Attractor Visualizer</strong>. Project ini adalah visualisasi untuk beberapa chaotic attractor (<a href=\"https://en.wikipedia.org/wiki/Attractor\">https://en.wikipedia.org/wiki/Attractor</a>).</p>\n<blockquote>\n<p>📚 <strong>Tech stack</strong></p>\n</blockquote>\n<ol>\n<li>Next.js</li>\n<li>Tailwind</li>\n<li>Three.js</li>\n<li>Mantine</li>\n</ol>\n<blockquote>\n<p><strong>Website</strong> &gt; <a href=\"https://attractors.edqe.me/\">https://attractors.edqe.me/</a></p>\n</blockquote>\n<ul>\n<li>Github <a href=\"https://github.com/Edqe14/attractors\">https://github.com/Edqe14/attractors</a></li>\n</ul>",
+      "image": "SEASON-5-11 Januari 2025-6.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "11 Januari 2025",
+      "projectLink": "https://yumemart.vercel.app/",
+      "projectIdx": 7,
+      "username": "Arifin",
+      "message": "<p>halo semua nya perkenalkan nama saya arifin kali ini saya ingin showcase projek yang ke 3 di showcase kali ini saya membuat websit toko online yang bernama yumemart yang terinspirasi dari bahasa jepang yang artinya toko impian saya membuat websit ini megunakan next js yang saya pelajari kurang lebih 1 bulanan dan ini adalah projek next js pertama saya toloang jika ada kritik dan saran jangan sungkan untuk di sampikan karena kritik dan saran dari teman teman sangat membantu🙏</p>\n<p>tech stack:\n.next js\n.tailwind css\n.firebase\n.sweet alert\n.midtrans</p>\n<p>untuk simulasi pembayaran nya bisa mengunaka midtrans payment simulator</p>\n<p>websit: <a href=\"https://yumemart.vercel.app/\">https://yumemart.vercel.app/</a>\nrepo: <a href=\"https://github.com/Arifin0316/website-store\">https://github.com/Arifin0316/website-store</a></p>",
+      "image": "SEASON-5-11 Januari 2025-7.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "11 Januari 2025",
+      "projectLink": "https://sunnyhopetogame.itch.io/trying-web-based-game-dragon-runner-platformer",
+      "projectIdx": 8,
+      "username": "Sunny Hope",
+      "message": "<p>halo pak dhika dan teman teman semua perkenalkan nama Hassan saya dari Bogor tapi aslinya dari luar ngeri (Suriah).</p>\n<p>ini showcase pertama saya dan saya membuat Game Pertama saya dalam itchio dari game download ke Game web yang nama nya Dragon runner Platformer\nnamun maaf bila masih banyak kekurangan di dalam game saya Soalnya saya masih belajar soal buat game</p>\n<p>note: masih ada bebarapa fitur yang belum lengkap dalam gamenya soalnya masih dalam proses buatan</p>\n<p>Tech Stack:\nGodot ( Game Engine )\nGdscript (bahasa programman kuhsus untuk Game engine Godot)\nitch.io</p>\n<p>LInk:\n<a href=\"https://sunnyhopetogame.itch.io/trying-web-based-game-dragon-runner-platformer\">https://sunnyhopetogame.itch.io/trying-web-based-game-dragon-runner-platformer</a></p>\n<p>repo:\n<a href=\"https://github.com/Code-is-me/game-dragon-runner\">https://github.com/Code-is-me/game-dragon-runner</a></p>",
+      "image": "SEASON-5-11 Januari 2025-8.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "11 Januari 2025",
+      "projectLink": "https://github.com/Yu1chiro/Iscout-free",
+      "projectIdx": 9,
+      "username": "Yui",
+      "message": "<p>Hallo temen-temen WPU &amp; Pak Shandika Selamat malam🙇🏻🙇🏻, kali ini Yui ingin showcase project kecil&quot;an sekaligus iseng, project ini Yui buat di sela sela UAS yg nge spawn banget, kebetulan juga yui lagi belajar figma dan move belajar desain hehe, project nya yaitu ISCOUT Downloader.</p>\n<p>Project ini terinspirasi karena yui kesusahan mendownload icon di website icon scout, karena 3D icon nya premium semua😥😥 , jadi yui mutusin buat bikin project ini, agar icon yg premium bisa di download dengan gratis, ya walau aga burem dikit ga ngaruh wkwkwk, project ini belum sepenuhnya yui deploy/hosting karena ga ada waktu juga hehe:v</p>\n<p>使われる物 : Tailwind, Express, Puppeteer.</p>\n<p>Repo : <a href=\"https://github.com/Yu1chiro/Iscout-free\">https://github.com/Yu1chiro/Iscout-free</a></p>\n<p>Semoga membantu buat temen temen front end dan yang suka design, tidak lupa juga yui minta kritik dan saranya temen temen &amp; pak shandika apakah ini legal atau tidak hehe:D</p>",
+      "image": "SEASON-5-11 Januari 2025-9.png"
     }
   ]
 }
