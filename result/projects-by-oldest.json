@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-01-27T06:09:53.059Z",
+  "fetched_at": "2025-02-01T12:57:09.683Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -16380,6 +16380,96 @@
       "username": "Yui",
       "message": "<p>Hallo temen-temen WPU &amp; Pak Shandika Selamat malam🙇🏻🙇🏻, kali ini Yui ingin showcase project kecil&quot;an sekaligus iseng, project ini Yui buat di sela sela UAS yg nge spawn banget, kebetulan juga yui lagi belajar figma dan move belajar desain hehe, project nya yaitu ISCOUT Downloader.</p>\n<p>Project ini terinspirasi karena yui kesusahan mendownload icon di website icon scout, karena 3D icon nya premium semua😥😥 , jadi yui mutusin buat bikin project ini, agar icon yg premium bisa di download dengan gratis, ya walau aga burem dikit ga ngaruh wkwkwk, project ini belum sepenuhnya yui deploy/hosting karena ga ada waktu juga hehe:v</p>\n<p>使われる物 : Tailwind, Express, Puppeteer.</p>\n<p>Repo : <a href=\"https://github.com/Yu1chiro/Iscout-free\">https://github.com/Yu1chiro/Iscout-free</a></p>\n<p>Semoga membantu buat temen temen front end dan yang suka design, tidak lupa juga yui minta kritik dan saranya temen temen &amp; pak shandika apakah ini legal atau tidak hehe:D</p>",
       "image": "SEASON-5-11 Januari 2025-9.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "27 Januari 2025",
+      "projectLink": "https://gudang-app.vercel.app/",
+      "projectIdx": 0,
+      "username": "Giri Diwa Adam",
+      "message": "<p>Hallo Temen-temen Wpu dan Pak Shandika galih, pada kesempatan kali ini, Saya <strong>Giri Diwa Adam</strong> ingin Showcase sebuah <strong>List Gudang</strong> sederhana yang saya buat dengan menggunakan\n<strong>Express JS dan React</strong> serta <strong>Neon DB (Postgres)</strong> Untuk Dbnya tidak lupa juga menggunakan <strong>Clerk</strong> Sebagai Authentifikasinya.</p>\n<p>Ide aplikasi Ini sendiri saya dapatkan Ketika saya sedang coba belajar membuat sebuah\nproject Bernama <strong>Comic App</strong> yang saya pelajari Ketika les dulu. dan lahirlah project sederhana ini.</p>\n<p>Mohon maaf apabila ada kekurangan di dalam project ini, di karenakan project ini\nmasih dalam tahap pengembangan dan akan di kembangkan seiring berjalanya Waktu.</p>\n<p>Tanpa Perlu berlama-lama lagi saya berikan <strong>Techstack</strong> yang saya gunakan untuk membuat project ini :</p>\n<ul>\n<li><strong>EXPRESS (Backend)</strong></li>\n<li><strong>React Js (Frontend)</strong></li>\n<li><strong>Axios (Http Api)</strong></li>\n<li><strong>Neon DB (Postgres) (Database)</strong></li>\n<li><strong>Vercel (Hosting)</strong></li>\n<li><strong>Chat GPT (Asistant Untuk Membantu Mencari tutorial)</strong></li>\n<li><strong>Clerk (Authentifikasi).</strong></li>\n</ul>\n<p>Kritik dan Saran akan sangat membantu saya untuk mengembangkan Aplikasi Ini Kedepanya (Kalau boleh kasih Star), supaya saya lebih semangat lagi untuk membuat project yang lebih baik kedepanya.</p>\n<p><strong>Link</strong> : <a href=\"https://gudang-app.vercel.app/\">https://gudang-app.vercel.app/</a>\n<strong>Repo Frontend</strong> : <a href=\"https://github.com/GiriAdam78/gudang-app\">https://github.com/GiriAdam78/gudang-app</a>\n<strong>Repo Backend</strong> : <a href=\"https://github.com/GiriAdam78/express-gudang\">https://github.com/GiriAdam78/express-gudang</a></p>",
+      "image": "SEASON-5-27 Januari 2025-0.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "27 Januari 2025",
+      "projectLink": "https://story-book-self.vercel.app/",
+      "projectIdx": 1,
+      "username": "Fathin Nasi Goreng",
+      "message": "<h4>Story Book</h4>\n<p>Haloo semuanya 😁</p>\n<p>saya M.Fathin Halim, seorang pelajar smp kelas 9 (untuk 2024) dan kali ini saya ingin men-showcase web saya yang bernama Story Book 📚</p>\n<p>jadi web ini adalah web dimana kita bisa nyimpen catatan kita ya kayak buku fisik biasa. Dan catatan tersebut bisa di share dengan link ataupun jika ingin menulis cerpen/novel bisa juga di publish.\nselain itu juga, web ini bisa menjadi tempat dimana teman-teman bertanya pertanyaan (Layaknya brainly dan kawan-kawan)</p>\n<p>Fitur:</p>\n<ul>\n<li>save notes</li>\n<li>publish notes (seperti novel)</li>\n<li>questions (bertanya dengan komunitas seperti brainly)</li>\n<li>ai generate notes</li>\n</ul>\n<p>Tech Stack:</p>\n<ul>\n<li>Next JS</li>\n<li>TypeScript</li>\n<li>Bootstrap</li>\n<li>MongoDB</li>\n<li>Font Awesome</li>\n<li>Imagekit.io</li>\n<li>React Quill (Rich Text)\n-Light Mode\n-Ai Write\n-Ai Summary\n-Profile</li>\n</ul>\n<p>mohon sarannya dan boleh dipakai ya semoga membantu temen temen juga hehe 😄</p>\n<p>Link Web: <a href=\"https://story-book-self.vercel.app/\">https://story-book-self.vercel.app/</a>\nLink Repository: <a href=\"https://github.com/MFathinHalim/StoryBook\">https://github.com/MFathinHalim/StoryBook</a></p>",
+      "image": "SEASON-5-27 Januari 2025-1.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "27 Januari 2025",
+      "projectLink": "https://lawrient.xyz",
+      "projectIdx": 2,
+      "username": "Lawrient",
+      "message": "<p>Selamat malam Pak Dhika, salam kenal semua...</p>\n<p>berikut adalah project pertama saya di showcase project wpu, sekaligus project pertama untuk di porto saya selama belajar ngoding... karna bingung dan gada ide mau buat apa, saya ikut kata kang Eko PZN &quot;buat yg udah ad&quot;, jadi project saya cuma nge clone web pinterest hehe..</p>\n<p>untuk fiturnya hanya yang basic saja seperti login/register, upload, save, like, comment, dan follow</p>\n<p>Tech Stack:</p>\n<ul>\n<li>NextJS</li>\n<li>React</li>\n<li>TailwindCSS</li>\n<li>Go</li>\n<li>PostgreSQL</li>\n</ul>\n<p>Web: <a href=\"https://lawrient.xyz\">https://lawrient.xyz</a>\nGithub : <a href=\"https://github.com/RivLawrient/clone_pinterest\">https://github.com/RivLawrient/clone_pinterest</a></p>",
+      "image": "SEASON-5-27 Januari 2025-2.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "27 Januari 2025",
+      "projectLink": "https://vibenet-two.vercel.app/",
+      "projectIdx": 3,
+      "username": "Dexter",
+      "message": "<p>Halo pak Dhika dan teman², pada kesempatan kali ini Saya ingin showcase sebuah website sosial media/Instagram clone sederhana.\nProject ini dikerjakan dua orang yaitu saya sama temen saya ( gk mau disebut dia 🗿)</p>\n<p>Tech:</p>\n<ul>\n<li>Next js</li>\n<li>Tailwind</li>\n<li>Ionicon</li>\n<li>Redux</li>\n<li>Axios</li>\n<li>Node Js</li>\n<li>Socket.io</li>\n<li>Mysql</li>\n</ul>\n<p>Lupa apa lagi, keknya segitu doang 🗿</p>\n<p>Link Website:\n<a href=\"https://vibenet-two.vercel.app/\">https://vibenet-two.vercel.app/</a></p>",
+      "image": "SEASON-5-27 Januari 2025-3.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "27 Januari 2025",
+      "projectLink": "https://15.pow.kim/",
+      "projectIdx": 4,
+      "username": "PixelLynz",
+      "message": "<p><strong>Selamat malam, Padika dan teman-teman semua!</strong></p>\n<p>Izinkan saya showcase project saya yang ke... entahlah, saya sudah showcase cukup banyak project sampai lupa urutannya :v. Untuk meramaikan malam ini, saya ingin kembali showcase sebuah library yang saya buat. Saya yakin library ini <strong>akan sangat berguna</strong> untuk teman-teman semua, termasuk Padika.</p>\n<p>Namanya? <strong>Silakan buka websitenya</strong>\nFungsinya? <strong>Silakan buka websitenya juga :v</strong></p>\n<p>Saya tidak ingin terlalu banyak spoiler di sini, jadi langsung saja buka websitenya dan lihat sendiri :v</p>\n<p>🌐 <strong>Website</strong>: <a href=\"https://15.pow.kim/\">ini</a>\n📂 <strong>Repository</strong>: <a href=\"https://github.com/kimmyxpow/is-it-fifteen\">ini</a></p>\n<p><strong>Tech Stack:</strong>\n<strong>Library</strong>:</p>\n<ul>\n<li>TypeScript</li>\n</ul>\n<p><strong>Web</strong>:</p>\n<ul>\n<li>React</li>\n<li>Vite</li>\n<li>Tailwind CSS</li>\n<li>Motion / Framer Motion</li>\n<li>(Sedikit) Threejs</li>\n</ul>\n<p>Terima kasih, dan saya harap project ini bisa bermanfaat serta menghibur teman-teman semua! Selamat menikmati showcase malam ini! 🎉</p>",
+      "image": "SEASON-5-27 Januari 2025-4.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "27 Januari 2025",
+      "projectLink": "https://github.com/tursodatabase/turso-driver-laravel",
+      "projectIdx": 5,
+      "username": "darkterminal | panggilmeiam",
+      "message": "<p>Hi, I am back again!</p>\n<p>Kali ini saya ingin showcase perkembangan Turso libSQL Extension yang sudah bisa digunakan di <strong>Linux / Mac / Windows / WSL</strong> dan bisa juga digunakan di <strong>FrankenPHP</strong> mengingat FrankenPHP membutuhkan <strong>PHP Thread Safe</strong> Build Version, sekarang libSQL PHP Extension memiliki 2 build varian yaitu Thread-Safe (TS) dan Non Thread-Safe.</p>\n<p>Lebih istimewanya lagi, melakukan instalasi libSQL Extension serasa melakukan instalasi Composer Package karena dimudahkan oleh <code>turso-php-installer</code> yang sekarang juga include dan tersedia di <strong>Turso Driver Laravel</strong> dan tersedia di <code>php artisan</code> command, OhMyPunk!!! 😱</p>\n<p>This is the showcase:</p>\n<ul>\n<li>YouTube Video - Turso Driver Laravel: <a href=\"https://youtu.be/0v-aGwJYw2Q?si=UmQsINkUgWCpg_uW\">https://youtu.be/0v-aGwJYw2Q?si=UmQsINkUgWCpg_uW</a></li>\n<li>Dokumentasi libSQL PHP Extension: <a href=\"https://darkstation.mintlify.app/dark-extensions/introduction\">https://darkstation.mintlify.app/dark-extensions/introduction</a></li>\n<li>Dokumentasi Turso PHP Installer: <a href=\"https://darkstation.mintlify.app/dark-extensions/tools/installer/introduction\">https://darkstation.mintlify.app/dark-extensions/tools/installer/introduction</a></li>\n</ul>\n<p>Repository:</p>\n<ul>\n<li>Turso Driver Laravel: <a href=\"https://github.com/tursodatabase/turso-driver-laravel\">https://github.com/tursodatabase/turso-driver-laravel</a></li>\n<li>Turso PHP Installer: <a href=\"https://github.com/darkterminal/turso-php-installer\">https://github.com/darkterminal/turso-php-installer</a></li>\n</ul>\n<p>That&#39;s it! Enjoy and have a Wonderful Day ❤️</p>",
+      "image": "SEASON-5-27 Januari 2025-5.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "27 Januari 2025",
+      "projectLink": "https://kriptolab.vercel.app/",
+      "projectIdx": 6,
+      "username": "Kusho",
+      "message": "<p>Halo Pak Sandhika Galih dan warga WPU semuanya, mohon izin untuk showcase project.</p>\n<p>Perkenalkan nama saya Gustut Yoghantara mahasiswa S1 Jurusan Sistem Informasi di Universitas ITB STIKOM Bali. Kali ini saya ingin showcase project Tugas Akhir saya.</p>\n<p>Website yang saya buat berupa Web Simulasi Trading Kripto yang bernama <strong>KriptoLab</strong>. KriptoLab adalah platform simulasi trading kripto yang mengintergrasikan API Publik Indodax untuk data kripto real-time, chart dari TradingView untuk menampilkan grafik harga candlestick, serta React Joyride untuk Interactive Tours Guide.</p>\n<p>Link Website: <a href=\"https://kriptolab.vercel.app/\">https://kriptolab.vercel.app/</a>\nLink Repo: <a href=\"https://github.com/yoghantara08/kriptolab\">https://github.com/yoghantara08/kriptolab</a></p>\n<p><strong>Fitur Utama</strong></p>\n<ol>\n<li>Simulasi Trading (Jual/Beli Kripto)</li>\n<li>Indodax Crypto List &amp; Real-time data</li>\n<li>TradingView Candlestick Chart</li>\n<li>Interactive Tours Guide</li>\n<li>Login/Register (Email &amp; Google)</li>\n<li>Portfolio Management</li>\n<li>Transaction History</li>\n</ol>\n<p><strong>Frontend Technologies</strong></p>\n<ol>\n<li>TypeScript</li>\n<li>Next.js</li>\n<li>Tailwindcss</li>\n<li>TradingView Lightweight Charts</li>\n<li>Recharts</li>\n<li>Redux</li>\n<li>SWR</li>\n<li>Headlessui</li>\n<li>React hook form</li>\n<li>Lucide React</li>\n<li>React Joyride</li>\n</ol>\n<p><strong>Backend Technologies</strong></p>\n<ol>\n<li>Node.js</li>\n<li>Express.js</li>\n<li>MongoDB</li>\n<li>Mongoose</li>\n<li>Node-cron</li>\n<li>Axios</li>\n<li>JWT</li>\n<li>Passport Google OAuth2</li>\n<li>Nodemailer</li>\n<li>Socket.io</li>\n</ol>\n<p><strong>Utilities</strong></p>\n<ol>\n<li>Pinata Web3 (IPFS untuk decentralized storage)</li>\n<li>i18n (Untuk translation)</li>\n</ol>\n<p>Sekian Terimakasih teman2 semuanya, mohon kritik dan sarannya &lt;:wpugege:827100210563776512&gt;</p>",
+      "image": "SEASON-5-27 Januari 2025-6.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "27 Januari 2025",
+      "projectLink": "https://github.com/arifbudimanar/zinc-ui",
+      "projectIdx": 7,
+      "username": "Arif Budiman",
+      "message": "<p>Halo semuanya ...\nPerkenalkan saya Arif Budiman, pada kali ini saya ingin showcase sebuah laravel package yaitu <strong>Zinc UI</strong>.\nZinc UI merupakan sebuah kumpulan UI komponen yang diperuntukan untuk Livewire dibuat dengan Tailwind dan Alpine Js.\nPackage ini masih dalam tahap <strong>Alpha</strong> dan masih dalam tahap pengembangan.</p>\n<blockquote>\n<p>Zinc UI merupakan clone dari Flux UI.\nFYI : Flux UI itu Livewire UI library berbayar yang dibuat oleh Caleb Porzio (creator livewire).</p>\n</blockquote>\n<p>Tech Stack : TALL Stack (Tailwind AlpineJs Laravel Livewire).</p>\n<p><a href=\"https://github.com/arifbudimanar/zinc-ui\">Github</a>\n<a href=\"https://packagist.org/packages/arifbudimanar/zinc-ui\">Packagist</a>\n<a href=\"https://zinc.arifcode.dev/\">Dokumentasi</a></p>\n<p>Kalo mau berkontibusi tapi blm tau cara setup package development di lokal silahkan PM aja, nnti sya kasih guide nya.</p>\n<p>Beberapa komponen yang sudah tersedia:</p>\n<ul>\n<li>Accordion</li>\n<li>Badge</li>\n<li>Button</li>\n<li>Breadcrumbs</li>\n<li>Card</li>\n<li>Dropdown</li>\n<li>Field</li>\n<li>Heading</li>\n<li>Icon</li>\n<li>Input</li>\n<li>Navbar</li>\n<li>Separator</li>\n<li>Textarea</li>\n<li>Toaster</li>\n<li>Tooltip</li>\n<li>dst.</li>\n</ul>\n<p>Untuk mencobanya silahkan kunjungi dokumentasi.\nTerimakasih.</p>",
+      "image": "SEASON-5-27 Januari 2025-7.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "27 Januari 2025",
+      "projectLink": "https://cvroasted.com",
+      "projectIdx": 8,
+      "username": "Wingman",
+      "message": "<p>Hallo Pak dhika dan para pelamar kejar 🚀</p>\n<p>mau showcase project saya:\n🌟 <a href=\"https://cvroasted.com\">https://cvroasted.com</a> 🌟</p>\n<p>Platform inovatif ini dirancang khusus untuk membantu Job Seekers memperbaiki CV nya</p>\n<p>Feature cvroasted.com:\n✅ Terintegrasi dengan Gemini AI\n✅ Analisis otomatis secara mendalam dan mendiagnosa kelengkapan CV\n✅ Memberikan masukan konkret untuk perbaikan\n✅ 100% GRATIS!</p>\n<p>Tech &amp; Stack:</p>\n<ul>\n<li>NextJs</li>\n<li>Supabase</li>\n<li>Gemini Flash 1.5</li>\n<li>Tailwind</li>\n<li>Antd</li>\n</ul>\n<p>Minta bantuan upvote di product hunt ya temen2\n<a href=\"https://www.producthunt.com/posts/cvroasted?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cvroasted\">https://www.producthunt.com/posts/cvroasted?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-cvroasted</a></p>\n<p>kali ini repo githubnya di private dulu😅</p>\n<p>Semua proses secara temporer dan data tidak disimpan dalam database.\nlengkapnya di sini: <a href=\"https://www.cvroasted.com/privacy-policy\">https://www.cvroasted.com/privacy-policy</a></p>",
+      "image": "SEASON-5-27 Januari 2025-8.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "27 Januari 2025",
+      "projectLink": "https://zect.vercel.app/",
+      "projectIdx": 9,
+      "username": "Ya Sudahlah",
+      "message": "<p>Halo Semuanya 👋😳</p>\n<p>Halo Pak Sandhika Galih 👋😳</p>\n<p>Perkenalkan nama saya Al Sakha. Saya mohon izin untuk mengikuti showcase project.\nSaya ingin showcase project website portfolio.</p>\n<p>Tech stack saya ada</p>\n<ul>\n<li>Javascript</li>\n<li>NextJs</li>\n<li>Tailwindcss</li>\n<li>Shadcn ui</li>\n</ul>\n<p>Berikut untuk link nya\nDemo : <a href=\"https://zect.vercel.app/\">https://zect.vercel.app/</a></p>\n<p>Dan jika ingin mengunjungi repo nya\nGithub : <a href=\"https://github.com/IRTIDEATH/Zect\">https://github.com/IRTIDEATH/Zect</a></p>\n<p>edit: Sekedar informasi, ini bukan website portfolio utama.</p>\n<p>Jika ada kritik dan saran dipersilahkan.\nJadi itu saja dari saya, Terima Kasih banyak, maaf jika ada kesalahan kata.</p>",
+      "image": "SEASON-5-27 Januari 2025-9.png"
     }
   ]
 }
