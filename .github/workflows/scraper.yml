@@ -23,7 +23,7 @@ jobs:
         run: npm install -g pnpm@10.4.1
 
       - name: PNPM install
-        run: pnpm install --frozen-lockfile
+        run: pnpm install --no-frozen-lockfile
 
       - name: Run scraping unit
         run: pnpm start
