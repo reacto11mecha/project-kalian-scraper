@@ -20,7 +20,7 @@ jobs:
           node-version: 20
           
       - name: Install pnpm
-        run: npm install -g pnpm@10.4.1
+        run: npm install -g pnpm@9.15.5
 
       - name: PNPM install
         run: pnpm install --no-frozen-lockfile
