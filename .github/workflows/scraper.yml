@@ -20,10 +20,10 @@ jobs:
           node-version: 20
           
       - name: Enable corepack
-        run: corepack prepare pnpm@latest --activate
+        run: corepack enable
 
       - name: PNPM install
-        run: pnpm install --frozen-lockfile
+        run: pnpm install
 
       - name: Run scraping unit
         run: pnpm start
