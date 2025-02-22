@@ -14,13 +14,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - name: Setup NodeJS 18
-        uses: actions/setup-node@v3
+      - name: Setup NodeJS 20
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
           
       - name: Enable corepack
-        run: corepack enable
+        run: corepack prepare pnpm@latest --activate
 
       - name: PNPM install
         run: pnpm install --frozen-lockfile
