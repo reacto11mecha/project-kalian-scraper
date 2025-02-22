@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-02-01T12:57:09.683Z",
+  "fetched_at": "2025-02-22T04:03:26.671Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -12016,6 +12016,41 @@
               "username": "Ya Sudahlah",
               "message": "<p>Halo Semuanya 👋😳</p>\n<p>Halo Pak Sandhika Galih 👋😳</p>\n<p>Perkenalkan nama saya Al Sakha. Saya mohon izin untuk mengikuti showcase project.\nSaya ingin showcase project website portfolio.</p>\n<p>Tech stack saya ada</p>\n<ul>\n<li>Javascript</li>\n<li>NextJs</li>\n<li>Tailwindcss</li>\n<li>Shadcn ui</li>\n</ul>\n<p>Berikut untuk link nya\nDemo : <a href=\"https://zect.vercel.app/\">https://zect.vercel.app/</a></p>\n<p>Dan jika ingin mengunjungi repo nya\nGithub : <a href=\"https://github.com/IRTIDEATH/Zect\">https://github.com/IRTIDEATH/Zect</a></p>\n<p>edit: Sekedar informasi, ini bukan website portfolio utama.</p>\n<p>Jika ada kritik dan saran dipersilahkan.\nJadi itu saja dari saya, Terima Kasih banyak, maaf jika ada kesalahan kata.</p>",
               "image": "SEASON-5-27 Januari 2025-9.png"
+            }
+          ]
+        },
+        {
+          "date": "8 Februari 2025",
+          "projects": [
+            {
+              "link": "https://github.com/robifr/ledger",
+              "username": "cold",
+              "message": "<p>halo semua. ini showcase pertama saya di sini. projeknya terkait aplikasi android untuk mengelola order penjualan. awalnya, projek ini dikembangkan untuk membantu UMKM lokal di area saya, termasuk saya sendiri, dalam menangani pembukuan.</p>\n<p>permasalahan utama yang sering terjadi pada UMKM biasanya seputar melacak status dari sebuah order, misalnya seperti usaha laundry yang biasanya dikerjakan berhari-hari, atau saat customer ingin booking barang di hari tertentu. seringkali, customer juga memberi uang deposit, atau justru berhutang.</p>\n<p>seluruh proses ini biasanya harus dikerjakan secara manual, mulai dari pencatatan sampai perhitungan. juga harus akurat, karena menyangkut uang milik customer. dari situ aplikasi ini dikembangkan.</p>\n<p>aplikasinya sendiri open source, dan tersedia di github:\n<a href=\"https://github.com/robifr/ledger\">https://github.com/robifr/ledger</a>\nuntuk download, ada di bagian release, atau klik di tombol &quot;get it on github&quot;.</p>\n<p>untuk fitur sendiri ada:</p>\n<ul>\n<li>dasbor yang bisa menampilkan data penjualan, saldo deposit dan hutang customer, produk, dll.</li>\n<li>kalkulasi saldo customer yang dilakukan secara otomatis.</li>\n<li>data sorting dan filtering.</li>\n<li>fitur pencarian untuk memudahkan mencari data.</li>\n<li>full offline, tanpa harus login dan semacamnya.</li>\n<li>pembaruan otomatis langsung dari aplikasinya, karena tidak dipublish di play store.</li>\n</ul>\n<p>teknologi:</p>\n<ul>\n<li>kotlin (sebelumnya java kemudian di-rewrite)</li>\n<li>javascript</li>\n<li>python</li>\n<li>room/sqlite</li>\n<li>okhttp</li>\n<li>hilt</li>\n<li>d3.js</li>\n</ul>\n<p>lebih lengkapnya ada di repository-nya, termasuk desain arsitektur juga. silahkan di-share barangkali ada yang membutuhkan, saya ingin aplikasinya bermanfaat, terima kasih.</p>",
+              "image": "SEASON-5-8 Februari 2025-0.png"
+            },
+            {
+              "link": "https://tangled.jauhar.dev/",
+              "username": "Jauhar Arifin",
+              "message": "<p>Halo teman semua,</p>\n<p>Nama saya Jauhar. Saya mau showcase project hobby saya yang bernama <a href=\"https://github.com/jauhararifin/dbshark\">DBShark</a>. DBShark adalah embedded key-value database yang saya buat menggunakan Rust. Database ini terinspirasi dari BoltDB. Database ini berbasis BTree, jadi bisa melakukan range query. Secara arsitektur, database ini mirip seperti sqlite: support transaction, ACID, btree-based, dan menggunakan WAL untuk recovery. Yang menarik dari database ini adalah: db ini ditest menggunakan teknik bernama DST (deterministic simulation testing) untuk mengubah semua kode yang concurrent menjadi serial dan kita bisa run berulang2 untuk mencari bug di concurrency. Untuk performance, database ini masih kalah dibanding sqlite. Benchmark terakhir, throughput dari database ini masih sekitar 75% dari throughput MySQL karena masih ada beberapa copy bytes yang bisa diimprove. Untuk mendemokan database ini, saya membuat web tanya-jawab sederhana bernama <a href=\"https://tangled.jauhar.dev\">tangled</a> yang dibuat 100% menggunakan DBShark.\nDBShark sendiri sebenarnya masih in progress dan belum bisa melakukan operasi delete, akan tetapi sudah cukup baik untuk bisa digunakan untuk signup, login, session management, submit question, submit answer dan pagination.\nUntuk demo-nya kemungkinan bakal saya reset tiap hari biar nggak ngabisin storage saya</p>\n<p>Teknologi yang digunakan:</p>\n<ul>\n<li>Actix</li>\n<li>DBShark</li>\n</ul>\n<p>Teknologi yang saya pakai untuk membuat dbshark:</p>\n<ul>\n<li>Rust</li>\n</ul>\n<p>Link demo: <a href=\"https://tangled.jauhar.dev/\">https://tangled.jauhar.dev/</a>\nGithub: <a href=\"https://github.com/jauhararifin/dbshark\">https://github.com/jauhararifin/dbshark</a></p>",
+              "image": "SEASON-5-8 Februari 2025-1.png"
+            },
+            {
+              "link": "https://evan-dev.vercel.app/",
+              "username": "Mewing",
+              "message": "<p>Halo pak dhika dan temen temen semuanya semoga sehat sehat ya. Ini merupakan showcase ke – 2 saya. setelah ada masukan dari pak dhika dan temen temen jadi saya mutusin untuk redesign web portfolionya jadi disini saya bikin background nya lebih interactive dari yang sebelumnya .Saya menggunakan framework nextJs dengan bahasa pemogramman utamanya TypeScript untuk tech stack lebih lengkapnya ada dibawah :</p>\n<ol>\n<li>NextJS</li>\n<li>GSAP</li>\n<li>TailwindCSS</li>\n<li>Lenis</li>\n<li>ParticleJs\nJangan lupa like dan saya juga butuh masukan dari pak dhika dan temen temen sekalian apa yang harus di perbaiki di website portfolio ini Sekian terimakasih wassalamualaikum warahmatullahi wabarakatuh,Syalom,Wei De Dong Tian,Om Swastiastu,Namo Buddhaya,Salam Kebajikan.\nGithub: <a href=\"https://github.com/evanstef/Portofolio-Evan\">https://github.com/evanstef/Portofolio-Evan</a>\nWebsite : <a href=\"https://evan-dev.vercel.app/\">https://evan-dev.vercel.app/</a></li>\n</ol>",
+              "image": "SEASON-5-8 Februari 2025-2.png"
+            },
+            {
+              "link": "https://bazario-omega.vercel.app/",
+              "username": "Arifin",
+              "message": "<p>halo pak dhika dan teman teman kali ini saya mau ikut showcase lagi. kali ini saya membuat website toko online lagi tapi dengan fitur yang lebih banyak. saya mengunakan fremework next js dengan bahasa typescripe.</p>\n<p>tech stack:\n.prisma\n.cloudinary\n.auth js\n.next-themes\n.zod\n.react-hot-toast</p>\n<p>fitur:\n.crud prodak\n.Keranjang Belanja (Cart)\n.Sistem Checkout &amp; Pesanan\n.Sistem Pembayaran\n.Admin Panel\n.Pencarian &amp; Filter\n.dark mode</p>\n<p>itu saja dari saya jika ada kritik dan saran dari pak dhika dan teman teman saya sangat menghargai nya karna itu sagat membantu terimakasi.\ngithub: <a href=\"https://github.com/Arifin0316/BAZARIO\">https://github.com/Arifin0316/BAZARIO</a>\nweb : <a href=\"https://bazario-omega.vercel.app/\">https://bazario-omega.vercel.app/</a></p>",
+              "image": "SEASON-5-8 Februari 2025-3.png"
+            },
+            {
+              "link": "https://anonchat-eight.vercel.app/",
+              "username": "Naufal Rizky",
+              "message": "<p>Halo Semuanya,\nHalo Pak Sandhika Galih,</p>\n<p>Perkenalkan, nama saya Naufal Rizky. Saya mohon izin untuk mengikuti showcase project pada kesempatan kali ini.\nSaya ingin menampilkan project berupa website Chat Anonim.</p>\n<p>Tech Stack yang digunakan:</p>\n<p>ReactJS\nTypeScript\nTailwindCSS\nSupabase</p>\n<p>Berikut adalah linknya:\nDemo: <a href=\"https://anonchat-eight.vercel.app/\">https://anonchat-eight.vercel.app/</a></p>\n<p>Saya sangat terbuka untuk masukan, kritik, dan saran agar project ini dapat menjadi lebih baik di masa mendatang.</p>\n<p>Terima kasih banyak atas perhatian dan kesempatannya. Mohon maaf jika terdapat kekurangan atau kesalahan dalam penyampaian ini.</p>",
+              "image": "SEASON-5-8 Februari 2025-4.png"
             }
           ]
         }
