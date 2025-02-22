@@ -1,6 +1,51 @@
 {
-  "fetched_at": "2025-02-22T04:03:26.671Z",
+  "fetched_at": "2025-02-22T12:58:14.143Z",
   "data": [
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "22 Februari 2025",
+      "projectLink": "https://lokerciayumajakuning.com",
+      "projectIdx": 4,
+      "username": "Muhammad Haikal",
+      "message": "<p>Halo teman-teman WPU!</p>\n<p>lokerciayumajakuning.com – Portal Loker untuk Ciayumajakuning GRATIS 100%</p>\n<p>Sebelumnya perkenalkan nama saya Haikal dari Indramayu, ini adalah showcase pertama saya, saya ingin membagikan proyek sederhana yang saya kembangkan, yaitu lokerciayumajakuning.com, sebuah job portal yang lahir dari kebutuhan akan solusi ketenagakerjaan di wilayah Cirebon, Indramayu, Majalengka, dan Kuningan (Ciayumajakuning) serta daerah sekitarnya.</p>\n<p>Sebagai kawasan dengan potensi ekonomi yang terus berkembang, masih ada kesenjangan antara pencari kerja dan perusahaan yang mencari talenta berkualitas. Oleh karena itu, platform ini hadir untuk mempermudah akses informasi lowongan kerja yang berkualitas, menghubungkan perusahaan dengan tenaga kerja lokal, serta membantu pertumbuhan ekonomi regional.</p>\n<p>Tech Stack\nLaravel 11 🚀</p>\n<p>Project Bisa dicek di: <a href=\"https://lokerciayumajakuning.com\">https://lokerciayumajakuning.com</a></p>\n<p>Saya harap bisa memberikan manfaat bagi pencari kerja di Ciayumajakuning.\nFeedback dan saran sangat saya harapkan. Terima kasih!</p>\n<p>🌟 Terima Kasih WPU\nSaya mulai belajar coding dari WPU saat masih kuliah, dan dari situlah perjalanan saya di dunia programming dimulai. Dari nol, saya belajar berbagai teknologi web development hingga akhirnya bisa bekerja di salah satu perusahaan BUMN.</p>\n<p>Terima kasih banyak Pak Sandhika Galih atas ilmu yang diberikan melalui WPU, yang benar-benar membuka jalan saya di dunia teknologi!</p>\n<p>Untuk Akses Admin saya kirim di dm instagram dan Dsicord pa dhika</p>\n<p>@haykal_em</p>",
+      "image": "SEASON-5-22 Februari 2025-4.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "22 Februari 2025",
+      "projectLink": "https://github.com/bagasdisini/fesnuk",
+      "projectIdx": 3,
+      "username": "Bagas",
+      "message": "<p>Halo pak Dhika, dan temen&quot; WPU 👋</p>\n<p>Saya mau share mini fun project, yaitu tools untuk buka facebook pakai hotkey. Biar scrolling facebook jadi lebih cepet.</p>\n<p>Ketika dijalanin toolsnya langsung jalan di background dan bisa dilihat di system tray.\nKonfigurasi tools untuk sekarang bisa lewat system tray, atau bisa buka GUI-nya (lewat system tray juga wkwk).</p>\n<p>Tech :</p>\n<ul>\n<li>Go</li>\n</ul>\n<p>Repo :\n<a href=\"https://github.com/bagasdisini/fesnuk\">https://github.com/bagasdisini/fesnuk</a></p>\n<p>Untuk sekarang hanya support Windows. Terima kasih!</p>",
+      "image": "SEASON-5-22 Februari 2025-3.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "22 Februari 2025",
+      "projectLink": "https://pastebon.hexaa.lol",
+      "projectIdx": 2,
+      "username": "Hexaa",
+      "message": "<p>Halo semuanya 👋</p>\n<p>Seekor pelajar SMP kelas 8 yang ingin membuat project kecil-kecilan 😁</p>\n<p>Website ini digunakan untuk sharing kode programming, error log, dan semacamnya. Sehingga website ini cocok untuk kamu yang ingin membagikan kode yang berukuran besar <strong>secara anonim</strong> dan <strong>instan</strong>.</p>\n<p>Tech Stack:</p>\n<ul>\n<li>Next.js</li>\n<li>TypeScript</li>\n<li>TailwindCSS</li>\n<li><a href=\"https://ui.shadcn.com/\"><code>shadcn-ui</code></a> beserta <a href=\"https://magicui.design/\"><code>magicui.design</code></a></li>\n<li>Supabase (Database + Storage)</li>\n<li>Drizzle-ORM</li>\n<li>Fumadocs</li>\n<li>Library pendukung</li>\n<li><a href=\"https://yarnpkg.com/package?name=easy-peasy\"><code>easy-peasy</code></a></li>\n<li><a href=\"https://yarnpkg.com/package?name=lru-cache\"><code>lru-cache</code></a></li>\n<li><a href=\"https://yarnpkg.com/package?name=monaco-editor\"><code>monaco-editor</code></a></li>\n<li><a href=\"https://yarnpkg.com/package?name=zod\"><code>zod</code></a> beserta <a href=\"https://yarnpkg.com/package?zod-form-data\"><code>zod-form-data</code></a></li>\n</ul>\n<p>Terima kasih kepada <a href=\"https://highseas.hackclub.com\">High Seas</a> (closed), karena jika tidak ada campaign tersebut maka project ini tidak akan terealisasi 😁</p>\n<p>URL: <a href=\"https://pastebon.hexaa.lol\">https://pastebon.hexaa.lol</a>\nGithub Repo: <a href=\"https://github.com/hexaaagon/pastebon\">https://github.com/hexaaagon/pastebon</a></p>\n<p>Terima kasih!</p>",
+      "image": "SEASON-5-22 Februari 2025-2.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "22 Februari 2025",
+      "projectLink": "https://www.npmjs.com/package/@krozamdev/masked-password",
+      "projectIdx": 1,
+      "username": "Krozam",
+      "message": "<p><strong>Assalamu&#39;alaikum</strong></p>\n<p>Halo semuanya,</p>\n<p>Perkenalkan saya Moh. Ikrom, dan ini adalah showcase pertama saya. Pada kesempatan ini, saya ingin berbagi sebuah package npm yang saya kembangkan karena kegabutan di luar jam kerja, yaitu <code>masked-password</code>.</p>\n<p><strong>Apa itu <code>masked-password</code>?</strong>\nIni adalah library yang dirancang untuk memaskkan input field seperti password, dengan tujuan utama menghindari password manager bawaan browser.\nDengan library ini, kita dapat meningkatkan pengalaman pengguna tanpa khawatir nilai input tersimpan otomatis oleh password manager.</p>\n<p><strong>Latar Belakang:</strong>\nPengembangan library ini berawal dari permintaan seorang teman yang menghadapi masalah besar pada audit pihak ketiga. Aplikasinya gagal lolos karena password manager browser terus menyimpan data yang seharusnya tidak diperlukan.\nMasalah ini sulit diatasi bertahun-tahun karena perubahan pada browser modern yang semakin ketat terhadap input password. Dengan solusi dari library ini, aplikasinya akhirnya lolos audit. 🎉</p>\n<p>Mengapa menggunakan <code>masked-password</code>?</p>\n<ul>\n<li><strong>Meningkatkan Keamanan</strong>: Menghindari intervensi password manager pada field yang tidak dimaksudkan untuk menyimpan data sensitif.</li>\n<li><strong>Masking Real-Time</strong>: Input pengguna dapat dimaskkan dengan karakter seperti <code>*</code> atau <code>•</code>, memberikan pengalaman mirip input password.</li>\n<li><strong>Mudah Diakses</strong>: Nilai asli input tetap dapat diambil kapan pun dibutuhkan.</li>\n<li><strong>Fleksibel</strong>: Dapat diintegrasikan dengan framework frontend apa pun, dan mendukung TypeScript.</li>\n</ul>\n<p><strong>Tech Stack:</strong>\nLibrary ini sepenuhnya berbasis JavaScript/TypeScript, sehingga cocok untuk proyek modern apa pun.</p>\n<p><strong>Repo dan Dokumentasi</strong>:</p>\n<ul>\n<li><a href=\"https://github.com/krozamdev/masked-password\">GitHub</a></li>\n<li><a href=\"https://www.npmjs.com/package/@krozamdev/masked-password\">npm</a></li>\n</ul>\n<p>Terima kasih banyak atas perhatiannya, dan semoga <code>masked-password</code> bisa menjadi solusi untuk kebutuhan keamanan UI pengguna! 🙏</p>",
+      "image": "SEASON-5-22 Februari 2025-1.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "22 Februari 2025",
+      "projectLink": "https://haikaldev.my.id/",
+      "projectIdx": 0,
+      "username": "Haikal Mabrur",
+      "message": "<p>Hai semuanya, Halo pak Dhika 😊 🖐️</p>\n<p>Perkenalkan aku Haikal Mabrur, ini showcase pertama ku. ini adalah Project Website Portofolio ku yang masih dikembangkan agar menjadi lebih baik lagi.\nteknologi yang dipakai untuk building adalah ViteJS, dan untuk Styling aku menggunakan TailwindCSS, untuk animasi animasi nya aku pake Framer Motion. jadi ketebak kan aku pake apa? yap, kebanyakan ReactJs.</p>\n<p>Berikut Link nya.\nDeploy: <a href=\"https://haikaldev.my.id/\">https://haikaldev.my.id/</a>\nRepo: <a href=\"https://github.com/AnakTentara/Portofolio-2.0\">https://github.com/AnakTentara/Portofolio-2.0</a></p>\n<p>tolong berikan saya kritik dan saran, dan kalo bisa diajarin juga nih, hehe.\nsoalnya aku masih belajar jadi juga banyak nyari di google / tanya AI.</p>\n<p>Demikian, Terimakasih!</p>",
+      "image": "SEASON-5-22 Februari 2025-0.png"
+    },
     {
       "season": "SEASON-5",
       "showcaseDate": "8 Februari 2025",
