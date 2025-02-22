@@ -20,13 +20,13 @@ jobs:
           node-version: 20
           
       - name: Enable corepack
-        run: corepack enable
+        run: npm install -g pnpm
 
       - name: PNPM install
-        run: pnpm install
+        run: npm install pnpm@10.4.1
 
       - name: Run scraping unit
-        run: pnpm start
+        run: pnpm start --frozen-lockfile
 
       - name: Push new result to result folder
         run: |
