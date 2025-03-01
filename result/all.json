@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-02-22T12:58:14.143Z",
+  "fetched_at": "2025-03-01T13:00:03.141Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -12086,6 +12086,41 @@
               "username": "Muhammad Haikal",
               "message": "<p>Halo teman-teman WPU!</p>\n<p>lokerciayumajakuning.com – Portal Loker untuk Ciayumajakuning GRATIS 100%</p>\n<p>Sebelumnya perkenalkan nama saya Haikal dari Indramayu, ini adalah showcase pertama saya, saya ingin membagikan proyek sederhana yang saya kembangkan, yaitu lokerciayumajakuning.com, sebuah job portal yang lahir dari kebutuhan akan solusi ketenagakerjaan di wilayah Cirebon, Indramayu, Majalengka, dan Kuningan (Ciayumajakuning) serta daerah sekitarnya.</p>\n<p>Sebagai kawasan dengan potensi ekonomi yang terus berkembang, masih ada kesenjangan antara pencari kerja dan perusahaan yang mencari talenta berkualitas. Oleh karena itu, platform ini hadir untuk mempermudah akses informasi lowongan kerja yang berkualitas, menghubungkan perusahaan dengan tenaga kerja lokal, serta membantu pertumbuhan ekonomi regional.</p>\n<p>Tech Stack\nLaravel 11 🚀</p>\n<p>Project Bisa dicek di: <a href=\"https://lokerciayumajakuning.com\">https://lokerciayumajakuning.com</a></p>\n<p>Saya harap bisa memberikan manfaat bagi pencari kerja di Ciayumajakuning.\nFeedback dan saran sangat saya harapkan. Terima kasih!</p>\n<p>🌟 Terima Kasih WPU\nSaya mulai belajar coding dari WPU saat masih kuliah, dan dari situlah perjalanan saya di dunia programming dimulai. Dari nol, saya belajar berbagai teknologi web development hingga akhirnya bisa bekerja di salah satu perusahaan BUMN.</p>\n<p>Terima kasih banyak Pak Sandhika Galih atas ilmu yang diberikan melalui WPU, yang benar-benar membuka jalan saya di dunia teknologi!</p>\n<p>Untuk Akses Admin saya kirim di dm instagram dan Dsicord pa dhika</p>\n<p>@haykal_em</p>",
               "image": "SEASON-5-22 Februari 2025-4.png"
+            }
+          ]
+        },
+        {
+          "date": "1 Maret 2025",
+          "projects": [
+            {
+              "link": "http://demo-manajemen-sekolah.42web.io",
+              "username": "Anno",
+              "message": "<p>Hallo Pak Dhika, semuanya👋</p>\n<p>sebelumnya perkenalkan saya hamzah dan ini showcase pertama saya, jadi ini aplikasi yang digunakan untuk manajemen transaksi SPP sekolah dan masih dikembangkan untuk lebih baik lagi kedepannya.</p>\n<p>tech:</p>\n<ul>\n<li>laravel 11</li>\n<li>filament 3</li>\n</ul>\n<p>URL: <a href=\"http://demo-manajemen-sekolah.42web.io\">http://demo-manajemen-sekolah.42web.io</a>\nRepo : <a href=\"https://github.com/AbdillahHamzahAli/Manajemen-Pembayaran-Sekolah\">https://github.com/AbdillahHamzahAli/Manajemen-Pembayaran-Sekolah</a></p>\n<p>Test User\nemail: <a href=\"mailto:test@example.com\">test@example.com</a>\npw: password</p>\n<p>Makasih sebelumnya! 🙌</p>",
+              "image": "SEASON-5-1 Maret 2025-0.png"
+            },
+            {
+              "link": "https://kebunmu.vercel.app",
+              "username": "FauzanHusain",
+              "message": "<p>Halo teman-teman WPU!</p>\n<p>Saya fauzan husain dan ini showcase project pertama saya, aplikasi yang saya buat saat ini adalah aplikasi yang berkontribusi di bidang pertanian. Aplikasi saya dapat membuat petani agar pertaniannya lebih terdata dan membantu mengetahui berapa banyak bibit yang bisa ditanam di lahan yang petani miliki.</p>\n<p>Teknologi yang saya gunakan:\nNextjs, TailwindCss, Expressjs, Firebase</p>\n<p>URL: <a href=\"https://kebunmu.vercel.app\">https://kebunmu.vercel.app</a></p>\n<p>Saya sangat terbuka atau meminta masukan, kritik, dan saran agar project ini dapat menjadi lebih baik di masa mendatang.</p>\n<p>Makasih sebelumnya! 🙌</p>",
+              "image": "SEASON-5-1 Maret 2025-1.png"
+            },
+            {
+              "link": "https://spill-post.vercel.app/",
+              "username": "Mewing",
+              "message": "<p>Halo pak dhika dan temen temen semuanya semoga sehat sehat ya. Showcase lagi nih jadi kali ini saya mau nunjukin project saya yang saya beri nama SpillPost jadi spill post ini mirip seperti Instagram, facebook, twitter dll.jadi, intinya SpillPost tu sosmed lah pokoknya bisa dibilang Instagram clone lah tapi saya kasih nama aj biar beda Namanya doang hehehe</p>\n<p>Untuk fitur fitur utama ada dibawah sini :</p>\n<ol>\n<li>Posting,Like Postingan,Lihat Siapa saja yang menglike postingan kita, Comment Postingan, Reply Comment, Bookmark Postingan</li>\n<li>Cari User</li>\n<li>Postingan multiple image</li>\n<li>Postingan dengan Hashtag</li>\n<li>Follow,Unfollow,Lihat siapa saja follower kita dan siapa saja yang kita follow</li>\n<li>Notifikasi like postingan, follower baru, comment postingan</li>\n<li>Menampilkan postingan hanya yang kita follow saja</li>\n</ol>\n<p>Tech Stack :</p>\n<ol>\n<li>Laravel 11</li>\n<li>Laravel Breeze</li>\n<li>PHP</li>\n<li>Javascript</li>\n<li>AlpineJs</li>\n<li>TailwindCSS</li>\n<li>ImageKit.io</li>\n<li>MySQL</li>\n<li>Entah lah sisa nya lupa lumayan banyak soalnya</li>\n</ol>\n<p>Note : Fitur Link Share belum bisa karna developernya lagi males dan kalau mau upload foto kalau bisa jangan yang terlalu ukuran besar dan jangan banyak banyak karena databasenya gratisan. udh gitu storage nya cuman 10 MB lagi\nNote Tambahan : Kalo mau bikin akun gak harus email aktif juga oke kok yang penting ada @gmail.com nya\nJangan lupa Bintang nya ya temen temen. Sekian terimakasih wassalamualaikum warahmatullahi wabarakatuh,Syalom,Wei De Dong Tian,Om Swastiastu,Namo Buddhaya,Salam Kebajikan.\nGithub: <a href=\"https://github.com/evanstef/Spill-Post\">https://github.com/evanstef/Spill-Post</a>\nWebsite : <a href=\"https://spill-post.vercel.app/\">https://spill-post.vercel.app/</a></p>",
+              "image": "SEASON-5-1 Maret 2025-2.png"
+            },
+            {
+              "link": "https://byanrkh.my.id",
+              "username": "bian",
+              "message": "<p>halo pak dhika dan semuanya</p>\n<p>sebelumnya perkenalkan nama saya Abyan Raditya, saya sudah mengikuti showcase beberapa kali sejak 2021, kalo pak dhika kenal dulu nama saya syloryx dulu website saya <a href=\"http://syloryx.github.io\">bentukannya kaya gini</a>, hari ini saya juga mau bagiin personal website saya</p>\n<p>Tech Stack:</p>\n<ul>\n<li>NextJS</li>\n<li>TailwindCSS</li>\n<li>MDX.JS</li>\n</ul>\n<p>URL: <a href=\"https://byanrkh.my.id\">https://byanrkh.my.id</a>\nGitHub: <a href=\"https://github.com/byanrkh/site\">https://github.com/byanrkh/site</a></p>\n<p>sekian terimakasih</p>",
+              "image": "SEASON-5-1 Maret 2025-3.png"
+            },
+            {
+              "link": "https://portfolio-huda-2025.vercel.app/",
+              "username": "mkhoirulhuda",
+              "message": "<p>Hai hai hai</p>\n<p>Saya mau berbagi <strong>web portfolio (homebase</strong>) saya, semoga kalian suka dengan tampilan webnya. Pada postingan ini dibuat web saya masih belum responsive untuk tmapilan <strong>mobile</strong>. Tapi semoga ketika showcase sudah kelar semua, heheh. Thanks 🙂</p>\n<p>stack :\n**React **(library), **Tailwind **(style), <strong>Framer motion</strong> (animasi), <strong>Hugeicons-react</strong> (untuk asset ikon)</p>",
+              "image": "SEASON-5-1 Maret 2025-4.png"
             }
           ]
         }
