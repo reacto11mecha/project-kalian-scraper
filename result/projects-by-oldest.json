@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-04-19T13:02:15.037Z",
+  "fetched_at": "2025-04-26T13:03:36.119Z",
   "data": [
     {
       "season": "SEASON-1",
@@ -16603,8 +16603,98 @@
       "projectLink": "https://portfolio-huda-2025.vercel.app/",
       "projectIdx": 4,
       "username": "mkhoirulhuda",
-      "message": "<p>Hai hai hai</p>\n<p>Saya mau berbagi <strong>web portfolio (homebase</strong>) saya, semoga kalian suka dengan tampilan webnya. Pada postingan ini dibuat web saya masih belum responsive untuk tmapilan <strong>mobile</strong>. Tapi semoga ketika showcase sudah kelar semua, heheh. Thanks 🙂</p>\n<p>stack :\n**React **(library), **Tailwind **(style), <strong>Framer motion</strong> (animasi), <strong>Hugeicons-react</strong> (untuk asset ikon)</p>",
+      "message": "<p>Hai hai hai</p>\n<p>Saya mau berbagi <strong>web portfolio (homebase</strong>) saya, semoga kalian suka dengan tampilan webnya. Pada postingan ini dibuat web saya masih belum responsive untuk tmapilan <strong>mobile</strong>. Tapi semoga ketika showcase sudah kelar semua, heheh. Thanks 🙂</p>\n<p>stack :\n**React **(library), **Tailwind **(style), <strong>Framer motion</strong> (animasi), <strong>Hugeicons-react</strong> (untuk asset ikon)</p>\n<p>web : <a href=\"https://portfolio-huda-2025.vercel.app/\">https://portfolio-huda-2025.vercel.app/</a></p>",
       "image": "SEASON-5-1 Maret 2025-4.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "20 April 2025",
+      "projectLink": "https://space.retas.org",
+      "projectIdx": 0,
+      "username": "DankenDonet",
+      "message": "<p>Haloo 😏</p>\n<p>Saya mau sharing 3d website yang biasanya dijadikan konten Designer vs Developer. siapa tau mau mempelajari 3d web juga wkwkwk</p>\n<p>stack:\nNext 15, Threejs RC</p>\n<p>web : <a href=\"https://space.retas.org\">https://space.retas.org</a>\nrepo : <a href=\"https://github.com/zonblade/aerosteon\">https://github.com/zonblade/aerosteon</a></p>\n<p>ATTRIBUTION!</p>\n<ul>\n<li>ada di repo web setiap model 3d nya.</li>\n</ul>",
+      "image": "SEASON-5-20 April 2025-0.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "20 April 2025",
+      "projectLink": "https://store-em.vercel.app/sign-in",
+      "projectIdx": 1,
+      "username": "miilan",
+      "message": "<p>Halo Pak Dhika dan teman-teman semua.\nSaya Milan dan ini showcase yang ke-4 atau ke-5 Saya.\nDi showcase kali ini, saya membuat website sederhana semacam google drive, yang bisa menyimpan file\nWebsite ini dibuat sekitar 5 harian atau 1 mingguan</p>\n<p>Teknologi yang digunakan:</p>\n<ul>\n<li>NextJS 15</li>\n<li>TailwindCSS 3</li>\n<li>Appwrite</li>\n<li>ShadCN</li>\n</ul>\n<p>Websitenya: <a href=\"https://store-em.vercel.app/sign-in\">https://store-em.vercel.app/sign-in</a></p>\n<p>Mohon kritik dan sarannya parah sepuh.\nudah itu aja Terimakasih.</p>",
+      "image": "SEASON-5-20 April 2025-1.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "20 April 2025",
+      "projectLink": "https://angkasamuhammad.github.io/Realtime-3D/realtime3d.html",
+      "projectIdx": 2,
+      "username": "⚙⚙WowGGGearing⚙⚙",
+      "message": "<p>Bismillaahirrahmaanirrahiim\nAssalaamu&#39;alaykum Wr wb.</p>\n<p>Project lanjutan dari &quot;Realtime 3D - Damaskus &quot;\n&quot;Kota Benteng vs tank sirewel armor kalengkaleng rengginang&quot;\nCerita pendek (15 detik) tentang tank diguling pake ranjau, sampe jadi bebek guling\nTidak ada objek pesawat.</p>\n<p>Saat ini aku mau tunjukkan:</p>\n<ul>\n<li>Play Pause Seek Speed\nDiharapkan suara &amp; animasi bisa synchronized.</li>\n</ul>\n<p>Mau lihatlihat data lewat browser console,\nsilakan tulis &quot;clmap&quot; setelah click &quot;Mulai&quot;</p>\n<p>Halaman data khusus admin &quot;Show/Hide data&quot;</p>\n<p>Editor:</p>\n<ul>\n<li>Blender 4.3.0</li>\n<li>Text Area Kelap Kelip <a href=\"https://github.com/AngkasaMuhammad/TextAreaKelapKelip\">https://github.com/AngkasaMuhammad/TextAreaKelapKelip</a></li>\n<li>Notepad++</li>\n</ul>\n<p>&lt;:javascript:723671847027343381&gt; library:</p>\n<ul>\n<li>wgpu-matrix <a href=\"https://wgpu-matrix.org/docs/\">https://wgpu-matrix.org/docs/</a></li>\n<li>supabase <a href=\"https://supabase.com/docs/reference/javascript/initializing\">https://supabase.com/docs/reference/javascript/initializing</a></li>\n</ul>\n<p>Repo: <a href=\"https://github.com/AngkasaMuhammad/Realtime-3D\">https://github.com/AngkasaMuhammad/Realtime-3D</a>\nWeb: <a href=\"https://angkasamuhammad.github.io/Realtime-3D/realtime3d.html\">https://angkasamuhammad.github.io/Realtime-3D/realtime3d.html</a></p>\n<p>Aku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU &amp; memilih library yang mengutamakan performa.\nKita tidak cuma ahli main game &lt;:hadeh:972855614818631681&gt;&lt;:hadeh:972855614818631681&gt;, kita juga ahli 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 atau dompet makin slim 💸📉&lt;:melonkcry:994994783145705492&gt;.\nKita tidak cuma bisa berkendara 🛵🚙, kita juga bisa 💪💪 bikin kendaraan yang irit, awet, ringan, &amp; banter.</p>\n<h1>🆓🆓 🇵🇸 🇱🇧 +Syria</h1>\n<p>Maturnuwun.</p>",
+      "image": "SEASON-5-20 April 2025-2.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "20 April 2025",
+      "projectLink": "https://pow.kim",
+      "projectIdx": 3,
+      "username": "lowkey",
+      "message": "<p>hellow everyone dan padika, semoga tidak bosan dengan kehadiran saya.</p>\n<p>jadi malam ini saya mau share another redesign of my personal web yang entah sudah ke berapa kali. redesign sebelumnya (v2) saya bilang lebih clean dan readable bagi awam dibanding versi sebelumnya lagi (v1), untuk redesign kali ini (v3) saya buat lebih simple, sederhana, dan to the point lagi. saya juga mengurangi animasi-animasi (karena malas aja sebenarnya).</p>\n<p>saya membuatnya menggunakan nextjs &amp; styling menggunakan tailwindcss. content managementnya menggunakan mdx saja. beberapa library lain:</p>\n<ul>\n<li>highlight.js</li>\n<li>motion</li>\n<li>headlessui</li>\n<li>etc lihat di github saja &lt;:hehehe:972470914488885288&gt;</li>\n</ul>\n<p>link: <a href=\"https://pow.kim\">https://pow.kim</a>\ngithub: <a href=\"https://github.com/kimmyxpow/pow\">https://github.com/kimmyxpow/pow</a></p>\n<p>terimakasih all</p>",
+      "image": "SEASON-5-20 April 2025-3.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "20 April 2025",
+      "projectLink": "https://gempa-terkini-indonesia.vercel.app",
+      "projectIdx": 4,
+      "username": "nafy",
+      "message": "<p>Halo semuanya,</p>\n<p>Project kali ini aku bikin visualisasi dari api data terbuka BMKG dengan UI yang hampir mirip kek <code>maps.google.com</code>.</p>\n<p>Fitur:</p>\n<ul>\n<li>Memberikan tanda (mark) daerah yang terkena gempa</li>\n<li>Bisa ganti jenis tampilan peta (default, satelit, laut, topografi)</li>\n<li>Memberikan informasi lengkap ketika mark tersebut di tekan</li>\n</ul>\n<p>Teknologi: Typescript, Next.js, Leaflet, Map Tiler, OpenCage, Zustand, Tailwind(Shadcn), Framer Motion</p>\n<p>Repo: <a href=\"https://github.com/naufal-yafi/gempa-terkini.web\">https://github.com/naufal-yafi/gempa-terkini.web</a>\nWeb: <a href=\"https://gempa-terkini-indonesia.vercel.app\">https://gempa-terkini-indonesia.vercel.app</a></p>\n<p>Note: untuk bintang itu skala dari gempanya, bisa liat di <a href=\"https://github.com/naufal-yafi/gempa-terkini.web/blob/main/src/app/_partials/detail-earthquake/components/partials/rate/generate-rate.ts\">https://github.com/naufal-yafi/gempa-terkini.web/blob/main/src/app/_partials/detail-earthquake/components/partials/rate/generate-rate.ts</a></p>\n<pre><code class=\"language-ts\">/**\n * @RATE\n * magnitude &gt;= 80      : 6.0\n * magnitude 7.5 - 7.9  : 5.0\n * magnitude 7.0 - 7.4  : 4.5\n * magnitude 6.6 - 6.9  : 4.0\n * magnitude 6.1 - 6.5  : 3.5\n * magnitude 5.8 - 6.0  : 3.0\n * magnitude 5.5 - 5.7  : 2.5\n * magnitude 3.3 - 5.4  : 2.0\n * magnitude 2.5 - 3.2  : 1.5\n * magnitude &lt; 2.5      : 1.0\n * magnitude &lt; 1.25     : 0.5\n */\n</code></pre>",
+      "image": "SEASON-5-20 April 2025-4.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "20 April 2025",
+      "projectLink": "https://www.pixly.my.id",
+      "projectIdx": 5,
+      "username": "Arifin",
+      "message": "<p>Halo pak dhika dan teman teman</p>\n<p>di projek kali ini saya membuat web media sosial yang kurang lebih tampilan dan fitur nya mirip dengan intagram saya membuat nya mengunakan next js dan prisma.\ndan untuk fitur fitur nya teman teman silakan coba sendiri</p>\n<p>Teknologi: next js, prisma, tailwind css, cloudinary, auth js</p>\n<p>itu saja dari saya dan jika ada kritik dan saran silakan disampaikan makasi semua nya</p>\n<p>Repo: <a href=\"https://github.com/Arifin0316/pixly\">https://github.com/Arifin0316/pixly</a>\nWeb: <a href=\"https://www.pixly.my.id\">https://www.pixly.my.id</a></p>",
+      "image": "SEASON-5-20 April 2025-5.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "20 April 2025",
+      "projectLink": "https://start-chat.atakana.com/",
+      "projectIdx": 6,
+      "username": "Arnadi WebDev",
+      "message": "<p>Assalamu&#39;alaikum Warahmatullahi Wabarakatuh.</p>\n<p>Kali ini saya sedang tidak membagikan aplikasi sederhana seperti biasanya, tapi sebuah aplikasi belum jadi yang menurut saya sangat rumit sehingga membuat saya sangat tertantang dalam pengembangan.</p>\n<p>Aplikasi ini mulai saya kembangkan dari September 2024, dan ini adalah aplikasi real time pertama yang saya buat terinspirasi dari WhatsApp, belajar + praktek.</p>\n<p>Aplikasi dan Teknologi yang Digunakan.</p>\n<ul>\n<li>Termux</li>\n<li>Acode</li>\n<li>KSWEB</li>\n<li>Vue.Js</li>\n<li>Socket.io</li>\n<li>Express.Js</li>\n</ul>\n<p>Update: Baru-baru ini sudah saya lengkapi dengan fitur &quot;Fingerprint&quot; yang memudahkan pengguna login otomatis tanpa input email dan password.</p>\n<p>Selengkapnya <a href=\"https://start-chat.atakana.com/submit-project.html#next\">https://start-chat.atakana.com/submit-project.html#next</a></p>\n<p>Website\n<a href=\"https://start-chat.atakana.com/\">https://start-chat.atakana.com/</a></p>\n<p>Dokumentasi\n<a href=\"https://start-chat.atakana.com/documentation.html\">https://start-chat.atakana.com/documentation.html</a></p>\n<p>Untuk mendapatkan pengalaman yang lebih baik direkomendasikan teman-teman instal Start Chat.</p>\n<p>Masukan, kritik, dan saran teman-teman akan sangat membatu saya, siap terima kritikan keras 😁</p>\n<p>Pengembangannya akan saya lanjut setelah mendapat respon dari teman-teman.</p>",
+      "image": "SEASON-5-20 April 2025-6.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "20 April 2025",
+      "projectLink": "https://github.com/MuhammadZulhusni/Student-Result-Management-System",
+      "projectIdx": 7,
+      "username": "Zly",
+      "message": "<p>Assalamu&#39;alaikum Warahmatullahi Wabarakatuh.</p>\n<p>Halo teman-teman! Saya dari Malaysia, kali ini mau share project web app yang lagi saya kembangkan, yaitu Student Result Management System (SRMS). Aplikasi ini dibuat buat ngelola dan nampilin hasil belajar siswa secara lebih gampang, dengan dashboard admin dan portal khusus siswa biar bisa cek nilai sendiri. 😁</p>\n<p>Teknologi yang Dipakai:\nLaravel\nBootstrap\nJavaScript</p>\n<p>Buat yang mau cek source code lengkapnya, bisa langsung ke GitHub saya:\n👉 <a href=\"https://github.com/MuhammadZulhusni/Student-Result-Management-System\">https://github.com/MuhammadZulhusni/Student-Result-Management-System</a></p>\n<p>Masukan, kritik, dan saran dari teman-teman bakal sangat membantu saya. Thanks</p>",
+      "image": "SEASON-5-20 April 2025-7.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "20 April 2025",
+      "projectLink": "https://bryyzxm.github.io/BryanF/",
+      "projectIdx": 8,
+      "username": "Bryan",
+      "message": "<p>Halo PaDika &amp; teman² semua</p>\n<p>Perkenalkan nama saya Bryan, aku adalah siswa SMP yang baru berumur 13 tahun. Project kali ini adalah portfolio untuk diri aku. Aku juga membuat fitur slideshow editor agar saat presentasi di sekolah tidak tergantung dengan aplikasi slideshow seperti Canva atau Powerpoint.</p>\n<p>Teknologi yang digunakan:</p>\n<ul>\n<li>Bootstrap</li>\n<li>Javascript</li>\n<li>Google Fonts</li>\n<li>Font Awesome</li>\n<li>html2canvas</li>\n<li>JSZip</li>\n</ul>\n<p>Link repo : <a href=\"https://github.com/Bryyzxm/BryanF\">https://github.com/Bryyzxm/BryanF</a>\nLink deploy : <a href=\"https://bryyzxm.github.io/BryanF/\">https://bryyzxm.github.io/BryanF/</a></p>\n<p>Ditunggu masukan &amp; sarannya yah teman². Thank youu</p>",
+      "image": "SEASON-5-20 April 2025-8.png"
+    },
+    {
+      "season": "SEASON-5",
+      "showcaseDate": "20 April 2025",
+      "projectLink": "https://raxcode0101.github.io/MyPortfolio_1/",
+      "projectIdx": 9,
+      "username": "Bryan 0101",
+      "message": "<p>Selamat sore, Hai Pak Sandhika dan semuanya.</p>\n<p>Perkenalkan nama lengkap saya Bryan Phillip Sumarauw, saya adalah mahasiswa yang berumur 20 tahun. Projek ini adalah website portfolio saya. Kebetulan portfolio saya ini masih sederhana dan belum kompleks.</p>\n<p>Teknologi yang digunakan:</p>\n<ol>\n<li>Javascript</li>\n<li>Bootstrap</li>\n<li>Fontawesome</li>\n<li>GSAP</li>\n<li>Google Tag Manager</li>\n<li>Google Font API</li>\n<li>Varnish</li>\n</ol>\n<p>Link Repo: <a href=\"https://github.com/RaxCode0101/MyPortfolio_1\">https://github.com/RaxCode0101/MyPortfolio_1</a>\nLink Deploy: <a href=\"https://raxcode0101.github.io/MyPortfolio_1/\">https://raxcode0101.github.io/MyPortfolio_1/</a></p>",
+      "image": "SEASON-5-20 April 2025-9.png"
     }
   ]
 }
